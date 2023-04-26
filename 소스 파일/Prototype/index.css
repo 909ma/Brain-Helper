@@ -1,0 +1,102 @@
+.question-container .question {
+  display: none;
+}
+.question-container .question.active {
+  display: block;
+}
+div > div > div {
+  border: 1px solid black;
+  /* 테두리 두께와 색상 */
+  padding: 10px;
+  /* 테두리와 텍스트 사이의 간격 */
+}
+input {
+  width: 50px;
+}
+
+.answer {
+  display: block;
+}
+.gotoB {
+  position: fixed;
+  bottom: 20%;
+  left: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  height: 20%;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.gotoB input {
+  width: 50%;
+  margin-right: 10px;
+  font-size: 80px;
+  border: none;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.gotoB button {
+  width: 50%;
+  height: 20%;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 80px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.show{
+  position: fixed; /* 버튼을 화면에서 고정시킵니다. */
+  bottom: 20%; /* 버튼의 위치를 화면 하단에 맞춥니다. */
+  right: 0; /* 버튼의 위치를 화면 오른쪽에 맞춥니다. */
+  width: 50%; /* 버튼의 너비를 50%로 설정합니다. */
+  height: 20%; /* 버튼의 높이를 50px로 설정합니다. */
+  background-color: #4CAF50; /* 버튼의 배경색을 설정합니다. */
+  color: white; /* 버튼의 글자색을 설정합니다. */
+  border: none; /* 버튼의 테두리를 없앱니다. */
+  cursor: pointer; /* 버튼 위에 마우스를 올리면 커서 모양이 바뀝니다. */
+  font-size: 80px;
+}
+.show span {
+  display: inline-block; /* span을 블록 요소로 설정합니다. */
+  margin-left: 10px; /* span의 왼쪽 마진을 10px로 설정합니다. */
+}
+
+.backB {
+  position: fixed; /* 버튼을 화면에서 고정시킵니다. */
+  bottom: 0; /* 버튼의 위치를 화면 하단에 맞춥니다. */
+  left: 0; /* 버튼의 위치를 화면 왼쪽에 맞춥니다. */
+  width: 50%; /* 버튼의 너비를 50%로 설정합니다. */
+  height: 20%; /* 버튼의 높이를 50px로 설정합니다. */
+  background-color: #4CAF50; /* 버튼의 배경색을 설정합니다. */
+  color: white; /* 버튼의 글자색을 설정합니다. */
+  border: none; /* 버튼의 테두리를 없앱니다. */
+  cursor: pointer; /* 버튼 위에 마우스를 올리면 커서 모양이 바뀝니다. */
+  font-size: 80px;
+}
+.nextB {
+  position: fixed; /* 버튼을 화면에서 고정시킵니다. */
+  bottom: 0; /* 버튼의 위치를 화면 하단에 맞춥니다. */
+  right: 0; /* 버튼의 위치를 화면 오른쪽에 맞춥니다. */
+  width: 50%; /* 버튼의 너비를 50%로 설정합니다. */
+  height: 20%; /* 버튼의 높이를 50px로 설정합니다. */
+  background-color: #4CAF50; /* 버튼의 배경색을 설정합니다. */
+  color: white; /* 버튼의 글자색을 설정합니다. */
+  border: none; /* 버튼의 테두리를 없앱니다. */
+  cursor: pointer; /* 버튼 위에 마우스를 올리면 커서 모양이 바뀝니다. */
+  font-size: 80px;
+}
+@media screen and (max-width: 768px) {
+  /* 화면이 모바일 크기일 때 버튼의 높이를 더 크게 설정합니다. */
+  button {
+    height: 80px;
+  }
+}
