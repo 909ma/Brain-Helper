@@ -80,13 +80,13 @@ Memory Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
 
 ## 프로젝트 일정 관리
 <img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-
+****
 </details>
 <br><br>
 
 ## 프로젝트 개선점
 * ANSI만 사용이 가능하다.  
-  프로젝트에서 사용되는 tsv 형식의 데이터베이스는 OS의 text editor로 읽을 때, Windows, Linux, Mac OS 계열이 사용하는 ANSI와 UTF-8의 줄바꿈 처리 문제로 인해 ANSI 형식만 사용 가능합니다. 이에 대한 대응책을 마련해야 합니다.  
+  프로젝트에서 사용되는 tsv 형식의 데이터베이스는 OS의 text editor로 읽을 때, Windows, Linux, Mac OS 계열이 사용하는 ANSI와 UTF-**8의** 줄바꿈 처리 문제로 인해 ANSI 형식만 사용 가능합니다. 이에 대한 대응책을 마련해야 합니다.  
 
 * 서식 스타일이 제한적이다.  
   문제의 설명에서 '.', '?' 등의 특수 문자가 포함되면 한 줄 띄워져 출력되기 때문에, 제한적인 서식 양식을 가지고 있습니다. 단, 정답란에서는 문제가 없습니다. 이에 대한 해결책이 필요합니다.  
@@ -115,10 +115,19 @@ Memory Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
 * 매트릭스, 그래프 등의 정보를 담지 못한다.  
 현재 프로젝트는 단순 텍스트 출력만을 다루기 때문에, 매트릭스, 그래프 등의 정보를 담을 수 없습니다. 다양한 정보를 담을 수 있는 대안책이 필요합니다.  
 
-## 개발 환경
-* Windows 10
-* Dev C++
-* C Language
-* HTML
-* CSS
-* Java Script
+## 기술스택
+> OS  
+> <br>
+> <img src="https://img.shields.io/badge/Windows 10 -0078D6?style=for-the-badge&logo=Windows&logoColor=white">  
+---
+> IDE  
+> <br>
+> <img src="./기타/devcpp.ico" width="30px" height="30px"> <br>
+> <img src="https://img.shields.io/badge/Visual Studio Code -007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+---
+> Programming Languages  
+> <br>
+> <img src="https://img.shields.io/badge/C -A8B9CC?style=for-the-badge&logo=C&logoColor=white">  <br>
+> <img src="https://img.shields.io/badge/HTML5 -E34F26?style=for-the-badge&logo=HTML5&logoColor=white">  <br>
+> <img src="https://img.shields.io/badge/CSS3 -1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  <br>
+> <img src="https://img.shields.io/badge/Java Script -F7DF1E?style=for-the-badge&logo=Java Script&logoColor=white">
