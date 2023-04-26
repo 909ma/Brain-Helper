@@ -1,8 +1,9 @@
-# Project Name
-프로젝트 설명입니다.
+# Memory Helper
+반복 학습에 도움이 되는 Tool을 만드는 것이 목표입니다.
 
 # 프로젝트 팀 구성원
 [김신혁](https://github.com/909ma)  
+[배성근](https://github.com/tsk04191)  
 
 # 프로젝트 개요  
 프로젝트 개요를 쓰시면 됩니다.
