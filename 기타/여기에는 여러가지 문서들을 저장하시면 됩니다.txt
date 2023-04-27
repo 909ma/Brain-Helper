@@ -1,3 +1,10 @@
+** 수정 권한이 필요하면 개인적으로 요청.
+
 요구사항 정의서
-수정 권한이 필요하면 개인적으로 요청.
 https://docs.google.com/spreadsheets/d/1QIPimoED38Emo1fs_BO1vUiLV2731K9jhN86PWsLdRs/edit?usp=sharing
+
+프로젝트 일정 관리
+https://docs.google.com/spreadsheets/d/1DLiRn_4q7O2tInDZRBVV0UcK3H3DNflwoQGM8w29Pns/edit?usp=sharing
+
+Gantt Chart
+https://docs.google.com/spreadsheets/d/19hg88Tr_XzRUmn8Rgxmy6z7HPMWsNtiWyqPg1S7xzvY/edit?usp=sharing
