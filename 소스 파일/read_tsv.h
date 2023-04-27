@@ -4,7 +4,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-
+#include "variable.h"
+//tsv 파일 읽는 함수
 void read_tsv(const char* filename, Question* questions, int* question_count) {
     FILE* fp = fopen(filename, "r");
     if (!fp) {
