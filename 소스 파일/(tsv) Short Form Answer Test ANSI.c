@@ -10,7 +10,8 @@
 #define MAX_ANSWER_LEN 2048
 #define Yes 1
 #define No 2
-//문제 구조
+
+//tsv 데이터베이스 구조
 typedef struct {
     int no;
     int correct;
@@ -20,6 +21,7 @@ typedef struct {
     int answer_count;
 } Question;
 
+//tsv 파일 읽는 함수
 void read_tsv(const char* filename, Question* questions, int* question_count) {
     FILE* fp = fopen(filename, "r");
     if (!fp) {
@@ -66,6 +68,7 @@ void read_tsv(const char* filename, Question* questions, int* question_count) {
     fclose(fp);
 }
 
+//tsv 데이터베이스 갱신
 void write_tsv(const char* filename, Question* questions, int question_count) {
     FILE* fp = fopen(filename, "w");
     if (!fp) {
@@ -84,7 +87,8 @@ void write_tsv(const char* filename, Question* questions, int question_count) {
     fclose(fp);
 }
 
-void write_tsv1(const char* filename, Question* questions, int question_count) {
+//Review note 작성
+void WriteReviewNote(const char* filename, Question* questions, int question_count) {
     FILE* fp = fopen(filename, "w");
     if (!fp) {
         printf("Failed to open file %s\n", filename);
@@ -110,6 +114,8 @@ void write_tsv1(const char* filename, Question* questions, int question_count) {
     }
     fclose(fp);
 }
+
+//Web Porting
 void write_html(const char* filename, Question* questions, int question_count) {
     FILE* fp = fopen(filename, "w");
     if (!fp) {
@@ -117,9 +123,19 @@ void write_html(const char* filename, Question* questions, int question_count) {
         exit(1);
     }
     fprintf(fp, "<!-- https://github.com/909ma -->\n");
+    fprintf(fp, "<!DOCTYPE html>\n");
+    fprintf(fp, "<html lang=\"kr\">\n");
+    fprintf(fp, "  <head>\n");
+    fprintf(fp, "    <meta charset=\"UTF-8\" />\n");
+    fprintf(fp, "    <title>정보처리기사 실기 요약</title>\n");
+    fprintf(fp, "    <link rel=\"stylesheet\" href=\"index.css\" />\n");
+    fprintf(fp, "  </head>\n");
+    fprintf(fp, "  <body>\n");
     int i, j, k;
+    fprintf(fp, "<div class=\"question-container\">\n");
     for (i = 1; i <= question_count; i++) {
-        fprintf(fp, "<div><p>No. %d    correct : %d, incorrect : %d</p>\n<p>Q : ", i, questions[i].correct, questions[i].incorrect);
+        fprintf(fp, "<div class=\"question\" id=\"question%d\">\n",i);
+        fprintf(fp, "<div>\n<p>Question %d.\n<br>\n", i);
         k = 0;
         while(questions[i].question[k] != '\0') {
             if(questions[i].question[k] == '.' || questions[i].question[k] == '?') {
@@ -129,14 +145,28 @@ void write_html(const char* filename, Question* questions, int question_count) {
             }
             k++;
         }
-        fprintf(fp,"</p><br><p>");
+        fprintf(fp,"\n</p>\n<br>\n<p class=\"answer\">");
         for (j = 0; j < questions[i].answer_count; j++) {
             fprintf(fp, "\nAnswer %d : %s<br>", j+1,questions[i].answers[j]);
         }
-        fprintf(fp, "</p></div>\n<br>\n<br>\n<br>");
+        fprintf(fp, "\n</p>\n</div>\n<br>\n<br>\n<br>\n</div>\n");
     }
+    fprintf(fp, "\n</div>");
+    fprintf(fp, "    <div class=\"gotoB\">\n");
+    fprintf(fp, "      <button  onclick=\"goToQuestion()\">Go to</button>\n");
+    fprintf(fp, "      <input type=\"number\" id=\"questionNumInput\" />\n");
+    fprintf(fp, "    </div>\n");
+    fprintf(fp, "      <button class=\"show\">Show</button>\n");
+    fprintf(fp, "      <button class=\"backB\" onclick=\"backQuestion()\">Back</button>\n");
+    fprintf(fp, "      <button class=\"nextB\" onclick=\"nextQuestion()\">Next</button>\n");
+    fprintf(fp, "    <br />\n");
+    fprintf(fp, "    <script src=\"index.js\"></script>\n");
+    fprintf(fp, "  </body>\n");
+    fprintf(fp, "</html>\n");
     fclose(fp);
 }
+
+//파일의 Line 수를 측정한다.
 int getTotalLine(char* filename) { // Code that gets the total number of lines in a csv file
 	FILE* fp;
 	int line = 0;
@@ -147,6 +177,7 @@ int getTotalLine(char* filename) { // Code that gets the total number of lines i
 	fclose(fp);
 	return(line);
 }
+
 
 void print_question(Question* q) {
     printf("Question %d:\n", q->no);
@@ -354,7 +385,7 @@ int main() {
     printf("Backup at \"%s%\"\n", timestamp);
     write_tsv("questions.tsv", questions, question_count);
     write_tsv(timestamp, questions, question_count);
-    write_tsv1("questions review.txt", questions, question_count);
+    WriteReviewNote("questions review.txt", questions, question_count);
     write_html("questions review html.txt", questions, question_count);
 	getchar();
 	
