@@ -1,0 +1,4 @@
+자바 스크립트로 만들었을 때 릴리즈 파일 만들기
+
+NWJS 노드웹킷(Node-Webkit.js) 알아보기
+https://web-inf.tistory.com/28
