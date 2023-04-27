@@ -63,7 +63,7 @@ Memory Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
     <summary>📁 프로젝트 진행 문서</summary>
    
 ## 요구사항 정의서
-<img src="./기타/요구사항 정의서/요구사항 정의서 초본.jpg" width="100%" height="" title="" alt="요구사항 정의서"></img>
+<img src="./기타/요구사항 정의서/요구사항 정의서 초본.JPG" width="100%" height="" title="" alt="요구사항 정의서"></img>
 
 ## 테이블 정의서
 
