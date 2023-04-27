@@ -137,20 +137,21 @@ Memory Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
 ## 📚 기술스택
 
 > OS; Operating System  
-> <br>
->
+> <br>  
 > > <img src="https://img.shields.io/badge/Windows 10 -0078D6?style=for-the-badge&logo=Windows&logoColor=white">
 
 ---
 
 > IDE; Integrated Development Environment  
-> <br>
->
-> > <img src="./기타/devcpp.ico" width="30px" height="30px"> <br> > > <img src="https://img.shields.io/badge/Visual Studio Code -007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+> <br>  
+> > <img src="./기타/devcpp.ico" width="30px" height="30px"> <br>  
+> > <img src="https://img.shields.io/badge/Visual Studio Code -007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 ---
 
 > Programming Languages  
 > <br>
->
-> > <img src="https://img.shields.io/badge/C -A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <br> > > <img src="https://img.shields.io/badge/HTML5 -E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <br> > > <img src="https://img.shields.io/badge/CSS3 -1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br> > > <img src="https://img.shields.io/badge/Java Script -F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+> > <img src="https://img.shields.io/badge/C -A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <br>  
+> > <img src="https://img.shields.io/badge/HTML5 -E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <br>  
+> > <img src="https://img.shields.io/badge/CSS3 -1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>  
+> > <img src="https://img.shields.io/badge/Java Script -F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
