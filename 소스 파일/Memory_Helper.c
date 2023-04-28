@@ -25,7 +25,7 @@ int main() {
 	int typeQ; 
     int i;
     int q_num=0;
-    int RandemModCycle = 0;
+    int RandemModCycle = 0;//
     int QuestionCycle = 0;
     int Mod1Start;
     int Mod1End;
