@@ -6,15 +6,16 @@
 #include <ctype.h>
 #include <time.h>
 /////////////////
+#include "variable.h"
 #include "read_tsv.h"
 //#include "Question.h"
-#include "variable.h"
 #include "write_tsv.h"
 #include "WriteReviewNote.h"
 #include "write_html.h"
 #include "getTotalLine.h"
 #include "print_question.h"
 #include "test.h"
+#include "printRecord.h"
 ////////////////
 
 int main() {
@@ -32,7 +33,7 @@ int main() {
     int Mod2End;
     int Mod4Count=0;
     int Mod4Exit=1;
-    
+    //모드 선택 --------------------------------------------------------------- 
 	START :
 		
     printf("랜덤모드, 자동 순차 모드, 선택 모드, 리뷰 모드 [1,2,3,4]\n");
@@ -126,35 +127,27 @@ int main() {
     	getchar();
     	
     }
-    printf("Results:\n");
-    int CountCorrect = 0;
-    int CountIncorrect = 0;
-    int CountNoAnswer = 0;
-    for (i = 1; i <= question_count; i++) {
-    	if(questions[i].correct != 0 || questions[i].correct + questions[i].incorrect != 0)
-    		CountCorrect += questions[i].correct;
-    	if(questions[i].incorrect != 0||questions[i].correct+questions[i].incorrect != 0)
-    		CountIncorrect += questions[i].incorrect;
-    	if(questions[i].correct+questions[i].incorrect == 0)
-    		CountNoAnswer ++;
-    }
-    float CountRating = (float)CountCorrect / (CountCorrect + CountIncorrect) * 100;
-    printf("Correct : %d\nIncorrect : %d\nRating : %.2f%%\n\nNo Answer : %d\n",CountCorrect,CountIncorrect,CountRating,CountNoAnswer);
-    time_t now;
+    //성적 출력 ------------------------------------------------------------ 
+    printRecord(questions, question_count);
+
+	//백업본 작성 ------------------------------------------------------- 
+	time_t now;
     struct tm *local;
     char timestamp[25];
-
     time(&now);
     local = localtime(&now);
     strftime(timestamp, 28, "%Y-%m-%d %H %M %S.backup", local);
 
     printf("Backup at \"%s%\"\n", timestamp);
-    write_tsv("questions.tsv", questions, question_count);
     write_tsv(timestamp, questions, question_count);
+    //저장---------------------------------------------- 
+    write_tsv("questions.tsv", questions, question_count);
+    //리뷰노트 저장------------------------------------------------------------------------- 
     WriteReviewNote("questions review.txt", questions, question_count);
+    //html 형식으로 Export------------------------------------------------------------------- 
     write_html("questions review html.txt", questions, question_count);
 	getchar();
-	
+	//프로그램 종료 선택-------------------------------------------------------------------------------------- 
 	int inputShutdown;
 	printf("Are you want shutdown?[1/2]\n");
 	scanf("%d", &inputShutdown);
