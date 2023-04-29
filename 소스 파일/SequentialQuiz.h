@@ -16,6 +16,8 @@ int SequentialQuiz(int QuestionCount, Question* questions){
 		}
 		else{
 			printf("잘못된 숫자 기입입니다. 다시 처음으로 돌아갑니다. \n");
+			getchar();
+			getchar();
 			return -1;
 		}
 		//문제 끝 번호 받기------------------------------------------------------------------------ 
@@ -26,6 +28,8 @@ int SequentialQuiz(int QuestionCount, Question* questions){
 		}
 		else{
 			printf("잘못된 숫자 기입입니다. 다시 처음으로 돌아갑니다. \n");
+			getchar();
+			getchar();
 			return -1;
 		}
 		QuestionNow = QuestionStart;

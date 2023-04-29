@@ -17,10 +17,11 @@
 #include "test.h"
 #include "printRecord.h"
 #include "display.h" 
-#include "SequentialQuiz.h"
 #include "Language.h"
 #include "Exit.h"
+#include "SequentialQuiz.h"
 #include "RandomQuiz.h"
+#include "SelectiveQuiz.h"
  
 int main() {
 	int question_line = getTotalLine("questions.tsv")+1;
@@ -28,7 +29,6 @@ int main() {
     int QuestionCount = 0;//총 문제 갯수 저장하는 변수 
     read_tsv("questions.tsv", questions, &QuestionCount);   
     //모드 선택 --------------------------------------------------------------- 
-	START :
 	for(;;){
 		typeQ = display();
 		//printf("typeQ : %d\nq_num : %d\n", typeQ,q_num);//디버깅 소스 
@@ -47,7 +47,7 @@ int main() {
 				break;
 			case 4:
 				//4. 선택 출제 기능 
-				//SelectiveQuiz();
+				SelectiveQuiz(QuestionCount, questions);
 				break;
 			case 5:
 				//5. 성적 확인 기능 CheckGrade();<-- 이미 있어서 안 만듬. 

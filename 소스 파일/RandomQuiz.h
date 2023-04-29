@@ -17,6 +17,8 @@ int RandomQuiz(int QuestionCount, Question* questions){
 		}
 		else{
 			printf("잘못된 숫자 기입입니다. 다시 처음으로 돌아갑니다. \n");
+			getchar();
+			getchar();
 			return -1;
 		}
 		//문제 끝 번호 받기------------------------------------------------------------------------ 
@@ -27,6 +29,8 @@ int RandomQuiz(int QuestionCount, Question* questions){
 		}
 		else{
 			printf("잘못된 숫자 기입입니다. 다시 처음으로 돌아갑니다. \n");
+			getchar();
+			getchar();
 			return -1;
 		}
 		//풀고 싶은 문제 개수 받기------------------------------------------------------------------
@@ -38,6 +42,8 @@ int RandomQuiz(int QuestionCount, Question* questions){
 		}
 		else{
 			printf("잘못된 숫자 기입입니다. 다시 처음으로 돌아갑니다. \n");
+			getchar();
+			getchar();
 			return -1;
 		}
 		getchar();
