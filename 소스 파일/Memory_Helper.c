@@ -181,12 +181,6 @@ int main() {
     		break;
         test(&questions[q_num]);
     	getchar();
-    	
     }
-    
     */
-    
-
-	
-	
 }
