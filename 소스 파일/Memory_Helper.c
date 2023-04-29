@@ -20,12 +20,13 @@
 #include "SequentialQuiz.h"
 #include "Language.h"
 #include "Exit.h"
+#include "RandomQuiz.h"
  
 int main() {
 	int question_line = getTotalLine("questions.tsv")+1;
     Question *questions = (Question*)malloc(sizeof(Question) * question_line);
-    int question_count = 0;//총 문제 갯수 저장하는 변수 
-    read_tsv("questions.tsv", questions, &question_count);   
+    int QuestionCount = 0;//총 문제 갯수 저장하는 변수 
+    read_tsv("questions.tsv", questions, &QuestionCount);   
     //모드 선택 --------------------------------------------------------------- 
 	START :
 	for(;;){
@@ -38,11 +39,11 @@ int main() {
 				break;
 			case 2:
 				//2. 순차 출제 기능 
-				SequentialQuiz(question_count, questions);
+				SequentialQuiz(QuestionCount, questions);
 				break;
 			case 3:
 				//3. 랜덤 출제 기능 
-				//RandomQuiz();
+				RandomQuiz(QuestionCount, questions);
 				break;
 			case 4:
 				//4. 선택 출제 기능 
@@ -51,7 +52,7 @@ int main() {
 			case 5:
 				//5. 성적 확인 기능 CheckGrade();<-- 이미 있어서 안 만듬. 
 				//성적 출력 ------------------------------------------------------------ 
-	    		printRecord(questions, question_count);
+	    		printRecord(questions, QuestionCount);
 	    		getchar();
 				break;
 			case 6:
@@ -78,7 +79,7 @@ int main() {
 				break;
 			case 0:
 				//0. 종료 기능 
-				Mod0 = Exit(&q_num, questions, question_count);
+				Mod0 = Exit(&QuestionNow, questions, QuestionCount);
 				if(Mod0 == 0){
 					free(questions);
 			    	return 0;
