@@ -20,7 +20,6 @@
 #include "SequentialQuiz.h"
 #include "Language.h"
 #include "Exit.h"
-////////////////
  
 int main() {
 	int question_line = getTotalLine("questions.tsv")+1;
@@ -87,14 +86,12 @@ int main() {
 				//printf("typeQ : %d\nq_num : %d\n", typeQ,q_num);//디버깅 소스 
 				break;
 			case -1:
+				printf("잘못된 입력입니다.\n");
+				getchar();
+				getchar();
 				break;
 		}
 	}
-	/*
-	auto.
-	리뷰 노트 생성 기능
-	백업 기능 
-	*/
 	/*
     //printf("랜덤모드, 자동 순차 모드, 선택 모드, 리뷰 모드 [1,2,3,4]\n");
     if(typeQ == 1){
