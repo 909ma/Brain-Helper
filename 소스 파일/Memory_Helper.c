@@ -21,17 +21,7 @@ int main() {
 	int question_line = getTotalLine("questions.tsv")+1;
     Question *questions = (Question*)malloc(sizeof(Question) * question_line);
     int question_count = 0;
-    read_tsv("questions.tsv", questions, &question_count);    
-	int typeQ; 
-    int i;
-    int q_num=0;
-    int RandemModCycle = 0;//
-    int QuestionCycle = 0;
-    int Mod1Start;
-    int Mod1End;
-    int Mod2End;
-    int Mod4Count=0;
-    int Mod4Exit=1;
+    read_tsv("questions.tsv", questions, &question_count);   
     //모드 선택 --------------------------------------------------------------- 
 	START :
 		

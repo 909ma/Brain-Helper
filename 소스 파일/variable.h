@@ -17,3 +17,15 @@ typedef struct {
     char answers[MAX_ANSWER_INPUT][MAX_ANSWER_LEN];
     int answer_count;
 } Question;
+
+
+	int typeQ; 
+    int i;
+    int q_num=0;
+    int RandemModCycle = 0;//
+    int QuestionCycle = 0;
+    int Mod1Start;
+    int Mod1End;
+    int Mod2End;
+    int Mod4Count=0;
+    int Mod4Exit=1;
