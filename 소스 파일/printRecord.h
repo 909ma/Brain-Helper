@@ -9,7 +9,8 @@
 #include "variable.h"
 
 void printRecord(Question* questions, int question_count){
-    printf("Results:\n");
+	system("cls"); 
+    printf("Results\n");
     int CountCorrect = 0;
     int CountIncorrect = 0;
     int CountNoAnswer = 0;
@@ -23,4 +24,5 @@ void printRecord(Question* questions, int question_count){
     }
     float CountRating = (float)CountCorrect / (CountCorrect + CountIncorrect) * 100;
     printf("Correct : %d\nIncorrect : %d\nRating : %.2f%%\n\nNo Answer : %d\n",CountCorrect,CountIncorrect,CountRating,CountNoAnswer);
+	getchar(); 
 }

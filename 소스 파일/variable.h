@@ -19,13 +19,14 @@ typedef struct {
 } Question;
 
 
-	int typeQ; 
-    int i;
-    int q_num=0;
-    int RandemModCycle = 0;//
-    int QuestionCycle = 0;
-    int Mod1Start;
-    int Mod1End;
-    int Mod2End;
-    int Mod4Count=0;
-    int Mod4Exit=1;
+int typeQ;//모드 번호 확인용 변수 
+int i;
+int q_num=0;//현재 푸는 문제 번호 
+int RandemModCycle = 0;//
+int QuestionCycle = 0;
+int Mod1Start;
+int Mod1End;
+int Mod2End;//순차 출제 모드의 종료 번호 
+int Mod4Count=0;
+int Mod4Exit=1;
+int Mod0=0;

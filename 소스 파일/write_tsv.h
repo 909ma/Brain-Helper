@@ -1,9 +1,11 @@
+#pragma once
 #pragma warning(disable:4996)
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
 #include <time.h>
+#include "variable.h"
 
 //tsv 데이터베이스 갱신
 void write_tsv(const char* filename, Question* questions, int question_count) {

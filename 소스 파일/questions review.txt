@@ -1,7 +1,7 @@
 https://github.com/909ma
 
 
-No. 1	 correct : 0,	 incorrect : 2
+No. 1	 correct : 0,	 incorrect : 4
 Q : 소프트웨어를 개발하기 위한 설계, 운용, 유지보수 등의 과정을 각 단계별로 나눈 것은?
  소프트웨어 개발 단계와 각 단계별 주요 활동 그리고 활동의 결과에 대한 산출물로 표현한다.
 
@@ -9,7 +9,7 @@ Answer 1 : 소프트웨어 생명 주기
 Answer 2 : Software Life Cycle
 
 
-No. 2	 correct : 0,	 incorrect : 1
+No. 2	 correct : 0,	 incorrect : 3
 Q : 이전 단계로 돌아갈 수 없다는 전제하에 각 단계를 확실히 매듭짓고 그 결과를 철저하게 검토하여 승인 과정을 거친 후에 다음 단계를 진행하는 개발 방법론은?
  가장 오래되고 가장 폭넓게 사용된 전통적인 소프트웨어 생명 주기 모형이다.
  고전적 생명 주기 모형이라고도 한다.
@@ -20,7 +20,7 @@ Answer 1 : 폭포수 모형
 Answer 2 : Waterfall Model
 
 
-No. 3	 correct : 0,	 incorrect : 0
+No. 3	 correct : 0,	 incorrect : 2
 Q : 사용자의 요구사항을 파악하기 위해 실제 개발될 소프트웨어에 대한 견본품(Prototype)을 만들어 최종 결과물을 예측하는 모형은?
  견본품은 사용자와 시스템 사이의 인터페이스에 중점을 두어 개발한다.
 
@@ -28,7 +28,7 @@ Answer 1 : 프로토타입 모형
 Answer 2 : Prototype Model
 
 
-No. 4	 correct : 0,	 incorrect : 0
+No. 4	 correct : 0,	 incorrect : 1
 Q : 나선을 따라 돌듯이 여러 번의 소프트웨어 개발 과정을 거쳐 점진적으로 완벽한 최종 소프트웨어를 개발하는 모형은?
  보헴(Boehm)이 제한하였다.
  폭포수 모형과 프로토타입 모형의 장점에 위험 분석 기능을 추가한 모형이다.
@@ -41,7 +41,7 @@ Answer 2 : Spiral Model
 Answer 3 : 점진적 모형
 
 
-No. 5	 correct : 0,	 incorrect : 0
+No. 5	 correct : 0,	 incorrect : 1
 Q : ○○○은 '민첩한', '기민한'이라는 의미로, 고객의 요구사항 변화에 유연하게 대응할 수 있도록 일정한 주기를 반복하면서 개발하는 모형은?
  어느 특정 개발 방법론이 아니라 좋은 것을 빠르고 낭비 없게 만들기 위해 고객과의 소통에 초점을 맞춘 방법론을 통칭한다.
  폭포수 모형과 대조적이다.

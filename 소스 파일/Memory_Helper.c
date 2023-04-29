@@ -1,3 +1,4 @@
+#pragma once
 #pragma warning(disable:4996)
 #include <stdio.h>
 #include <stdlib.h>
@@ -15,18 +16,87 @@
 #include "print_question.h"
 #include "test.h"
 #include "printRecord.h"
+#include "display.h" 
+#include "SequentialQuiz.h"
+#include "Language.h"
+#include "Exit.h"
 ////////////////
-
+ 
 int main() {
 	int question_line = getTotalLine("questions.tsv")+1;
     Question *questions = (Question*)malloc(sizeof(Question) * question_line);
-    int question_count = 0;
+    int question_count = 0;//총 문제 갯수 저장하는 변수 
     read_tsv("questions.tsv", questions, &question_count);   
     //모드 선택 --------------------------------------------------------------- 
 	START :
-		
-    printf("랜덤모드, 자동 순차 모드, 선택 모드, 리뷰 모드 [1,2,3,4]\n");
-    scanf("%d",&typeQ);
+	for(;;){
+		typeQ = display();
+		//printf("typeQ : %d\nq_num : %d\n", typeQ,q_num);//디버깅 소스 
+		switch(typeQ){
+			case 1:
+				//1. 과목 조회 기능
+				//ViewSubject();
+				break;
+			case 2:
+				//2. 순차 출제 기능 
+				SequentialQuiz(question_count, questions);
+				break;
+			case 3:
+				//3. 랜덤 출제 기능 
+				//RandomQuiz();
+				break;
+			case 4:
+				//4. 선택 출제 기능 
+				//SelectiveQuiz();
+				break;
+			case 5:
+				//5. 성적 확인 기능 CheckGrade();<-- 이미 있어서 안 만듬. 
+				//성적 출력 ------------------------------------------------------------ 
+	    		printRecord(questions, question_count);
+	    		getchar();
+				break;
+			case 6:
+				//6. 일일 숙제 기능 
+				//DailyHomework();
+				break;
+			case 7:
+				//7. 문제 추천 기능
+				//QuestionRecommendation();
+				break;
+			case 8:
+				//8. 문제 리뷰 기능 
+				//QuestionReview();
+				break;
+			case 9:
+				/*
+				9. 설정 
+		 			1) 언어 변경 기능
+		 				ChangeLanguage();
+		 			2) 성적 초기화 기능 
+		 				ResetGrade();
+		 		*/
+		 		//Settings();
+				break;
+			case 0:
+				//0. 종료 기능 
+				Mod0 = Exit(&q_num, questions, question_count);
+				if(Mod0 == 0){
+					free(questions);
+			    	return 0;
+				}
+				//printf("typeQ : %d\nq_num : %d\n", typeQ,q_num);//디버깅 소스 
+				break;
+			case -1:
+				break;
+		}
+	}
+	/*
+	auto.
+	리뷰 노트 생성 기능
+	백업 기능 
+	*/
+	/*
+    //printf("랜덤모드, 자동 순차 모드, 선택 모드, 리뷰 모드 [1,2,3,4]\n");
     if(typeQ == 1){
     	printf("How many resolve Question? (Max : %d)\n",question_count);
     	scanf("%d",&RandemModCycle);
@@ -116,35 +186,10 @@ int main() {
     	getchar();
     	
     }
-    //성적 출력 ------------------------------------------------------------ 
-    printRecord(questions, question_count);
+    
+    */
+    
 
-	//백업본 작성 ------------------------------------------------------- 
-	time_t now;
-    struct tm *local;
-    char timestamp[25];
-    time(&now);
-    local = localtime(&now);
-    strftime(timestamp, 28, "%Y-%m-%d %H %M %S.backup", local);
-
-    printf("Backup at \"%s%\"\n", timestamp);
-    write_tsv(timestamp, questions, question_count);
-    //저장---------------------------------------------- 
-    write_tsv("questions.tsv", questions, question_count);
-    //리뷰노트 저장------------------------------------------------------------------------- 
-    WriteReviewNote("questions review.txt", questions, question_count);
-    //html 형식으로 Export------------------------------------------------------------------- 
-    write_html("questions review html.txt", questions, question_count);
-	getchar();
-	//프로그램 종료 선택-------------------------------------------------------------------------------------- 
-	int inputShutdown;
-	printf("Are you want shutdown?[1/2]\n");
-	scanf("%d", &inputShutdown);
-	if(inputShutdown == 1){
-		free(questions);
-    	return 0;}
-	else{
-		getchar();
-		q_num = 0;
-		goto START;}
+	
+	
 }
