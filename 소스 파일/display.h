@@ -34,17 +34,33 @@ display();
 */
 int display(){
 	system("cls");
-	printf("1.  과목 조회\n");
-	printf("2.  순차 출제\n");
-	printf("3.  랜덤 출제\n");
-	printf("4.  선택 출제\n");
-	printf("5.  성적 확인\n");
-	printf("6.  일일 숙제\n");
-	printf("7.  문제 추천\n");
-	printf("8.  문제 리뷰\n");
-	printf("9.  설정\n");
-	printf("0.  프로그램 종료\n"); 
+	printf("┌───────────────────────────────────┐\n");
+	printf("│               메뉴                │\n");
+	printf("├──────────┬────────────────────────┤\n");
+	printf("│   번호   │         항목           │\n");
+	printf("├──────────┼────────────────────────┤\n");
+	printf("│     1    │     과목 조회          │\n");
+	printf("│          │                        │\n");
+	printf("│     2    │     순차 출제          │\n");
+	printf("│          │                        │\n");
+	printf("│     3    │     랜덤 출제          │\n");
+	printf("│          │                        │\n");
+	printf("│     4    │     선택 출제          │\n");
+	printf("│          │                        │\n");
+	printf("│     5    │     성적 확인          │\n");
+	printf("│          │                        │\n");
+	printf("│     6    │     일일 숙제          │\n");
+	printf("│          │                        │\n");
+	printf("│     7    │     문제 추천          │\n");
+	printf("│          │                        │\n");
+	printf("│     8    │     문제 리뷰          │\n");
+	printf("│          │                        │\n");
+	printf("│     9    │     설정               │\n");
+	printf("│          │                        │\n");
+	printf("│     0    │     프로그램 종료      │\n");
+	printf("└──────────┴────────────────────────┘\n");
 	printf("\nInput : ");
+
     scanf("%d",&typeQ);
     
     if(typeQ>=0 && typeQ <=9){
