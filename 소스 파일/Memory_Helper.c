@@ -22,6 +22,7 @@
 #include "SequentialQuiz.h"
 #include "RandomQuiz.h"
 #include "SelectiveQuiz.h"
+#include "ViewSubject.h"
  
 int main() {
 	int question_line = getTotalLine("questions.tsv")+1;
@@ -31,11 +32,17 @@ int main() {
     //모드 선택 --------------------------------------------------------------- 
 	for(;;){
 		typeQ = display();
-		//printf("typeQ : %d\nq_num : %d\n", typeQ,q_num);//디버깅 소스 
+		//printf("typeQ : %d\nQuestionNow : %d\n", typeQ,QuestionNow);//디버깅 소스 
+		printf("typeQ : %d\nQuestionNow : %d\n", typeQ,QuestionNow);//디버깅 소스 
+				getchar();
+				getchar();
 		switch(typeQ){
 			case 1:
 				//1. 과목 조회 기능
-				//ViewSubject();
+				printf("typeQ : %d\nQuestionNow : %d\n", typeQ,QuestionNow);//디버깅 소스 
+				getchar();
+				getchar();
+				ViewSubject(questions, &QuestionCount);
 				break;
 			case 2:
 				//2. 순차 출제 기능 
