@@ -49,11 +49,11 @@ Memory Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
 ## 📑 프로젝트 결과
 결과1 : 과목 조회|결과2 : 순차 출제  
 |-------------------------|-------------------------|
-<img src="./기타/README/1 과목 조회.gif" width="471" height="" title="" alt="1번 이미지"></img>|<img src="./기타/README/2 순차 출제.gif" width="100%" height="" title="" alt="2번 이미지"></img>
+<img src="./기타/README/1 과목 조회.gif" width="471" height="" title="" alt="1번 이미지"></img>|<img src="./기타/README/2 순차 출제.gif" width="471" height="" title="" alt="2번 이미지"></img>
 
 결과3 : 랜덤 출제|결과4 : 선택 출제   
 |-------------------------|-------------------------|
-<img src="./기타/README/3 랜덤 출제.gif" width="471" height="" title="" alt="3번 이미지"></img> |<img src="./기타/README/4 선택 출제.gif" width="100%" height="" title="" alt="4번 이미지"></img>
+<img src="./기타/README/3 랜덤 출제.gif" width="471" height="" title="" alt="3번 이미지"></img> |<img src="./기타/README/4 선택 출제.gif" width="471" height="" title="" alt="4번 이미지"></img>
 
 결과5 : 성적 확인|결과6 : 모바일 웹 서비스   
 |-------------------------|-------------------------|
