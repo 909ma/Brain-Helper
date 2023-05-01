@@ -1,7 +1,7 @@
 # 📌 Memory Helper
 
 Memory Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트하고, 해당 내용을 복습하는 데 도움을 주는 어플리케이션입니다.  
-프로젝트 개발 기간은 2023년 04월 27일부터 시작입니다.
+프로젝트 개발 1차 기간은 2023년 04월 27일부터 2023년 05월 01일입니다.
 
 # 🎺 프로젝트 팀 구성원
 
@@ -15,12 +15,10 @@ Memory Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
 
 ## ✔️ 목표 요구사항
 
-1. 사용자는 회원가입하여 로그인할 수 있다.
-2. 사용자는 등록된 내용을 CRUD 할 수 있다.
-3. 사용자는 등록한 내용에 대해 복습 주기를 설정할 수 있다.
-4. 등록한 내용은 설정한 주기에 따라 주기적으로 복습할 수 있다.
-5. 사용자는 복습한 내용에 대한 기록을 남길 수 있다.
-6. 사용자는 등록된 내용을 검색할 수 있다.
+1. C언어의 파일 입출력을 다룰 수 있다.
+2. HTML5, CSS3, Java Script의 숙련도를 기를 수 있다.
+3. 사용자는 복습한 내용에 대한 기록을 남길 수 있다.
+4. 사용자는 등록된 내용을 검색할 수 있다.
 
 ## ✅ 프로젝트 기대 효과
 
@@ -49,45 +47,27 @@ Memory Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
    - Memory Helper 프로젝트에서는 학습에 필요한 이미지, 영상 등의 자료를 수집할 때, 출처와 저작권에 대한 확인을 꼼꼼히 수행하고 있습니다. 또한, 저작권이 있는 자료는 사용 권한을 얻은 후에만 사용하고 있으며, 그 외에는 라이선스가 허용하는 범위 내에서 자유롭게 사용하고 있습니다. 이를 통해, 저작권 이슈를 미연에 방지하고, 사용자들에게 안정적인 서비스를 제공하고 있습니다.
 
 ## 📑 프로젝트 결과
+결과1 : 과목 조회|결과2 : 순차 출제  
+|-------------------------|-------------------------|
+<img src="./기타/README/1 과목 조회.gif" width="100%" height="" title="" alt="1번 이미지"></img>|<img src="./기타/README/2 순차 출제.gif" width="100%" height="" title="" alt="2번 이미지"></img>
 
-- 결과1
-  <img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-- 결과2
-  <img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="2번 이미지"></img>
-- 결과3
-  <img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="3번 이미지"></img>
-- 결과4
-  <img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="4번 이미지"></img>
+결과3 : 랜덤 출제|결과4 : 선택 출제   
+|-------------------------|-------------------------|
+<img src="./기타/README/3 랜덤 출제.gif" width="100%" height="" title="" alt="3번 이미지"></img> |<img src="./기타/README/4 선택 출제.gif" width="100%" height="" title="" alt="4번 이미지"></img>
+
+결과5 : 성적 확인|결과6 : 모바일 웹 서비스   
+|-------------------------|-------------------------|
+<img src="./기타/README/5 성적 확인.gif" width="100%" height="" title="" alt="5번 이미지"></img> |<img src="./기타/README/6 웹 서비스.gif" width="471" height="" title="" alt="6번 이미지"></img>
+
+결과7 : 데스크탑 웹 서비스|
+|-------------------------|
+<img src="./기타/README/7 웹 서비스 2.gif" width="100%" height="" title="" alt="7번 이미지"></img> |
 
 <details>
     <summary>📁 프로젝트 진행 문서</summary>
    
 ## 요구사항 정의서
 <img src="./기타/요구사항 정의서/요구사항 정의서.JPG" width="100%" height="" title="" alt="요구사항 정의서"></img>
-
-## 테이블 정의서
-
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="테이블 정의서 1번"></img>
-
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="테이블 정의서 2번"></img>
-
-## ERD 개체 관계 다이어그램
-
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="ERD"></img>
-
-## TABLE Model
-
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="TABLE Model"></img>
-
-## CRUD 매트릭스
-
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="CRUD 매트릭스"></img>
-
-## 트랜잭션 분석서
-
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="트랜잭션 분석서 1번"></img>
-
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="트랜잭션 분석서 2번"></img>
 
 ## Gantt Chart
 
