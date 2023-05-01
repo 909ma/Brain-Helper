@@ -62,7 +62,19 @@ Memory Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
 결과7 : 데스크탑 웹 서비스|
 |:---------------------:|
 <img src="./기타/README/7 웹 서비스 2.gif" width="100%" height="" title="" alt="7번 이미지"></img> |
+<details>
+    <summary>📁 웹 서비스 데모</summary>
+    https://909ma.github.io/Memory-Helper/  
+    <br><br>
 
+| 키 | 활동 |
+|:---:| :---: |
+| 위쪽 화살표 | 정답 보기/가리기 |
+| 좌측 화살표 | 이전 문제 보기 |
+| 우측 화살표 | 다음 문제 보기 |
+| GO to | 원하는 문제 찾아가기 |
+</details>
+<br><br>
 <details>
     <summary>📁 프로젝트 진행 문서</summary>
    
