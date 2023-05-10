@@ -3,7 +3,6 @@
 }
 .answer,
 .question {
-  font-weight: bold;
   white-space: pre-line;
 }
 @media screen and (min-width: 1291px) {
