@@ -32,7 +32,7 @@ void write_json(const char* filename, Question* questions, int question_count) {
         k = 0;
         while(questions[i].question[k] != '\0') {
             if(questions[i].question[k] == '.' || questions[i].question[k] == '?') {
-                fprintf(fp, "%c<br/>", questions[i].question[k]);
+                fprintf(fp, "%c<br>", questions[i].question[k]);
             } else {
                 fprintf(fp, "%c", questions[i].question[k]);
             }

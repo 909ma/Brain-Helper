@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="kr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Memory Helper Demo(정처기 실기 요약)</title>
+    <link
+      href="https://hangeul.pstatic.net/hangeul_static/css/nanum-square.css"
+      rel="stylesheet"
+    />
+    <style>
+      /* 스타일을 직접 지정 */
+      * {
+        font-family: "NanumSquareBold";
+      }
+      .answer,
+      .question {
+        font-weight: bold;
+        white-space: pre-line;
+      }
+      body {
+        font-size: 20px;
+        font-family: "NanumSquareBold";
+      }
+
+      .question-container {
+        margin: 20px;
+      }
+
+      .question {
+        background-color: #f0f0f0;
+        padding: 10px;
+        margin-bottom: 10px;
+      }
+
+      .question p {
+        margin-bottom: 5px;
+      }
+
+      .answer {
+        font-weight: bold;
+      }
+
+      .navigation {
+        margin-top: 10px;
+      }
+
+      .navigation button,
+      .goto button {
+        padding: 5px 10px;
+        margin-right: 5px;
+        background-color: #4caf50;
+        color: white;
+      }
+      #revealButton {
+        margin-top: 10px;
+        padding: 5px 10px;
+      }
+      .answer.hidden {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="question-container">
+      <div class="question" id="question"></div>
+      <div class="navigation">
+        <button id="revealButton">정답 보기</button>
+        <button id="prevButton">이전</button>
+        <button id="nextButton">다음</button>
+      </div>
+      <div class="goto">
+        <input type="number" id="gotoInput" min="1" max="" />
+        <button id="gotoButton">이동</button>
+      </div>
+    </div>
+
+    <script>
+      // JSON 파일 불러오기
+      fetch("questions.json")
+        .then(function (response) {
+          return response.json();
+        })
+        .then(function (data) {
+          questionList = data;
+          showQuestion(currentQuestionIndex);
+        });
+
+      // HTML 요소 선택
+      var questionDiv = document.getElementById("question");
+      var revealButton = document.getElementById("revealButton");
+      var prevButton = document.getElementById("prevButton");
+      var nextButton = document.getElementById("nextButton");
+      var gotoInput = document.getElementById("gotoInput");
+      var gotoButton = document.getElementById("gotoButton");
+
+      // 초기 상태 설정
+      var currentQuestionIndex = 0;
+
+      // 질문과 답 표시 함수
+      function showQuestion(index) {
+        var questionData = questionList[index];
+        questionDiv.innerHTML =
+          "<p>" +
+          questionData.question +
+          "</p>" +
+          '<p class="answer hidden">' +
+          questionData.answer +
+          "</p>";
+
+        // 이전 버튼 활성화 여부 설정
+        prevButton.disabled = index === 0;
+
+        // 다음 버튼 활성화 여부 설정
+        nextButton.disabled = index === questionList.length - 1;
+      }
+
+      // 정답 보기 버튼 클릭 시 이벤트 처리
+      revealButton.addEventListener("click", function () {
+        var answerElement = questionDiv.querySelector(".answer");
+        answerElement.classList.remove("hidden");
+      });
+
+      // 이전 버튼 클릭 시 이벤트 처리
+      prevButton.addEventListener("click", function () {
+        if (currentQuestionIndex > 0) {
+          currentQuestionIndex--;
+          showQuestion(currentQuestionIndex);
+        }
+      });
+
+      // 다음 버튼 클릭 시 이벤트 처리
+      nextButton.addEventListener("click", function () {
+        if (currentQuestionIndex < questionList.length - 1) {
+          currentQuestionIndex++;
+          showQuestion(currentQuestionIndex);
+        }
+      });
+
+      // 이동 버튼 클릭 시 이벤트 처리
+      gotoButton.addEventListener("click", function () {
+        var gotoIndex = parseInt(gotoInput.value) - 1;
+        if (gotoIndex >= 0 && gotoIndex < questionList.length) {
+          currentQuestionIndex = gotoIndex;
+          showQuestion(currentQuestionIndex);
+          gotoInput.value = "";
+        } else {
+          alert("유효한 질문 번호를 입력해주세요.");
+        }
+      });
+
+      // 키보드 이벤트 처리
+      document.addEventListener("keydown", function (event) {
+        if (event.key === "ArrowLeft") {
+          // 왼쪽 화살표 키
+          if (currentQuestionIndex > 0) {
+            currentQuestionIndex--;
+            showQuestion(currentQuestionIndex);
+          }
+        } else if (event.key === "ArrowRight") {
+          // 오른쪽 화살표 키
+          if (currentQuestionIndex < questionList.length - 1) {
+            currentQuestionIndex++;
+            showQuestion(currentQuestionIndex);
+          }
+        }
+      });
+    </script>
+  </body>
+</html>
