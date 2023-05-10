@@ -96,10 +96,12 @@ Memory Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
 ## Gantt Chart
 
 <img src="./기타/Gantt Chart/Gantt Chart.JPG" width="100%" height="" title="" alt="Gantt Chart"></img>
+<img src="./기타/Gantt Chart/Gantt Chart 2.JPG" width="100%" height="" title="" alt="Gantt Chart"></img>
 
 ## 프로젝트 일정 관리
 
 <img src="./기타/프로젝트 일정 관리/프로젝트 일정 관리.JPG" width="100%" height="" title="" alt="프로젝트 일정 관리"></img>
+<img src="./기타/프로젝트 일정 관리/프로젝트 일정 관리 2.JPG" width="100%" height="" title="" alt="프로젝트 일정 관리"></img>
 
 ---
 
