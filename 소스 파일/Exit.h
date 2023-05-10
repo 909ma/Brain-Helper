@@ -8,6 +8,7 @@
 #include "write_tsv.h"
 #include "WriteReviewNote.h"
 #include "write_html.h"
+#include "write_json.h"
 #include "variable.h"
 
 int Exit(int* q_num, Question* questions, int question_count){
@@ -36,6 +37,9 @@ int Exit(int* q_num, Question* questions, int question_count){
 	    //html 형식으로 Export------------------------------------------------------------------- 
 	    write_html("questions review html.txt", questions, question_count);
 	    printf("html소스가 저장되었습니다.\n");
+	    //json 형식으로 Export------------------------------------------------------------------- 
+	    write_json("questions review.json", questions, question_count);
+	    printf("json소스가 저장되었습니다.\n");
     	return 0;}
 	else{
 		getchar();

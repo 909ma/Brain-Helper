@@ -12,6 +12,7 @@
 #include "write_tsv.h"
 #include "WriteReviewNote.h"
 #include "write_html.h"
+#include "write_json.h"
 #include "getTotalLine.h"
 #include "print_question.h"
 #include "test.h"
