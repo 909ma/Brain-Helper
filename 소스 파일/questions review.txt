@@ -30,7 +30,7 @@ Answer 2 : Prototype Model
 
 No. 4	 correct : 0,	 incorrect : 0
 Q : ³ª¼±À» µû¶ó µ¹µíÀÌ ¿©·¯ ¹øÀÇ ¼ÒÇÁÆ®¿þ¾î °³¹ß °úÁ¤À» °ÅÃÄ Á¡ÁøÀûÀ¸·Î ¿Ïº®ÇÑ ÃÖÁ¾ ¼ÒÇÁÆ®¿þ¾î¸¦ °³¹ßÇÏ´Â ¸ðÇüÀº?
- º¸Çð(Boehm)ÀÌ Á¦ÇÑÇÏ¿´´Ù.
+ º¸Çð(Boehm)ÀÌ Á¦¾ÈÇÏ¿´´Ù.
  ÆøÆ÷¼ö ¸ðÇü°ú ÇÁ·ÎÅäÅ¸ÀÔ ¸ðÇüÀÇ ÀåÁ¡¿¡ À§Çè ºÐ¼® ±â´ÉÀ» Ãß°¡ÇÑ ¸ðÇüÀÌ´Ù.
  ´©¶ôµÇ°Å³ª Ãß°¡µÈ ¿ä±¸»çÇ×À» Ã·°¡ÇÒ ¼ö ÀÖ´Ù.
  À¯Áöº¸¼ö °úÁ¤ÀÌ ÇÊ¿ä¾ø´Ù.
@@ -54,14 +54,10 @@ Answer 2 : Agile Model
 
 No. 6	 correct : 0,	 incorrect : 0
 Q : ¡Û¡Û¡Û °³¹ß ³× °¡Áö ÇÙ½É °¡Ä¡.
- 1.
- ÇÁ·Î¼¼½º¿Í µµ±¸º¸´Ù´Â °³ÀÎ°ú »óÈ£ÀÛ¿ë¿¡ ´õ °¡Ä¡¸¦ µÐ´Ù.
- 2.
- ¹æ´ëÇÑ ¹®¼­º¸´Ù´Â ½ÇÇàµÇ´Â SW¿¡ ´õ °¡Ä¡¸¦ µÐ´Ù.
- 3.
- °è¾à Çù»óº¸´Ù´Â °í°´°ú Çù¾÷¿¡ ´õ °¡Ä¡¸¦ µÐ´Ù.
- 4.
- °èÈ¹À» µû¸£±â º¸´Ù´Â º¯È­¿¡ ¹ÝÀÀÇÏ´Â °Í¿¡ ´õ °¡Ä¡¸¦ µÐ´Ù.
+ ¨ç ÇÁ·Î¼¼½º¿Í µµ±¸º¸´Ù´Â °³ÀÎ°ú »óÈ£ÀÛ¿ë¿¡ ´õ °¡Ä¡¸¦ µÐ´Ù.
+ ¨è ¹æ´ëÇÑ ¹®¼­º¸´Ù´Â ½ÇÇàµÇ´Â SW¿¡ ´õ °¡Ä¡¸¦ µÐ´Ù.
+ ¨é °è¾à Çù»óº¸´Ù´Â °í°´°ú Çù¾÷¿¡ ´õ °¡Ä¡¸¦ µÐ´Ù.
+ ¨ê°èÈ¹À» µû¸£±â º¸´Ù´Â º¯È­¿¡ ¹ÝÀÀÇÏ´Â °Í¿¡ ´õ °¡Ä¡¸¦ µÐ´Ù.
 
 Answer 1 : ¾ÖÀÚÀÏ
 
@@ -70,12 +66,9 @@ No. 7	 correct : 0,	 incorrect : 0
 Q : ¼ÒÇÁÆ®¿þ¾îÀÇ À§±â¸¦ ±Øº¹ÇÏ±â À§ÇÑ ¹æ¾ÈÀ¸·Î ¿¬±¸µÈ ÇÐ¹®Àº?
  ¿©·¯ °¡Áö ¹æ¹ý·Ð°ú µµ±¸, °ü¸® ±â¹ýµéÀ» ÅëÇÏ¿© ¼ÒÇÁÆ®¿þ¾îÀÇ Ç°Áú°ú »ý»ê¼º Çâ»óÀ» ¸ñÀûÀ¸·Î ÇÑ´Ù.
  ¡Û¡Û¡ÛÀÇ ±âº» ¿øÄ¢.
- 1.
- Çö´ëÀûÀÎ ÇÁ·Î±×·¡¹Ö ±â¼úÀ» °è¼ÓÀûÀ¸·Î Àû¿ëÇØ¾ß ÇÑ´Ù.
- 2.
- °³¹ßµÈ ¼ÒÇÁÆ®¿þ¾îÀÇ Ç°ÁúÀÌ À¯ÁöµÇµµ·Ï Áö¼ÓÀûÀ¸·Î °ËÁõÇØ¾ß ÇÑ´Ù.
- 3.
- ¼ÒÇÁÆ®¿þ¾î °³¹ß °ü·Ã »çÇ× ¹× °á°ú¿¡ ´ëÇÑ ¸íÈ®ÇÑ ±â·ÏÀ» À¯ÁöÇØ¾ß ÇÑ´Ù.
+ ¨ç Çö´ëÀûÀÎ ÇÁ·Î±×·¡¹Ö ±â¼úÀ» °è¼ÓÀûÀ¸·Î Àû¿ëÇØ¾ß ÇÑ´Ù.
+ ¨è °³¹ßµÈ ¼ÒÇÁÆ®¿þ¾îÀÇ Ç°ÁúÀÌ À¯ÁöµÇµµ·Ï Áö¼ÓÀûÀ¸·Î °ËÁõÇØ¾ß ÇÑ´Ù.
+ ¨é ¼ÒÇÁÆ®¿þ¾î °³¹ß °ü·Ã »çÇ× ¹× °á°ú¿¡ ´ëÇÑ ¸íÈ®ÇÑ ±â·ÏÀ» À¯ÁöÇØ¾ß ÇÑ´Ù.
 
 Answer 1 : ¼ÒÇÁÆ®¿þ¾î °øÇÐ
 Answer 2 : SE
@@ -92,10 +85,8 @@ Answer 2 : Scrum
 
 No. 9	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ½ºÅ©·³ ÆÀÀ» ÀÌ·ç´Â ¼¼ °¡ÁöÀÇ ±¸¼º¿ø Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¿ä±¸»çÇ×ÀÌ ´ã±ä ¹é·Î±×(Backlog)¸¦ ÀÛ¼ºÇÏ´Â ÁÖÃ¼.
- 2.
- ÀÌÇØ°ü°èÀÚµé Áß °³¹ßµÉ Á¦Ç°¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ³ô°í, ¿ä±¸»çÇ×À» Ã¥ÀÓÁö°í ÀÇ»ç¸¦ °áÁ¤ÇÒ »ç¶÷À¸·Î ¼±Á¤.
+ ¨ç ¿ä±¸»çÇ×ÀÌ ´ã±ä ¹é·Î±×(Backlog)¸¦ ÀÛ¼ºÇÏ´Â ÁÖÃ¼.
+ ¨è ÀÌÇØ°ü°èÀÚµé Áß °³¹ßµÉ Á¦Ç°¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ³ô°í, ¿ä±¸»çÇ×À» Ã¥ÀÓÁö°í ÀÇ»ç¸¦ °áÁ¤ÇÒ »ç¶÷À¸·Î ¼±Á¤.
 
 Answer 1 : Á¦Ç° Ã¥ÀÓÀÚ
 Answer 2 : PO
@@ -138,10 +129,8 @@ Answer 2 : Sprint
 
 No. 14	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ½ºÅ©·³ °³¹ß ÇÁ·Î¼¼½ºÀÇ ´Ù¼¸ ´Ü°è Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¸ðµç ÆÀ¿øÀÌ ¸ÅÀÏ ¾à¼ÓµÈ ½Ã°£¿¡ ¾à 15ºÐ µ¿¾È ÁøÇà »óÈ²À» Á¡°ËÇÏ´Â È¸ÀÇ.
- 2.
- ³²Àº ÀÛ¾÷ ½Ã°£Àº ¼Ò¸ê Â÷Æ®(Burn- down Chart)¿¡ Ç¥½ÃÇÔ.
+ ¨ç ¸ðµç ÆÀ¿øÀÌ ¸ÅÀÏ ¾à¼ÓµÈ ½Ã°£¿¡ ¾à 15ºÐ µ¿¾È ÁøÇà »óÈ²À» Á¡°ËÇÏ´Â È¸ÀÇ.
+ ¨è ³²Àº ÀÛ¾÷ ½Ã°£Àº ¼Ò¸ê Â÷Æ®(Burn- down Chart)¿¡ Ç¥½ÃÇÔ.
 
 Answer 1 : ÀÏÀÏ ½ºÅ©·³ È¸ÀÇ
 Answer 2 : Daily Scrum Meeting
@@ -168,16 +157,11 @@ Q : ¼ö½Ã·Î ¹ß»ýÇÏ´Â °í°´ÀÇ ¿ä±¸»çÇ×¿¡ À¯¿¬ÇÏ°Ô ´ëÀÀÇÏ±â À§ÇØ °í°´ÀÇ Âü¿©¿Í °³¹ß 
  Âª°í ¹Ýº¹ÀûÀÎ °³¹ß ÁÖ±â, ´Ü¼øÇÑ ¼³°è, °í°´ÀÇ Àû±ØÀûÀÎ Âü¿©¸¦ ÅëÇØ ¼ÒÇÁÆ®¿þ¾î¸¦ ºü¸£°Ô °³¹ßÇÏ´Â °ÍÀ» ¸ñÀûÀ¸·Î ÇÑ´Ù.
  ¸±¸®ÁîÀÇ ±â°£À» Âª°Ô ¹Ýº¹ÇÏ¸é¼­ °í°´ÀÇ ¿ä±¸»çÇ× ¹Ý¿µ¿¡ ´ëÇÑ °¡½Ã¼ºÀ» ³ôÀÎ´Ù.
  ¡Û¡Û¡ÛÀÇ ´Ù¼¸ °¡Áö ÇÙ½É °¡Ä¡.
- 1.
- ÀÇ»ç¼ÒÅë(Communication).
- 2.
- ´Ü¼ø¼º(Simplicity).
- 3.
- ¿ë±â(Courage).
- 4.
- Á¸Áß(Respect).
- 5.
- ÇÇµå¹é(Feedback).
+ ¨ç ÀÇ»ç¼ÒÅë(Communication).
+ ¨è ´Ü¼ø¼º(Simplicity).
+ ¨é ¿ë±â(Courage).
+ ¨êÁ¸Áß(Respect).
+ ¨ë ÇÇµå¹é(Feedback).
 
 Answer 1 : XP
 Answer 2 : eXtreme Programming
@@ -185,10 +169,8 @@ Answer 2 : eXtreme Programming
 
 No. 18	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº XP °³¹ß ÇÁ·Î¼¼½ºÀÇ ³× Á¾·ù ÇÁ·Î¼¼½º Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ºÎºÐ È¤Àº ÀüÃ¼ °³¹ß ¿Ï·á ½ÃÁ¡¿¡ ´ëÇÑ ÀÏÁ¤À» ¼ö¸³ÇÏ´Â °Í.
- 2.
- ¸î °³ÀÇ ½ºÅä¸®°¡ Àû¿ëµÇ¾î ºÎºÐÀûÀ¸·Î ±â´ÉÀÌ ¿Ï·áµÈ Á¦Ç°À» Á¦°øÇÏ´Â °ÍÀ» ¸±¸®Áî¶ó°í ÇÔ.
+ ¨ç ºÎºÐ È¤Àº ÀüÃ¼ °³¹ß ¿Ï·á ½ÃÁ¡¿¡ ´ëÇÑ ÀÏÁ¤À» ¼ö¸³ÇÏ´Â °Í.
+ ¨è ¸î °³ÀÇ ½ºÅä¸®°¡ Àû¿ëµÇ¾î ºÎºÐÀûÀ¸·Î ±â´ÉÀÌ ¿Ï·áµÈ Á¦Ç°À» Á¦°øÇÏ´Â °ÍÀ» ¸±¸®Áî¶ó°í ÇÔ.
 
 Answer 1 : ¸±¸®Áî °èÈ¹ ¼ö¸³
 Answer 2 : Release Planning
@@ -223,7 +205,8 @@ No. 22	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº XPÀÇ ÁÖ¿ä ½ÇÃµ ¹æ¹ý(Practice)ÀÇ ÀÏ°ö °¡Áö ¹æ¹ý Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  ´Ù¸¥ »ç¶÷°ú ÇÔ²² ÇÁ·Î±×·¡¹ÖÀ» ¼öÇàÇÔÀ¸·Î½á °³¹ß¿¡ ´ëÇÑ Ã¥ÀÓÀ» °øµ¿À¸·Î ³ª´² °®´Â È¯°æÀ» Á¶¼ºÇÔ.
 
-Answer 1 : Pair Programming Â¦ ÇÁ·Î±×·¡¹Ö
+Answer 1 : Pair Programming
+Answer 2 : Â¦ ÇÁ·Î±×·¡¹Ö
 
 
 No. 23	 correct : 0,	 incorrect : 0
@@ -236,10 +219,8 @@ Answer 2 : °øµ¿ ÄÚµå ¼ÒÀ¯
 
 No. 24	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº XPÀÇ ÁÖ¿ä ½ÇÃµ ¹æ¹ý(Practice)ÀÇ ÀÏ°ö °¡Áö ¹æ¹ý Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °³¹ßÀÚ°¡ ½ÇÁ¦ ÄÚµå¸¦ ÀÛ¼ºÇÏ±â Àü¿¡ Å×½ºÆ® ÄÉÀÌ½º¸¦ ¸ÕÀú ÀÛ¼ºÇÏ¹Ç·Î ÀÚ½ÅÀÌ ¹«¾ùÀ» ÇØ¾ßÇÒÁö¸¦ Á¤È®È÷ ÆÄ¾ÇÇÔ.
- 2.
- Å×½ºÆ®°¡ Áö¼ÓÀûÀ¸·Î ÁøÇàµÉ ¼ö ÀÖµµ·Ï ÀÚµ¿È­µÈ Å×½ºÆÃ µµ±¸(±¸Á¶, ÇÁ·¹ÀÓ¿öÅ©)¸¦ »ç¿ëÇÔ.
+ ¨ç °³¹ßÀÚ°¡ ½ÇÁ¦ ÄÚµå¸¦ ÀÛ¼ºÇÏ±â Àü¿¡ Å×½ºÆ® ÄÉÀÌ½º¸¦ ¸ÕÀú ÀÛ¼ºÇÏ¹Ç·Î ÀÚ½ÅÀÌ ¹«¾ùÀ» ÇØ¾ßÇÒÁö¸¦ Á¤È®È÷ ÆÄ¾ÇÇÔ.
+ ¨è Å×½ºÆ®°¡ Áö¼ÓÀûÀ¸·Î ÁøÇàµÉ ¼ö ÀÖµµ·Ï ÀÚµ¿È­µÈ Å×½ºÆÃ µµ±¸(±¸Á¶, ÇÁ·¹ÀÓ¿öÅ©)¸¦ »ç¿ëÇÔ.
 
 Answer 1 : Test- Driven Development
 Answer 2 : Å×½ºÆ® ÁÖµµ °³¹ß
@@ -263,10 +244,8 @@ Answer 2 : °è¼ÓÀûÀÎ ÅëÇÕ
 
 No. 27	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº XPÀÇ ÁÖ¿ä ½ÇÃµ ¹æ¹ý(Practice)ÀÇ ÀÏ°ö °¡Áö ¹æ¹ý Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÁ·Î±×·¥ ±â´ÉÀÇ º¯°æ ¾øÀÌ ½Ã½ºÅÛÀ» Àç±¸¼ºÇÔ.
- 2.
- ¸ñÀû : ÇÁ·Î±×·¥À» ½±°Ô ÀÌÇØÇÏ°í ½±°Ô ±¸Á¤ÇÏ¿© ºü¸£°Ô °³¹ßÇÒ ¼ö ÀÖµµ·Ï ÇÏ±â À§ÇÔ.
+ ¨ç ÇÁ·Î±×·¥ ±â´ÉÀÇ º¯°æ ¾øÀÌ ½Ã½ºÅÛÀ» Àç±¸¼ºÇÔ.
+ ¨è ¸ñÀû : ÇÁ·Î±×·¥À» ½±°Ô ÀÌÇØÇÏ°í ½±°Ô ±¸Á¤ÇÏ¿© ºü¸£°Ô °³¹ßÇÒ ¼ö ÀÖµµ·Ï ÇÏ±â À§ÇÔ.
 
 Answer 1 : Refactoring
 Answer 2 : ¸®ÆÑÅä¸µ
@@ -285,16 +264,11 @@ Q : ÄÄÇ»ÅÍ ½Ã½ºÅÛÀÇ ÀÚ¿øÀ» È¿À²ÀûÀ¸·Î °ü¸®ÇÏ¸ç, »ç¿ëÀÚ°¡ ÄÄÇ»ÅÍ¸¦ Æí¸®ÇÏ°í È¿À²À
  ÄÄÇ»ÅÍ »ç¿ëÀÚ¿Í ÄÄÇ»ÅÍ ÇÏµå¿þ¾î °£ÀÇ ÀÎÅÍÆäÀÌ½º·Î¼­ µ¿ÀÛÇÏ´Â ½Ã½ºÅÛ ¼ÒÇÁÆ®¿þ¾îÀÇ ÀÏÁ¾ÀÌ´Ù.
  ´Ù¸¥ ÀÀ¿ë ÇÁ·Î±×·¥ÀÌ À¯¿ëÇÑ ÀÛ¾÷À» ÇÒ ¼ö ÀÖµµ·Ï È¯°æÀ» Á¦°øÇÑ´Ù.
  ¡Û¡Û¡Û °ü·Ã ¿ä±¸»çÇ× ½Äº° ½Ã °í·Á»çÇ×.
- 1.
- °¡¿ë¼º.
- 2.
- ¼º´É.
- 3.
- ±â¼ú Áö¿ø.
- 4.
- ÁÖº¯±â±â.
- 5.
- ±¸Ãàºñ¿ë.
+ ¨ç °¡¿ë¼º.
+ ¨è ¼º´É.
+ ¨é ±â¼ú Áö¿ø.
+ ¨êÁÖº¯±â±â.
+ ¨ë ±¸Ãàºñ¿ë.
 
 Answer 1 : ¿î¿µÃ¼Á¦
 Answer 2 : OS
@@ -306,16 +280,11 @@ Q : »ç¿ëÀÚ¿Í µ¥ÀÌÅÍº£ÀÌ½º »çÀÌ¿¡¼­ »ç¿ëÀÚÀÇ ¿ä±¸¿¡ µû¶ó Á¤º¸¸¦ »ý¼ºÇØ ÁÖ°í, µ¥ÀÌ
  ±âÁ¸ÀÇ ÆÄÀÏ ½Ã½ºÅÛÀÌ °®´Â µ¥ÀÌÅÍÀÇ Á¾¼Ó¼º°ú Áßº¹¼ºÀÇ ¹®Á¦¸¦ ÇØ°áÇÏ±â À§ÇØ Á¦¾ÈµÈ ½Ã½ºÅÛÀÌ´Ù.
  ¸ðµç ÀÀ¿ë ÇÁ·Î±×·¥µéÀÌ µ¥ÀÌÅÍº£ÀÌ½º¸¦ °ø¿ëÇÒ ¼ö ÀÖµµ·Ï °ü¸®ÇÑ´Ù.
  ¡Û¡Û¡Û °ü·Ã ¿ä±¸»çÇ× ½Äº° ½Ã °í·Á»çÇ×.
- 1.
- °¡¿ë¼º.
- 2.
- ¼º´É.
- 3.
- ±â¼ú Áö¿ø.
- 4.
- »óÈ£ È£È¯¼º.
- 5.
- ±¸Ãà ºñ¿ë.
+ ¨ç °¡¿ë¼º.
+ ¨è ¼º´É.
+ ¨é ±â¼ú Áö¿ø.
+ ¨ê»óÈ£ È£È¯¼º.
+ ¨ë ±¸Ãà ºñ¿ë.
 
 Answer 1 : µ¥ÀÌÅÍº£ÀÌ½º °ü¸® ½Ã½ºÅÛ
 Answer 2 : DBMS
@@ -327,14 +296,10 @@ Q : »ç¿ëÀÚÀÇ ¿ä±¸¿¡ µû¶ó º¯ÇÏ´Â µ¿ÀûÀÎ ÄÜÅÙÃ÷¸¦ Ã³¸®ÇÏ±â À§ÇØ »ç¿ëµÇ´Â ¹Ìµé¿þ¾î´
  µ¥ÀÌÅÍ Á¢±Ù, ¼¼¼Ç °ü¸®, Æ®·£Àè¼Ç °ü¸® µîÀ» À§ÇÑ ¶óÀÌºê·¯¸®¸¦ Á¦°øÇÑ´Ù.
  ÁÖ·Î µ¥ÀÌÅÍº£ÀÌ½º ¼­¹ö¿Í ¿¬µ¿ÇØ¼­ »ç¿ëÇÑ´Ù.
  ¡Û¡Û¡Û °ü·Ã ¿ä±¸»çÇ× ½Äº° ½Ã °í·Á»çÇ×.
- 1.
- °¡¿ë¼º.
- 2.
- ¼º´É.
- 3.
- ±â¼úÁö¿ø.
- 4.
- ±¸Ãàºñ¿ë.
+ ¨ç °¡¿ë¼º.
+ ¨è ¼º´É.
+ ¨é ±â¼úÁö¿ø.
+ ¨ê±¸Ãàºñ¿ë.
 
 Answer 1 : À¥ ¾ÖÇÃ¸®ÄÉÀÌ¼Ç ¼­¹ö
 Answer 2 : WAS
@@ -345,12 +310,9 @@ No. 32	 correct : 0,	 incorrect : 0
 Q : ´©±¸³ª º°´Ù¸¥ Á¦ÇÑ ¾øÀÌ »ç¿ëÇÒ ¼ö ÀÖµµ·Ï ¼Ò½º ÄÚµå¸¦ °ø°³ÇÑ ¼ÒÇÁÆ®¿þ¾î´Â?
  ¡Û¡Û¡Û ¶óÀÌ¼±½º¸¦ ¸¸Á·ÇÑ´Ù.
  ¡Û¡Û¡Û °ü·Ã ¿ä±¸»çÇ× ½Äº° ½Ã °í·Á»çÇ×.
- 1.
- ¶óÀÌ¼±½ºÀÇ Á¾·ù.
- 2.
- »ç¿ëÀÚ ¼ö.
- 3.
- ±â¼úÀÇ Áö¼Ó °¡´É¼º.
+ ¨ç ¶óÀÌ¼±½ºÀÇ Á¾·ù.
+ ¨è »ç¿ëÀÚ ¼ö.
+ ¨é ±â¼úÀÇ Áö¼Ó °¡´É¼º.
 
 Answer 1 : ¿ÀÇÂ ¼Ò½º
 Answer 2 : Open Source
@@ -361,14 +323,10 @@ Q : ¼ÒÇÁÆ®¿þ¾î°¡ ¾î¶² ¹®Á¦¸¦ ÇØ°áÇÏ±â À§ÇØ Á¦°øÇÏ´Â ¼­ºñ½º¿¡ ´ëÇÑ ¼³¸í°ú Á¤»óÀûÀ
  ¼ÒÇÁÆ®¿þ¾î °³¹ßÀÌ³ª À¯Áö º¸¼ö °úÁ¤¿¡¼­ ÇÊ¿äÇÑ ±âÁØ°ú ±Ù°Å¸¦ Á¦°øÇÑ´Ù.
  °³¹ß¿¡ Âü¿©ÇÏ´Â ÀÌÇØ°ü°èÀÚµé °£ÀÇ ÀÇ»ç¼ÒÅëÀ» ¿øÈ°ÇÏ°Ô ÇÏ´Â µ¥ µµ¿òÀ» ÁØ´Ù.
  ¡Û¡Û¡ÛÀÇ À¯Çü.
- 1.
- ±â´É ¡Û¡Û¡Û(Functional ¡Û¡Û¡Û).
- 2.
- ºñ±â´É ¡Û¡Û¡Û(Non- Functional ¡Û¡Û¡Û).
- 3.
- »ç¿ëÀÚ ¡Û¡Û¡Û(User ¡Û¡Û¡Û).
- 4.
- ½Ã½ºÅÛ ¡Û¡Û¡Û(System ¡Û¡Û¡Û).
+ ¨ç ±â´É ¡Û¡Û¡Û(Functional ¡Û¡Û¡Û).
+ ¨è ºñ±â´É ¡Û¡Û¡Û(Non- Functional ¡Û¡Û¡Û).
+ ¨é »ç¿ëÀÚ ¡Û¡Û¡Û(User ¡Û¡Û¡Û).
+ ¨ê½Ã½ºÅÛ ¡Û¡Û¡Û(System ¡Û¡Û¡Û).
 
 Answer 1 : ¿ä±¸»çÇ×
 Answer 2 : Requirements
@@ -434,18 +392,12 @@ Q : ½Ã½ºÅÛ, »ç¿ëÀÚ, °³¹ßÀÚ µî ½Ã½ºÅÛ °³¹ß¿¡ °ü·ÃµÈ »ç¶÷µéÀÌ ¼­·Î ÀÇ°ßÀ» ±³È¯ÇÏ¿©
  °³¹ßÀÚ¿Í °í°´ »çÀÌÀÇ °ü°è°¡ ¸¸µé¾îÁö°í ÀÌÇØ°ü°èÀÚ(Stakeholder)°¡ ½Äº°µÈ´Ù.
  ¼ÒÇÁÆ®¿þ¾î °³¹ß »ý¸í ÁÖ±â(SDLC) µ¿¾È Áö¼ÓÀûÀ¸·Î ¹Ýº¹µÈ´Ù.
  ¡Û¡Û¡Û ÁÖ¿ä ±â¹ý.
- 1.
- Ã»Ãë¿Í ÀÎÅÍºä.
- 2.
- ¼³¹®.
- 3.
- ºê·¹ÀÎ½ºÅä¹Ö.
- 4.
- ¿öÅ©¼¥.
- 5.
- ÇÁ·ÎÅäÅ¸ÀÌÇÎ.
- 6.
- À¯½ºÄÉÀÌ½º.
+ ¨ç Ã»Ãë¿Í ÀÎÅÍºä.
+ ¨è ¼³¹®.
+ ¨é ºê·¹ÀÎ½ºÅä¹Ö.
+ ¨ê¿öÅ©¼¥.
+ ¨ë ÇÁ·ÎÅäÅ¸ÀÌÇÎ.
+ ¨ì À¯½ºÄÉÀÌ½º.
 
 Answer 1 : ¿ä±¸»çÇ× µµÃâ
 Answer 2 : Requirement Elicitation
@@ -457,10 +409,8 @@ Q : °³¹ß ´ë»ó¿¡ ´ëÇÑ »ç¿ëÀÚÀÇ ¿ä±¸»çÇ× Áß ¸íÈ®ÇÏÁö ¾Ê°Å³ª ¸ðÈ£ÇÏ¿© ÀÌÇØµÇÁö ¾Ê´Â
  ¿ä±¸»çÇ×ÀÇ Å¸´ç¼ºÀ» Á¶»çÇÏ°í ºñ¿ë°ú ÀÏÁ¤¿¡ ´ëÇÑ Á¦¾àÀ» ¼³Á¤ÇÑ´Ù.
  ¼­·Î »óÃæµÇ´Â ¿ä±¸»çÇ×ÀÌ ÀÖÀ¸¸é ÀÌ¸¦ ÁßÀçÇÏ´Â °úÁ¤ÀÌ´Ù.
  ¡Û¡Û¡Û¿¡ »ç¿ëµÇ´Â ´ëÇ¥ÀûÀÎ µµ±¸.
- 1.
- ÀÚ·á Èå¸§µµ(DFD).
- 2.
- ÀÚ·á »çÀü(DD).
+ ¨ç ÀÚ·á Èå¸§µµ(DFD).
+ ¨è ÀÚ·á »çÀü(DD).
 
 Answer 1 : ¿ä±¸»çÇ× ºÐ¼®
 Answer 2 : Requirement Analysis
@@ -499,12 +449,9 @@ Q : ´ÙÀ½Àº ¿ä±¸»çÇ× ¸í¼¼ ±â¹ýÀÇ µÎ °¡Áö Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  ±â¹ý : ¼öÇÐÀû ¿ø¸® ±â¹Ý, ¸ðµ¨ ±â¹Ý.
  ÀÛ¼º ¹æ¹ý : ¼öÇÐÀû ±âÈ£, Á¤ÇüÈ­µÈ Ç¥±â¹ý.
  Æ¯Â¡ : .
-1.
- ¿ä±¸»çÇ×À» Á¤È®ÇÏ°í °£°áÇÏ°Ô Ç¥ÇöÇÒ ¼ö ÀÖÀ½.
- 2.
- ¿ä±¸»çÇ×¿¡ ´ëÇÑ °á°ú°¡ ÀÛ¼ºÀÚ¿¡ °ü°è¾øÀÌ ÀÏ°ü¼ºÀÌ ÀÖÀ¸¹Ç·Î ¿ÏÀü¼º °ËÁõÀÌ °¡´ÉÇÔ.
- 3.
- Ç¥±â¹ýÀÌ ¾î·Á¿ö »ç¿ëÀÚ°¡ ÀÌÇØÇÏ±â ¾î·Á¿ò.
+¨ç ¿ä±¸»çÇ×À» Á¤È®ÇÏ°í °£°áÇÏ°Ô Ç¥ÇöÇÒ ¼ö ÀÖÀ½.
+ ¨è ¿ä±¸»çÇ×¿¡ ´ëÇÑ °á°ú°¡ ÀÛ¼ºÀÚ¿¡ °ü°è¾øÀÌ ÀÏ°ü¼ºÀÌ ÀÖÀ¸¹Ç·Î ¿ÏÀü¼º °ËÁõÀÌ °¡´ÉÇÔ.
+ ¨é Ç¥±â¹ýÀÌ ¾î·Á¿ö »ç¿ëÀÚ°¡ ÀÌÇØÇÏ±â ¾î·Á¿ò.
  Á¾·ù : VDM, Z, Petri- net, CSP µî.
 
 Answer 1 : Á¤Çü ¸í¼¼ ±â¹ý
@@ -514,10 +461,8 @@ No. 45	 correct : 0,	 incorrect : 0
 Q : ±â¹ý : »óÅÂ/±â´É/°´Ã¼ Áß½É.
  ÀÛ¼º ¹æ¹ý : ÀÏ¹Ý ¸í»ç, µ¿»ç µîÀÇ ÀÚ¿¬¾î¸¦ ±â¹ÝÀ¸·Î ¼­¼ú ¶Ç´Â ´ÙÀÌ¾î±×·¥À¸·Î ÀÛ¼º.
  Æ¯Â¡ : .
- 1.
- ÀÚ¿¬¾îÀÇ »ç¿ëÀ¸·Î ÀÎÇØ ¿ä±¸»çÇ×¿¡ ´ëÇÑ °á°ú°¡ ÀÛ¼ºÀÚ¿¡ µû¶ó ´Ù¸¦ ¼ö ÀÖ¾î ÀÏ°ü¼ºÀÌ ¶³¾îÁö°í, ÇØ¼®ÀÌ ´Þ¶óÁú ¼ö ÀÖÀ½.
- 2.
- ³»¿ëÀÇ ÀÌÇØ°¡ ½¬¿ö ÀÇ»ç¼ÒÅëÀÌ ¿ëÀÌÇÔ.
+ ¨ç ÀÚ¿¬¾îÀÇ »ç¿ëÀ¸·Î ÀÎÇØ ¿ä±¸»çÇ×¿¡ ´ëÇÑ °á°ú°¡ ÀÛ¼ºÀÚ¿¡ µû¶ó ´Ù¸¦ ¼ö ÀÖ¾î ÀÏ°ü¼ºÀÌ ¶³¾îÁö°í, ÇØ¼®ÀÌ ´Þ¶óÁú ¼ö ÀÖÀ½.
+ ¨è ³»¿ëÀÇ ÀÌÇØ°¡ ½¬¿ö ÀÇ»ç¼ÒÅëÀÌ ¿ëÀÌÇÔ.
  Á¾·ù : FSM, Decision Tavle, ER¸ðµ¨¸µ, State Chart(SADT) µî.
 
 Answer 1 : ºñÁ¤Çü ¸í¼¼ ±â¹ý
@@ -538,18 +483,12 @@ Q : ÀÚ·áÀÇ Èå¸§°ú Ã³¸®¸¦ Áß½ÉÀ¸·Î ÇÏ´Â ¿ä±¸»çÇ× ºÐ¼® ¹æ¹ýÀº?
  ÇÏÇâ½Ä ¹æ¹ýÀ» »ç¿ëÇÏ¿© ½Ã½ºÅÛÀ» ¼¼ºÐÈ­ÇÒ ¼ö ÀÖ´Ù.
  ºÐ¼®ÀÇ Áßº¹À» ¹èÁ¦ÇÒ ¼ö ÀÖ´Ù.
  ÁÖ¿ä ¡Û¡Û¡Û µµ±¸.
- 1.
- ÀÚ·á Èå¸§µµ(DFD).
- 2.
- ÀÚ·á »çÀü(DD).
- 3.
- ¼Ò´ÜÀ§ ¸í¼¼¼­(Mini- Spec).
- 4.
- °³Ã¼ °ü°èµµ(ERD).
- 5.
- »óÅÂ ÀüÀÌµµ(STD).
- 6.
- Á¦¾î ¸í¼¼¼­.
+ ¨ç ÀÚ·á Èå¸§µµ(DFD).
+ ¨è ÀÚ·á »çÀü(DD).
+ ¨é ¼Ò´ÜÀ§ ¸í¼¼¼­(Mini- Spec).
+ ¨ê°³Ã¼ °ü°èµµ(ERD).
+ ¨ë »óÅÂ ÀüÀÌµµ(STD).
+ ¨ì Á¦¾î ¸í¼¼¼­.
 
 Answer 1 : ±¸Á¶Àû ºÐ¼® ±â¹ý
 
@@ -576,21 +515,17 @@ Answer 3 : Data Dictionary
 No. 50	 correct : 0,	 incorrect : 0
 Q : ¿ä±¸»çÇ×À» ÀÚµ¿À¸·Î ºÐ¼®ÇÏ°í, ¿ä±¸»çÇ× ºÐ¼® ¸í¼¼¼­¸¦ ±â¼úÇÏµµ·Ï °³¹ßµÈ µµ±¸¸¦ ÀÇ¹ÌÇÏ´Â °ÍÀº?
  ´ëÇ¥ÀûÀÎ ¡Û¡Û¡Û.
- 1.
- SADT : .
+ ¨ç SADT : .
  ¨ç ½Ã½ºÅÛ Á¤ÀÇ, ¼ÒÇÁÆ®¿þ¾î ¿ä±¸»çÇ× ºÐ¼®, ½Ã½ºÅÛ/¼ÒÇÁÆ®¿þ¾î ¼³°è¸¦ À§ÇÑ µµ±¸.
  ¨è SoftTech »ç¿¡¼­ °³¹ß.
  ¨é ±¸Á¶Àû ¿ä±¸ ºÐ¼®À» ÇÏ±â À§ÇØ ºí·Ï ´ÙÀÌ¾î±×·¥À» Ã¤ÅÃÇÑ ÀÚµ¿È­ µµ±¸.
- 2.
- SREM = RSL/REVS : .
+ ¨è SREM = RSL/REVS : .
  ¨ç TRW »ç°¡ ½Ç½Ã°£ Ã³¸® ¼ÒÇÁÆ®¿þ¾î ½Ã½ºÅÛ¿¡¼­ ¿ä±¸»çÇ×À» ¸íÈ®È÷ ±â¼úÇÏµµ·Ï ÇÒ ¸ñÀûÀ¸·Î °³¹ßÇÑ µµ±¸.
  ¨è RSL°ú REVS¸¦ »ç¿ëÇÏ´Â ÀÚµ¿È­ µµ±¸.
- 3.
- PSL/PSA : .
+ ¨é PSL/PSA : .
  ¨ç PSL°ú PSA¸¦ »ç¿ëÇÏ´Â ÀÚµ¿È­ µµ±¸.
  ¨è ¹Ì½Ã°£ ´ëÇÐ¿¡¼­ °³¹ß.
- 4.
- TAGS : .
+ ¨êTAGS : .
  ¨ç ½Ã½ºÅÛ °øÇÐ ¹æ¹ý ÀÀ¿ë¿¡ ´ëÇÑ ÀÚµ¿ Á¢±Ù ¹æ¹ý.
  ¨è °³¹ß ÁÖ±âÀÇ Àü °úÁ¤¿¡ ÀÌ¿ëÇÒ ¼öÀÖ´Â ÅëÇÕ ÀÚµ¿È­ µµ±¸.
 
@@ -605,11 +540,8 @@ Q : ½Ã½ºÅÛÀÇ ºÐ¼® ¹× ¼³°è, ¶Ç´Â ¹®¼­È­¿¡ »ç¿ëµÇ´Â ±â¹ýÀ¸·Î, ½Ã½ºÅÛ ½ÇÇà °úÁ¤ÀÎ À
  ±âÈ£, µµÇ¥ µîÀ» »ç¿ëÇÏ¹Ç·Î º¸±â ½±°í ÀÌÇØÇÏ±âµµ ½±´Ù.
  ½Ã½ºÅÛÀÇ ±â´ÉÀ» ¿©·¯ °³ÀÇ °íÀ¯ ¸ðµâ·Î ºÐÇÒÇÏ¿© ÀÌµé °£ÀÇ ÀÎÅÍÆäÀÌ½º¸¦ °èÃþ ±¸Á¶·Î Ç¥ÇöÇÑ °ÍÀ» ¡Û¡Û¡Û Chart¶ó°í ÇÑ´Ù.
  ¡Û¡Û¡Û ChartÀÇ Á¾·ù.
- 1.
- °¡½ÃÀû µµÇ¥(Visual Table of Contents, µµ½Ä¸ñÂ÷).
- 2.
- ÃÑÃ¼Àû µµÇ¥(Overview Diagram, ÃÑ°ý µµÇ¥, °³¿ä µµÇ¥), 3.
- ¼¼ºÎÀû µµÇ¥(Detail Diagram, »ó¼¼µµÇ¥).
+ ¨ç °¡½ÃÀû µµÇ¥(Visual Table of Contents, µµ½Ä¸ñÂ÷).
+ ¨è ÃÑÃ¼Àû µµÇ¥(Overview Diagram, ÃÑ°ý µµÇ¥, °³¿ä µµÇ¥), ¨é ¼¼ºÎÀû µµÇ¥(Detail Diagram, »ó¼¼µµÇ¥).
 
 Answer 1 : HIPO
 Answer 2 : Hirarchy Input Process Output
@@ -620,12 +552,9 @@ Q : ½Ã½ºÅÛ ºÐ¼®, ¼³°è, ±¸Çö µî ½Ã½ºÅÛ °³¹ß °úÁ¤¿¡¼­ ½Ã½ºÅÛ °³¹ßÀÚ¿Í °í°´ ¶Ç´Â °³
  Rumbaugh(OMT), Booch, Jacobson µîÀÇ °´Ã¼ÁöÇâ ¹æ¹ý·ÐÀÇ ÀåÁ¡À» ÅëÇÕÇÏ¿´´Ù.
  OMG(Object Managemonet Group)¿¡¼­ Ç¥ÁëÀ¸·Î ÁöÁ¤ÇÏ¿´´Ù.
  ¡Û¡Û¡ÛÀÇ ±¸¼º ¿ä¼Ò.
- 1.
- »ç¹°(Thing).
- 2.
- °ü°è(Relationship).
- 3.
- ´ÙÀÌ¾î±×·¥(Diagram).
+ ¨ç »ç¹°(Thing).
+ ¨è °ü°è(Relationship).
+ ¨é ´ÙÀÌ¾î±×·¥(Diagram).
 
 Answer 1 : UML
 Answer 2 : Unified Modeling Language
@@ -641,10 +570,8 @@ Answer 2 : Thing
 
 No. 54	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº »ç¹°ÀÇ ³× °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ½Ã½ºÅÛÀÇ °³³äÀû, ¹°¸®Àû ¿ä¼Ò¸¦ Ç¥Çö.
- 2.
- Å¬·¡½º(Class), À¯½ºÄÉÀÌ½º(Use Case), ÄÄÆ÷³ÍÆ®(Component), ÀÎÅÍÆäÀÌ½º(Interface), ³ëµå(Node)µî.
+ ¨ç ½Ã½ºÅÛÀÇ °³³äÀû, ¹°¸®Àû ¿ä¼Ò¸¦ Ç¥Çö.
+ ¨è Å¬·¡½º(Class), À¯½ºÄÉÀÌ½º(Use Case), ÄÄÆ÷³ÍÆ®(Component), ÀÎÅÍÆäÀÌ½º(Interface), ³ëµå(Node)µî.
 
 Answer 1 : ±¸Á¶ »ç¹°
 Answer 2 : Structural Thing
@@ -652,10 +579,8 @@ Answer 2 : Structural Thing
 
 No. 55	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº »ç¹°ÀÇ ³× °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ½Ã°£°ú °ø°£¿¡ µû¸¥ ¿ä¼ÒµéÀÇ ÇàÀ§¸¦ Ç¥Çö.
- 2.
- »óÈ£ÀÛ¿ë(Interaction), »óÅÂ ¸Ó½Å(State Machine) µî.
+ ¨ç ½Ã°£°ú °ø°£¿¡ µû¸¥ ¿ä¼ÒµéÀÇ ÇàÀ§¸¦ Ç¥Çö.
+ ¨è »óÈ£ÀÛ¿ë(Interaction), »óÅÂ ¸Ó½Å(State Machine) µî.
 
 Answer 1 : Çàµ¿ »ç¹°
 Answer 2 : Behavioral Thing
@@ -663,10 +588,8 @@ Answer 2 : Behavioral Thing
 
 No. 56	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº »ç¹°ÀÇ ³× °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¿ä¼ÒµéÀ» ±×·ìÀ¸·Î ¹­¾î¼­ Ç¥Çö.
- 2.
- ÆÐÅ°Áö(Package).
+ ¨ç ¿ä¼ÒµéÀ» ±×·ìÀ¸·Î ¹­¾î¼­ Ç¥Çö.
+ ¨è ÆÐÅ°Áö(Package).
 
 Answer 1 : ±×·ì »ç¹°
 Answer 2 : Grouping Thing
@@ -771,10 +694,8 @@ Answer 2 : Class Diagram
 
 No. 67	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ±¸Á¶Àû(Structural) ´ÙÀÌ¾î±×·¥ÀÇ ¿©¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Å¬·¡½º¿¡ ¼ÓÇÑ »ç¹°(°´Ã¼)µé, Áï ÀÎ½ºÅÏ½º(Instance)¸¦ Æ¯Á¤ ½ÃÁ¡ÀÇ °´Ã¼¿Í °´Ã¼ »çÀÌÀÇ °ü°è·Î Ç¥ÇöÇÔ.
- 2.
- ·³¹Ù¿ì(Rumbaugh) °´Ã¼ÁöÇâ ºÐ¼® ±â¹ý¿¡¼­ °´Ã¼ ¸ðµ¨¸µ¿¡ È°¿ëµÊ.
+ ¨ç Å¬·¡½º¿¡ ¼ÓÇÑ »ç¹°(°´Ã¼)µé, Áï ÀÎ½ºÅÏ½º(Instance)¸¦ Æ¯Á¤ ½ÃÁ¡ÀÇ °´Ã¼¿Í °´Ã¼ »çÀÌÀÇ °ü°è·Î Ç¥ÇöÇÔ.
+ ¨è ·³¹Ù¿ì(Rumbaugh) °´Ã¼ÁöÇâ ºÐ¼® ±â¹ý¿¡¼­ °´Ã¼ ¸ðµ¨¸µ¿¡ È°¿ëµÊ.
 
 Answer 1 : °´Ã¼ ´ÙÀÌ¾î±×·¥
 Answer 2 : Object Diagram
@@ -782,10 +703,8 @@ Answer 2 : Object Diagram
 
 No. 68	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ±¸Á¶Àû(Structural) ´ÙÀÌ¾î±×·¥ÀÇ ¿©¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ½ÇÁ¦ ±¸Çö ¸ðµâÀÎ ÄÄÆ÷³ÍÆ® °£ÀÇ °ü°è³ª ÄÄÆ÷³ÍÆ® °£ÀÇ ÀÎÅÍÆäÀÌ½º¸¦ Ç¥ÇöÇÔ.
- 2.
- ±¸Çö ´Ü°è¿¡¼­ »ç¿ëµÊ.
+ ¨ç ½ÇÁ¦ ±¸Çö ¸ðµâÀÎ ÄÄÆ÷³ÍÆ® °£ÀÇ °ü°è³ª ÄÄÆ÷³ÍÆ® °£ÀÇ ÀÎÅÍÆäÀÌ½º¸¦ Ç¥ÇöÇÔ.
+ ¨è ±¸Çö ´Ü°è¿¡¼­ »ç¿ëµÊ.
 
 Answer 1 : ÄÄÆ÷³ÍÆ® ´ÙÀÌ¾î±×·¥
 Answer 2 : Component Diagram
@@ -793,10 +712,8 @@ Answer 2 : Component Diagram
 
 No. 69	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ±¸Á¶Àû(Structural) ´ÙÀÌ¾î±×·¥ÀÇ ¿©¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °á°ú¹°, ÇÁ·Î¼¼½º, ÄÄÆ÷³ÍÆ® µî ¹°¸®Àû ¿ä¼ÒµéÀÇ À§Ä¡¸¦ Ç¥ÇöÇÔ.
- 2.
- ±¸Çö ´Ü°è¿¡¼­ »ç¿ëµÊ.
+ ¨ç °á°ú¹°, ÇÁ·Î¼¼½º, ÄÄÆ÷³ÍÆ® µî ¹°¸®Àû ¿ä¼ÒµéÀÇ À§Ä¡¸¦ Ç¥ÇöÇÔ.
+ ¨è ±¸Çö ´Ü°è¿¡¼­ »ç¿ëµÊ.
 
 Answer 1 : ¹èÄ¡ ´ÙÀÌ¾î±×·¥
 Answer 2 : Deployment Diagram
@@ -820,10 +737,8 @@ Answer 2 : Package Diagram
 
 No. 72	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ÇàÀ§(Behavioral) ´ÙÀÌ¾î±×·¥ÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- »ç¿ëÀÚÀÇ ¿ä±¸¸¦ ºÐ¼®ÇÏ´Â °ÍÀ¸·Î, ±â´É ¸ðµ¨¸µ ÀÛ¾÷¿¡ »ç¿ëÇÔ.
- 2.
- »ç¿ëÀÚ(Actor)¿Í »ç¿ë »ç·Ê(Use Case)·Î ±¸¼ºµÊ.
+ ¨ç »ç¿ëÀÚÀÇ ¿ä±¸¸¦ ºÐ¼®ÇÏ´Â °ÍÀ¸·Î, ±â´É ¸ðµ¨¸µ ÀÛ¾÷¿¡ »ç¿ëÇÔ.
+ ¨è »ç¿ëÀÚ(Actor)¿Í »ç¿ë »ç·Ê(Use Case)·Î ±¸¼ºµÊ.
 
 Answer 1 : À¯½ºÄÉÀÌ½º ´ÙÀÌ¾î±×·¥
 Answer 2 : Use Case Diagram
@@ -847,10 +762,8 @@ Answer 2 : Communication Diagram
 
 No. 75	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ÇàÀ§(Behavioral) ´ÙÀÌ¾î±×·¥ÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÏ³ªÀÇ °´Ã¼°¡ ÀÚ½ÅÀÌ ¼ÓÇÑ Å¬·¡½ºÀÇ »óÅÂ º¯È­ È¤Àº ´Ù¸¥ °´Ã¼¿ÍÀÇ »óÈ£ ÀÛ¿ë¿¡ µû¶ó »óÅÂ°¡ ¾î¶»°Ô º¯È­ÇÏ´ÂÁö¸¦ Ç¥ÇöÇÔ.
- 2.
- ·³¹Ù¿ì(Rumbaugh) °´Ã¼ÁöÇâ ºÐ¼® ±â¹ý¿¡¼­ µ¿Àû ¸ðµ¨¸µ¿¡ È°¿ëµÊ.
+ ¨ç ÇÏ³ªÀÇ °´Ã¼°¡ ÀÚ½ÅÀÌ ¼ÓÇÑ Å¬·¡½ºÀÇ »óÅÂ º¯È­ È¤Àº ´Ù¸¥ °´Ã¼¿ÍÀÇ »óÈ£ ÀÛ¿ë¿¡ µû¶ó »óÅÂ°¡ ¾î¶»°Ô º¯È­ÇÏ´ÂÁö¸¦ Ç¥ÇöÇÔ.
+ ¨è ·³¹Ù¿ì(Rumbaugh) °´Ã¼ÁöÇâ ºÐ¼® ±â¹ý¿¡¼­ µ¿Àû ¸ðµ¨¸µ¿¡ È°¿ëµÊ.
 
 Answer 1 : »óÅÂ ´ÙÀÌ¾î±×·¥
 Answer 2 : State Diagram
@@ -951,12 +864,9 @@ Q : ½Ã½ºÅÛÀÇ ³»ºÎ ±¸¼º ¿ä¼ÒµéÀÇ »óÅÂ º¯È­ °úÁ¤°ú °úÁ¤¿¡¼­ ¹ß»ýÇÏ´Â »óÈ£ ÀÛ¿ëÀ» Ç
  ½Ã½ºÅÛ ³»ºÎ ±¸¼º ¿ä¼Òµé °£¿¡ ÀÌ·ç¾îÁö´Â µ¿ÀÛÀÌ¶ó´Â °üÁ¡(View)¿¡¼­ Ç¥ÇöÇÑ´Ù.
  ½Ã½ºÅÛÀÌ ½ÇÇàµÉ ¶§ ±¸¼º ¿ä¼Òµé °£ÀÇ ¸Þ½ÃÁö È£Ãâ, Áï ¿ÀÆÛ·¹ÀÌ¼ÇÀ» ÅëÇÑ »óÈ£ ÀÛ¿ë¿¡ ÃÊÁ¡À» µÐ´Ù.
  ¡Û¡Û¡ÛÀÇ Á¾·ù.
- 1.
- ¼øÂ÷ ´ÙÀÌ¾î±×·¥.
- 2.
- Ä¿¹Â´ÏÄÉÀÌ¼Ç ´ÙÀÌ¾î±×·¥.
- 3.
- »óÅÂ ´ÙÀÌ¾î±×·¥.
+ ¨ç ¼øÂ÷ ´ÙÀÌ¾î±×·¥.
+ ¨è Ä¿¹Â´ÏÄÉÀÌ¼Ç ´ÙÀÌ¾î±×·¥.
+ ¨é »óÅÂ ´ÙÀÌ¾î±×·¥.
 
 Answer 1 : µ¿Àû ¸ðµ¨¸µ
 
@@ -1088,29 +998,21 @@ No. 100	 correct : 0,	 incorrect : 1
 Q : »õ·Î¿î ¿ä±¸¿¡ ¸Âµµ·Ï ±âÁ¸ ½Ã½ºÅÛÀ» ÀÌ¿ëÇÏ¿© º¸´Ù ³ªÀº ½Ã½ºÅÛÀ» ±¸ÃàÇÏ°í »õ·Î¿î ±â´ÉÀ» Ãß°¡ÇÏ¿© ¼ÒÇÁÆ®¿þ¾î ¼º´ÉÀ» Çâ»ó½ÃÅ°´Â ¹æ¹ýÀ¸·Î À¯Áöº¸¼ö ºñ¿ëÀÌ ¼ÒÇÁÆ®¿þ¾î °³¹ß ºñ¿ëÀÇ ´ëºÎºÐÀ» Â÷ÁöÇÏ±â ¶§¹®¿¡ À¯Áöº¸¼öÀÇ »ý»ê¼º Çâ»óÀ» ÅëÇØ ¼ÒÇÁÆ®¿þ¾î À§±â¸¦ ÇØ°áÇÏ´Â ¹æ¹ýÀÌ´Ù.
  ±âÁ¸ ¼ÒÇÁÆ®¿þ¾îÀÇ µ¥ÀÌÅÍ¿Í ±â´ÉµéÀÇ °³Á¶ ¹× °³¼±À» ÅëÇØ À¯Áöº¸¼ö¼º°ú Ç°ÁúÀ» Çâ»ó½ÃÅ°´Â Æ¯Â¡ÀÌ ÀÖ´Ù.
  ¶ÇÇÑ ´ÙÀ½ ³× °¡ÁöÀÇ ÀÌÁ¡À» °¡Áø´Ù.
- 1.
- ¼ÒÇÁÆ®¿þ¾îÀÇ Ç°Áú Çâ»ó.
- 2.
- ¼ÒÇÁÆ®¿þ¾îÀÇ »ý»ê¼º Áõ°¡.
- 3.
- ¼ÒÇÁÆ®¿þ¾îÀÇ ¼ö¸í ¿¬Àå.
- 4.
- ¼ÒÇÁÆ®¿þ¾îÀÇ ¿À·ù °¨¼Ò.
+ ¨ç ¼ÒÇÁÆ®¿þ¾îÀÇ Ç°Áú Çâ»ó.
+ ¨è ¼ÒÇÁÆ®¿þ¾îÀÇ »ý»ê¼º Áõ°¡.
+ ¨é ¼ÒÇÁÆ®¿þ¾îÀÇ ¼ö¸í ¿¬Àå.
+ ¨ê¼ÒÇÁÆ®¿þ¾îÀÇ ¿À·ù °¨¼Ò.
 
 Answer 1 : ¼ÒÇÁÆ®¿þ¾î Àç°øÇÐ
 Answer 2 : Software Reengineering
 
 
 No. 101	 correct : 0,	 incorrect : 1
-Q : ¼ÒÇÁÆ®¿þ¾î °³¹ß °úÁ¤¿¡¼­ »ç¿ëµÇ´Â ¿ä±¸ ºÐ¼®, ¼³°è, ±¸Çö, °Ë»ç ¹× µð¹ö±ë °úÁ¤ ÀüÃ¼ ¶Ç´Â ÀÏºÎ¸¦ ÄÄÇ»ÅÍ¿Í Àü¿ë ¼ÒÇÁÆ®¿þ¾î µµ±¸¸¦ »ç¿ëÇÏ¿© ÀÚµ¿È­ÇÏ´Â ¹æ¹ýÀ¸·Î °´Ã¼ÁöÇâ ½Ã½ºÅÛ, ±¸Á¶Àû ½Ã½ºÅÛ µî ´Ù¾çÇÑ ½Ã½ºÅÛ¿¡¼­ È°¿ëµÇ´Â ÀÌ ÀÚµ¿È­ µµ±¸´Â ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±âÀÇ ÀüÃ¼ ´Ü°è¸¦ ¿¬°áÇÏ°í ÀÚµ¿È­ÇÏ´Â ÅëÇÕµÈ µµ±¸¸¦ Á¦°øÇÑ´Ù.
+Q : ¼ÒÇÁÆ®¿þ¾î °³¹ß °úÁ¤¿¡¼­ »ç¿ëµÇ´Â ¿ä±¸ ºÐ¼®, ¼³°è, ±¸Çö, °Ë»ç ¹× µð¹ö±ë °úÁ¤ ÀüÃ¼ ¶Ç´Â ÀÏºÎ¸¦ ÄÄÇ»ÅÍ¿Í Àü¿ë ¼ÒÇÁÆ®¿þ¾î µµ±¸¸¦ »ç¿ëÇÏ¿© ÀÚµ¿È­ÇÏ´Â ¹æ¹ýÀ¸·Î °´Ã¼ÁöÇâ ½Ã½ºÅÛ, ±¸Á¶Àû ½Ã½ºÅÛ µî ´Ù¾çÇÑ ½Ã½ºÅÛ¿¡¼­ È°¿ëµÇ´Â ÀÌ ÀÚµ¿È­ µµ±¸´Â ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±âÀÇ ÀüÃ¼ ´Ü°è¸¦ ¿¬°áÇÏ°í ÀÚµ¿È­ÇÏ´Â ÅëÇÕµÈ µµ±¸¸¦ Á¦°øÇÏ´Â °ÍÀº?
  ¼ÒÇÁÆ®¿þ¾î °³¹ß µµ±¸¿Í ¹æ¹ý·ÐÀÌ °áÇÕµÇ¾úÀ¸¸ç Á¤ÇüÈ­µÈ ±¸Á¶ ¹× ¹æ¹ýÀ» ¼ÒÇÁÆ®¿þ¾î °³¹ß¿¡ Àû¿ëÇÏ¿© »ý»ê¼º Çâ»óÀ» ±¸ÇöÇÏ¿´À¸¸ç ´ÙÀ½ ¼¼ °¡ÁöÀÇ ÁÖ¿ä ±â´ÉÀ» °¡Áø´Ù.
- 1.
- ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±â Àü ´Ü°èÀÇ ¿¬°á.
- 2.
- ´Ù¾çÇÑ ¼ÒÇÁÆ®¿þ¾î °³¹ß ¸ðÇü Áö¿ø.
- 3.
- ±×·¡ÇÈ Áö¿ø.
- ÀÌ ¹æ¹ýÀº?
+ ¨ç ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±â Àü ´Ü°èÀÇ ¿¬°á.
+ ¨è ´Ù¾çÇÑ ¼ÒÇÁÆ®¿þ¾î °³¹ß ¸ðÇü Áö¿ø.
+ ¨é ±×·¡ÇÈ Áö¿ø.
 
 Answer 1 : CASE
 Answer 2 : Computer Aided Software Engieering
@@ -1156,7 +1058,7 @@ Answer 2 : Effort Per Task ±â¹ý
 
 
 No. 108	 correct : 0,	 incorrect : 2
-Q : ¿ø½Ã ÇÁ·Î±×·¥ÀÇ ±Ô¸ðÀÎ LOC(¿ø½Ã ÄÚµå ¶óÀÎ ¼ö)¿¡ ÀÇÇÑ ºñ¿ë »êÁ¤ ±â¹ýÀÌ¸ç, °³¹ßÇÒ ¼ÒÇÁÆ®¿þ¾îÀÇ ±Ô¸ð(LOC)¸¦ ¿¹ÃøÇÑ ÈÄ ÀÌ¸¦ ¼ÒÇÁÆ®¿þ¾î Á¾·ù¿¡ µû¶ó ´Ù¸£°Ô Ã¥Á¤µÇ´Â ºñ¿ë »êÁ¤ ¹æÁ¤½Ä¿¡ ´ëÀÔÇÏ¿© ºñ¿ëÀ» »êÁ¤ÇÏ°í, ºñ¿ë »êÁ¤ °á°ú´Â ÇÁ·ÎÁ§Æ®¸¦ ¿Ï¼ºÇÏ´Â µ¥ ÇÊ¿äÇÑ ³ë·Â(Man- Month)À¸·Î ³ªÅ¸³½´Ù.
+Q : ¿ø½Ã ÇÁ·Î±×·¥ÀÇ ±Ô¸ðÀÎ LOC(¿ø½Ã ÄÚµå ¶óÀÎ ¼ö)¿¡ ÀÇÇÑ ºñ¿ë »êÁ¤ ±â¹ýÀÌ¸ç, °³¹ßÇÒ ¼ÒÇÁÆ®¿þ¾îÀÇ ±Ô¸ð(LOC)¸¦ ¿¹ÃøÇÑ ÈÄ ÀÌ¸¦ ¼ÒÇÁÆ®¿þ¾î Á¾·ù¿¡ µû¶ó ´Ù¸£°Ô Ã¥Á¤µÇ´Â ºñ¿ë »êÁ¤ ¹æÁ¤½Ä¿¡ ´ëÀÔÇÏ¿© ºñ¿ëÀ» »êÁ¤ÇÏ°í, ºñ¿ë »êÁ¤ °á°ú´Â ÇÁ·ÎÁ§Æ®¸¦ ¿Ï¼ºÇÏ´Â µ¥ ÇÊ¿äÇÑ ³ë·Â(Man-Month)À¸·Î ³ªÅ¸³½´Ù.
  º¸Çð(Boehm)ÀÌ Á¦¾ÈÇÑ ¸ðÇüÀº?
 
 Answer 1 : COCOMO ¸ðÇü
@@ -1164,58 +1066,56 @@ Answer 2 : COnstructive COst MOdel ¸ðÇü
 
 
 No. 109	 correct : 0,	 incorrect : 2
-Q : COCOMOÀÇ ¼ÒÇÁÆ®¿þ¾î °³¹ß À¯Çü Áß ÇÏ³ª·Î, 1.
- ±â°ü ³»ºÎ¿¡¼­ °³¹ßµÈ Áß, ¼Ò ±Ô¸ðÀÇ ¼ÒÇÁÆ®¿þ¾î, 2.
- ÀÏ°ý ÀÚ·á Ã³¸®³ª °úÇÐ±â¼ú °è»ê¿ë, ºñÁî´Ï½º ÀÚ·á Ã³¸®¿ë µîÀÇ 5¸¸(50KDSI) ¶óÀÎ ÀÌÇÏÀÇ ¼ÒÇÁÆ®¿þ¾î¸¦ °³¹ßÇÏ´Â À¯Çü, 3.
- »ç¹« Ã³¸®¿ë, ¾÷¹«¿ë, °úÇÐ¿ë ÀÀ¿ë ¼ÒÇÁÆ®¿þ¾î °³¹ß¿¡ ÀûÇÕÇÏ´Ù´Â ¼¼ °¡Áö Æ¯Â¡À» °¡Áö´Â À¯ÇüÀº?
+Q : COCOMOÀÇ ¼ÒÇÁÆ®¿þ¾î °³¹ß À¯Çü Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
+ ¨ç ±â°ü ³»ºÎ¿¡¼­ °³¹ßµÈ Áß, ¼Ò ±Ô¸ðÀÇ ¼ÒÇÁÆ®¿þ¾î.
+ ¨è ÀÏ°ý ÀÚ·á Ã³¸®³ª °úÇÐ±â¼ú °è»ê¿ë, ºñÁî´Ï½º ÀÚ·á Ã³¸®¿ë µîÀÇ 5¸¸(50KDSI) ¶óÀÎ ÀÌÇÏÀÇ ¼ÒÇÁÆ®¿þ¾î¸¦ °³¹ßÇÏ´Â À¯Çü.
+ ¨é »ç¹« Ã³¸®¿ë, ¾÷¹«¿ë, °úÇÐ¿ë ÀÀ¿ë ¼ÒÇÁÆ®¿þ¾î °³¹ß¿¡ ÀûÇÕÇÏ´Ù´Â ¼¼ °¡Áö Æ¯Â¡À» °¡Áö´Â À¯ÇüÀº?
 
 Answer 1 : Á¶Á÷Çü
 Answer 2 : Organic Mode
 
 
 No. 110	 correct : 1,	 incorrect : 1
-Q : COCOMOÀÇ ¼ÒÇÁÆ®¿þ¾î °³¹ß À¯Çü Áß ÇÏ³ª·Î, 1.
- Á¶Á÷Çü°ú ³»ÀåÇüÀÇ Áß°£Çü ¼ÒÇÁÆ®¿þ¾î, 2.
- Æ®·£Àè¼Ç Ã³¸® ½Ã½ºÅÛÀÌ³ª ¿î¿µÃ¼Á¦, µ¥ÀÌÅÍº£ÀÌ½º °ü¸® ½Ã½ºÅÛ µîÀÇ 30¸¸(#))KDSI) ¶óÀÎ ÀÌÇÏÀÇ ¼ÒÇÁÆ®¿þ¾î¸¦ °³¹ßÇÏ´Â À¯Çü, 3.
- ÄÄÆÄÀÏ·¯, ÀÎÅÍÇÁ¸®ÅÍ¿Í °°Àº À¯Æ¿¸®Æ¼ °³¹ß¿¡ ÀûÇÕÇÏ´Ù´Â ¼¼ °¡Áö Æ¯Â¡À» °¡Áö´Â À¯ÇüÀº?
+Q : COCOMOÀÇ ¼ÒÇÁÆ®¿þ¾î °³¹ß À¯Çü Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
+ ¨ç Á¶Á÷Çü°ú ³»ÀåÇüÀÇ Áß°£Çü ¼ÒÇÁÆ®¿þ¾î.
+ ¨è Æ®·£Àè¼Ç Ã³¸® ½Ã½ºÅÛÀÌ³ª ¿î¿µÃ¼Á¦, µ¥ÀÌÅÍº£ÀÌ½º °ü¸® ½Ã½ºÅÛ µîÀÇ 30¸¸(30KDSI) ¶óÀÎ ÀÌÇÏÀÇ ¼ÒÇÁÆ®¿þ¾î¸¦ °³¹ßÇÏ´Â À¯Çü.
+ ¨é ÄÄÆÄÀÏ·¯, ÀÎÅÍÇÁ¸®ÅÍ¿Í °°Àº À¯Æ¿¸®Æ¼ °³¹ß¿¡ ÀûÇÕÇÏ´Ù´Â ¼¼ °¡Áö Æ¯Â¡À» °¡Áö´Â À¯ÇüÀº?
 
 Answer 1 : ¹ÝºÐ¸®Çü
-Answer 2 : Semi- Detached Mode
+Answer 2 : Semi-Detached Mode
 
 
 No. 111	 correct : 2,	 incorrect : 0
-Q : COCOMOÀÇ ¼ÒÇÁÆ®¿þ¾î °³¹ß À¯Çü Áß ÇÏ³ª·Î, 1.
- ÃÊ´ëÇü ±Ô¸ðÀÇ ¼ÒÇÁÆ®¿þ¾î, 2.
- Æ®·£Àè¼Ç Ã³¸® ½Ã½ºÅÛÀÌ³ª ¿î¿µÃ¼Á¦ µîÀÇ 30¸¸(300KDSI) ¶óÀÎ ÀÌ»çÀ¸ÀÌ ¼ÒÇÁÆ®¿þ¾î¸¦ °³¹ßÇÏ´Â À¯Çü, 3.
- ½ÅÈ£±â Á¦¾î ½Ã½ºÅÛ, ¹Ì»çÀÏ À¯µµ ½Ã½ºÅÛ, ½Ç½Ã°£ Ã³¸® ½Ã½ºÅÛ µîÀÇ ½Ã½ºÅÛ ÇÁ·Î±×·¥ °³¹ß¿¡ ÀûÇÕÇÑ À¯ÇüÀº?
+Q : COCOMOÀÇ ¼ÒÇÁÆ®¿þ¾î °³¹ß À¯Çü Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
+ ¨ç ÃÊ´ëÇü ±Ô¸ðÀÇ ¼ÒÇÁÆ®¿þ¾î.
+ ¨è Æ®·£Àè¼Ç Ã³¸® ½Ã½ºÅÛÀÌ³ª ¿î¿µÃ¼Á¦ µîÀÇ 30¸¸(300KDSI) ¶óÀÎ ÀÌ»çÀ¸ÀÌ ¼ÒÇÁÆ®¿þ¾î¸¦ °³¹ßÇÏ´Â À¯Çü.
+ ¨é ½ÅÈ£±â Á¦¾î ½Ã½ºÅÛ, ¹Ì»çÀÏ À¯µµ ½Ã½ºÅÛ, ½Ç½Ã°£ Ã³¸® ½Ã½ºÅÛ µîÀÇ ½Ã½ºÅÛ ÇÁ·Î±×·¥ °³¹ß¿¡ ÀûÇÕÇÑ À¯ÇüÀº?
 
 Answer 1 : ³»ÀåÇü
 Answer 2 : Embedded Mode
 
 
 No. 112	 correct : 0,	 incorrect : 2
-Q : COCOMO ¸ðÇüÀÇ Á¾·ù Áß ÇÏ³ª·Î ¼ÒÇÁÆ®¿þ¾îÀÇ Å©±â¿Í °³¹ß À¯Çü¸¸À» ÀÌ¿ëÇÏ¿© ºñ¿ëÀ» »êÁ¤ÇÏ´Â °ÍÀº?
+Q : COCOMO ¸ðÇüÀÇ Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
+ ¼ÒÇÁÆ®¿þ¾îÀÇ Å©±â¿Í °³¹ß À¯Çü¸¸À» ÀÌ¿ëÇÏ¿© ºñ¿ëÀ» »êÁ¤ÇÏ´Â °ÍÀº?
 
 Answer 1 : ±âº»Çü COCOMO
 Answer 2 : Basic COCOMO
 
 
 No. 113	 correct : 0,	 incorrect : 2
-Q : COCOMO ¸ðÇüÀÇ Á¾·ù Áß ÇÏ³ª·Î ±âº»Çü COCOMOÀÇ °ø½ÄÀ» Åä´ë·Î »ç¿ëÇÏ³ª, ´ÙÀ½ 4°¡Áö Æ¯¼º¿¡ ÀÇÇØ ºñ¿ëÀ» »êÁ¤ÇÏ´Â °ÍÀº?
- 1.
- Á¦Ç°ÀÇ Æ¯¼º, 2.
- ÄÄÇ»ÅÍÀÇ Æ¯¼º, 3.
- °³¹ß ¿ä¿ø Æ¯¼º, 4.
- ÇÁ·ÎÁ§Æ® Æ¯¼º
+Q : COCOMO ¸ðÇüÀÇ Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
+ ±âº»Çü COCOMOÀÇ °ø½ÄÀ» Åä´ë·Î »ç¿ëÇÏ³ª, ´ÙÀ½ 4°¡Áö Æ¯¼º¿¡ ÀÇÇØ ºñ¿ëÀ» »êÁ¤ÇÏ´Â °ÍÀº?
+ ¨ç Á¦Ç°ÀÇ Æ¯¼º, ¨è ÄÄÇ»ÅÍÀÇ Æ¯¼º, ¨é °³¹ß ¿ä¿ø Æ¯¼º, ¨êÇÁ·ÎÁ§Æ® Æ¯¼º
 Answer 1 : Áß°£Çü COCOMO
 Answer 2 : Intermediate COCOMO
 
 
 No. 114	 correct : 0,	 incorrect : 2
-Q : COCOMO ¸ðÇüÀÇ Á¾·ù Áß ÇÏ³ª·Î 1.
- Áß°£Çü COCOMO¸¦ º¸¿ÏÇÏ¿© ¸¸µé¾îÁø ¸ðÇü, 2.
- °³¹ß °øÁ¤º°·Î º¸´Ù ÀÚ¼¼ÇÏ°í Á¤È®ÇÏ°Ô ³ë·ÂÀ» »êÃâÇÏ¿© ºñ¿ë »êÁ¤, 3.
- ¼ÒÇÁÆ®¿þ¾î È¯°æ°ú±¸¼º ¿ä¼Ò°¡ »çÀü¿¡ Á¤ÀÇµÇ¾î ÀÖ¾î¾ß ÇÏ¸ç, °³¹ß °úÁ¤ÀÇ ÈÄ¹ÝºÎ¿¡ ÁÖ·Î Àû¿ëÇÔ ÀÌ¶ó´Â ¼¼ °¡Áö Æ¯Â¡À» °¡Áö´Â COCOMO ¸ðÇüÀÇ Á¾·ù´Â?
+Q : COCOMO ¸ðÇüÀÇ Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
+ ¨ç Áß°£Çü COCOMO¸¦ º¸¿ÏÇÏ¿© ¸¸µé¾îÁø ¸ðÇü.
+ ¨è °³¹ß °øÁ¤º°·Î º¸´Ù ÀÚ¼¼ÇÏ°í Á¤È®ÇÏ°Ô ³ë·ÂÀ» »êÃâÇÏ¿© ºñ¿ë »êÁ¤.
+ ¨é ¼ÒÇÁÆ®¿þ¾î È¯°æ°ú±¸¼º ¿ä¼Ò°¡ »çÀü¿¡ Á¤ÀÇµÇ¾î ÀÖ¾î¾ß ÇÏ¸ç, °³¹ß °úÁ¤ÀÇ ÈÄ¹ÝºÎ¿¡ ÁÖ·Î Àû¿ëÇÔ ÀÌ¶ó´Â ¼¼ °¡Áö Æ¯Â¡À» °¡Áö´Â COCOMO ¸ðÇüÀÇ Á¾·ù´Â?
 
 Answer 1 : ¹ßÀüÇü COCOMO
 Answer 2 : Detailed COCOMO
@@ -1224,18 +1124,13 @@ Answer 2 : Detailed COCOMO
 No. 115	 correct : 1,	 incorrect : 1
 Q : ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±âÀÇ Àü °úÁ¤ µ¿¾È¿¡ »ç¿ëµÉ ³ë·ÂÀÇ ºÐÆ÷¸¦ ¿¹»óÇÏ´Â ¸ðÇüÀ¸·Î, ÇªÆ®³²ÀÌ Á¦¾ÈÇÑ ¸ðÇüÀÌ´Ù.
  »ý¸í ÁÖ±â ¿¹Ãø ¸ðÇüÀÌ¶ó°íµµ ÇÑ´Ù.
- ½Ã°£¿¡ µû¸¥ ÇÔ¼ö·Î Ç¥ÇöµÇ´Â Rayleigh- Norden °î¼±ÀÇ ³ë·Â ºÐÆ÷µµ¸¦ ±âÃÊ·Î ÇÏ¸ç, ´ëÇü ÇÁ·ÎÁ§Æ®ÀÇ ³ë·Â ºÐÆ÷ »êÁ¤ÀÌ ÀÌ¿ëµÇ°í, °³¹ß ±â°£ÀÌ ´Ã¾î³¯¼ö·Ï ÇÁ·ÎÁ§Æ® Àû¿ë ÀÎ¿øÀÇ ³ë·ÂÀÌ °¨¼ÒÇÏ´Â ¸ðÇüÀº?
+ ½Ã°£¿¡ µû¸¥ ÇÔ¼ö·Î Ç¥ÇöµÇ´Â Rayleigh-Norden °î¼±ÀÇ ³ë·Â ºÐÆ÷µµ¸¦ ±âÃÊ·Î ÇÏ¸ç, ´ëÇü ÇÁ·ÎÁ§Æ®ÀÇ ³ë·Â ºÐÆ÷ »êÁ¤ÀÌ ÀÌ¿ëµÇ°í, °³¹ß ±â°£ÀÌ ´Ã¾î³¯¼ö·Ï ÇÁ·ÎÁ§Æ® Àû¿ë ÀÎ¿øÀÇ ³ë·ÂÀÌ °¨¼ÒÇÏ´Â ¸ðÇüÀº?
 
 Answer 1 : Putnam ¸ðÇü
 
 
 No. 116	 correct : 0,	 incorrect : 2
-Q : ¼ÒÇÁÆ®¿þ¾îÀÇ ±â´ÉÀ» Áõ´ë½ÃÅ°´Â ¿äÀÎ(1.
- ÀÚ·á ÀÔ·Â(ÀÔ·Â ¾ç½Ä), 2.
- Á¤º¸ Ãâ·Â(Ãâ·Â º¸°í¼­), 3.
- ¸í·É¾î(»ç¿ëÀÚ ÁúÀÇ¼ö), 4.
- µ¥ÀÌÅÍ ÆÄÀÏ, 5.
- ÇÊ¿äÇÑ ¿ÜºÎ ·çÆ¾°úÀÇ ÀÎÅÍÆäÀÌ½º)º°·Î °¡ÁßÄ¡¸¦ ºÎ¿©ÇÏ°í, ¿äÀÎº° °¡ÁßÄ¡¸¦ ÇÕ»êÇÏ¿© ÃÑ ±â´É Á¡¼ö¸¦ »êÃâÇÏ¸ç, ÃÑ ±â´É Á¡¼ö¿Í ¿µÇâµµ¸¦ ÀÌ¿ëÇÏ¿© ±â´É Á¡¼ö(FP)¸¦ ±¸ÇÑ ÈÄ ÀÌ¸¦ ÀÌ¿ëÇØ¼­ ºñ¿ëÀ» »êÁ¤ÇÏ´Â ±â¹ýÀ¸·Î ¾Ëºê·¹È÷Æ®(Albrecht)°¡ Á¦¾ÈÇÑ ¸ðÇüÀº?
+Q : ¼ÒÇÁÆ®¿þ¾îÀÇ ±â´ÉÀ» Áõ´ë½ÃÅ°´Â ¿äÀÎ(¨ç ÀÚ·á ÀÔ·Â(ÀÔ·Â ¾ç½Ä), ¨è Á¤º¸ Ãâ·Â(Ãâ·Â º¸°í¼­), ¨é ¸í·É¾î(»ç¿ëÀÚ ÁúÀÇ¼ö), ¨êµ¥ÀÌÅÍ ÆÄÀÏ, ¨ë ÇÊ¿äÇÑ ¿ÜºÎ ·çÆ¾°úÀÇ ÀÎÅÍÆäÀÌ½º)º°·Î °¡ÁßÄ¡¸¦ ºÎ¿©ÇÏ°í, ¿äÀÎº° °¡ÁßÄ¡¸¦ ÇÕ»êÇÏ¿© ÃÑ ±â´É Á¡¼ö¸¦ »êÃâÇÏ¸ç, ÃÑ ±â´É Á¡¼ö¿Í ¿µÇâµµ¸¦ ÀÌ¿ëÇÏ¿© ±â´É Á¡¼ö(FP)¸¦ ±¸ÇÑ ÈÄ ÀÌ¸¦ ÀÌ¿ëÇØ¼­ ºñ¿ëÀ» »êÁ¤ÇÏ´Â ±â¹ýÀ¸·Î ¾Ëºê·¹È÷Æ®(Albrecht)°¡ Á¦¾ÈÇÑ ¸ðÇüÀº?
 
 Answer 1 : ±â´É Á¡¼ö ¸ðÇü
 Answer 2 : FP ¸ðÇü
@@ -1262,10 +1157,7 @@ Answer 2 : Scheduling °èÈ¹
 
 
 No. 120	 correct : 0,	 incorrect : 0
-Q : ÇÁ·ÎÁ§Æ®¿¡ ÇÊ¿äÇÑ ÀüÃ¼ ÀÛ¾÷ÀÇ »óÈ£ °ü°è¸¦ Ç¥½ÃÇÏ´Â ³×Æ®¿öÅ©¸¦ ¸»ÇÏ¸ç, °¢ ÀÛ¾÷º°·Î 1.
- ³«°üÀûÀÎ °æ¿ì, 2.
- °¡´É¼ºÀÌ ÀÖ´Â °æ¿ì, 3.
- ºñ°üÀûÀÎ °æ¿ì¿Í °°ÀÌ ´Ü°è¸¦ ³ª´©¾î Á¾·á ½Ã±â¸¦ °áÁ¤ÇÑ´Ù.
+Q : ÇÁ·ÎÁ§Æ®¿¡ ÇÊ¿äÇÑ ÀüÃ¼ ÀÛ¾÷ÀÇ »óÈ£ °ü°è¸¦ Ç¥½ÃÇÏ´Â ³×Æ®¿öÅ©¸¦ ¸»ÇÏ¸ç, °¢ ÀÛ¾÷º°·Î ¨ç ³«°üÀûÀÎ °æ¿ì, ¨è °¡´É¼ºÀÌ ÀÖ´Â °æ¿ì, ¨é ºñ°üÀûÀÎ °æ¿ì¿Í °°ÀÌ ´Ü°è¸¦ ³ª´©¾î Á¾·á ½Ã±â¸¦ °áÁ¤ÇÑ´Ù.
  °³¹ß °æÇèÀÌ ¾ø¾î ¼Ò¿ä ±â°£ ¿¹ÃøÀÌ ¾î·Á¿î ÇÁ·ÎÁ§Æ® ÀÏÁ¤ °èÈ¹¿¡ »ç¿ëÇÑ´Ù.
  
 Answer 1 : PERT
@@ -1275,7 +1167,7 @@ Answer 3 : ÇÁ·Î±×·¥ Æò°¡ ¹× °ËÅä ±â¼ú
 
 No. 121	 correct : 0,	 incorrect : 0
 Q : ÇÁ·ÎÁ§Æ® ¿Ï¼º¿¡ ÇÊ¿äÇÑ ÀÛ¾÷À» ³ª¿­ÇÏ°í ÀÛ¾÷¿¡ ÇÊ¿äÇÑ ¼Ò¿ä ±â°£À» ¿¹ÃøÇÏ´Âµ¥ »ç¿ëÇÏ´Â ±â¹ýÀÌ´Ù.
- ÀÌ ±â¹ýÀº ³ëµå¿À ¤¿°£¼±À¸·Î ±¸¼ºµÈ ³×Æ®¿öÅ©·Î ³ëµå´Â ÀÛ¾÷À», °£¼±Àº ÀÛ¾÷ »çÀÌÀÇ ÀüÈÄ ÀÇÁ¸ °ü°è¸¦ ³ªÅ¸³½´Ù.
+ ÀÌ ±â¹ýÀº ³ëµå¿Í °£¼±À¸·Î ±¸¼ºµÈ ³×Æ®¿öÅ©·Î ³ëµå´Â ÀÛ¾÷À», °£¼±Àº ÀÛ¾÷ »çÀÌÀÇ ÀüÈÄ ÀÇÁ¸ °ü°è¸¦ ³ªÅ¸³½´Ù.
  
 Answer 1 : CPM
 Answer 2 : Critical Path Method
@@ -1284,7 +1176,7 @@ Answer 3 : ÀÓ°è °æ·Î ±â¹ý
 
 No. 122	 correct : 0,	 incorrect : 0
 Q : ÇÁ·ÎÁ§Æ®ÀÇ °¢ ÀÛ¾÷µéÀÌ ¾ðÁ¦ ½ÃÀÛÇÏ°í ¾ðÁ¦ Á¾·áµÇ´ÂÁö¿¡ ´ëÇÑ ÀÛ¾÷ ÀÏÁ¤À» ¸·´ë µµÇ¥¸¦ ÀÌ¿ëÇÏ·Á Ç¥½ÃÇÏ´Â ÇÁ·ÎÁ§Æ® ÀÏÁ¤Ç¥¸¦ ¸»ÇÏ´Â °ÍÀº?
- ½Ã°£¼±(Time- Line) Â÷Æ®¶ó°íµµ ÇÑ´Ù.
+ ½Ã°£¼±(Time-Line) Â÷Æ®¶ó°íµµ ÇÑ´Ù.
  
 Answer 1 : °£Æ® Â÷Æ®
 Answer 2 : Gantt Chart
@@ -1293,56 +1185,53 @@ Answer 2 : Gantt Chart
 No. 123	 correct : 0,	 incorrect : 0
 Q : ÇÁ·ÎÁ§Æ® °ü¸®¿Í Àç»ç¿ë ÇöÈ²À» ¼ÒÇÁÆ®¿þ¾î °³¹ß ¹æ¹ý·Ð¿¡ ¹Ý¿µÇÏ°í, È®Á¤µÈ ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±â¿Í °³¹ß ¹æ¹ý·Ð¿¡ ¸ÂÃç ¼ÒÇÁÆ®¿þ¾î °³¹ß ´Ü°è, È°µ¿ ÀÛ¾÷, ÀýÂ÷ µîÀ» Á¤ÀÇÇÏ´Â °ÍÀº?
  ÀýÂ÷´Â ´ÙÀ½ÀÇ ¼¼ ´Ü°è¸¦ °ÅÄ£´Ù.
- 1.
- ÇÁ·ÎÁ§Æ® °ü¸®¿Í Àç»ç¿ë ÇöÈ²À» ¼ÒÇÁÆ®¿þ¾î °³¹ß ¹æ¹ý·Ð¿¡ ¹Ý¿µÇÑ´Ù.
- 2.
- °³¹ß ´Ü°èº° ÀÛ¾÷ ¹× ÀýÂ÷¸¦ ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±â¿¡ ¸ÂÃç ¼ö¸³ÇÑ´Ù.
- 3.
- °áÁ¤µÈ ¼ÒÇÁÆ®¿þ¾î °³¹ß ¹æ¹ý·ÐÀÇ °³¹ß ´Ü°èº° È°µ¿ ¸ñÀû, ÀÛ¾÷ ³»¿ë, »êÃâ¹°¿¡ ´ëÇÑ ¸Å´º¾óÀ» ÀÛ¼ºÇÑ´Ù.
+ ¨ç ÇÁ·ÎÁ§Æ® °ü¸®¿Í Àç»ç¿ë ÇöÈ²À» ¼ÒÇÁÆ®¿þ¾î °³¹ß ¹æ¹ý·Ð¿¡ ¹Ý¿µÇÑ´Ù.
+ ¨è °³¹ß ´Ü°èº° ÀÛ¾÷ ¹× ÀýÂ÷¸¦ ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±â¿¡ ¸ÂÃç ¼ö¸³ÇÑ´Ù.
+ ¨é °áÁ¤µÈ ¼ÒÇÁÆ®¿þ¾î °³¹ß ¹æ¹ý·ÐÀÇ °³¹ß ´Ü°èº° È°µ¿ ¸ñÀû, ÀÛ¾÷ ³»¿ë, »êÃâ¹°¿¡ ´ëÇÑ ¸Å´º¾óÀ» ÀÛ¼ºÇÑ´Ù.
  
 Answer 1 : ¼ÒÇÁÆ®¿þ¾î °³¹ß ¹æ¹ý·Ð °áÁ¤
 
 
 No. 124	 correct : 0,	 incorrect : 0
 Q : ÁÖ¾îÁø ±â°£ ³»¿¡ ÃÖ¼ÒÀÇ ºñ¿ëÀ¸·Î »ç¿ëÀÚ¸¦ ¸¸Á·½ÃÅ°´Â ½Ã½ºÅÛÀ» °³¹ßÇÏ±â À§ÇÑ Àü¹ÝÀûÀº È°µ¿À» ÀÏÄÆ´Â ¸»ÀÌ¸ç, ´Ù¼¸ °¡ÁöÀÇ °ü¸® À¯ÇüÀÌ ÀÖ´Ù.
- 1.
- ÀÏÁ¤ °ü¸®, 2.
- ºñ¿ë °ü¸®, 3.
- ÀÎ·Â °ü¸®, 4.
- À§Çè °ü¸®, 5.
- Ç°Áú °ü¸®
+ ¨ç ÀÏÁ¤ °ü¸®.
+ ¨è ºñ¿ë °ü¸®.
+ ¨é ÀÎ·Â °ü¸®.
+ ¨êÀ§Çè °ü¸®.
+ ¨ë Ç°Áú °ü¸®.
+
 Answer 1 : ÇÁ·ÎÁ§Æ® °ü¸®
 Answer 2 : Project Management
 
 
 No. 125	 correct : 0,	 incorrect : 0
 Q : ¼ÒÇÁÆ®¿þ¾î °³¹ß ´Ü°è¿¡¼­ ¼öÇàÇÏ´Â Ç°Áú °ü¸®¿¡ »ç¿ëµÇ´Â ±¹Á¦ Ç¥ÁØÀ» ÀÇ¹ÌÇÏ´Â ¸»·Î ÁÖ¿ä ¼ÒÇÁÆ®¿þ¾î °³¹ß Ç¥ÁØÀº ¼¼ °¡Áö°¡ ÀÖ´Ù.
- 1.
- ISO/IEC 12207, 2.
- CMMI(´É·Â ¼º¼÷µµ ÅëÇÕ ¸ðµ¨), 3.
- SPICE(¼ÒÇÁÆ®¿þ¾î Ã³¸® °³¼± ¹× ´É·Â Æò°¡ ±âÁØ)
+ ¨ç ISO/IEC 12207.
+ ¨è CMMI(´É·Â ¼º¼÷µµ ÅëÇÕ ¸ðµ¨).
+ ¨é SPICE(¼ÒÇÁÆ®¿þ¾î Ã³¸® °³¼± ¹× ´É·Â Æò°¡ ±âÁØ).
+
 Answer 1 : ¼ÒÇÁÆ®¿þ¾î °³¹ß Ç¥ÁØ
 
 
 No. 126	 correct : 0,	 incorrect : 0
 Q : ISO(±¹Á¦Ç¥ÁØÈ­±â±¸)¿¡¼­ ¸¸µç Ç¥ÁØ ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±â ÇÁ·Î¼¼½º¸¦ ÀÇ¹ÌÇÏ¸ç, ¼ÒÇÁÆ®¿þ¾îÀÇ °³¹ß, ¿î¿µ, À¯Áöº¸¼ö µîÀ» Ã¼°èÀûÀ¸·Î °ü¸®ÇÏ±â À§ÇÑ ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±â Ç¥ÁØÀ» Á¦°øÇÑ´Ù.
  ±×¸®°í ÀÌ°ÍÀº ¼¼ °¡Áö·Î ±¸ºÐµÉ ¼ö ÀÖ´Ù.
- 1.
- ±âº» »ý¸í ÁÖ±â ÇÁ·Î¼¼½º(È¹µæ, °ø±Þ, °³¹ß, ¿î¿µ, À¯Áöº¸¼ö ÇÁ·Î¼¼½º), 2.
- Áö¿ø »ý¸í ÁÖ±â ÇÁ·Î¼¼½º(Ç°Áú º¸Áõ, °ËÁõ, È®ÀÎ, È°µ¿ °ËÅä, °¨»ç, ¹®¼­È­, Çü»ó °ü¸®, ¹®Á¦ ÇØ°á ÇÁ·Î¼¼½º), 3.
- Á¶Á÷ »ý¸í ÁÖ±â ÇÁ·Î¼¼½º(°ü¸®, ±â¹Ý ±¸Á¶, ÈÆ·Ã, °³¼± ÇÁ·Î¼¼½º)
+ ¨ç ±âº» »ý¸í ÁÖ±â ÇÁ·Î¼¼½º(È¹µæ, °ø±Þ, °³¹ß, ¿î¿µ, À¯Áöº¸¼ö ÇÁ·Î¼¼½º).
+ ¨è Áö¿ø »ý¸í ÁÖ±â ÇÁ·Î¼¼½º(Ç°Áú º¸Áõ, °ËÁõ, È®ÀÎ, È°µ¿ °ËÅä, °¨»ç, ¹®¼­È­, Çü»ó °ü¸®, ¹®Á¦ ÇØ°á ÇÁ·Î¼¼½º).
+ ¨é Á¶Á÷ »ý¸í ÁÖ±â ÇÁ·Î¼¼½º(°ü¸®, ±â¹Ý ±¸Á¶, ÈÆ·Ã, °³¼± ÇÁ·Î¼¼½º).
+
 Answer 1 : ISO/IEC 12207
 
 
 No. 127	 correct : 0,	 incorrect : 0
 Q : ¼ÒÇÁÆ®¿þ¾î °³¹ß Á¶Á÷ÀÇ ¾÷¹« ´É·Â ¹× Á¶Á÷ÀÇ ¼º¼÷µµ¸¦ Æò°¡ÇÏ´Â ¸ðµ¨·Î, ¹Ì±¹ Ä«³×±â¸á·Ð ´ëÇÐ±³ÀÇ ¼ÒÇÁÆ®¿þ¾î °øÇÐ¿¬±¸¼Ò(SEI)¿¡¼­ °³¹ßÇÏ¿´´Ù.
  ÀÌ ¸ðµ¨Àº ´Ù¼¸ °¡ÁöÀÇ ´Ü°è¸¦ °¡Áø´Ù.
- 1.
- ÃÊ±â(Initial) : Á¤ÀÇµÈ ÇÁ·Î¼¼½º ¾øÀ½(ÀÛ¾÷ÀÚ ´É·Â¿¡ µû¶ó ¼º°ø ¿©ºÎ °áÁ¤), 2.
- °ü¸®(Managed) : ±ÔÄ¢È­µÈ ÇÁ·Î¼¼½º(Æ¯Á¤ÇÑ ÇÁ·ÎÁ§Æ® ³»ÀÇ ÇÁ·Î¼¼½º Á¤ÀÇ ¹× ¼öÇà), 3.
- Á¤ÀÇ(Defined) : Ç¥ÁØÈ­µÈ ÇÁ·Î¼¼½º(Á¶Á÷ÀÇ Ç¥ÁØ ÇÁ·Î¼¼½º¸¦ È°¿ëÇÏ¿© ¾÷¹« ¼öÇà), 4.
- Á¤·®Àû °ü¸®(Quantitatively Managed) : ¿¹Ãø °¡´ÉÇÑ ÇÁ·Î¼¼½º(ÇÁ·ÎÁ§Æ®¸¦ Á¤·®ÀûÀ¸·Î °ü¸® ¹× ÅëÁ¦), 5.
- ÃÖÀûÈ­(Optimizing) : Áö¼ÓÀû °³¼± ÇÁ·Î¼¼½º(ÇÁ·Î¼¼½º ¿ª·® Çâ»óÀ» À§ÇØ Áö¼ÓÀûÀÎ ÇÁ·Î¼¼½º °³¼±
+ ¨ç ÃÊ±â(Initial) : Á¤ÀÇµÈ ÇÁ·Î¼¼½º ¾øÀ½(ÀÛ¾÷ÀÚ ´É·Â¿¡ µû¶ó ¼º°ø ¿©ºÎ °áÁ¤).
+ ¨è °ü¸®(Managed) : ±ÔÄ¢È­µÈ ÇÁ·Î¼¼½º(Æ¯Á¤ÇÑ ÇÁ·ÎÁ§Æ® ³»ÀÇ ÇÁ·Î¼¼½º Á¤ÀÇ ¹× ¼öÇà).
+ ¨é Á¤ÀÇ(Defined) : Ç¥ÁØÈ­µÈ ÇÁ·Î¼¼½º(Á¶Á÷ÀÇ Ç¥ÁØ ÇÁ·Î¼¼½º¸¦ È°¿ëÇÏ¿© ¾÷¹« ¼öÇà).
+ ¨êÁ¤·®Àû °ü¸®(Quantitatively Managed) : ¿¹Ãø °¡´ÉÇÑ ÇÁ·Î¼¼½º(ÇÁ·ÎÁ§Æ®¸¦ Á¤·®ÀûÀ¸·Î °ü¸® ¹× ÅëÁ¦).
+ ¨ë ÃÖÀûÈ­(Optimizing) : Áö¼ÓÀû °³¼± ÇÁ·Î¼¼½º(ÇÁ·Î¼¼½º ¿ª·® Çâ»óÀ» À§ÇØ Áö¼ÓÀûÀÎ ÇÁ·Î¼¼½º °³¼±.
+
 Answer 1 : CMMI
 Answer 2 : Capability Maturity Model Integration
 
@@ -1351,16 +1240,11 @@ No. 128	 correct : 0,	 incorrect : 0
 Q : Á¤º¸ ½Ã½ºÅÛ ºÐ¾ß¿¡¼­ ¼ÒÇÁÆ®¿þ¾îÀÇ Ç°Áú ¹× »ý»ê¼º Çâ»óÀ» À§ÇØ ¼ÒÇÁÆ®¿þ¾î ÇÁ·Î¼¼½º¸¦ Æò°¡ ¹× °³¼±ÇÏ´Â ±¹Á¦ Ç¥ÁØÀÌ´Ù.
  °ø½Ä ¸íÄªÀº ISO/IEC 15504ÀÌ´Ù.
  ÀÌ Ç¥ÁØÀº ´Ù¼¸ °¡ÁöÀÇ ¹üÁÖ¸¦ °¡Áø´Ù.
- 1.
- °í°´- °ø±ÞÀÚ(Customer- Supplier) ÇÁ·Î¼¼½º : ¼ÒÇÁÆ®¿þ¾î¸¦ °³¹ßÇÏ¿© °í°´¿¡°Ô Àü´ÞÇÏ´Â °ÍÀ» Áö¿øÇÏ°í, ¼ÒÇÁÆ®¿þ¾îÀÇ Á¤È®ÇÑ ¿î¿ë ¹× »ç¿ëÀ» À§ÇÑ ÇÁ·Î¼¼½º·Î ±¸¼ºµÈ´Ù.
- 2.
- °øÇÐ(Engineering) ÇÁ·Î¼¼½º : ¼¼½ºÅÛ°ú ¼ÒÇÁÆ®¿þ¾î Á¦Ç°ÀÇ ¸í¼¼È­, ±¸Çö, À¯Áöº¸¼ö¸¦ ÇÏ´Âµ¥ »ç¿ä¿Àµð´Â ÇÁ·Î¼¼½º·Î ±¸¼ºµÊ.
- 3.
- Áö¿ø(Support) ÇÁ·Î¼¼½º : ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±â¿¡¼­ ´Ù¸¥ ÇÁ·Î¼¼½º¿¡ ÀÇÇØ ÀÌ¿ëµÇ´Â ÇÁ·Î¼¼½º·Î ±¸¼ºµÊ.
- 4.
- °ü¸®(Management) ÇÁ·Î¼¼½º : ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±â¿¡¼­ ÇÁ·ÎÁ§Æ® °ü¸®ÀÚ¿¡ ÀÇÇØ »ç¿ëµÇ´Â ÇÁ·Î¼¼½º·Î ±¸¼ºµÊ.
- 5.
- Á¶Á÷(Organization) ÇÁ·Î¼¼½º : Á¶Á÷ÀÇ ¾÷¹« ¸ñÀû ¼ö¸³°ú Á¶Á÷ÀÇ ¾÷¹« ¸ñÇ¥ ´Þ¼ºÀ» À§ÇÑ ÇÁ·Î¼¼½º·Î ±¸¼ºµÊ.
+ ¨ç °í°´-°ø±ÞÀÚ(Customer-Supplier) ÇÁ·Î¼¼½º : ¼ÒÇÁÆ®¿þ¾î¸¦ °³¹ßÇÏ¿© °í°´¿¡°Ô Àü´ÞÇÏ´Â °ÍÀ» Áö¿øÇÏ°í, ¼ÒÇÁÆ®¿þ¾îÀÇ Á¤È®ÇÑ ¿î¿ë ¹× »ç¿ëÀ» À§ÇÑ ÇÁ·Î¼¼½º·Î ±¸¼ºµÈ´Ù.
+ ¨è °øÇÐ(Engineering) ÇÁ·Î¼¼½º : ½Ã½ºÅÛ°ú ¼ÒÇÁÆ®¿þ¾î Á¦Ç°ÀÇ ¸í¼¼È­, ±¸Çö, À¯Áöº¸¼ö¸¦ ÇÏ´Âµ¥ »ç¿ä¿Àµð´Â ÇÁ·Î¼¼½º·Î ±¸¼ºµÊ.
+ ¨é Áö¿ø(Support) ÇÁ·Î¼¼½º : ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±â¿¡¼­ ´Ù¸¥ ÇÁ·Î¼¼½º¿¡ ÀÇÇØ ÀÌ¿ëµÇ´Â ÇÁ·Î¼¼½º·Î ±¸¼ºµÊ.
+ ¨ê°ü¸®(Management) ÇÁ·Î¼¼½º : ¼ÒÇÁÆ®¿þ¾î »ý¸í ÁÖ±â¿¡¼­ ÇÁ·ÎÁ§Æ® °ü¸®ÀÚ¿¡ ÀÇÇØ »ç¿ëµÇ´Â ÇÁ·Î¼¼½º·Î ±¸¼ºµÊ.
+ ¨ë Á¶Á÷(Organization) ÇÁ·Î¼¼½º : Á¶Á÷ÀÇ ¾÷¹« ¸ñÀû ¼ö¸³°ú Á¶Á÷ÀÇ ¾÷¹« ¸ñÇ¥ ´Þ¼ºÀ» À§ÇÑ ÇÁ·Î¼¼½º·Î ±¸¼ºµÊ.
  
 Answer 1 : SPICE
 Answer 2 : Software Process Improvement and Capability dEtermination
@@ -1370,48 +1254,38 @@ No. 129	 correct : 0,	 incorrect : 0
 Q : Á¤º¸ ½Ã½ºÅÛ ºÐ¾ß¿¡¼­ ¼ÒÇÁÆ®¿þ¾îÀÇ Ç°Áú ¹× »ý»ê¼º Çâ»óÀ» À§ÇØ ¼ÒÇÁÆ®¿þ¾î ÇÁ·Î¼¼½º¸¦ Æò°¡ ¹× °³¼±ÇÏ´Â ±¹Á¦ Ç¥ÁØÀÌ´Ù.
  °ø½Ä ¸íÄªÀº ISO/IEC 15504ÀÌ´Ù.
  ÀÌ ÇÁ·Î¼¼½ºÀÇ ¼öÇà ´É·Â ´Ü°è´Â ¿©¼¸ °¡Áö·Î ³ª´¶´Ù.
- 1.
- ºÒ¿ÏÀü(Incomplete) : ÇÁ·Î¼¼½º°¡ ±¸ÇöµÇÁö ¾Ê¾Ò°Å³ª ¸ñÀûÀ» ´Þ¼ºÇÏÁö ¸øÇÑ ´Ü°è, 2.
- ¼öÇà(Performed) : ÇÁ·Î¼¼½º°¡ ¼öÇØ¿Àµð°í ¸ñÀûÀÌ ´Þ¼ºµÈ ´Ü°è, 3.
- °ü¸®(Managed) : Á¤ÀÇµÈ ÀÚ¿ø ÇÑµµ ³»¿¡¼­ ±× ÇÁ·Î¼¼½º°¡ ÀÛ¾÷ »êÃâ¹°À» ÀÎµµÇÏ´Â ´Ü°è, 4.
- È®¸³(Established) : ¼ÒÇÁÆ®¿þ¾î °øÇÐ ¿øÄ¢¿¡ ±â¹ÝÇÏ¿© Á¤ÀÇµÈ ÇÁ·Î¼¼½º°¡ ¼öÇàµÇ´Â ´Ü°è, 5.
- ¿¹Ãø(Predictable) : ÇÁ·Î¼¼½º°¡ ¸ñÀû ´Þ¼ºÀ» À§ÇØ ÅëÁ¦µÇ°í, ¾çÀûÀÎ ÃøÁ¤À» ÅëÇØ¼­ ÀÏ°üµÇ°Ô ¼öÇàµÇ´Â ´Ü°è, 6.
- ÃÖÀûÈ­(Optimizing) : ÇÁ·Î¼¼½º ¼öÇàÀ» ÃÖÀûÈ­ÇÏ°í, Áö¼ÓÀûÀÎ °³¼±À» ÅëÇØ ¾÷¹« ¸ñÀûÀ» ¸¸Á·½ÃÅ°´Â ´Ü°è
+ ¨ç ºÒ¿ÏÀü(Incomplete) : ÇÁ·Î¼¼½º°¡ ±¸ÇöµÇÁö ¾Ê¾Ò°Å³ª ¸ñÀûÀ» ´Þ¼ºÇÏÁö ¸øÇÑ ´Ü°è.
+ ¨è ¼öÇà(Performed) : ÇÁ·Î¼¼½º°¡ ¼öÇàµÇ°í ¸ñÀûÀÌ ´Þ¼ºµÈ ´Ü°è.
+ ¨é °ü¸®(Managed) : Á¤ÀÇµÈ ÀÚ¿ø ÇÑµµ ³»¿¡¼­ ±× ÇÁ·Î¼¼½º°¡ ÀÛ¾÷ »êÃâ¹°À» ÀÎµµÇÏ´Â ´Ü°è.
+ ¨êÈ®¸³(Established) : ¼ÒÇÁÆ®¿þ¾î °øÇÐ ¿øÄ¢¿¡ ±â¹ÝÇÏ¿© Á¤ÀÇµÈ ÇÁ·Î¼¼½º°¡ ¼öÇàµÇ´Â ´Ü°è.
+ ¨ë ¿¹Ãø(Predictable) : ÇÁ·Î¼¼½º°¡ ¸ñÀû ´Þ¼ºÀ» À§ÇØ ÅëÁ¦µÇ°í, ¾çÀûÀÎ ÃøÁ¤À» ÅëÇØ¼­ ÀÏ°üµÇ°Ô ¼öÇàµÇ´Â ´Ü°è.
+ ¨ì ÃÖÀûÈ­(Optimizing) : ÇÁ·Î¼¼½º ¼öÇàÀ» ÃÖÀûÈ­ÇÏ°í, Áö¼ÓÀûÀÎ °³¼±À» ÅëÇØ ¾÷¹« ¸ñÀûÀ» ¸¸Á·½ÃÅ°´Â ´Ü°è.
+
 Answer 1 : SPICE
 Answer 2 : Software Process Improvement and Capability dEtermination
 
 
 No. 130	 correct : 0,	 incorrect : 0
 Q : ÇÁ·ÎÁ§Æ® »óÈ² ¹× Æ¯¼º¿¡ ¸Âµµ·Ï Á¤ÀÇµÈ ¼ÒÇÁÆ®¿þ¾î °³¹ß ¹æ¹ý·ÐÀÇ ÀýÂ÷, »ç¿ë±â¹ý µîÀ» ¼öÁ¤ ¹× º¸¿ÏÇÏ´Â ÀÛ¾÷À» ¸»ÇÏ¸ç, ¼öÇà ÀýÂ÷´Â ´ÙÀ½ÀÇ ´Ù¼¸ ´Ü°è¸¦ °ÅÄ£´Ù.
- 1.
- ÇÁ·ÎÁ§Æ® Æ¯Â¡ Á¤ÀÇ - > 2.
- Ç¥ÁØ ÇÁ·Î¼¼½º ¼±Á¤ ¹× °ËÁõ - > 3.
- »óÀ§ ¼öÁØÀÇ Ä¿½ºÅÒ¸¶ÀÌÂ¡ - > 4.
- ¼¼ºÎ Ä¿½ºÅÍ¸¶ÀÌÂ¡ - > 5.
- Å×ÀÏ·¯¸µ ¹®¼­È­
+ ¨ç ÇÁ·ÎÁ§Æ® Æ¯Â¡ Á¤ÀÇ - > ¨è Ç¥ÁØ ÇÁ·Î¼¼½º ¼±Á¤ ¹× °ËÁõ - > ¨é »óÀ§ ¼öÁØÀÇ Ä¿½ºÅÒ¸¶ÀÌÂ¡ - > ¨ê¼¼ºÎ Ä¿½ºÅÍ¸¶ÀÌÂ¡ - > ¨ë Å×ÀÏ·¯¸µ ¹®¼­È­.
+
 Answer 1 : ¼ÒÇÁÆ®¿þ¾î °³¹ß ¹æ¹ý·Ð Å×ÀÏ·¯¸µ
 
 
 No. 131	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ¼ÒÇÁÆ®¿þ¾î °³¹ß ¹æ¹ý·Ð Å×ÀÏ·¯¸µ¿¡¼­ ¾î¶² ±âÁØ¿¡¼­ °í·ÁÇÒ »çÇ×ÀÎÁö ¼­¼úÇÏ¶ó.
- 1.
- ¸ñÇ¥È¯°æ : ½Ã½ºÅÛÀÇ °³¹ß È¯°æ°ú À¯ÇüÀÌ ¼­·Î ´Ù¸¥ °æ¿ì Å×ÀÏ·¯¸µÀÌ ÇÊ¿äÇÔ.
- 2.
- ¿ä±¸»çÇ× : ÇÁ·ÎÁ§Æ®ÀÇ »ý¸í ÁÖ±â È°µ¿¿¡¼­ °³¹ß, ¿î¿µ, À¯Áöº¸¼ö µî ÇÁ·ÎÁ§Æ®¿¡¼­ ¿ì¼±ÀûÀ¸·Î °í·ÁÇÒ ¿ä±¸»çÇ×ÀÌ ¼­·Î ´Ù¸¥ °æ¿ì Å×ÀÏ·¯¸µÀÌ ÇÊ¿äÇÔ.
- 3.
- ÇÁ·ÎÁ§Æ® ±Ô¸ð : ºñ¿ë, ÀÎ·Â, ±â°£ µî ÇÁ·ÎÁ§Æ®ÀÇ ±Ô¸ð°¡ ¼­·Î ´Ù¸¥ °æ¿ì Å×ÀÏ·¯¸µÀÌ ÇÊ¿äÇÔ.
- 4.
- º¸À¯ ±â¼ú : ÇÁ·Î¼¼½º, °³¹ß ¹æ¹ý·Ð, »êÃâ¹°, ±¸¼º¿øÀÇ ´É·Â µîÀÌ ¼­·Î ´Ù¸¥ °æ¿ì Å×ÀÏ·¯¸µÀÌ ÇÊ¿äÇÔ.
+ ¨ç ¸ñÇ¥È¯°æ : ½Ã½ºÅÛÀÇ °³¹ß È¯°æ°ú À¯ÇüÀÌ ¼­·Î ´Ù¸¥ °æ¿ì Å×ÀÏ·¯¸µÀÌ ÇÊ¿äÇÔ.
+ ¨è ¿ä±¸»çÇ× : ÇÁ·ÎÁ§Æ®ÀÇ »ý¸í ÁÖ±â È°µ¿¿¡¼­ °³¹ß, ¿î¿µ, À¯Áöº¸¼ö µî ÇÁ·ÎÁ§Æ®¿¡¼­ ¿ì¼±ÀûÀ¸·Î °í·ÁÇÒ ¿ä±¸»çÇ×ÀÌ ¼­·Î ´Ù¸¥ °æ¿ì Å×ÀÏ·¯¸µÀÌ ÇÊ¿äÇÔ.
+ ¨é ÇÁ·ÎÁ§Æ® ±Ô¸ð : ºñ¿ë, ÀÎ·Â, ±â°£ µî ÇÁ·ÎÁ§Æ®ÀÇ ±Ô¸ð°¡ ¼­·Î ´Ù¸¥ °æ¿ì Å×ÀÏ·¯¸µÀÌ ÇÊ¿äÇÔ.
+ ¨êº¸À¯ ±â¼ú : ÇÁ·Î¼¼½º, °³¹ß ¹æ¹ý·Ð, »êÃâ¹°, ±¸¼º¿øÀÇ ´É·Â µîÀÌ ¼­·Î ´Ù¸¥ °æ¿ì Å×ÀÏ·¯¸µÀÌ ÇÊ¿äÇÔ.
  
 Answer 1 : ³»ºÎÀû ±âÁØ
 
 
 No. 132	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ¼ÒÇÁÆ®¿þ¾î °³¹ß ¹æ¹ý·Ð Å×ÀÏ·¯¸µ¿¡¼­ ¾î¶² ±âÁØ¿¡¼­ °í·ÁÇÒ »çÇ×ÀÎÁö ¼­¼úÇÏ¶ó.
- 1.
- ¹ýÀû Á¦¾à»çÇ× : ÇÁ·ÎÁ§Æ®º°·Î Àû¿ëµÉ IT Compliance°¡ ¼­·Î ´Ù¸¥ °æ¿ì Å×ÀÏ·¯¸µÀÌ ÇÊ¿äÇÔ.
- 2.
- Ç¥ÁØ Ç°Áú ±âÁØ : ±ÝÀ¶, Á¦µµ µî ºÐ¾ßº° Ç¥ÁØ Ç°Áú ±âÁØÀÌ ¼­·Î ´Ù¸¥ °æ¿ì Å×ÀÏ·¯¸µÀÌ ÇÊ¿äÇÔ.
+ ¨ç ¹ýÀû Á¦¾à»çÇ× : ÇÁ·ÎÁ§Æ®º°·Î Àû¿ëµÉ IT Compliance°¡ ¼­·Î ´Ù¸¥ °æ¿ì Å×ÀÏ·¯¸µÀÌ ÇÊ¿äÇÔ.
+ ¨è Ç¥ÁØ Ç°Áú ±âÁØ : ±ÝÀ¶, Á¦µµ µî ºÐ¾ßº° Ç¥ÁØ Ç°Áú ±âÁØÀÌ ¼­·Î ´Ù¸¥ °æ¿ì Å×ÀÏ·¯¸µÀÌ ÇÊ¿äÇÔ.
  
 Answer 1 : ¿ÜºÎÀû ±âÁØ
 
@@ -1438,7 +1312,7 @@ Answer 1 : ÀüÀÚÁ¤ºÎ ÇÁ·¹ÀÓ¿öÅ©
 
 
 No. 136	 correct : 0,	 incorrect : 0
-Q : Windows ÇÁ·Î±×·¥ÀÇ °³¹ß ¹× ½ÇÇàÈ¯°æÀ» Á¦°øÇÏ´Â ÇÁ·¹ÀÓ¿öÅ©¸¦ ¸»ÇÏ¸ç, Microsoft »ç¿¡¼­ Åë¾Ð ÀÎÅÍ³Ý Àü·«À» À§ÇØ °³¹ßÇÏ¿´´Ù.
+Q : Windows ÇÁ·Î±×·¥ÀÇ °³¹ß ¹× ½ÇÇàÈ¯°æÀ» Á¦°øÇÏ´Â ÇÁ·¹ÀÓ¿öÅ©¸¦ ¸»ÇÏ¸ç, Microsoft »ç¿¡¼­ ÅëÇÕ ÀÎÅÍ³Ý Àü·«À» À§ÇØ °³¹ßÇÏ¿´´Ù.
  ÄÚµå ½ÇÇàÀ» °ü¸®ÇÏ´Â CLR(Common Language Runtime, °ø¿ë ¾ð¾î ·±Å¸ÀÓ)ÀÌ¶ó´Â ÀÌ¸§ÀÇ °¡»ó¸Ó½Å »ó¿¡¼­ ÀÛµ¿ÇÑ´Ù.
  
 Answer 1 : ´å³Ý ÇÁ·¹ÀÓ¿öÅ©
@@ -1447,10 +1321,8 @@ Answer 2 : . NET Framework
 
 No. 137	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ¼ÒÇÁÆ®¿þ¾î °³¹ß ÇÁ·¹ÀÓ¿öÅ©ÀÇ ³× °¡Áö Æ¯¼º Áß ÇÏ³ªÀÇ ³»¿ëÀÌ´Ù.
- 1.
- ÇÁ·¹ÀÓ¿öÅ©´Â Ä¸¼úÈ­¸¦ ÅëÇØ ¸ðµâÈ­¸¦ °­È­ÇÏ°í ¼³°è ¹× ±¸ÇöÀÇ º¯°æ¿¡ µû¸¥ ¿µÇâÀ» ÃÖ¼ÒÈ­ÇÔÀ¸·Î½á ¼ÒÇÁÆ®¿þ¾îÀÇ Ç°ÁúÀ» Çâ»ó½ÃÅ´.
- 2.
- ÇÁ·¹ÀÓ¿öÅ©´Â °³¹ß Ç¥ÁØ¿¡ ÀÇÇÑ ¸ðµâÈ­·Î ÀÎÇØ À¯Áö º¸¼ö°¡ ¿ëÀÌÇÔ.
+ ¨ç ÇÁ·¹ÀÓ¿öÅ©´Â Ä¸¼úÈ­¸¦ ÅëÇØ ¡Û¡Û¡Û¸¦ °­È­ÇÏ°í ¼³°è ¹× ±¸ÇöÀÇ º¯°æ¿¡ µû¸¥ ¿µÇâÀ» ÃÖ¼ÒÈ­ÇÔÀ¸·Î½á ¼ÒÇÁÆ®¿þ¾îÀÇ Ç°ÁúÀ» Çâ»ó½ÃÅ´.
+ ¨è ÇÁ·¹ÀÓ¿öÅ©´Â °³¹ß Ç¥ÁØ¿¡ ÀÇÇÑ ¸ðµâÈ­·Î ÀÎÇØ À¯Áö º¸¼ö°¡ ¿ëÀÌÇÔ.
  
 Answer 1 : ¸ðµâÈ­
 Answer 2 : Modularity
@@ -1458,8 +1330,7 @@ Answer 2 : Modularity
 
 No. 138	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ¼ÒÇÁÆ®¿þ¾î °³¹ß ÇÁ·¹ÀÓ¿öÅ©ÀÇ ³× °¡Áö Æ¯¼º Áß ÇÏ³ªÀÇ ³»¿ëÀÌ´Ù.
- 1.
- ÇÁ·¹ÀÓ¿öÅ©´Â Àç»ç¿ë °¡´ÉÇÑ ¸ðµâµéÀ» Á¦°øÇÔÀ¸·Î½á ¿¹»ê Àý°¨, »ý»ê¼º Çâ»ó, Ç°Áú º¸ÁõÀÌ °¡´ÉÇÔ.
+ ¨ç ÇÁ·¹ÀÓ¿öÅ©´Â Àç»ç¿ë °¡´ÉÇÑ ¸ðµâµéÀ» Á¦°øÇÔÀ¸·Î½á ¿¹»ê Àý°¨, »ý»ê¼º Çâ»ó, Ç°Áú º¸ÁõÀÌ °¡´ÉÇÔ.
  
 Answer 1 : Àç»ç¿ë¼º
 Answer 2 : Reusability
@@ -1473,7 +1344,8 @@ Answer 2 : Extensibility
 
 
 No. 140	 correct : 0,	 incorrect : 0
-Q : °³¹ßÀÚ°¡ °ü¸®ÇÏ°í ÅëÁ¦ÇØ¾ß ÇÏ´Â °´Ã¼µéÀÇ Á¦¾î¸¦ ÇÁ·¹ÀÓ¿öÅ©¿¡ ³Ñ±èÀ¸·Î½á »ý»ê¼ºÀ» Çâ»ó½ÃÅ´
+Q : °³¹ßÀÚ°¡ °ü¸®ÇÏ°í ÅëÁ¦ÇØ¾ß ÇÏ´Â °´Ã¼µéÀÇ Á¦¾î¸¦ ÇÁ·¹ÀÓ¿öÅ©¿¡ ³Ñ±èÀ¸·Î½á »ý»ê¼ºÀ» Çâ»ó½ÃÅ´.
+
 Answer 1 : Á¦¾îÀÇ ¿ªÈå¸§
 Answer 2 : Inversion of control
 
@@ -1491,18 +1363,17 @@ Answer 1 : ³í¸® µ¥ÀÌÅÍ ÀúÀå¼Ò
 
 
 No. 143	 correct : 0,	 incorrect : 0
-Q : µ¥ÀÌÅÍ ÀúÀå¼Ò À¯Çü Áß ÇÏ³ª·Î, ³í¸® µ¥ÀÌÅÍÀúÀå¼Ò¸¦ ¼ÒÇÁÆ®¿þ¾î°¡ ¿î¿ëµÇ ¤©È¯°æÀÇ ¹°¸®Àû Æ¯¼ºÀ» °í·ÁÇÏ¿© ½ÇÁ¦ ÀúÀåÀåÄ¡¿¡ ÀúÀåÇÑ °ÍÀ» ÀÇ¹ÌÇÏ´Â °ÍÀº?
+Q : µ¥ÀÌÅÍ ÀúÀå¼Ò À¯Çü Áß ÇÏ³ª·Î, ³í¸® µ¥ÀÌÅÍÀúÀå¼Ò¸¦ ¼ÒÇÁÆ®¿þ¾î°¡ ¿î¿ëµÉ È¯°æÀÇ ¹°¸®Àû Æ¯¼ºÀ» °í·ÁÇÏ¿© ½ÇÁ¦ ÀúÀåÀåÄ¡¿¡ ÀúÀåÇÑ °ÍÀ» ÀÇ¹ÌÇÏ´Â °ÍÀº?
 
 Answer 1 : ¹°¸® µ¥ÀÌÅÍÀúÀå¼Ò
 
 
 No. 144	 correct : 0,	 incorrect : 0
 Q : ¿©·¯ »ç¶÷¿¡ ÀÇÇØ °øµ¿À¸·Î »ç¿ëµÉ µ¥ÀÌÅÍ¸¦ Áßº¹À» ¹èÁ¦ÇÏ¿© ÅëÇÕÇÏ°í, ½±°Ô Á¢±ÙÇÏ¿© Ã³¸®ÇÒ ¼ö ÀÖµµ·Ï ÀúÀåÀåÄ¡¿¡ ÀúÀåÇÏ¿© Ç×»ó »ç¿ëÇÒ ¼ö ÀÖµµ·Ï ¿î¿µÇÏ´Â ¿î¿µ µ¥ÀÌÅÍ¸¦ ¸»ÇÏ´Â °ÍÀ¸·Î ´ÙÀ½ ³× °¡Áö·Î ±¸ºÐÁö¾î Á¤ÀÇÇÒ ¼ö ÀÖ´Ù.
- 1.
- ÅëÇÕµÈ µ¥ÀÌÅÍ(Integrated Data) : ÀÚ·áÀÇ Áßº¹À» ¹èÁ¦ÇÑ µ¥ÀÌÅÍÀÇ ¸ðÀÓ 2.
- ÀúÀåµÈ µ¥ÀÌÅÍ(Stored Data) : ÄÄÇªÅÍ°¡ Á¢±ÙÇÒ ¼ö ÀÖ´Â ÀúÀå ¸ÅÃ¼¿¡ ÀúÀåµÈ ÀÚ·á 3.
- ¿î¿µ µ¥ÀÌÅÍ(Operational Data) : Á¶Á÷ÀÇ °íÀ¯ÇÑ ¾÷¹«¸¦ ¼öÇàÇÏ´Â µ¥ ¹Ýµå½Ã ÇÊ¿äÇÑ ÀÚ·á 4.
- °ø¿ë µ¥ÀÌÅÍ(Shared Data) :  ¿©·¯ ÀÀ¿ë ½Ã½ºÅÛµéÀÌ °øµ¿À¸·Î ¼ÒÀ¯ÇÏ°í À¯ÁöÇÏ´Â ÀÚ·á
+ ¨ç ÅëÇÕµÈ µ¥ÀÌÅÍ(Integrated Data) : ÀÚ·áÀÇ Áßº¹À» ¹èÁ¦ÇÑ µ¥ÀÌÅÍÀÇ ¸ðÀÓ.
+ ¨è ÀúÀåµÈ µ¥ÀÌÅÍ(Stored Data) : ÄÄÇ»ÅÍ°¡ Á¢±ÙÇÒ ¼ö ÀÖ´Â ÀúÀå ¸ÅÃ¼¿¡ ÀúÀåµÈ ÀÚ·á.
+ ¨é ¿î¿µ µ¥ÀÌÅÍ(Operational Data) : Á¶Á÷ÀÇ °íÀ¯ÇÑ ¾÷¹«¸¦ ¼öÇàÇÏ´Â µ¥ ¹Ýµå½Ã ÇÊ¿äÇÑ ÀÚ·á.
+ ¨ê°ø¿ë µ¥ÀÌÅÍ(Shared Data) :  ¿©·¯ ÀÀ¿ë ½Ã½ºÅÛµéÀÌ °øµ¿À¸·Î ¼ÒÀ¯ÇÏ°í À¯ÁöÇÏ´Â ÀÚ·á
 Answer 1 : µ¥ÀÌÅÍº£ÀÌ½º
 Answer 2 : Database
 
@@ -1517,14 +1388,15 @@ Answer 3 : µ¥ÀÌÅÍº£ÀÌ½º °ü¸® ½Ã½ºÅÛ
 
 No. 146	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº DBMSÀÇ ÇÊ¼ö ±â´É ¼¼ °¡Áö Áß ÇÏ³ªÀÇ ³»¿ëÀÌ´Ù.
- µ¥ÀÌÅÍÀÇ Çü(Type)°ú ±¸Á¶¿¡ ´ëÇÑ Á¤ÀÇ, ÀÌ¿ë ¹æ½Ä, Á¦¾à Á¶°Ç µîÀ» ¸í½ÃÇÏ´Â ±â´É
+ µ¥ÀÌÅÍÀÇ Çü(Type)°ú ±¸Á¶¿¡ ´ëÇÑ Á¤ÀÇ, ÀÌ¿ë ¹æ½Ä, Á¦¾à Á¶°Ç µîÀ» ¸í½ÃÇÏ´Â ±â´É.
+
 Answer 1 : Á¤ÀÇ ±â´É
 Answer 2 : Definition ±â´É
 
 
 No. 147	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº DBMSÀÇ ÇÊ¼ö ±â´É ¼¼ °¡Áö Áß ÇÏ³ªÀÇ ³»¿ëÀÌ´Ù.
- µ¥ÀÌÅÍ °Ë»ö, »ý±ä, »ðÀÔ, »èÁ¦ µîÀ» À§ÇØ ÀÎÅÍÆäÀÌ½º ¼ö´ÜÀ» Á¦°øÇÏ´Â ±â´É.
+ µ¥ÀÌÅÍ °Ë»ö, »öÀÎ, »ðÀÔ, »èÁ¦ µîÀ» À§ÇØ ÀÎÅÍÆäÀÌ½º ¼ö´ÜÀ» Á¦°øÇÏ´Â ±â´É.
  
 Answer 1 : Á¶ÀÛ ±â´É
 Answer 2 : Manipulation ±â´É
@@ -1566,18 +1438,16 @@ Answer 1 : ¿ÜºÎ ½ºÅ°¸¶
 
 No. 153	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ½ºÅ°¸¶ÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ªÀÇ ³»¿ëÀÌ´Ù.
- 1.
- µ¥ÀÌÅÍ º£ÀÌ½ºÀÇ ÀüÃ¼ÀûÀÎ ³í¸®Àû ±¸Á¶ 2.
- ¸ðµç ÀÀ¿ë ÇÁ·Î±×·¥ÀÌ³ª »ç¿ëÀÚµéÀÌ ÇÊ¿ä·Î ÇÏ´Â µ¥ÀÌÅÍ¸¦ Á¾ÇÕÇÑ Á¶Á÷ ÀüÃ¼ÀÇ µ¥ÀÌÅÍº£ÀÌ½º·Î, ÇÏ³ª¸¸ Á¸ÀçÇÔ.
+ ¨ç µ¥ÀÌÅÍ º£ÀÌ½ºÀÇ ÀüÃ¼ÀûÀÎ ³í¸®Àû ±¸Á¶.
+ ¨è ¸ðµç ÀÀ¿ë ÇÁ·Î±×·¥ÀÌ³ª »ç¿ëÀÚµéÀÌ ÇÊ¿ä·Î ÇÏ´Â µ¥ÀÌÅÍ¸¦ Á¾ÇÕÇÑ Á¶Á÷ ÀüÃ¼ÀÇ µ¥ÀÌÅÍº£ÀÌ½º·Î, ÇÏ³ª¸¸ Á¸ÀçÇÔ.
  
 Answer 1 : °³³ä ½ºÅ°¸¶
 
 
 No. 154	 correct : 0,	 incorrect : 2
 Q : ´ÙÀ½Àº ½ºÅ°¸¶ÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ªÀÇ ³»¿ëÀÌ´Ù.
- 1.
- ¹°¸®Àû ÀúÀåÀåÄ¡ÀÇ ÀÔÀå¿¡¼­ º» µ¥ÀÌÅÍº£ÀÌ½º ±¸Á¶ 2.
- ½ÇÁ¦·Î ÀúÀåµÉ ·¹ÄÚµåÀÇ Çü½Ä, ÀúÀå µ¥ÀÌÅÍ Ç×¸ñÀÇ Ç¥Çö ¹æ¹ý, ³»ºÎ ·¹ÄÚµåÀÇ ¹°¸®Àû ¼ø¼­ µîÀ» ³ªÅ¸³¿.
+ ¨ç ¹°¸®Àû ÀúÀåÀåÄ¡ÀÇ ÀÔÀå¿¡¼­ º» µ¥ÀÌÅÍº£ÀÌ½º ±¸Á¶.
+ ¨è ½ÇÁ¦·Î ÀúÀåµÉ ·¹ÄÚµåÀÇ Çü½Ä, ÀúÀå µ¥ÀÌÅÍ Ç×¸ñÀÇ Ç¥Çö ¹æ¹ý, ³»ºÎ ·¹ÄÚµåÀÇ ¹°¸®Àû ¼ø¼­ µîÀ» ³ªÅ¸³¿.
  
 Answer 1 : ³»ºÎ ½ºÅ°¸¶
 
@@ -1716,7 +1586,7 @@ Answer 1 : µ¥ÀÌÅÍ ¸ðµ¨
 No. 173	 correct : 0,	 incorrect : 1
 Q : Çö½Ç ¼¼°è¿¡ ´ëÇÑ ÀÎ°£ÀÇ ÀÌÇØ¸¦ µ½±â À§ÇØ Çö½Ç ¼¼°è¿¡ ´ëÇÑ ÀÎ½ÄÀ» Ãß»óÀû °³³äÀ¸·Î Ç¥ÇöÇÏ´Â °úÁ¤À» ¸»ÇÏ¸ç, ¼Ó¼ºµé·Î ±â¼úµÈ °³Ã¼ Å¸ÀÔ°ú ÀÌ °³Ã¼ Å¸ÀÔµé °£ÀÇ °ü°è¸¦ ÀÌ¿ëÇÏ¿© Çö½Ç ¼¼°è¸¦ Ç¥ÇöÇÏ´Â °ÍÀº?
  ¶Ç ´Ù¸¥ Æ¯Â¡À¸·Î Çö½Ç ¼¼°è¿¡ Á¸ÀçÇÏ´Â °³Ã¼¸¦ ÀÎ°£ÀÌ ÀÌÇØÇÒ ¼ö ÀÕ´Â Á¤º¸ ±¸Á¶·Î Ç¥ÇöÇÏ±â ¶§¹®¿¡ Á¤º¸ ¸ðµ¨ÀÌ¶ó°íµµ ÇÑ´Ù.
- ´ëÇ¥ÀûÀÎ ¸ðµ¨·Î´Â E- R ¸ðµ¨ÀÌ ÀÖ´Ù.
+ ´ëÇ¥ÀûÀÎ ¸ðµ¨·Î´Â E-R ¸ðµ¨ÀÌ ÀÖ´Ù.
  
 Answer 1 : °³³äÀû µ¥ÀÌÅÍ ¸ðµ¨
 
@@ -1725,7 +1595,7 @@ No. 174	 correct : 0,	 incorrect : 1
 Q : °³³äÀû ¸ðµ¨¸µ °úÁ¤¿¡¼­ ¾òÀº °³³äÀû ±¸Á¶¸¦ ÄÄÇ»ÅÍ°¡ ÀÌÇØÇÏ°í Ã³¸®ÇÒ ¼öÀÖ´Â ÄÄÇ»ÅÍ ¼¼°èÀÇ È¯°æ¿¡ ¸Âµµ·Ï º¯È¯ÇÏ´Â °úÁ¤Àº?
  ÇÊµå·Î ±â¼úµÈ µ¥ÀÌÅÍ Å¸ÀÔ°ú ÀÌ µ¥ÀÌÅÍ Å¸ÀÔµé °£ÀÇ °ü°è¸¦ ÀÌ¿ëÇÏ¿© Çö½Ç¼¼°è¸¦ Ç¥ÇöÇÏ¸ç, ´Ü¼øÈ÷ µ¥ÀÌÅÍ ¸ðµ¨ÀÌ¶ó°í ÇÏ¸é ÀÌ ¸ðµ¨À» ÀÇ¹ÌÇÑ´Ù.
  ¶ÇÇÑ µ¥ÀÌÅÍ °£ÀÇ °ü°è¸¦ ¾î¶»°Ô Ç¥ÇöÇÏ´À³Ä¿¡ µû¶ó °ü°è ¸ðµ¨, °èÃþ ¸ðµ¨, ³×Æ®¿öÅ© ¸ðµ¨·Î ±¸ºÐÇÑ´Ù.
- 
+
 Answer 1 : ³í¸®Àû µ¥ÀÌÅÍ ¸ðµ¨
 
 
@@ -1774,12 +1644,9 @@ Answer 2 : Attribute
 
 No. 180	 correct : 1,	 incorrect : 0
 Q : ¼Ó¼ºÀº ¼¼ °¡Áö·Î ºÐ·ùµÈ´Ù.
- 1.
- ¾÷¹« ºÐ¼®À» ÅëÇØ Á¤ÀÇÇÑ ¼Ó¼º.
- 2.
- ¼Ó¼º Áß °¡Àå ¸¹°í ÀÏ¹ÝÀûÀÓ.
- 3.
- ¾÷¹«·ÎºÎÅÍ ºÐ¼®ÇÑ ¼Ó¼ºÀÌ¶óµµ ¾÷¹«»ó ÄÚµå·Î Á¤ÀÇÇÑ ¼Ó¼ºÀº ±âº» ¼Ó¼º¿¡¼­ Á¦¿ÜµÊ.
+ ¨ç ¾÷¹« ºÐ¼®À» ÅëÇØ Á¤ÀÇÇÑ ¼Ó¼º.
+ ¨è ¼Ó¼º Áß °¡Àå ¸¹°í ÀÏ¹ÝÀûÀÓ.
+ ¨é ¾÷¹«·ÎºÎÅÍ ºÐ¼®ÇÑ ¼Ó¼ºÀÌ¶óµµ ¾÷¹«»ó ÄÚµå·Î Á¤ÀÇÇÑ ¼Ó¼ºÀº ¡Û¡Û¡Û¿¡¼­ Á¦¿ÜµÊ.
  
 Answer 1 : ±âº» ¼Ó¼º
 Answer 2 : Basic Attribute
@@ -1787,10 +1654,8 @@ Answer 2 : Basic Attribute
 
 No. 181	 correct : 1,	 incorrect : 0
 Q : ¼Ó¼ºÀº ¼¼ °¡Áö·Î ºÐ·ùµÈ´Ù.
- 1.
- ¿ø·¡ ¾÷¹«»ó Á¸ÀçÇÏÁö ¾Ê°í ¼³°è °úÁ¤¿¡¼­ µµÃâÇØ³»´Â ¼Ó¼º.
- 2.
- ¾÷¹«¿¡  ÇÊ¿äÇÑ µ¥ÀÌÅÍ ¿Ü¿¡ µ¥ÀÌÅÍ ¸ðµ¨¸µÀ» À§ÇØ ¾÷¹«¸¦ ±ÔÄ¢È­ÇÏ·Á°í ¼Ó¼ºÀ» »õ·Î ¸¸µé°Å³ª º¯ÇüÇÏ¿© Á¤ÀÇÇÏ´Â ¼Ó¼º.
+ ¨ç ¿ø·¡ ¾÷¹«»ó Á¸ÀçÇÏÁö ¾Ê°í ¼³°è °úÁ¤¿¡¼­ µµÃâÇØ³»´Â ¼Ó¼º.
+ ¨è ¾÷¹«¿¡  ÇÊ¿äÇÑ µ¥ÀÌÅÍ ¿Ü¿¡ µ¥ÀÌÅÍ ¸ðµ¨¸µÀ» À§ÇØ ¾÷¹«¸¦ ±ÔÄ¢È­ÇÏ·Á°í ¼Ó¼ºÀ» »õ·Î ¸¸µé°Å³ª º¯ÇüÇÏ¿© Á¤ÀÇÇÏ´Â ¼Ó¼º.
 
 Answer 1 : ¼³°è ¼Ó¼º
 Answer 2 : Designed Attribute
@@ -1798,10 +1663,8 @@ Answer 2 : Designed Attribute
 
 No. 182	 correct : 1,	 incorrect : 0
 Q : ¼Ó¼ºÀº ¼¼ °¡Áö·Î ºÐ·ùµÈ´Ù.
- 1.
- ´Ù¸¥ ¼Ó¼ºÀ¸·ÎºÎÅÍ °è»êÀÌ³ª º¯Çü µîÀÇ ¿µÇâÀ» ¹Þ¾Æ ¹ß»ýÇÏ´Â ¼Ó¼º.
- 2.
- ¡Û¡Û¡Û ¼Ó¼ºÀº µÇµµ·Ï ÀûÀº ¼ö¸¦ Á¤ÀÇÇÏ´Â °ÍÀÌ ÁÁÀ½.
+ ¨ç ´Ù¸¥ ¼Ó¼ºÀ¸·ÎºÎÅÍ °è»êÀÌ³ª º¯Çü µîÀÇ ¿µÇâÀ» ¹Þ¾Æ ¹ß»ýÇÏ´Â ¼Ó¼º.
+ ¨è ¡Û¡Û¡Û ¼Ó¼ºÀº µÇµµ·Ï ÀûÀº ¼ö¸¦ Á¤ÀÇÇÏ´Â °ÍÀÌ ÁÁÀ½.
 
 Answer 1 : ÆÄ»ý ¼Ó¼º
 Answer 2 : Derived Attribute
@@ -1839,10 +1702,8 @@ Answer 2 : Relationship
 
 No. 187	 correct : 1,	 incorrect : 0
 Q : °ü°èÀÇ Á¾·ù¿¡´Â ³× °¡Áö°¡ ÀÖ´Ù.
- 1.
- µÎ °³Ã¼ »çÀÌÀÇ ÁÖ¡¤Á¾ °ü°è¸¦ Ç¥ÇöÇÑ °Í.
- 2.
- ½Äº° °ü°è¿Í ºñ½Äº° °ü°è°¡ ÀÖÀ½.
+ ¨ç µÎ °³Ã¼ »çÀÌÀÇ ÁÖ¡¤Á¾ °ü°è¸¦ Ç¥ÇöÇÑ °Í.
+ ¨è ½Äº° °ü°è¿Í ºñ½Äº° °ü°è°¡ ÀÖÀ½.
 
 Answer 1 : Á¾¼Ó °ü°è
 Answer 2 : Dependent Relationship
@@ -1879,15 +1740,15 @@ Q : °³Ã¼¿Í °³Ã¼ °£ÀÇ °ü°è¸¦ ±âº» ¿ä¼Ò·Î ÀÌ¿ëÇÏ¿© Çö½Ç ¼¼°èÀÇ ¹«Áú¼­ÇÑ µ¥ÀÌÅÍ¸¦ °
  ÀÌ°ÍÀº °³Ã¼ Å¸ÀÔ(Entity Type)°ú ÀÌµé °£ÀÇ °ü°è Å¸ÀÔ(Relationship Type)À» ÀÌ¿ëÇØ Çö½Ç ¼¼°è¸¦ °³³äÀûÀ¸·Î Ç¥ÇöÇÑ´Ù.
  ÀÌ°ÍÀº µ¥ÀÌÅÍ¸¦ °³Ã¼(Entity), °ü°è(Relatuinship), ¼Ó¼º(Attribute)·Î ¹¦»çÇÑ´Ù.
 
-Answer 1 : E- R ¸ðµ¨
-Answer 2 : Entity- Relationship ¸ðµ¨
-Answer 3 : °³Ã¼- °ü°è ¸ðµ¨
+Answer 1 : E-R ¸ðµ¨
+Answer 2 : Entity-Relationship ¸ðµ¨
+Answer 3 : °³Ã¼-°ü°è ¸ðµ¨
 
 
 No. 192	 correct : 0,	 incorrect : 1
 Q : 2Â÷¿øÀûÀÎ Ç¥(Table)¸¦ ÀÌ¿ëÇØ¼­ µ¥ÀÌÅÍ »óÈ£ °ü°è¸¦ Á¤ÀÇÇÏ´Â µ¥ÀÌÅÍº£ÀÌ½º´Â?
- 1970³â IBM¿¡ ±Ù¹«ÇÏ´ø ÄÚµå(E F Codd)¿¡ ÀÇÇØ Ã³À½ Á¦¾ÈµÇ¾ú´Ù.
- °³Ã¼(Entity)¿Í °ü°è(Relationship)¸¦ ¸ðµÎ ¸±·¹ÀÌ¼Ç(Relation)ÀÌ¶ó´Â Ç¥(Table)·Î Ç¥ÇöÇÏ±â ¶§¹®¿¡ °³Ã¼¸¦ Ç¥ÇöÇÏ´Â °³Ã¼ ¸±·¹ÀÌ¼Ç°ú °ü°è¸¦ Ç¥Çö°¡´Â °ü°è ¸±·¹ÀÌ¼ÇÀÌ Á¸ÀçÇÑ´Ù.
+ 1970³â IBM¿¡ ±Ù¹«ÇÏ´ø ÄÚµå(E F¡£ Codd)¿¡ ÀÇÇØ Ã³À½ Á¦¾ÈµÇ¾ú´Ù.
+ °³Ã¼(Entity)¿Í °ü°è(Relationship)¸¦ ¸ðµÎ ¸±·¹ÀÌ¼Ç(Relation)ÀÌ¶ó´Â Ç¥(Table)·Î Ç¥ÇöÇÏ±â ¶§¹®¿¡ °³Ã¼¸¦ Ç¥ÇöÇÏ´Â °³Ã¼ ¸±·¹ÀÌ¼Ç°ú °ü°è¸¦ Ç¥ÇöÇÏ´Â °ü°è ¸±·¹ÀÌ¼ÇÀÌ Á¸ÀçÇÑ´Ù.
  ÀåÁ¡ : °£°áÇÏ°í º¸±â Æí¸®ÇÏ¸ç, ´Ù¸¥ µ¥ÀÌÅÍº£ÀÌ½º·ÎÀÇ º¯È¯ÀÌ ¿ëÀÌÇÏ´Ù.
  ´ÜÁ¡ : ¼º´ÉÀÌ ´Ù¼Ò ¶³¾îÁø´Ù.
 
@@ -1915,7 +1776,7 @@ Answer 2 : Attribute
 
 
 No. 195	 correct : 0,	 incorrect : 1
-Q : ÇÏ³ªÀÇ ¾ÖÆ®¸®ºäÅÍ°¡ ÃëÇÒ ¼ö ÀÖ´Â °°Àº Å¸ÀÔÀÇ ¿øÀÚ(Atomic)°ªµéÀÇ ÁýÇÕÀ» ¸»ÇÏ´Â °ÍÀº?
+Q : ÇÏ³ªÀÇ ¾ÖÆ®¸®ºäÆ®°¡ ÃëÇÒ ¼ö ÀÖ´Â °°Àº Å¸ÀÔÀÇ ¿øÀÚ(Atomic)°ªµéÀÇ ÁýÇÕÀ» ¸»ÇÏ´Â °ÍÀº?
  ¡Û¡Û¡ÛÀº ½ÇÁ¦ ¾ÖÆ®¸®ºäÆ® °ªÀÌ ³ªÅ¸³¯ ¶§ ±× °ªÀÇ ÇÕ¹ý ¿©ºÎ¸¦ ½Ã½ºÅÛÀÌ °Ë»çÇÏ´Âµ¥¿¡µµ ÀÌ¿ëµÈ´Ù.
 
 Answer 1 : µµ¸ÞÀÎ
@@ -1957,7 +1818,7 @@ Answer 2 : Key
 No. 199	 correct : 0,	 incorrect : 1
 Q : ¸±·¹ÀÌ¼ÇÀ» ±¸¼ºÇÏ´Â ¼Ó¼ºµé Áß¿¡¼­ Æ©ÇÃÀ» À¯ÀÏÇÏ°Ô ½Äº°ÇÏ±â À§ÇØ »ç¿ëµÇ´Â ¼Ó¼ºµéÀÇ ºÎºÐÁýÇÕÀº?
  ±âº»Å°·Î »ç¿ëÇÒ ¼ö ÀÖ´Â ¼Ó¼ºµéÀ» ¸»ÇÑ´Ù.
- ¡Û¡Û¡ÛÀº À¯ÀÏ¼º(unique)°ú ÃÖ¼Ò¼º(Minimality)À» ¸ðµÎ ¸¸Á·½ÃÄÑ¾ß ÇÑ´Ù.
+ ¡Û¡Û¡ÛÀº À¯ÀÏ¼º(Unique)°ú ÃÖ¼Ò¼º(Minimality)À» ¸ðµÎ ¸¸Á·½ÃÄÑ¾ß ÇÑ´Ù.
 
 Answer 1 : ÈÄº¸Å°
 Answer 2 : Candidate Key
@@ -2101,32 +1962,25 @@ Answer 1 : °ü°è´ë¼ö
 
 No. 218	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ³× °¡Áö ¼ø¼ö °ü°è ¿¬»êÀÚ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¸±·¹ÀÌ¼Ç¿¡ Á¸ÀçÇÏ´Â Æ©ÇÃ Áß¿¡¼­ ¼±ÅÃ Á¶°ÇÀ» ¸¸Á·ÇÏ´Â Æ©ÇÃÀÇ ºÎºÐÁýÇÕÀ» ±¸ÇÏ¿© »õ·Î¿î ¸±·¹ÀÌ¼ÇÀ» ¸¸µå´Â ¿¬»ê.
- 2.
- ¸±·¹ÀÌ¼ÇÀÇ Çà¿¡ ÇØ´çÇÏ´Â Æ©ÇÃ(Tuple)À» ±¸ÇÏ´Â °ÍÀ¸·Î ¼öÆò ¿¬»êÀÌ¶ó°íµµ ÇÔ.
+ ¨ç ¸±·¹ÀÌ¼Ç¿¡ Á¸ÀçÇÏ´Â Æ©ÇÃ Áß¿¡¼­ ¼±ÅÃ Á¶°ÇÀ» ¸¸Á·ÇÏ´Â Æ©ÇÃÀÇ ºÎºÐÁýÇÕÀ» ±¸ÇÏ¿© »õ·Î¿î ¸±·¹ÀÌ¼ÇÀ» ¸¸µå´Â ¿¬»ê.
+ ¨è ¸±·¹ÀÌ¼ÇÀÇ Çà¿¡ ÇØ´çÇÏ´Â Æ©ÇÃ(Tuple)À» ±¸ÇÏ´Â °ÍÀ¸·Î ¼öÆò ¿¬»êÀÌ¶ó°íµµ ÇÔ.
 
 Answer 1 : Select
 
 
 No. 219	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ³× °¡Áö ¼ø¼ö °ü°è ¿¬»êÀÚ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÁÖ¾îÁø ¸±·¹ÀÌ¼Ç¿¡¼­ ¼Ó¼º ¸®½ºÆ®(Attribute List)¿¡ Á¦½ÃµÈ ¼Ó¼º °ª¸¸À» ÃßÃâÇÏ¿© »õ·Î¿î ¸±·¹ÀÌ¼ÇÀ» ¸¸µå´Â ¿¬»ê.
- 2.
- ¿¬»ê °á°ú¿¡ Áßº¹ÀÌ ¹ß»ýÇÏ¸é Áßº¹ÀÌ Á¦°ÅµÊ.
- 3.
- ¸±·¹ÀÌ¼ÇÀÇ ¿­¿¡ ÇØ´çÇÏ´Â ¼Ó¼ºÀ» ÃßÃâÇÏ´Â °ÍÀÌ¹Ç·Î ¼öÁ÷ ¿¬»êÀÚ¶ó°íµµ ÇÔ.
+ ¨ç ÁÖ¾îÁø ¸±·¹ÀÌ¼Ç¿¡¼­ ¼Ó¼º ¸®½ºÆ®(Attribute List)¿¡ Á¦½ÃµÈ ¼Ó¼º °ª¸¸À» ÃßÃâÇÏ¿© »õ·Î¿î ¸±·¹ÀÌ¼ÇÀ» ¸¸µå´Â ¿¬»ê.
+ ¨è ¿¬»ê °á°ú¿¡ Áßº¹ÀÌ ¹ß»ýÇÏ¸é Áßº¹ÀÌ Á¦°ÅµÊ.
+ ¨é ¸±·¹ÀÌ¼ÇÀÇ ¿­¿¡ ÇØ´çÇÏ´Â ¼Ó¼ºÀ» ÃßÃâÇÏ´Â °ÍÀÌ¹Ç·Î ¼öÁ÷ ¿¬»êÀÚ¶ó°íµµ ÇÔ.
 
 Answer 1 : Project
 
 
 No. 220	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ³× °¡Áö ¼ø¼ö °ü°è ¿¬»êÀÚ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °øÅë ¼Ó¼ºÀ» Áß½ÉÀ¸·Î µÎ °³ÀÇ ¸±·¹ÀÌ¼ÇÀ» ÇÏ³ª·Î ÇÕÃÄ¼­ »õ·Î¿î ¸±·¹ÀÌ¼ÇÀ» ¸¸µå´Â ¿¬»ê.
- 2.
- ¡Û¡Û¡ÛÀÇ °á°ú´Â  Cartesian Product(±³Â÷°ö)¸¦ ¼öÇàÇÑ ´ÙÀ½ Select¸¦ ¼öÇàÇÑ °Í°ú °°À½.
+ ¨ç °øÅë ¼Ó¼ºÀ» Áß½ÉÀ¸·Î µÎ °³ÀÇ ¸±·¹ÀÌ¼ÇÀ» ÇÏ³ª·Î ÇÕÃÄ¼­ »õ·Î¿î ¸±·¹ÀÌ¼ÇÀ» ¸¸µå´Â ¿¬»ê.
+ ¨è ¡Û¡Û¡ÛÀÇ °á°ú´Â  Cartesian Product(±³Â÷°ö)¸¦ ¼öÇàÇÑ ´ÙÀ½ Select¸¦ ¼öÇàÇÑ °Í°ú °°À½.
 
 Answer 1 : Join
 
@@ -2146,7 +2000,7 @@ Answer 1 : ÀÏ¹Ý ÁýÇÕ ¿¬»êÀÚ
 
 No. 223	 correct : 1,	 incorrect : 0
 Q : °ü°è µ¥ÀÌÅÍ ¿¬»êÀ» Ç¥ÇöÇÏ´Â ¹æ¹ýÀº?
- °ü°è µ¥ÀÌÅÍ ¸ðµ¨ÀÇ Á¦¾ÈÀÚÀÎ ÄÚµå(E F Codd)°¡ ¼öÇÐÀÇ Predicate Calculus(¼ú¾î ÇØ¼®)¿¡ ±â¹ÝÀ» µÎ°í °ü°è µ¥ÀÌÅÍº£ÀÌ½º¸¦ À§ÇØ Á¦¾ÈÇß´Ù.
+ °ü°è µ¥ÀÌÅÍ ¸ðµ¨ÀÇ Á¦¾ÈÀÚÀÎ ÄÚµå(E F¡£ Codd)°¡ ¼öÇÐÀÇ Predicate Calculus(¼ú¾î ÇØ¼®)¿¡ ±â¹ÝÀ» µÎ°í °ü°è µ¥ÀÌÅÍº£ÀÌ½º¸¦ À§ÇØ Á¦¾ÈÇß´Ù.
  ¿øÇÏ´Â Á¤º¸°¡ ¹«¾ùÀÌ¶ó´Â °Í¸¸ Á¤ÀÇÇÏ´Â ºñÀýÂ÷Àû Æ¯¼ºÀ» Áö´Ñ´Ù.
  ¿øÇÏ´Â Á¤º¸¸¦ Á¤ÀÇÇÒ ¶§´Â °è»ê ¼ö½ÄÀ» »ç¿ëÇÑ´Ù.
 
@@ -2261,10 +2115,8 @@ Answer 3 : Denormalization
 No. 239	 correct : 2,	 incorrect : 0
 Q : µÎ °³ÀÇ Å×ÀÌºíÀÌ Á¶ÀÎ(Join)µÇ¾î »ç¿ëµÇ´Â °æ¿ì°¡ ¸¹À» °æ¿ì ¼º´É Çâ»óÀ» À§ÇØ ¾Æ¿¹ ÇÏ³ªÀÇ Å×ÀÌºí·Î ¸¸µé¾î »ç¿ëÇÏ´Â °ÍÀº?
  ¡Û¡Û¡ÛÀ» °í·ÁÇÏ´Â °æ¿ì.
- 1.
- µÎ °³ÀÇ Å×ÀÌºí¿¡¼­ ¹ß»ýÇÏ´Â ÇÁ·Î¼¼½º°¡ µ¿ÀÏÇÏ°Ô ÀÚÁÖ Ã³¸®µÇ´Â °æ¿ì.
- 2.
- Ç×»ó µÎ °³ÀÇ Å×ÀÌºíÀ» ÀÌ¿ëÇÏ¿© Á¶È¸¸¦ ¼öÇàÇÏ´Â °æ¿ì.
+ ¨ç µÎ °³ÀÇ Å×ÀÌºí¿¡¼­ ¹ß»ýÇÏ´Â ÇÁ·Î¼¼½º°¡ µ¿ÀÏÇÏ°Ô ÀÚÁÖ Ã³¸®µÇ´Â °æ¿ì.
+ ¨è Ç×»ó µÎ °³ÀÇ Å×ÀÌºíÀ» ÀÌ¿ëÇÏ¿© Á¶È¸¸¦ ¼öÇàÇÏ´Â °æ¿ì.
 
 Answer 1 : Å×ÀÌºí ÅëÇÕ
 
@@ -2272,15 +2124,11 @@ Answer 1 : Å×ÀÌºí ÅëÇÕ
 No. 240	 correct : 2,	 incorrect : 0
 Q : Å×ÀÌºíÀ» ¼öÁ÷ ¶Ç´Â ¼öÆòÀ¸·Î ºÐÇÒÇÏ´Â °ÍÀº?
 ¼öÆò ºÐÇÒ.
- 1.
- ·¹ÄÚµå(Record)¸¦ ±âÁØÀ¸·Î Å×ÀÌºíÀ» ºÐÇÒÇÏ´Â °Í.
- 2.
- ·¹ÄÚµåº°·Î »ç¿ë ºóµµÀÇ Â÷ÀÌ°¡ Å« °æ¿ì »ç¿ë ºóµµ¿¡ µû¶ó Å×ÀÌºíÀ» ºÐÇÒÇÔ.
+ ¨ç ·¹ÄÚµå(Record)¸¦ ±âÁØÀ¸·Î Å×ÀÌºíÀ» ºÐÇÒÇÏ´Â °Í.
+ ¨è ·¹ÄÚµåº°·Î »ç¿ë ºóµµÀÇ Â÷ÀÌ°¡ Å« °æ¿ì »ç¿ë ºóµµ¿¡ µû¶ó Å×ÀÌºíÀ» ºÐÇÒÇÔ.
 ¼öÁ÷ ºÐÇÒ.
- 1.
- ÇÏ³ªÀÇ Å×ÀÌºí¿¡ ¼Ó¼ºÀÌ ³Ê¹« ¸¹À» °æ¿ì ¼Ó¼ºÀ» ±âÁØÀ¸·Î Å×ÀÌºíÀ» ºÐÇÒÇÏ´Â °Í.
- 2.
- Á¾·ù : °»½Å À§ÁÖÀÇ ¼Ó¼º ºÐÇÒ, ÀÚÁÖ Á¶È¸µÇ´Â ¼Ó¼º ºÐÇÒ, Å©±â°¡ Å« ¼Ó¼º ºÐÇÒ, º¸¾ÈÀ» Àû¿ëÇØ¾ß ÇÏ´Â ¼Ó¼º ºÐÇÒ.
+ ¨ç ÇÏ³ªÀÇ Å×ÀÌºí¿¡ ¼Ó¼ºÀÌ ³Ê¹« ¸¹À» °æ¿ì ¼Ó¼ºÀ» ±âÁØÀ¸·Î Å×ÀÌºíÀ» ºÐÇÒÇÏ´Â °Í.
+ ¨è Á¾·ù : °»½Å À§ÁÖÀÇ ¼Ó¼º ºÐÇÒ, ÀÚÁÖ Á¶È¸µÇ´Â ¼Ó¼º ºÐÇÒ, Å©±â°¡ Å« ¼Ó¼º ºÐÇÒ, º¸¾ÈÀ» Àû¿ëÇØ¾ß ÇÏ´Â ¼Ó¼º ºÐÇÒ.
 
 Answer 1 : Å×ÀÌºí ºÐÇÒ
 
@@ -2288,17 +2136,12 @@ Answer 1 : Å×ÀÌºí ºÐÇÒ
 No. 241	 correct : 0,	 incorrect : 2
 Q : ÀÛ¾÷ÀÇ È¿À²¼ºÀ» Çâ»ó½ÃÅ°±â À§ÇØ Å×ÀÌºíÀ» Ãß°¡ÇÏ´Â °ÍÀº?
  ¡Û¡Û¡Û¸¦ ÇÏ´Â °æ¿ì.
- 1.
- ¿©·¯ Å×ÀÌºí¿¡¼­ µ¥ÀÌÅÍ¸¦ ÃßÃâÇØ¼­ »ç¿ëÇØ¾ß ÇÒ °æ¿ì.
- 2.
- ´Ù¸¥ ¼­¹ö¿¡ ÀúÀåµÈ Å×ÀÌºíÀ» ÀÌ¿ëÇØ¾ß ÇÏ´Â °æ¿ì.
+ ¨ç ¿©·¯ Å×ÀÌºí¿¡¼­ µ¥ÀÌÅÍ¸¦ ÃßÃâÇØ¼­ »ç¿ëÇØ¾ß ÇÒ °æ¿ì.
+ ¨è ´Ù¸¥ ¼­¹ö¿¡ ÀúÀåµÈ Å×ÀÌºíÀ» ÀÌ¿ëÇØ¾ß ÇÏ´Â °æ¿ì.
  ¡Û¡Û¡Û ¹æ¹ý.
- 1.
- Áý°è Å×ÀÌºíÀÇ Ãß°¡ : Áý°è µ¥ÀÌÅÍ¸¦ À§ÇÑ Å×ÀÌºíÀ» »ý¼ºÇÏ°í, °¢ ¿øº» Å×ÀÌºí¿¡ Æ®¸®°Å(Trigger)¸¦ ¼³Á¤ÇÏ¿© »ç¿ëÇÏ´Â °Í.
- 2.
- ÁøÇà Å×ÀÌºíÀÇ Ãß°¡ : ÀÌ·Â °ü¸® µîÀÇ ¸ñÀûÀ¸·Î Ãß°¡ÇÏ´Â Å×ÀÌºí.
- 3.
- Æ¯Á¤ ºÎºÐ¸¸À» Æ÷ÇÔÇÏ´Â Å×ÀÌºíÀÇ Ãß°¡ : µ¥ÀÌÅÍ°¡ ¸¹Àº Å×ÀÌºíÀÇ Æ¯Á¤ ºÎºÐ¸¸À» »ç¿ëÇÏ´Â °æ¿ì ÇØ´ç ºÎºÐ¸¸À¸·Î »õ·Î¿î Å×ÀÌºíÀ» »ý¼º.
+ ¨ç Áý°è Å×ÀÌºíÀÇ Ãß°¡ : Áý°è µ¥ÀÌÅÍ¸¦ À§ÇÑ Å×ÀÌºíÀ» »ý¼ºÇÏ°í, °¢ ¿øº» Å×ÀÌºí¿¡ Æ®¸®°Å(Trigger)¸¦ ¼³Á¤ÇÏ¿© »ç¿ëÇÏ´Â °Í.
+ ¨è ÁøÇà Å×ÀÌºíÀÇ Ãß°¡ : ÀÌ·Â °ü¸® µîÀÇ ¸ñÀûÀ¸·Î Ãß°¡ÇÏ´Â Å×ÀÌºí.
+ ¨é Æ¯Á¤ ºÎºÐ¸¸À» Æ÷ÇÔÇÏ´Â Å×ÀÌºíÀÇ Ãß°¡ : µ¥ÀÌÅÍ°¡ ¸¹Àº Å×ÀÌºíÀÇ Æ¯Á¤ ºÎºÐ¸¸À» »ç¿ëÇÏ´Â °æ¿ì ÇØ´ç ºÎºÐ¸¸À¸·Î »õ·Î¿î Å×ÀÌºíÀ» »ý¼º.
 
 Answer 1 : Áßº¹ Å×ÀÌºí Ãß°¡
 
@@ -2307,14 +2150,10 @@ No. 242	 correct : 0,	 incorrect : 2
 Q : Á¶ÀÎÇØ¼­ µ¥ÀÌÅÍ¸¦ Ã³¸®ÇÒ ¶§ µ¥ÀÌÅÍ¸¦ Á¶È¸ÇÏ´Â °æ·Î¸¦ ´ÜÃàÇÏ±â À§ÇØ ÀÚÁÖ »ç¿ëÇÏ´Â ¼Ó¼ºÀ» ÇÏ³ª ´õ Ãß°¡ÇÏ´Â °ÍÀº?
  ¡Û¡Û¡ÛÇÏ¸é µ¥ÀÌÅÍÀÇ ¹«°á¼º È®º¸°¡ ¾î·Æ°í, µð½ºÅ© °ø°£ÀÌ Ãß°¡·Î ÇÊ¿äÇÏ´Ù.
  ¡Û¡Û¡ÛÇÏ´Â °æ¿ì.
- 1.
- Á¶ÀÎÀÌ ÀÚÁÖ ¹ß»ýÇÏ´Â ¼Ó¼ºÀÎ °æ¿ì.
- 2.
- Á¢±Ù °æ·Î°¡ º¹ÀâÇÑ ¼Ó¼ºÀÎ °æ¿ì.
- 3.
- ¾×¼¼½ºÀÇ Á¶°ÇÀ¸·Î ÀÚÁÖ »ç¿ëµÇ´Â ¼Ó¼ºÀÎ °æ¿ì.
- 4.
- ±âº»Å°ÀÇ ÇüÅÂ°¡ ÀûÀýÇÏÁö ¾Ê°Å³ª ¿©·¯ °³ÀÇ ¼Ó¼ºÀ¸·Î ±¸¼ºµÈ °æ¿ì.
+ ¨ç Á¶ÀÎÀÌ ÀÚÁÖ ¹ß»ýÇÏ´Â ¼Ó¼ºÀÎ °æ¿ì.
+ ¨è Á¢±Ù °æ·Î°¡ º¹ÀâÇÑ ¼Ó¼ºÀÎ °æ¿ì.
+ ¨é ¾×¼¼½ºÀÇ Á¶°ÇÀ¸·Î ÀÚÁÖ »ç¿ëµÇ´Â ¼Ó¼ºÀÎ °æ¿ì.
+ ¨ê±âº»Å°ÀÇ ÇüÅÂ°¡ ÀûÀýÇÏÁö ¾Ê°Å³ª ¿©·¯ °³ÀÇ ¼Ó¼ºÀ¸·Î ±¸¼ºµÈ °æ¿ì.
 
 Answer 1 : Áßº¹ ¼Ó¼º Ãß°¡
 
@@ -2331,17 +2170,13 @@ Answer 2 : System Catalog
 No. 244	 correct : 2,	 incorrect : 1
 Q : ½Ã½ºÅÛ Ä«Å»·Î±×¿¡ ÀúÀåµÈ Á¤º¸¸¦ ÀÇ¹ÌÇÏ´Â °ÍÀº?
  ¡Û¡Û¡ÛÀÇ À¯Çü¿¡´Â ³× °¡Áö°¡ ÀÖ´Ù.
- 1.
- µ¥ÀÌÅÍº£ÀÌ½º °´Ã¼ Á¤º¸ : Å×ÀÌºí(Table), ÀÎµ¦½º(Index), ºä(View) µîÀÇ ±¸Á¶ ¹× Åë°è Á¤º¸.
- 2.
- »ç¿ëÀÚ Á¤º¸ : ¾ÆÀÌµð, ÆÐ½º¿öµå, Á¢±Ù ±ÇÇÑ µî.
- 3.
- Å×ÀÌºíÀÇ ¹«°á¼º Á¦¾à Á¶°Ç Á¤º¸ : ±âº»Å°, ¿Ü·¡Å°, NULL °ª Çã¿ë ¿©ºÎ µî.
- 4.
- ÇÔ¼ö, ÇÁ·Î½ÃÀú, Æ®¸®°Å µî¿¡ ´ëÇÑ Á¤º¸.
+ ¨ç µ¥ÀÌÅÍº£ÀÌ½º °´Ã¼ Á¤º¸ : Å×ÀÌºí(Table), ÀÎµ¦½º(Index), ºä(View) µîÀÇ ±¸Á¶ ¹× Åë°è Á¤º¸.
+ ¨è »ç¿ëÀÚ Á¤º¸ : ¾ÆÀÌµð, ÆÐ½º¿öµå, Á¢±Ù ±ÇÇÑ µî.
+ ¨é Å×ÀÌºíÀÇ ¹«°á¼º Á¦¾à Á¶°Ç Á¤º¸ : ±âº»Å°, ¿Ü·¡Å°, NULL °ª Çã¿ë ¿©ºÎ µî.
+ ¨êÇÔ¼ö, ÇÁ·Î½ÃÀú, Æ®¸®°Å µî¿¡ ´ëÇÑ Á¤º¸.
 
 Answer 1 : ¸ÞÅ¸ µ¥ÀÌÅÍ
-Answer 2 : Meta- Data
+Answer 2 : Meta-Data
 
 
 No. 245	 correct : 1,	 incorrect : 2
@@ -2403,7 +2238,7 @@ Answer 1 : CRUD ºÐ¼®
 
 
 No. 252	 correct : 1,	 incorrect : 0
-Q : CRUD ¸ÅÆ®¸¯½º¸¦ ±â¹ÝÀ¸·Î Å×ÀÌºí¿¡ ¹ß»ýÇÏ´Â Æ®·£Àè¼Ç ¾çÀ» ºÐ¼®ÇÏ¿© Å×ÀÌºí¿¡ ÀúÀåµÇ´Â µ¥ÀÌÅÍÀÇ ¾çÀ» À¯ÃòÇÏ°í ÀÌ¸¦ ±Ù°Å·Î DBÀÇ ¿ë·® »êÁ¤ ¹× ±¸Á¶ÀÇ ÃÖÀûÈ­¸¦ ¸ñÀûÀ¸·Î ÇÏ´Â °ÍÀº?
+Q : CRUD ¸ÅÆ®¸¯½º¸¦ ±â¹ÝÀ¸·Î Å×ÀÌºí¿¡ ¹ß»ýÇÏ´Â Æ®·£Àè¼Ç ¾çÀ» ºÐ¼®ÇÏ¿© Å×ÀÌºí¿¡ ÀúÀåµÇ´Â µ¥ÀÌÅÍÀÇ ¾çÀ» À¯ÃßÇÏ°í ÀÌ¸¦ ±Ù°Å·Î DBÀÇ ¿ë·® »êÁ¤ ¹× ±¸Á¶ÀÇ ÃÖÀûÈ­¸¦ ¸ñÀûÀ¸·Î ÇÏ´Â °ÍÀº?
  ¡Û¡Û¡ÛÀº ¾÷¹« °³¹ß ´ã´çÀÚ°¡ ¼öÇàÇÑ´Ù.
  ¡Û¡Û¡ÛÀ» ÅëÇØ ÇÁ·Î¼¼½º°¡ °úµµÇÏ°Ô Á¢±ÙÇÏ´Â Å×ÀÌºíÀ» È®ÀÎÇÒ ¼ö ÀÖÀ¸¸ç, ÀÌ·¯ÇÑ ÁýÁß Á¢±Ù Å×ÀÌºíÀ» ¿©·¯ µð½ºÅ©¿¡ ºÐ»ê ¹èÄ¡ÇÔÀ¸·Î½á µð½ºÅ© ÀÔ¡¤Ãâ·Â Çâ»óÀ» ÅëÇÑ ¼º´É Çâ»óÀ» °¡Á®¿Ã ¼ö ÀÖ´Ù.
 
@@ -2457,10 +2292,8 @@ Answer 1 : µµ¸ÞÀÎ ÀÎµ¦½º
 
 No. 259	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº Æ¯º°ÇÑ µÎ ¹æ½ÄÀÇ ÀÎµ¦½º Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÀÎµ¦½º Å°ÀÇ ¼ø¼­¿¡ µû¶ó µ¥ÀÌÅÍ°¡ Á¤·ÄµÇ¾î ÀúÀåµÇ´Â ¹æ½Ä.
- 2.
- ½ÇÁ¦ µ¥ÀÌÅÍ°¡ ¼ø¼­´ë·Î ÀúÀåµÇ¾î ÀÖ¾î ÀÎµ¦½º¸¦ °Ë»öÇÏÁö ¾Ê¾Æµµ ¿øÇÏ´Â µ¥ÀÌÅÍ¸¦ ºü¸£°Ô Ã£À» ¼ö ÀÖÀ½.
+ ¨ç ÀÎµ¦½º Å°ÀÇ ¼ø¼­¿¡ µû¶ó µ¥ÀÌÅÍ°¡ Á¤·ÄµÇ¾î ÀúÀåµÇ´Â ¹æ½Ä.
+ ¨è ½ÇÁ¦ µ¥ÀÌÅÍ°¡ ¼ø¼­´ë·Î ÀúÀåµÇ¾î ÀÖ¾î ÀÎµ¦½º¸¦ °Ë»öÇÏÁö ¾Ê¾Æµµ ¿øÇÏ´Â µ¥ÀÌÅÍ¸¦ ºü¸£°Ô Ã£À» ¼ö ÀÖÀ½.
 
 Answer 1 : Å¬·¯½ºÅÍµå ÀÎµ¦½º
 Answer 2 : Clustered Index
@@ -2468,13 +2301,11 @@ Answer 2 : Clustered Index
 
 No. 260	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº Æ¯º°ÇÑ µÎ ¹æ½ÄÀÇ ÀÎµ¦½º Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÀÎµ¦½ºÀÇ Å° °ª¸¸ Á¤·ÄµÇ¾î ÀÖ°í ½ÇÁ¦ µ¥ÀÌÅÍ´Â Á¤·ÄµÇÁö ¾Ê´Â ¹æ½Ä.
- 2.
- µ¥ÀÌÅÍ »ðÀÔ, »èÁ¦ ¹ß»ý ½Ã ¼ø¼­ À¯Áö¸¦ À§ÇÑ µ¥ÀÌÅÍ ÀçÁ¤·ÄÀÌ ÇÊ¿ä¾ø¾î ¼Óµµ°¡ ºü¸§.
+ ¨ç ÀÎµ¦½ºÀÇ Å° °ª¸¸ Á¤·ÄµÇ¾î ÀÖ°í ½ÇÁ¦ µ¥ÀÌÅÍ´Â Á¤·ÄµÇÁö ¾Ê´Â ¹æ½Ä.
+ ¨è µ¥ÀÌÅÍ »ðÀÔ, »èÁ¦ ¹ß»ý ½Ã ¼ø¼­ À¯Áö¸¦ À§ÇÑ µ¥ÀÌÅÍ ÀçÁ¤·ÄÀÌ ÇÊ¿ä¾ø¾î ¼Óµµ°¡ ºü¸§.
 
 Answer 1 : ³ÍÅ¬·¯½ºÅÍµå ÀÎµ¦½º
-Answer 2 : Non- Clustered Index
+Answer 2 : Non-Clustered Index
 
 
 No. 261	 correct : 1,	 incorrect : 0
@@ -2512,18 +2343,12 @@ Answer 2 : Partition
 
 No. 264	 correct : 2,	 incorrect : 0
 Q : ´ÙÀ½Àº ¡Û¡Û¡ÛÀÇ ¿©¼¸ °¡Áö ÀåÁ¡ÀÌ´Ù.
- 1.
- µ¥ÀÌÅÍ Á¢±Ù ½Ã ¾×¼¼½º ¹üÀ§¸¦ ÁÙ¿© Äõ¸® ¼º´ÉÀÌ Çâ»óµÊ.
- 2.
- ¡Û¡Û¡Ûº°·Î µ¥ÀÌÅÍ°¡ ºÐ»êµÇ¾î ÀúÀåµÇ¹Ç·Î µð½ºÅ©ÀÇ ¼º´ÉÀÌ Çâ»óµÊ.
- 3.
- ¡Û¡Û¡Ûº°·Î ¹é¾÷ ¹× º¹¼ö¸¦ ¼öÇàÇÏ¹Ç·Î ¼Óµµ°¡ ºü¸§.
- 4.
- ½Ã½ºÅÛ Àå¾Ö ½Ã µ¥ÀÌÅÍ ¼Õ»ó Á¤µµ¸¦ ÃÖ¼ÒÈ­ÇÒ ¼ö ÀÖÀ½.
- 5.
- µ¥ÀÌÅÍ °¡¿ë¼ºÀÌ Çâ»óµÊ.
- 6.
- ¡Û¡Û¡Û ´ÜÀ§·Î ÀÔ¡¤Ãâ·ÂÀ» ºÐ»ê½ÃÅ³ ¼ö ÀÖÀ½.
+ ¨ç µ¥ÀÌÅÍ Á¢±Ù ½Ã ¾×¼¼½º ¹üÀ§¸¦ ÁÙ¿© Äõ¸® ¼º´ÉÀÌ Çâ»óµÊ.
+ ¨è ¡Û¡Û¡Ûº°·Î µ¥ÀÌÅÍ°¡ ºÐ»êµÇ¾î ÀúÀåµÇ¹Ç·Î µð½ºÅ©ÀÇ ¼º´ÉÀÌ Çâ»óµÊ.
+ ¨é ¡Û¡Û¡Ûº°·Î ¹é¾÷ ¹× º¹±¸¸¦ ¼öÇàÇÏ¹Ç·Î ¼Óµµ°¡ ºü¸§.
+ ¨ê½Ã½ºÅÛ Àå¾Ö ½Ã µ¥ÀÌÅÍ ¼Õ»ó Á¤µµ¸¦ ÃÖ¼ÒÈ­ÇÒ ¼ö ÀÖÀ½.
+ ¨ë µ¥ÀÌÅÍ °¡¿ë¼ºÀÌ Çâ»óµÊ.
+ ¨ì ¡Û¡Û¡Û ´ÜÀ§·Î ÀÔ¡¤Ãâ·ÂÀ» ºÐ»ê½ÃÅ³ ¼ö ÀÖÀ½.
 
 Answer 1 : ÆÄÆ¼¼Ç
 Answer 2 : Partition
@@ -2531,12 +2356,9 @@ Answer 2 : Partition
 
 No. 265	 correct : 2,	 incorrect : 0
 Q : ´ÙÀ½Àº ¡Û¡Û¡ÛÀÇ ¼¼ °¡Áö ´ÜÁ¡ÀÌ´Ù.
- 1.
- ÇÏ³ªÀÇ Å×ÀÌºíÀ» ¼¼ºÐÈ­ÇÏ¿© °ü¸®ÇÏ¹Ç·Î ¼¼½ÉÇÑ °ü¸®°¡ ¿ä±¸µÊ.
- 2.
- Å×ÀÌºí°£ Á¶ÀÎ¿¡ ´ëÇÑ ºñ¿ëÀÌ Áõ°¡ÇÔ.
- 3.
- ¿ë·®ÀÌ ÀÛÀº Å×ÀÌºí¿¡ ¡Û¡Û¡ÛÀ» ¼öÇàÇÏ¸é ¿ÀÈ÷·Á ¼º´ÉÀÌ ÀúÇÏµÊ.
+ ¨ç ÇÏ³ªÀÇ Å×ÀÌºíÀ» ¼¼ºÐÈ­ÇÏ¿© °ü¸®ÇÏ¹Ç·Î ¼¼½ÉÇÑ °ü¸®°¡ ¿ä±¸µÊ.
+ ¨è Å×ÀÌºí°£ Á¶ÀÎ¿¡ ´ëÇÑ ºñ¿ëÀÌ Áõ°¡ÇÔ.
+ ¨é ¿ë·®ÀÌ ÀÛÀº Å×ÀÌºí¿¡ ¡Û¡Û¡ÛÀ» ¼öÇàÇÏ¸é ¿ÀÈ÷·Á ¼º´ÉÀÌ ÀúÇÏµÊ.
 
 Answer 1 : ÆÄÆ¼¼Ç
 Answer 2 : Partition
@@ -2552,12 +2374,9 @@ Answer 2 : Range Partitioning
 
 No. 267	 correct : 1,	 incorrect : 1
 Q : ´ÙÀ½Àº ÆÄÆ¼¼ÇÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇØ½Ã ÇÔ¼ö¸¦ Àû¿ëÇÑ °á°ú °ª¿¡ µû¶ó µ¥ÀÌÅÍ¸¦ ºÐÇÒÇÔ.
- 2.
- Æ¯Á¤ ÆÄÆ¼¼Ç¿¡ µ¥ÀÌÅÍ°¡ ÁýÁßµÇ´Â ¹üÀ§ ºÐÇÒÀÇ ´ÜÁ¡À» º¸¿ÏÇÑ °ÍÀ¸·Î, µ¥ÀÌÅÍ¸¦ °í¸£°Ô ºÐ»êÇÒ ¶§ À¯¿ëÇÔ.
- 3.
- °í°´¹øÈ£, ÁÖ¹Î¹øÈ£ µî°ú °°ÀÌ µ¥ÀÌÅÍ°¡ °í¸¥ ÄÃ·³¿¡ È¿°úÀûÀÓ.
+ ¨ç ÇØ½Ã ÇÔ¼ö¸¦ Àû¿ëÇÑ °á°ú °ª¿¡ µû¶ó µ¥ÀÌÅÍ¸¦ ºÐÇÒÇÔ.
+ ¨è Æ¯Á¤ ÆÄÆ¼¼Ç¿¡ µ¥ÀÌÅÍ°¡ ÁýÁßµÇ´Â ¹üÀ§ ºÐÇÒÀÇ ´ÜÁ¡À» º¸¿ÏÇÑ °ÍÀ¸·Î, µ¥ÀÌÅÍ¸¦ °í¸£°Ô ºÐ»êÇÒ ¶§ À¯¿ëÇÔ.
+ ¨é °í°´¹øÈ£, ÁÖ¹Î¹øÈ£ µî°ú °°ÀÌ µ¥ÀÌÅÍ°¡ °í¸¥ ÄÃ·³¿¡ È¿°úÀûÀÓ.
 
 Answer 1 : ÇØ½Ã ºÐÇÒ
 Answer 2 : Hash Partitioning
@@ -2565,10 +2384,8 @@ Answer 2 : Hash Partitioning
 
 No. 268	 correct : 0,	 incorrect : 2
 Q : ´ÙÀ½Àº ÆÄÆ¼¼ÇÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¹üÀ§ ºÐÇÒ·Î ºÐÇÒÇÑ ´ÙÀ½ ÇØ½Ã ÇÔ¼ö¸¦ Àû¿ëÇÏ¿© ´Ù½Ã ºÐÇÒÇÏ´Â ¹æ½Ä.
- 2.
- ¹üÀ§ ºÐÇÒÇÑ ÆÄÆ¼¼ÇÀÌ ³Ê¹« Ä¿¼­ °ü¸®°¡ ¾î·Á¿ï ¶§ À¯¿ëÇÔ.
+ ¨ç ¹üÀ§ ºÐÇÒ·Î ºÐÇÒÇÑ ´ÙÀ½ ÇØ½Ã ÇÔ¼ö¸¦ Àû¿ëÇÏ¿© ´Ù½Ã ºÐÇÒÇÏ´Â ¹æ½Ä.
+ ¨è ¹üÀ§ ºÐÇÒÇÑ ÆÄÆ¼¼ÇÀÌ ³Ê¹« Ä¿¼­ °ü¸®°¡ ¾î·Á¿ï ¶§ À¯¿ëÇÔ.
 
 Answer 1 : Á¶ÇÕ ºÐÇÒ
 Answer 2 : Composite Partitioning
@@ -2578,10 +2395,8 @@ No. 269	 correct : 2,	 incorrect : 0
 Q : µ¥ÀÌÅÍ°¡ ÀúÀåµÉ °ø°£À» Á¤ÀÇÇÏ´Â °ÍÀº?
  ¡Û¡Û¡Û ÇÒ ¶§´Â Å×ÀÌºí¿¡ ÀúÀåµÉ µ¥ÀÌÅÍ¾ç°ú ÀÎµ¦½º, Å¬·¯½ºÅÍ µîÀÌ Â÷ÁöÇÏ´Â °ø°£ µîÀ» ¿¹ÃøÇÏ¿© ¹Ý¿µÇØ¾ß ÇÑ´Ù.
  ¡Û¡Û¡ÛÀÇ ¸ñÀû.
- 1.
- µ¥ÀÌÅÍº£ÀÌ½ºÀÇ ¿ë·®À» Á¤È®È÷ »êÁ¤ÇÏ¿© µð½ºÅ©ÀÇ ÀúÀå °ø°£À» È¿°úÀûÀ¸·Î »ç¿ëÇÏ°í È®Àå¼º ¹× °¡¿ë¼ºÀ» ³ôÀÎ´Ù.
- 2.
- µð½ºÅ©ÀÇ Æ¯¼ºÀ» °í·ÁÇÏ¿© ¼³°èÇÔÀ¸·Î½á µð½ºÅ©ÀÇ ÀÔ¡¤Ãâ·Â ºÎÇÏ¸¦ ºÐ»ê½ÃÅ°°í Ã¤³ÎÀÇ º´¸ñ Çö»óÀ» ÃÖ¼ÒÈ­ÇÑ´Ù.
+ ¨ç µ¥ÀÌÅÍº£ÀÌ½ºÀÇ ¿ë·®À» Á¤È®È÷ »êÁ¤ÇÏ¿© µð½ºÅ©ÀÇ ÀúÀå °ø°£À» È¿°úÀûÀ¸·Î »ç¿ëÇÏ°í È®Àå¼º ¹× °¡¿ë¼ºÀ» ³ôÀÎ´Ù.
+ ¨è µð½ºÅ©ÀÇ Æ¯¼ºÀ» °í·ÁÇÏ¿© ¼³°èÇÔÀ¸·Î½á µð½ºÅ©ÀÇ ÀÔ¡¤Ãâ·Â ºÎÇÏ¸¦ ºÐ»ê½ÃÅ°°í Ã¤³ÎÀÇ º´¸ñ Çö»óÀ» ÃÖ¼ÒÈ­ÇÑ´Ù.
 
 Answer 1 : µ¥ÀÌÅÍº£ÀÌ½º ¿ë·® ¼³°è
 
@@ -2635,12 +2450,9 @@ Answer 1 : Å×ÀÌºí À§Ä¡ ºÐ»ê
 
 No. 276	 correct : 2,	 incorrect : 0
 Q : ´ÙÀ½Àº ºÐ»ê ¼³°è ¹æ¹ýÀÇ ¼¼ °¡Áö ¹æ¹ý Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Å×ÀÌºíÀÇ µ¥ÀÌÅÍ¸¦ ºÐÇÒÇÏ¿© ºÐ»ê½ÃÅ°´Â °Í.
- 2.
- ºÐÇÒ ±ÔÄ¢ : ¿ÏÀü¼º(Completeness), Àç±¸¼º(Reconstruction), »óÈ£ ÁßÃ¸ ¹èÁ¦(Disjointness).
- 3.
- ÁÖ¿ä ºÐÇÒ ¹æ¹ý.
+ ¨ç Å×ÀÌºíÀÇ µ¥ÀÌÅÍ¸¦ ºÐÇÒÇÏ¿© ºÐ»ê½ÃÅ°´Â °Í.
+ ¨è ºÐÇÒ ±ÔÄ¢ : ¿ÏÀü¼º(Completeness), Àç±¸¼º(Reconstruction), »óÈ£ ÁßÃ¸ ¹èÁ¦(Disjointness).
+ ¨é ÁÖ¿ä ºÐÇÒ ¹æ¹ý.
  - ¼öÆò ºÐÇÒ : Æ¯Á¤ ¼Ó¼ºÀÇ °ªÀ» ±âÁØÀ¸·Î Çà(Row) ´ÜÀ§·Î ºÐÇÒ.
  - ¼öÁ÷ ºÐÇÒ : µ¥ÀÌÅÍ ÄÃ·³(¼Ó¼º) ´ÜÀ§·Î ºÐÇÒ.
 
@@ -2650,10 +2462,8 @@ Answer 2 : Fragmentation
 
 No. 277	 correct : 2,	 incorrect : 0
 Q : ´ÙÀ½Àº ºÐ»ê ¼³°è ¹æ¹ýÀÇ ¼¼ °¡Áö ¹æ¹ý Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- µ¿ÀÏÇÑ ºÐÇÒÀ» ¿©·¯ °³ÀÇ ¼­¹ö¿¡ »ý¼ºÇÏ´Â ºÐ»ê ¹æ¹ý.
- 2.
- Áßº¹ÀÌ ¾ø´Â ÇÒ´ç°ú Áßº¹ÀÌ ÀÖ´Â ÇÒ´çÀ¸·Î ³ª´¸.
+ ¨ç µ¿ÀÏÇÑ ºÐÇÒÀ» ¿©·¯ °³ÀÇ ¼­¹ö¿¡ »ý¼ºÇÏ´Â ºÐ»ê ¹æ¹ý.
+ ¨è Áßº¹ÀÌ ¾ø´Â ¡Û¡Û¡Û°ú Áßº¹ÀÌ ÀÖ´Â ¡Û¡Û¡ÛÀ¸·Î ³ª´¸.
 
 Answer 1 : ÇÒ´ç
 Answer 2 : Allocation
@@ -2679,34 +2489,28 @@ Answer 1 : Eager ±â¹ý
 
 No. 280	 correct : 1,	 incorrect : 1
 Q : ´ÙÀ½Àº µ¥ÀÌÅÍº£ÀÌ½º ÀÌÁßÈ­ÀÇ µÎ °¡Áö ºÐ·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Æ®·£Àè¼ÇÀÇ ¼öÇàÀÌ Á¾·áµÇ¸é º¯°æ »ç½ÇÀ» »õ·Î¿î Æ®·£Àè¼Ç¿¡ ÀÛ¼ºÇÏ¿© °¢ µ¥ÀÌÅÍº£ÀÌ½º¿¡ Àü´ÞµÇ´Â ±â¹ý.
- 2.
- µ¥ÀÌÅÍº£ÀÌ½º¸¶´Ù »õ·Î¿î Æ®·£Àè¼ÇÀÌ ¼öÇàµÇ´Â °ÍÀ¸·Î °£ÁÖµÊ.
+ ¨ç Æ®·£Àè¼ÇÀÇ ¼öÇàÀÌ Á¾·áµÇ¸é º¯°æ »ç½ÇÀ» »õ·Î¿î Æ®·£Àè¼Ç¿¡ ÀÛ¼ºÇÏ¿© °¢ µ¥ÀÌÅÍº£ÀÌ½º¿¡ Àü´ÞµÇ´Â ±â¹ý.
+ ¨è µ¥ÀÌÅÍº£ÀÌ½º¸¶´Ù »õ·Î¿î Æ®·£Àè¼ÇÀÌ ¼öÇàµÇ´Â °ÍÀ¸·Î °£ÁÖµÊ.
 
 Answer 1 : Lazy ±â¹ý
 
 
 No. 281	 correct : 1,	 incorrect : 1
 Q : ´ÙÀ½Àº µ¥ÀÌÅÍº£ÀÌ½º ÀÌÁßÈ­ ±¸¼º ¹æ¹ý µÎ °¡Áö Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÑ DB°¡ È°¼º »óÅÂ·Î ¼­ºñ½ºÇÏ°í ÀÖÀ¸¸é ´Ù¸¥ DB´Â ´ë±âÇÏ°í ÀÖ´Ù°¡ È°¼º DB¿¡ Àå¾Ö°¡ ¹ß»ýÇÏ¸é ´ë±â »óÅÂ¿¡ ÀÖ´ø DB°¡ ÀÚµ¿À¸·Î ¸ðµç ¼­ºñ½º¸¦ ´ë½Å ¼öÇàÇÔ.
- 2.
- ±¸¼º ¹æ¹ý°ú °ü¸®°¡ ½¬¿ö ¸¹Àº ±â¾÷¿¡¼­ ÀÌ¿ëµÊ.
+ ¨ç ÇÑ DB°¡ È°¼º »óÅÂ·Î ¼­ºñ½ºÇÏ°í ÀÖÀ¸¸é ´Ù¸¥ DB´Â ´ë±âÇÏ°í ÀÖ´Ù°¡ È°¼º DB¿¡ Àå¾Ö°¡ ¹ß»ýÇÏ¸é ´ë±â »óÅÂ¿¡ ÀÖ´ø DB°¡ ÀÚµ¿À¸·Î ¸ðµç ¼­ºñ½º¸¦ ´ë½Å ¼öÇàÇÔ.
+ ¨è ±¸¼º ¹æ¹ý°ú °ü¸®°¡ ½¬¿ö ¸¹Àº ±â¾÷¿¡¼­ ÀÌ¿ëµÊ.
 
-Answer 1 : È°µ¿- ´ë±â ¹æ¹ý
-Answer 2 : Active- Standby
+Answer 1 : È°µ¿-´ë±â ¹æ¹ý
+Answer 2 : Active-Standby
 
 
 No. 282	 correct : 1,	 incorrect : 1
 Q : ´ÙÀ½Àº µ¥ÀÌÅÍº£ÀÌ½º ÀÌÁßÈ­ ±¸¼º ¹æ¹ý µÎ °¡Áö Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- µÎ °³ÀÇ DB°¡ ¼­·Î ´Ù¸¥ ¼­ºñ½º¸¦ Á¦°øÇÏ´Ù°¡ µÑ Áß ÇÑÂÊ DB¿¡ ¹®Á¦°¡ ¹ß»ýÇÏ¸é ³ª¸ÓÁö ´Ù¸¥ DB°¡ ¼­ºñ½º¸¦ Á¦°øÇÔ.
- 2.
- µÎ DB°¡ ¸ðµÎ Ã³¸®¸¦ ÇÏ±â ¶§¹®¿¡ Ã³¸®À²ÀÌ ³ôÁö¸¸ ±¸¼º ¹æ¹ý ¹× ¼³Á¤ÀÌ º¹ÀâÇÔ.
+ ¨ç µÎ °³ÀÇ DB°¡ ¼­·Î ´Ù¸¥ ¼­ºñ½º¸¦ Á¦°øÇÏ´Ù°¡ µÑ Áß ÇÑÂÊ DB¿¡ ¹®Á¦°¡ ¹ß»ýÇÏ¸é ³ª¸ÓÁö ´Ù¸¥ DB°¡ ¼­ºñ½º¸¦ Á¦°øÇÔ.
+ ¨è µÎ DB°¡ ¸ðµÎ Ã³¸®¸¦ ÇÏ±â ¶§¹®¿¡ Ã³¸®À²ÀÌ ³ôÁö¸¸ ±¸¼º ¹æ¹ý ¹× ¼³Á¤ÀÌ º¹ÀâÇÔ.
 
-Answer 1 : È°µ¿- È°µ¿ ¹æ¹ý
-Answer 2 : Active- Active
+Answer 1 : È°µ¿-È°µ¿ ¹æ¹ý
+Answer 2 : Active-Active
 
 
 No. 283	 correct : 1,	 incorrect : 1
@@ -2719,10 +2523,8 @@ Answer 2 : Clustering
 
 No. 284	 correct : 1,	 incorrect : 1
 Q : ´ÙÀ½Àº Å¬·¯½ºÅÍ¸µÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÏ³ªÀÇ ¼­¹ö¿¡ Àå¾Ö°¡ ¹ß»ýÇÏ¸é ´Ù¸¥ ³ëµå(¼­¹ö)°¡ ¹Þ¾Æ Ã³¸®ÇÏ¿© ¼­ºñ½º Áß´ÜÀ» ¹æÁöÇÏ´Â ¹æ½Ä.
- 2.
- ÀÏ¹ÝÀûÀ¸·Î ¾ð±ÞµÇ´Â Å¬·¯½ºÅÍ¸µÀÌ ¡Û¡Û¡ÛÀÓ.
+ ¨ç ÇÏ³ªÀÇ ¼­¹ö¿¡ Àå¾Ö°¡ ¹ß»ýÇÏ¸é ´Ù¸¥ ³ëµå(¼­¹ö)°¡ ¹Þ¾Æ Ã³¸®ÇÏ¿© ¼­ºñ½º Áß´ÜÀ» ¹æÁöÇÏ´Â ¹æ½Ä.
+ ¨è ÀÏ¹ÝÀûÀ¸·Î ¾ð±ÞµÇ´Â Å¬·¯½ºÅÍ¸µÀÌ ¡Û¡Û¡ÛÀÓ.
 
 Answer 1 : °í°¡¿ë¼º Å¬·¯½ºÅÍ¸µ
 
@@ -2748,7 +2550,8 @@ Q : ºñ»ó»çÅÂ ¶Ç´Â ¾÷¹« Áß´Ü ½ÃÁ¡À¸·ÎºÎÅÍ µ¥ÀÌÅÍ¸¦ º¹±¸ÇÒ ¼ö ÀÖ´Â ±âÁØÁ¡À» ÀÇ¹ÌÇÏ
  ¿¹) Àå¾Ö ¹ß»ý ÀüÀÎ Áö³­ ÁÖ ±Ý¿äÀÏ¿¡ ¹é¾÷½ÃÄÑ µÐ º¹¿ø ½ÃÁ¡À¸·Î º¹±¸ °¡´É.
 
 Answer 1 : RPO
-Answer 2 : Recovery Point Objective ¸ñÇ¥ º¹±¸ ½ÃÁ¡
+Answer 2 : Recovery Point Objective
+Answer 3 : ¸ñÇ¥ º¹±¸ ½ÃÁ¡
 
 
 No. 288	 correct : 2,	 incorrect : 1
@@ -2775,24 +2578,18 @@ Answer 2 : Decryption
 No. 291	 correct : 1,	 incorrect : 2
 Q : µ¥ÀÌÅÍ°¡ ÀúÀåµÈ °´Ã¼¿Í ÀÌ¸¦ »ç¿ëÇÏ·Á´Â ÁÖÃ¼ »çÀÌÀÇ Á¤º¸ Èå¸§À» Á¦ÇÑÇÏ´Â °ÍÀº?
  ¡Û¡Û¡Û 3¿ä¼Ò.
- 1.
- ¡Û¡Û¡Û Á¤Ã¥.
- 2.
- ¡Û¡Û¡Û ¸ÞÄ¿´ÏÁò.
- 3.
- ¡Û¡Û¡Û º¸¾È¸ðµ¨.
+ ¨ç ¡Û¡Û¡Û Á¤Ã¥.
+ ¨è ¡Û¡Û¡Û ¸ÞÄ¿´ÏÁò.
+ ¨é ¡Û¡Û¡Û º¸¾È¸ðµ¨.
 
 Answer 1 : Á¢±ÙÅëÁ¦
 
 
 No. 292	 correct : 0,	 incorrect : 3
 Q : ´ÙÀ½Àº Á¢±ÙÅëÁ¦ ±â¼úÀÇ ¼¼ °¡Áö Á¤Ã¥ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- µ¥ÀÌÅÍ¿¡ Á¢±ÙÇÏ´Â »ç¿ëÀÚÀÇ ½Å¿ø¿¡ µû¶ó Á¢±Ù ±ÇÇÑÀ» ºÎ¿©ÇÏ´Â ¹æ½Ä.
- 2.
- µ¥ÀÌÅÍ ¼ÒÀ¯ÀÚ°¡ Á¢±ÙÅëÁ¦ ±ÇÇÑÀ» ÁöÁ¤ÇÏ°í Á¦¾îÇÔ.
- 3.
- °´Ã¼¸¦ »ý¼ºÇÑ »ç¿ëÀÚ°¡ »ý¼ºµÈ °´Ã¼¿¡ ´ëÇÑ ¸ðµç ±ÇÇÑÀ» ºÎ¿©¹Þ°í, ºÎ¿©µÈ ±ÇÇÑÀ» ´Ù¸¥ »ç¿ëÀÚ¿¡°Ô Çã°¡ÇÒ ¼öµµ ÀÖÀ½.
+ ¨ç µ¥ÀÌÅÍ¿¡ Á¢±ÙÇÏ´Â »ç¿ëÀÚÀÇ ½Å¿ø¿¡ µû¶ó Á¢±Ù ±ÇÇÑÀ» ºÎ¿©ÇÏ´Â ¹æ½Ä.
+ ¨è µ¥ÀÌÅÍ ¼ÒÀ¯ÀÚ°¡ Á¢±ÙÅëÁ¦ ±ÇÇÑÀ» ÁöÁ¤ÇÏ°í Á¦¾îÇÔ.
+ ¨é °´Ã¼¸¦ »ý¼ºÇÑ »ç¿ëÀÚ°¡ »ý¼ºµÈ °´Ã¼¿¡ ´ëÇÑ ¸ðµç ±ÇÇÑÀ» ºÎ¿©¹Þ°í, ºÎ¿©µÈ ±ÇÇÑÀ» ´Ù¸¥ »ç¿ëÀÚ¿¡°Ô Çã°¡ÇÒ ¼öµµ ÀÖÀ½.
 
 Answer 1 : ÀÓÀÇ Á¢±ÙÅëÁ¦
 Answer 2 : DAC
@@ -2801,14 +2598,10 @@ Answer 3 : Discretionary Access Control
 
 No. 293	 correct : 0,	 incorrect : 3
 Q : ´ÙÀ½Àº Á¢±ÙÅëÁ¦ ±â¼úÀÇ ¼¼ °¡Áö Á¤Ã¥ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÁÖÃ¼¿Í °´Ã¼ÀÇ µî±ÞÀ» ºñ±³ÇÏ¿© Á¢±Ù ±ÇÇÑÀ» ºÎ¿©ÇÏ´Â ¹æ½Ä.
- 2.
- ½Ã½ºÅÛÀÌ Á¢±Ù ÅëÁ¦ ±ÇÇÑÀ» ÁöÁ¤ÇÔ.
- 3.
- µ¥ÀÌÅÍº£ÀÌ½º °´Ã¼º°·Î º¸¾È µî±ÞÀ» ºÎ¿©ÇÒ ¼ö ÀÖÀ½.
- 4.
- »ç¿ëÀÚº°·Î ÀÎ°¡ µî±ÞÀ» ºÎ¿©ÇÒ ¼ö ÀÖÀ½.
+ ¨ç ÁÖÃ¼¿Í °´Ã¼ÀÇ µî±ÞÀ» ºñ±³ÇÏ¿© Á¢±Ù ±ÇÇÑÀ» ºÎ¿©ÇÏ´Â ¹æ½Ä.
+ ¨è ½Ã½ºÅÛÀÌ Á¢±Ù ÅëÁ¦ ±ÇÇÑÀ» ÁöÁ¤ÇÔ.
+ ¨é µ¥ÀÌÅÍº£ÀÌ½º °´Ã¼º°·Î º¸¾È µî±ÞÀ» ºÎ¿©ÇÒ ¼ö ÀÖÀ½.
+ ¨ê»ç¿ëÀÚº°·Î ÀÎ°¡ µî±ÞÀ» ºÎ¿©ÇÒ ¼ö ÀÖÀ½.
 
 Answer 1 : °­Á¦ Á¢±ÙÅëÁ¦
 Answer 2 : MAC
@@ -2817,14 +2610,10 @@ Answer 3 : Mandatory Access Control
 
 No. 294	 correct : 0,	 incorrect : 3
 Q : ´ÙÀ½Àº Á¢±ÙÅëÁ¦ ±â¼úÀÇ ¼¼ °¡Áö Á¤Ã¥ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- »ç¿ëÀÚÀÇ ¿ªÇÒ¿¡ µû¶ó Á¢±Ù ±ÇÇÑÀ» ºÎ¿©ÇÏ´Â ¹æ½Ä.
- 2.
- Áß¾Ó°ü¸®ÀÚ°¡ Á¢±ÙÅëÁ¦ ±ÇÇÑÀ» ÁöÁ¤ÇÔ.
- 3.
- ÀÓÀÇ Á¢±ÙÅëÁ¦¿Í °­Á¦ Á¢±ÙÅëÁ¦ÀÇ ´ÜÁ¡À» º¸¿ÏÇÏ¿´À½.
- 4.
- ´ÙÁß ÇÁ·Î±×·¡¹Ö È¯°æ¿¡ ÃÖÀûÈ­µÈ ¹æ½Ä.
+ ¨ç »ç¿ëÀÚÀÇ ¿ªÇÒ¿¡ µû¶ó Á¢±Ù ±ÇÇÑÀ» ºÎ¿©ÇÏ´Â ¹æ½Ä.
+ ¨è Áß¾Ó°ü¸®ÀÚ°¡ Á¢±ÙÅëÁ¦ ±ÇÇÑÀ» ÁöÁ¤ÇÔ.
+ ¨é ÀÓÀÇ Á¢±ÙÅëÁ¦¿Í °­Á¦ Á¢±ÙÅëÁ¦ÀÇ ´ÜÁ¡À» º¸¿ÏÇÏ¿´À½.
+ ¨ê´ÙÁß ÇÁ·Î±×·¡¹Ö È¯°æ¿¡ ÃÖÀûÈ­µÈ ¹æ½Ä.
 
 Answer 1 : ¿ªÇÒ±â¹Ý Á¢±ÙÅëÁ¦
 Answer 2 : RBAC
@@ -2839,24 +2628,18 @@ Answer 1 : Á¢±ÙÅëÁ¦ Á¤Ã¥
 
 No. 296	 correct : 0,	 incorrect : 3
 Q : ´ÙÀ½Àº Á¢±Ù ÅëÁ¦ Á¤Ã¥ÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÁÖÃ¼³ª ±×·ìÀÇ ½ÅºÐ¿¡ ±Ù°ÅÇÏ¿© °´Ã¼ÀÇ Á¢±ÙÀ» Á¦ÇÑÇÏ´Â ¹æ¹ýÀ¸·Î IBP¿Í GBP°¡ ÀÖÀ½.
- 2.
- IBP(Individaul- Based Policy) : ÃÖ¼Ò ±ÇÇÑ Á¤Ã¥À¸·Î, ´ÜÀÏ ÁÖÃ¼¿¡°Ô ÇÏ³ªÀÇ °´Ã¼¿¡ ´ëÇÑ Çã°¡¸¦ ºÎ¿©ÇÔ.
- 3.
- GBP(Group- Based Policy) : º¹¼ö ÁÖÃ¼¿¡ ÇÏ³ªÀÇ °¢Ã¼¿¡ ´ëÇÑ Çã°¡¸¦ ºÎ¿©ÇÔ.
+ ¨ç ÁÖÃ¼³ª ±×·ìÀÇ ½ÅºÐ¿¡ ±Ù°ÅÇÏ¿© °´Ã¼ÀÇ Á¢±ÙÀ» Á¦ÇÑÇÏ´Â ¹æ¹ýÀ¸·Î IBP¿Í GBP°¡ ÀÖÀ½.
+ ¨è IBP(Individaul-Based Policy) : ÃÖ¼Ò ±ÇÇÑ Á¤Ã¥À¸·Î, ´ÜÀÏ ÁÖÃ¼¿¡°Ô ÇÏ³ªÀÇ °´Ã¼¿¡ ´ëÇÑ Çã°¡¸¦ ºÎ¿©ÇÔ.
+ ¨é GBP(Group-Based Policy) : º¹¼ö ÁÖÃ¼¿¡ ÇÏ³ªÀÇ °´Ã¼¿¡ ´ëÇÑ Çã°¡¸¦ ºÎ¿©ÇÔ.
 
 Answer 1 : ½ÅºÐ ±â¹Ý Á¤Ã¥
 
 
 No. 297	 correct : 0,	 incorrect : 3
 Q : ´ÙÀ½Àº Á¢±Ù ÅëÁ¦ Á¤Ã¥ÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÁÖÃ¼°¡ °®´Â ±ÇÇÑ¿¡ ±Ù°ÅÇÏ¿© °´Ã¼ÀÇ Á¢±ÙÀ» Á¦ÇÑÇÏ´Â ¹æ¹ýÀ¸·Î, MLP¿Í CBP°¡ ÀÖÀ½.
- 2.
- MLP(Multi- Level Policy) : »ç¿ëÀÚ³ª °´Ã¼º°·Î ÁöÁ¤µÈ ±â¹Ð ºÐ·ù¿¡ µû¸¥ Á¤Ã¥.
- 3.
- CBP(Compartment- Based Policy) : Áý´Üº°·Î ÁöÁ¤µÈ ±â¹Ð Çã°¡¿¡ µû¸¥ Á¤Ã¥.
+ ¨ç ÁÖÃ¼°¡ °®´Â ±ÇÇÑ¿¡ ±Ù°ÅÇÏ¿© °´Ã¼ÀÇ Á¢±ÙÀ» Á¦ÇÑÇÏ´Â ¹æ¹ýÀ¸·Î, MLP¿Í CBP°¡ ÀÖÀ½.
+ ¨è MLP(Multi-Level Policy) : »ç¿ëÀÚ³ª °´Ã¼º°·Î ÁöÁ¤µÈ ±â¹Ð ºÐ·ù¿¡ µû¸¥ Á¤Ã¥.
+ ¨é CBP(Compartment-Based Policy) : Áý´Üº°·Î ÁöÁ¤µÈ ±â¹Ð Çã°¡¿¡ µû¸¥ Á¤Ã¥.
 
 Answer 1 : ±ÔÄ¢ ±â¹Ý Á¤Ã¥
 
@@ -2882,13 +2665,10 @@ Answer 1 : Á¢±ÙÅëÁ¦ º¸¾È ¸ðµ¨
 
 
 No. 301	 correct : 1,	 incorrect : 2
-Q : ´ÙÀ½Àº Á¢±ÙÅëÁ¦ º¸¾È ¸ðµ¨ÀÇ ¼¼ °¡Áö Áß·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ±º»çÀûÀÎ ¸ñÀûÀ¸·Î °³¹ßµÈ ÃÖÃÊÀÇ ¼öÇÐÀû ¸ðµ¨.
- 2.
- ±â¹Ð¼º º¸ÀåÀÌ ÃÖ¿ì¼±ÀÓ.
- 3.
- ±º´ë ½Ã½ºÅÛ µî Æ¯¼ö È¯°æ¿¡¼­ ÁÖ·Î »ç¿ëµÊ.
+Q : ´ÙÀ½Àº Á¢±ÙÅëÁ¦ º¸¾È ¸ðµ¨ÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
+ ¨ç ±º»çÀûÀÎ ¸ñÀûÀ¸·Î °³¹ßµÈ ÃÖÃÊÀÇ ¼öÇÐÀû ¸ðµ¨.
+ ¨è ±â¹Ð¼º º¸ÀåÀÌ ÃÖ¿ì¼±ÀÓ.
+ ¨é ±º´ë ½Ã½ºÅÛ µî Æ¯¼ö È¯°æ¿¡¼­ ÁÖ·Î »ç¿ëµÊ.
 
 Answer 1 : ±â¹Ð¼º ¸ðµ¨
 
@@ -2902,12 +2682,9 @@ Answer 1 : ¹«°á¼º ¸ðµ¨
 
 No. 303	 correct : 0,	 incorrect : 3
 Q : ´ÙÀ½Àº Á¢±ÙÅëÁ¦ º¸¾È ¸ðµ¨ÀÇ ¼¼ °¡Áö Áß·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Á¢±ÙÅëÁ¦ ¸ÅÄ¿´ÏÁòÀ» º¸¾È ¸ðµ¨·Î ¹ßÀü½ÃÅ² °Í.
- 2.
- ´ëÇ¥ÀûÀ¸·Î Á¢±ÙÅëÁ¦ Çà·Ä(Access Control Matrix)ÀÌ ÀÖÀ½.
- 3.
- Á¢±ÙÅëÁ¦ Çà·Ä : ÀÓÀÇÀûÀÎ Á¢±ÙÅëÁ¦¸¦ °ü¸®ÇÏ±â À§ÇÑ º¸¾È ¸ðµ¨·Î, ÇàÀº ÁÖÃ¼, ¿­Àº °´Ã¼ Áï, Çà°ú ¿­·Î ÁÖÃ¼¿Í °´Ã¼ÀÇ ±ÇÇÑ À¯ÇüÀ» ³ªÅ¸³¿.
+ ¨ç Á¢±ÙÅëÁ¦ ¸ÅÄ¿´ÏÁòÀ» º¸¾È ¸ðµ¨·Î ¹ßÀü½ÃÅ² °Í.
+ ¨è ´ëÇ¥ÀûÀ¸·Î Á¢±ÙÅëÁ¦ Çà·Ä(Access Control Matrix)ÀÌ ÀÖÀ½.
+ ¨é Á¢±ÙÅëÁ¦ Çà·Ä : ÀÓÀÇÀûÀÎ Á¢±ÙÅëÁ¦¸¦ °ü¸®ÇÏ±â À§ÇÑ º¸¾È ¸ðµ¨·Î, ÇàÀº ÁÖÃ¼, ¿­Àº °´Ã¼ Áï, Çà°ú ¿­·Î ÁÖÃ¼¿Í °´Ã¼ÀÇ ±ÇÇÑ À¯ÇüÀ» ³ªÅ¸³¿.
 
 Answer 1 : Á¢±ÙÅëÁ¦ ¸ðµ¨
 
@@ -2923,7 +2700,7 @@ Q : ´ÙÀ½Àº Á¢±ÙÅëÁ¦ Á¶°ÇÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  ÀÏ¹ÝÀûÀ¸·Î´Â °´Ã¼¿¡ ÀúÀåµÈ °ª¿¡ »ó°ü¾øÀÌ Á¢±ÙÅëÁ¦¸¦ µ¿ÀÏÇÏ°Ô Çã¿ëÇÏÁö¸¸, °ª Á¾¼Ó ÅëÁ¦´Â °´Ã¼¿¡ ÀúÀåµÈ °ª¿¡ µû¶ó ´Ù¸£°Ô Á¢±ÙÅëÁ¦¸¦ Çã¿ëÇØ¾ß ÇÏ´Â °æ¿ì¿¡ »ç¿ëÇÑ´Ù.
 
 Answer 1 : °ª Á¾¼Ó ÅëÁ¦
-Answer 2 : Value- Dependent Control
+Answer 2 : Value-Dependent Control
 
 
 No. 306	 correct : 1,	 incorrect : 2
@@ -2931,18 +2708,16 @@ Q : ´ÙÀ½Àº Á¢±ÙÅëÁ¦ Á¶°ÇÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  ÁöÁ¤µÈ °´Ã¼¿¡ ´Ù¼öÀÇ »ç¿ëÀÚ°¡ µ¿½Ã¿¡ Á¢±ÙÀ» ¿ä±¸ÇÏ´Â °æ¿ì¿¡ »ç¿ëµÈ´Ù.
 
 Answer 1 : ´ÙÁß »ç¿ëÀÚ ÅëÁ¦
-Answer 2 : Multi- User Control
+Answer 2 : Multi-User Control
 
 
 No. 307	 correct : 0,	 incorrect : 3
 Q : ´ÙÀ½Àº Á¢±ÙÅëÁ¦ Á¶°ÇÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Æ¯Á¤ ½Ã°£, ³×Æ®¿öÅ© ÁÖ¼Ò, Á¢±Ù °æ·Î, ÀÎÁõ ¼öÁØ µî¿¡ ±Ù°ÅÇÏ¿© Á¢±ÙÀ» Á¦¾îÇÏ´Â ¹æ¹ýÀÌ´Ù.
- 2.
- ´Ù¸¥ º¸¾È Á¤Ã¥°ú °áÇÕÇÏ¿© º¸¾È ½Ã½ºÅÛÀÇ Ãë¾àÁ¡À» º¸¿ÏÇÒ ¶§ »ç¿ëÇÑ´Ù.
+ ¨ç Æ¯Á¤ ½Ã°£, ³×Æ®¿öÅ© ÁÖ¼Ò, Á¢±Ù °æ·Î, ÀÎÁõ ¼öÁØ µî¿¡ ±Ù°ÅÇÏ¿© Á¢±ÙÀ» Á¦¾îÇÏ´Â ¹æ¹ýÀÌ´Ù.
+ ¨è ´Ù¸¥ º¸¾È Á¤Ã¥°ú °áÇÕÇÏ¿© º¸¾È ½Ã½ºÅÛÀÇ Ãë¾àÁ¡À» º¸¿ÏÇÒ ¶§ »ç¿ëÇÑ´Ù.
 
 Answer 1 : ÄÁÅØ½ºÆ® ±â¹Ý ÅëÁ¦
-Answer 2 : Context- Based Control
+Answer 2 : Context-Based Control
 
 
 No. 308	 correct : 0,	 incorrect : 3
@@ -2972,8 +2747,8 @@ No. 311	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº µ¥ÀÌÅÍº£ÀÌ½º º¹±¸ ¾Ë°í¸®ÁòÀÇ ³× °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  µ¥ÀÌÅÍº£ÀÌ½º ¹öÆÛÀÇ ³»¿ëÀ» ºñµ¿±âÀûÀ¸·Î °»½ÅÇÑ °æ¿ìÀÇ º¹±¸ ¾Ë°í¸®Áò.
 
-Answer 1 : NO- UNDO/REDO
-Answer 2 : NO- UNDO : Æ®·£Àè¼Ç ¿Ï·á Àü¿¡´Â º¯°æ ³»¿ëÀÌ µ¥ÀÌÅÍº£ÀÌ½º¿¡ ±â·ÏµÇÁö ¾ÊÀ¸¹Ç·Î Ãë¼ÒÇÒ ÇÊ¿ä°¡ ¾øÀ½.
+Answer 1 : NO-UNDO/REDO
+Answer 2 : NO-UNDO : Æ®·£Àè¼Ç ¿Ï·á Àü¿¡´Â º¯°æ ³»¿ëÀÌ µ¥ÀÌÅÍº£ÀÌ½º¿¡ ±â·ÏµÇÁö ¾ÊÀ¸¹Ç·Î Ãë¼ÒÇÒ ÇÊ¿ä°¡ ¾øÀ½.
 Answer 3 : REDO : Æ®·£Àè¼Ç ¿Ï·á ÈÄ µ¥ÀÌÅÍº£ÀÌ½º ¹öÆÛ¿¡´Â ±â·ÏµÇ¾î ÀÖ°í, ÀúÀå¸ÅÃ¼¿¡´Â ±â·ÏµÇÁö ¾Ê¾ÒÀ¸¹Ç·Î Æ®·£Àè¼Ç ³»¿ëÀ» ´Ù½Ã ½ÇÇàÇØ¾ß ÇÔ.
 
 
@@ -2981,17 +2756,15 @@ No. 312	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº µ¥ÀÌÅÍº£ÀÌ½º º¹±¸ ¾Ë°í¸®ÁòÀÇ ³× °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  µ¥ÀÌÅÍº£ÀÌ½º ¹öÆÛÀÇ ³»¿ëÀ» µ¿±âÀûÀ¸·Î °»½ÅÇÑ °æ¿ìÀÇ º¹±¸ ¾Ë°í¸®Áò.
 
-Answer 1 : UNDO/NO- REDO
+Answer 1 : UNDO/NO-REDO
 Answer 2 : UNDO : Æ®·£Àè¼Ç ¿Ï·á Àü¿¡ ½Ã½ºÅÛÀÌ ÆÄ¼ÕµÇ¾ú´Ù¸é º¯°æµÈ ³»¿ëÀ» Ãë¼ÒÇÔ.
-Answer 3 : NO- REDO : Æ®·£Àè¼Ç ¿Ï·á Àü¿¡ µ¥ÀÌÅÍº£ÀÌ½º ¹öÆÛ ³»¿ëÀ» ÀÌ¹Ì ÀúÀå ¸ÅÃ¼¿¡ ±â·ÏÇßÀ¸¹Ç·Î Æ®·£Àè¼Ç ³»¿ëÀ» ´Ù½Ã ½ÇÇàÇÒ ÇÊ¿ä°¡ ¾øÀ½.
+Answer 3 : NO-REDO : Æ®·£Àè¼Ç ¿Ï·á Àü¿¡ µ¥ÀÌÅÍº£ÀÌ½º ¹öÆÛ ³»¿ëÀ» ÀÌ¹Ì ÀúÀå ¸ÅÃ¼¿¡ ±â·ÏÇßÀ¸¹Ç·Î Æ®·£Àè¼Ç ³»¿ëÀ» ´Ù½Ã ½ÇÇàÇÒ ÇÊ¿ä°¡ ¾øÀ½.
 
 
 No. 313	 correct : 1,	 incorrect : 1
 Q : ´ÙÀ½Àº µ¥ÀÌÅÍº£ÀÌ½º º¹±¸ ¾Ë°í¸®ÁòÀÇ ³× °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- µ¥ÀÌÅÍº£ÀÌ½º ¹öÆÛÀÇ ³»¿ëÀ» µ¿±â/ºñµ¿±âÀûÀ¸·Î °»½ÅÇÑ °æ¿ìÀÇ º¹±¸ ¾Ë°í¸®Áò.
- 2.
- µ¥ÀÌÅÍº£ÀÌ½º ±â·Ï Àü¿¡ Æ®·£Àè¼ÇÀÌ ¿Ï·áµÉ ¼ö ÀÖÀ¸¹Ç·Î ¿Ï·áµÈ Æ®·£Àè¼ÇÀÌ µ¥ÀÌÅÍº£ÀÌ½º¿¡ ±â·ÏµÇÁö ¸øÇß´Ù¸é ´Ù½Ã ½ÇÇàÇØ¾ß ÇÔ.
+ ¨ç µ¥ÀÌÅÍº£ÀÌ½º ¹öÆÛÀÇ ³»¿ëÀ» µ¿±â/ºñµ¿±âÀûÀ¸·Î °»½ÅÇÑ °æ¿ìÀÇ º¹±¸ ¾Ë°í¸®Áò.
+ ¨è µ¥ÀÌÅÍº£ÀÌ½º ±â·Ï Àü¿¡ Æ®·£Àè¼ÇÀÌ ¿Ï·áµÉ ¼ö ÀÖÀ¸¹Ç·Î ¿Ï·áµÈ Æ®·£Àè¼ÇÀÌ µ¥ÀÌÅÍº£ÀÌ½º¿¡ ±â·ÏµÇÁö ¸øÇß´Ù¸é ´Ù½Ã ½ÇÇàÇØ¾ß ÇÔ.
 
 Answer 1 : UNDO/REDO
 
@@ -3000,18 +2773,16 @@ No. 314	 correct : 2,	 incorrect : 0
 Q : ´ÙÀ½Àº µ¥ÀÌÅÍº£ÀÌ½º º¹±¸ ¾Ë°í¸®ÁòÀÇ ³× °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  µ¥ÀÌÅÍº£ÀÌ½º ¹öÆÛÀÇ ³»¿ëÀ» µ¿±âÀûÀ¸·Î ÀúÀå ¸ÅÃ¼¿¡ ±â·ÏÇÏÁö¸¸ µ¥ÀÌÅÍº£ÀÌ½º¿Í´Â ´Ù¸¥ ¿µ¿ª¿¡ ±â·ÏÇÑ °æ¿ìÀÇ º¹±¸ ¾Ë°í¸®Áò.
 
-Answer 1 : NO- UNDO/NO- REDO
-Answer 2 : NO- UNDO : º¯°æ ³»¿ëÀº µ¥ÀÌÅÍº£ÀÌ½º¿Í ´Ù¸¥ ¿µ¿ª¿¡ ±â·ÏµÇ¾î ÀÖÀ¸¹Ç·Î Ãë¼ÒÇÒ ÇÊ¿ä°¡ ¾øÀ½.
-Answer 3 : NO- REDO : ´Ù¸¥ ¿µ¿ª¿¡ ÀÌ¹Ì ±â·ÏµÇ¾î ÀÖÀ¸¹Ç·Î Æ®·£Àè¼ÇÀ» ´Ù½Ã ½ÇÇàÇÒ ÇÊ¿ä°¡ ¾øÀ½.
+Answer 1 : NO-UNDO/NO-REDO
+Answer 2 : NO-UNDO : º¯°æ ³»¿ëÀº µ¥ÀÌÅÍº£ÀÌ½º¿Í ´Ù¸¥ ¿µ¿ª¿¡ ±â·ÏµÇ¾î ÀÖÀ¸¹Ç·Î Ãë¼ÒÇÒ ÇÊ¿ä°¡ ¾øÀ½.
+Answer 3 : NO-REDO : ´Ù¸¥ ¿µ¿ª¿¡ ÀÌ¹Ì ±â·ÏµÇ¾î ÀÖÀ¸¹Ç·Î Æ®·£Àè¼ÇÀ» ´Ù½Ã ½ÇÇàÇÒ ÇÊ¿ä°¡ ¾øÀ½.
 
 
 No. 315	 correct : 2,	 incorrect : 0
 Q : ¹é¾÷ Á¾·ù´Â º¹±¸ ¼öÁØ¿¡ µû¶ó¼­ ¿î¿µÃ¼Á¦¸¦ ÀÌ¿ëÇÏ´Â ¡Û¡Û¡Û°ú DBMS À¯Æ¿¸®Æ¼¸¦ ÀÌ¿ëÇÏ´Â ³í¸® ¹é¾÷À¸·Î ³ª´¶´Ù.
  ¡Û¡Û¡Û.
- 1.
- µ¥ÀÌÅÍ º£ÀÌ½º ÆÄÀÏÀ» ¹é¾÷ÇÏ´Â ¹æ¹ýÀÌ´Ù.
- 2.
- ¹é¾÷ ¼Óµµ°¡ ºü¸£°í ÀÛ¾÷ÀÌ ´Ü¼øÇÏÁö¸¸ ¹®Á¦ ¹ß»ý ½Ã ¿øÀÎ ÆÄ¾Ç ¹× ¹®Á¦ ÇØ°áÀÌ ¾î·Æ´Ù.
+ ¨ç µ¥ÀÌÅÍ º£ÀÌ½º ÆÄÀÏÀ» ¹é¾÷ÇÏ´Â ¹æ¹ýÀÌ´Ù.
+ ¨è ¹é¾÷ ¼Óµµ°¡ ºü¸£°í ÀÛ¾÷ÀÌ ´Ü¼øÇÏÁö¸¸ ¹®Á¦ ¹ß»ý ½Ã ¿øÀÎ ÆÄ¾Ç ¹× ¹®Á¦ ÇØ°áÀÌ ¾î·Æ´Ù.
 
 Answer 1 : ¹°¸® ¹é¾÷
 
@@ -3019,10 +2790,8 @@ Answer 1 : ¹°¸® ¹é¾÷
 No. 316	 correct : 2,	 incorrect : 0
 Q : ¹é¾÷ Á¾·ù´Â º¹±¸ ¼öÁØ¿¡ µû¶ó¼­ ¿î¿µÃ¼Á¦¸¦ ÀÌ¿ëÇÏ´Â ¹°¸® ¹é¾÷°ú DBMS À¯Æ¿¸®Æ¼¸¦ ÀÌ¿ëÇÏ´Â ¡Û¡Û¡ÛÀ¸·Î ³ª´¶´Ù.
  ¡Û¡Û¡Û.
- 1.
- DB ³»ÀÇ ³í¸®Àû °´Ã¼µéÀ» ¹é¾÷ÇÏ´Â ¹æ¹ýÀÌ´Ù.
- 2.
- º¹¿ø ½Ã µ¥ÀÌÅÍ ¼Õ»óÀ» ¸·°í ¹®Á¦ ¹ß»ý ½Ã ¿øÀÎ ÆÄ¾Ç ¹× ÇØ°áÀÌ ¼ö¿ùÇÏÁö¸¸ ¹é¾÷/º¹¿ø ½Ã ½Ã°£ÀÌ ¸¹ÀÌ ¼Ò¿äµÈ´Ù.
+ ¨ç DB ³»ÀÇ ³í¸®Àû °´Ã¼µéÀ» ¹é¾÷ÇÏ´Â ¹æ¹ýÀÌ´Ù.
+ ¨è º¹¿ø ½Ã µ¥ÀÌÅÍ ¼Õ»óÀ» ¸·°í ¹®Á¦ ¹ß»ý ½Ã ¿øÀÎ ÆÄ¾Ç ¹× ÇØ°áÀÌ ¼ö¿ùÇÏÁö¸¸ ¹é¾÷/º¹¿ø ½Ã ½Ã°£ÀÌ ¸¹ÀÌ ¼Ò¿äµÈ´Ù.
 
 Answer 1 : ³í¸® ¹é¾÷
 
@@ -3049,7 +2818,7 @@ Answer 2 : Direct Attached Storage
 
 No. 319	 correct : 1,	 incorrect : 0
 Q : ¼­¹ö¿Í ÀúÀåÀåÄ¡¸¦ ³×Æ®¿öÅ©¸¦ ÅëÇØ ¿¬°áÇÏ´Â ¹æ½ÄÀº?
- º°µµÀÇ ÆÄÀÏ °ü¸® ±â´ÉÀÌ ÀÖ´Â NAS Storage°¡ ³»ÀåµÈ ÀúÀåÀåÄ¡¸¦ Á÷Á¢ °ü¸®ÇÑ´Ù.
+ º°µµÀÇ ÆÄÀÏ °ü¸® ±â´ÉÀÌ ÀÖ´Â ¡Û¡Û¡Û Storage°¡ ³»ÀåµÈ ÀúÀåÀåÄ¡¸¦ Á÷Á¢ °ü¸®ÇÑ´Ù.
  Ethernet ½ºÀ§Ä¡¸¦ ÅëÇØ ´Ù¸¥ ¼­¹ö¿¡¼­µµ ½ºÅä¸®Áö¿¡ Á¢±ÙÇÒ ¼ö ÀÖ¾î ÆÄÀÏ °øÀ¯°¡ °¡´ÉÇÏ´Ù.
  Àå¼Ò¿¡ ±¸¾Ö¹ÞÁö ¾Ê°í ÀúÀåÀåÄ¡¿¡ ½±°Ô Á¢±ÙÇÒ ¼ö ÀÖ´Ù.
  DAN¿¡ ºñÇØ È®Àå¼º ¹× À¯¿¬¼ºÀÌ ¿ì¼öÇÏ´Ù.
@@ -3100,7 +2869,7 @@ Answer 1 : ÀÚ·á ±¸Á¶
 
 No. 325	 correct : 1,	 incorrect : 1
 Q : Å©±â¿Í Çü(Type)ÀÌ µ¿ÀÏÇÑ ÀÚ·áµéÀÌ ¼ø¼­´ë·Î ³ª¿­µÈ ÀÚ·áÀÇ ÁýÇÕÀº?
- ¹Ýº¹ÀûÀÎ µ¥ÀÌÅÍ Ã³¸® ÀÚ¾÷¿¡ ÀûÇÕÇÑ ±¸Á¶ÀÌ´Ù.
+ ¹Ýº¹ÀûÀÎ µ¥ÀÌÅÍ Ã³¸® ÀÛ¾÷¿¡ ÀûÇÕÇÑ ±¸Á¶ÀÌ´Ù.
  Á¤ÀûÀÎ ÀÚ·á ±¸Á¶·Î, ±â¾ïÀå¼ÒÀÇ Ãß°¡°¡ ¾î·Æ´Ù.
  µ¥ÀÌÅÍ »èÁ¦ ½Ã ±â¾ïÀå¼Ò°¡ ºó °ø°£À¸·Î ³²¾ÆÀÖ¾î ¸Þ¸ð¸®ÀÇ ³¶ºñ°¡ ¹ß»ýÇÑ´Ù.
 
@@ -3170,15 +2939,12 @@ Answer 1 : ÀÌÁø Æ®¸®
 
 
 No. 333	 correct : 1,	 incorrect : 0
-Q : Æ®¸®¸¦ ±¸¼ºÇÏ´Â °¢ ³ëµåµéÀ» Ã£¾Æ°¡´Â ¹æ¹ýÀ» ¹¹¶ó°í ÇÏ´Â°Å?
+Q : Æ®¸®¸¦ ±¸¼ºÇÏ´Â °¢ ³ëµåµéÀ» Ã£¾Æ°¡´Â ¹æ¹ýÀ» ¹¹¶ó°í ÇÏ´Â°¡?
  ÀÌÁø Æ®¸®¸¦ ¿îÇàÇÏ´Â ¹æ¹ýÀº »ê¼ú½ÄÀÇ Ç¥±â¹ý°ú ¿¬°ü¼ºÀ» °®´Â´Ù.
  ÀÌÁø Æ®¸®ÀÇ ¡Û¡Û¡ÛÀº ¼¼ °¡Áö°¡ ÀÖ´Ù.
- 1.
- Preorder ¿îÇà.
- 2.
- Inorder ¿îÇà.
- 3.
- Postorder ¿îÇà.
+ ¨ç Preorder ¿îÇà.
+ ¨è Inorder ¿îÇà.
+ ¨é Postorder ¿îÇà.
 
 Answer 1 : ¿îÇà¹ý
 Answer 2 : Traversal
@@ -3266,7 +3032,7 @@ Answer 3 : Bucket Sort
 No. 345	 correct : 1,	 incorrect : 1
 Q : »ç¿ëÀÚÀÇ ¿ä±¸»çÇ×¿¡ ¸ÂÃç ¼Û¡¤¼ö½Å ¸ðµâ°ú Áß°è ¸ðµâ °£ÀÇ ¿¬°è¸¦ ±¸ÇöÇÏ´Â °ÍÀ» ÀÇ¹ÌÇÏ´Â °ÍÀº?
  ¼Û¡¤¼ö½Å ¹æ½ÄÀÌ³ª ½Ã½ºÅÛ ¾ÆÅ°ÅØÃ³ ±¸¼º, ¼Û¡¤¼ö½Å ¸ðµâ ±¸Çö ¹æ¹ý µî¿¡ µû¶ó ´Ù¸£¹Ç·Î »ç¿ëÀÚÀÇ ¿ä±¸»çÇ×°ú ±¸Ãà È¯°æ¿¡ ÀûÇÕÇÑ ¹æ½ÄÀ» ¼³°èÇØ¾ß ÇÑ´Ù.
- ÀÏ¹ÝÀûÀÌ ¡Û¡Û¡ÛÀº ¼Û¡¤¼ö½Å ½Ã½ºÅÛ°ú ¸ðµâ, Áß°è ½Ã½ºÅÛ, ¿¬°è µ¥ÀÌÅÍ, ³×Æ®¿öÅ©·Î ±¸¼ºµÈ´Ù.
+ ÀÏ¹ÝÀûÀÎ ¡Û¡Û¡ÛÀº ¼Û¡¤¼ö½Å ½Ã½ºÅÛ°ú ¸ðµâ, Áß°è ½Ã½ºÅÛ, ¿¬°è µ¥ÀÌÅÍ, ³×Æ®¿öÅ©·Î ±¸¼ºµÈ´Ù.
 
 Answer 1 : ÅëÇÕ ±¸Çö
 
@@ -3321,16 +3087,11 @@ Answer 1 : ³×Æ®¿öÅ©
 No. 353	 correct : 0,	 incorrect : 1
 Q : ÅëÇÕ ±¸ÇöÀ» À§ÇØ »ç¿ëÀÚ ¿ä±¸»çÇ×À» ºÐ¼®ÇÏ¿© ¿¬°è µ¥ÀÌÅÍ¸¦ ½Äº° ¹× Ç¥ÁØÈ­ÇÏ¿© ¿¬°è µ¥ÀÌÅÍ¸¦ Á¤ÀÇÇÏ´Â °ÍÀº?
  ¡Û¡Û¡Û ÀýÂ÷.
- 1.
- ÇÏµå¿þ¾î ¹× ¼ÒÇÁÆ®¿þ¾î ±¸¼º, ³×Æ®¿öÅ© ÇöÈ² È®ÀÎ.
- 2.
- Å×ÀÌºí Á¤ÀÇ¼­, ÄÚµå Á¤ÀÇ¼­ µîÀÇ ¹®¼­ È®ÀÎ.
- 3.
- Ã¼Å©¸®½ºÆ® ÀÛ¼º.
- 4.
- °ü·Ã ¹®¼­ °øÀ¯ ¹× ÀÎÅÍºä¡¤¼³¹® Á¶»ç ½Ç½Ã.
- 5.
- ¿ä±¸»çÇ× Á¤ÀÇ¼­ ÀÛ¼º.
+ ¨ç ÇÏµå¿þ¾î ¹× ¼ÒÇÁÆ®¿þ¾î ±¸¼º, ³×Æ®¿öÅ© ÇöÈ² È®ÀÎ.
+ ¨è Å×ÀÌºí Á¤ÀÇ¼­, ÄÚµå Á¤ÀÇ¼­ µîÀÇ ¹®¼­ È®ÀÎ.
+ ¨é Ã¼Å©¸®½ºÆ® ÀÛ¼º.
+ ¨ê°ü·Ã ¹®¼­ °øÀ¯ ¹× ÀÎÅÍºä¡¤¼³¹® Á¶»ç ½Ç½Ã.
+ ¨ë ¿ä±¸»çÇ× Á¤ÀÇ¼­ ÀÛ¼º.
 
 Answer 1 : ¿¬°è ¿ä±¸»çÇ× ºÐ¼®
 
@@ -3338,16 +3099,11 @@ Answer 1 : ¿¬°è ¿ä±¸»çÇ× ºÐ¼®
 No. 354	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ¿¬°è µ¥ÀÌÅÍ ½Äº° ¹× Ç¥ÁØÈ­ÀÇ ÀýÂ÷ ´Ü°è ¼³¸íÀÌ´Ù.
  ¡Û¡Û¡Û¿¡ µé¾î°¥ ¸»Àº?
- 1.
- ¡Û¡Û¡Û : ½Ã½ºÅÛ °£ ¿¬°èÇÒ Á¤º¸¸¦ »ó¼¼È­ÇÏ¿© Á¤ÀÇ.
- 2.
- ¿¬°è ÄÚµå º¯È¯ ¹× ¸ÅÇÎ : ¿¬°è Á¤º¸ Áß ÄÚµå·Î °ü¸®µÇ¾î¾ß ÇÒ Ç×¸ñÀ» Ã£¾Æ ÄÚµå·Î º¯È¯.
- 3.
- ¿¬°è µ¥ÀÌÅÍ ½Äº°ÀÚ¿Í º¯°æ ±¸ºÐ Ãß°¡ : ¿¬°è Á¤º¸¿¡ µ¥ÀÌÅÍ ±¸ºÐ ½Äº°ÀÚ, ÀÛ¾÷ ±¸ºÐ Á¤º¸, Å×ÀÌºí/ÆÄÀÏ °ü¸® Á¤º¸ µîÀ» Ãß°¡.
- 4.
- ¿¬°è µ¥ÀÌÅÍ Ç¥Çö ¹æ¹ý Á¤ÀÇ : ¿¬°è ´ë»ó ¹üÀ§, ´ë»ó Ç×¸ñ, ÄÚµå º¯È¯ ¹æ½Ä, ¸ÅÇÎ ¹æ½ÄÀ» Á¤ÀÇÇÑ ÈÄ ¿¬°è µ¥ÀÌÅÍ ±¸¼º.
- 5.
- ¿¬°è Á¤ÀÇ¼­ ¹× ¸í¼¼¼­ ÀÛ¼º : ÀÌÀü °úÁ¤¿¡¼­ Á¤ÀÇµÈ ´Ù¾çÇÑ Ç×¸ñµé°ú ÆÄ¾ÇµÈ ÇöÈ²µéÀ» ¹®¼­È­ÇÔ.
+ ¨ç ¡Û¡Û¡Û : ½Ã½ºÅÛ °£ ¿¬°èÇÒ Á¤º¸¸¦ »ó¼¼È­ÇÏ¿© Á¤ÀÇ.
+ ¨è ¿¬°è ÄÚµå º¯È¯ ¹× ¸ÅÇÎ : ¿¬°è Á¤º¸ Áß ÄÚµå·Î °ü¸®µÇ¾î¾ß ÇÒ Ç×¸ñÀ» Ã£¾Æ ÄÚµå·Î º¯È¯.
+ ¨é ¿¬°è µ¥ÀÌÅÍ ½Äº°ÀÚ¿Í º¯°æ ±¸ºÐ Ãß°¡ : ¿¬°è Á¤º¸¿¡ µ¥ÀÌÅÍ ±¸ºÐ ½Äº°ÀÚ, ÀÛ¾÷ ±¸ºÐ Á¤º¸, Å×ÀÌºí/ÆÄÀÏ °ü¸® Á¤º¸ µîÀ» Ãß°¡.
+ ¨ê¿¬°è µ¥ÀÌÅÍ Ç¥Çö ¹æ¹ý Á¤ÀÇ : ¿¬°è ´ë»ó ¹üÀ§, ´ë»ó Ç×¸ñ, ÄÚµå º¯È¯ ¹æ½Ä, ¸ÅÇÎ ¹æ½ÄÀ» Á¤ÀÇÇÑ ÈÄ ¿¬°è µ¥ÀÌÅÍ ±¸¼º.
+ ¨ë ¿¬°è Á¤ÀÇ¼­ ¹× ¸í¼¼¼­ ÀÛ¼º : ÀÌÀü °úÁ¤¿¡¼­ Á¤ÀÇµÈ ´Ù¾çÇÑ Ç×¸ñµé°ú ÆÄ¾ÇµÈ ÇöÈ²µéÀ» ¹®¼­È­ÇÔ.
 
 Answer 1 : ¿¬°è ¹üÀ§ ¹× Ç×¸ñ Á¤ÀÇ
 
@@ -3355,16 +3111,11 @@ Answer 1 : ¿¬°è ¹üÀ§ ¹× Ç×¸ñ Á¤ÀÇ
 No. 355	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ¿¬°è µ¥ÀÌÅÍ ½Äº° ¹× Ç¥ÁØÈ­ÀÇ ÀýÂ÷ ´Ü°è ¼³¸íÀÌ´Ù.
  ¡Û¡Û¡Û¿¡ µé¾î°¥ ¸»Àº?
- 1.
- ¿¬°è ¹üÀ§ ¹× Ç×¸ñ Á¤ÀÇ : ½Ã½ºÅÛ °£ ¿¬°èÇÒ Á¤º¸¸¦ »ó¼¼È­ÇÏ¿© Á¤ÀÇ.
- 2.
- ¡Û¡Û¡Û : ¿¬°è Á¤º¸ Áß ÄÚµå·Î °ü¸®µÇ¾î¾ß ÇÒ Ç×¸ñÀ» Ã£¾Æ ÄÚµå·Î º¯È¯.
- 3.
- ¿¬°è µ¥ÀÌÅÍ ½Äº°ÀÚ¿Í º¯°æ ±¸ºÐ Ãß°¡ : ¿¬°è Á¤º¸¿¡ µ¥ÀÌÅÍ ±¸ºÐ ½Äº°ÀÚ, ÀÛ¾÷ ±¸ºÐ Á¤º¸, Å×ÀÌºí/ÆÄÀÏ °ü¸® Á¤º¸ µîÀ» Ãß°¡.
- 4.
- ¿¬°è µ¥ÀÌÅÍ Ç¥Çö ¹æ¹ý Á¤ÀÇ : ¿¬°è ´ë»ó ¹üÀ§, ´ë»ó Ç×¸ñ, ÄÚµå º¯È¯ ¹æ½Ä, ¸ÅÇÎ ¹æ½ÄÀ» Á¤ÀÇÇÑ ÈÄ ¿¬°è µ¥ÀÌÅÍ ±¸¼º.
- 5.
- ¿¬°è Á¤ÀÇ¼­ ¹× ¸í¼¼¼­ ÀÛ¼º : ÀÌÀü °úÁ¤¿¡¼­ Á¤ÀÇµÈ ´Ù¾çÇÑ Ç×¸ñµé°ú ÆÄ¾ÇµÈ ÇöÈ²µéÀ» ¹®¼­È­ÇÔ.
+ ¨ç ¿¬°è ¹üÀ§ ¹× Ç×¸ñ Á¤ÀÇ : ½Ã½ºÅÛ °£ ¿¬°èÇÒ Á¤º¸¸¦ »ó¼¼È­ÇÏ¿© Á¤ÀÇ.
+ ¨è ¡Û¡Û¡Û : ¿¬°è Á¤º¸ Áß ÄÚµå·Î °ü¸®µÇ¾î¾ß ÇÒ Ç×¸ñÀ» Ã£¾Æ ÄÚµå·Î º¯È¯.
+ ¨é ¿¬°è µ¥ÀÌÅÍ ½Äº°ÀÚ¿Í º¯°æ ±¸ºÐ Ãß°¡ : ¿¬°è Á¤º¸¿¡ µ¥ÀÌÅÍ ±¸ºÐ ½Äº°ÀÚ, ÀÛ¾÷ ±¸ºÐ Á¤º¸, Å×ÀÌºí/ÆÄÀÏ °ü¸® Á¤º¸ µîÀ» Ãß°¡.
+ ¨ê¿¬°è µ¥ÀÌÅÍ Ç¥Çö ¹æ¹ý Á¤ÀÇ : ¿¬°è ´ë»ó ¹üÀ§, ´ë»ó Ç×¸ñ, ÄÚµå º¯È¯ ¹æ½Ä, ¸ÅÇÎ ¹æ½ÄÀ» Á¤ÀÇÇÑ ÈÄ ¿¬°è µ¥ÀÌÅÍ ±¸¼º.
+ ¨ë ¿¬°è Á¤ÀÇ¼­ ¹× ¸í¼¼¼­ ÀÛ¼º : ÀÌÀü °úÁ¤¿¡¼­ Á¤ÀÇµÈ ´Ù¾çÇÑ Ç×¸ñµé°ú ÆÄ¾ÇµÈ ÇöÈ²µéÀ» ¹®¼­È­ÇÔ.
 
 Answer 1 : ¿¬°è ÄÚµå º¯È¯ ¹× ¸ÅÇÎ
 
@@ -3372,16 +3123,11 @@ Answer 1 : ¿¬°è ÄÚµå º¯È¯ ¹× ¸ÅÇÎ
 No. 356	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ¿¬°è µ¥ÀÌÅÍ ½Äº° ¹× Ç¥ÁØÈ­ÀÇ ÀýÂ÷ ´Ü°è ¼³¸íÀÌ´Ù.
  ¡Û¡Û¡Û¿¡ µé¾î°¥ ¸»Àº?
- 1.
- ¿¬°è ¹üÀ§ ¹× Ç×¸ñ Á¤ÀÇ : ½Ã½ºÅÛ °£ ¿¬°èÇÒ Á¤º¸¸¦ »ó¼¼È­ÇÏ¿© Á¤ÀÇ.
- 2.
- ¿¬°è ÄÚµå º¯È¯ ¹× ¸ÅÇÎ : ¿¬°è Á¤º¸ Áß ÄÚµå·Î °ü¸®µÇ¾î¾ß ÇÒ Ç×¸ñÀ» Ã£¾Æ ÄÚµå·Î º¯È¯.
- 3.
- ¡Û¡Û¡Û : ¿¬°è Á¤º¸¿¡ µ¥ÀÌÅÍ ±¸ºÐ ½Äº°ÀÚ, ÀÛ¾÷ ±¸ºÐ Á¤º¸, Å×ÀÌºí/ÆÄÀÏ °ü¸® Á¤º¸ µîÀ» Ãß°¡.
- 4.
- ¿¬°è µ¥ÀÌÅÍ Ç¥Çö ¹æ¹ý Á¤ÀÇ : ¿¬°è ´ë»ó ¹üÀ§, ´ë»ó Ç×¸ñ, ÄÚµå º¯È¯ ¹æ½Ä, ¸ÅÇÎ ¹æ½ÄÀ» Á¤ÀÇÇÑ ÈÄ ¿¬°è µ¥ÀÌÅÍ ±¸¼º.
- 5.
- ¿¬°è Á¤ÀÇ¼­ ¹× ¸í¼¼¼­ ÀÛ¼º : ÀÌÀü °úÁ¤¿¡¼­ Á¤ÀÇµÈ ´Ù¾çÇÑ Ç×¸ñµé°ú ÆÄ¾ÇµÈ ÇöÈ²µéÀ» ¹®¼­È­ÇÔ.
+ ¨ç ¿¬°è ¹üÀ§ ¹× Ç×¸ñ Á¤ÀÇ : ½Ã½ºÅÛ °£ ¿¬°èÇÒ Á¤º¸¸¦ »ó¼¼È­ÇÏ¿© Á¤ÀÇ.
+ ¨è ¿¬°è ÄÚµå º¯È¯ ¹× ¸ÅÇÎ : ¿¬°è Á¤º¸ Áß ÄÚµå·Î °ü¸®µÇ¾î¾ß ÇÒ Ç×¸ñÀ» Ã£¾Æ ÄÚµå·Î º¯È¯.
+ ¨é ¡Û¡Û¡Û : ¿¬°è Á¤º¸¿¡ µ¥ÀÌÅÍ ±¸ºÐ ½Äº°ÀÚ, ÀÛ¾÷ ±¸ºÐ Á¤º¸, Å×ÀÌºí/ÆÄÀÏ °ü¸® Á¤º¸ µîÀ» Ãß°¡.
+ ¨ê¿¬°è µ¥ÀÌÅÍ Ç¥Çö ¹æ¹ý Á¤ÀÇ : ¿¬°è ´ë»ó ¹üÀ§, ´ë»ó Ç×¸ñ, ÄÚµå º¯È¯ ¹æ½Ä, ¸ÅÇÎ ¹æ½ÄÀ» Á¤ÀÇÇÑ ÈÄ ¿¬°è µ¥ÀÌÅÍ ±¸¼º.
+ ¨ë ¿¬°è Á¤ÀÇ¼­ ¹× ¸í¼¼¼­ ÀÛ¼º : ÀÌÀü °úÁ¤¿¡¼­ Á¤ÀÇµÈ ´Ù¾çÇÑ Ç×¸ñµé°ú ÆÄ¾ÇµÈ ÇöÈ²µéÀ» ¹®¼­È­ÇÔ.
 
 Answer 1 : ¿¬°è µ¥ÀÌÅÍ ½Äº°ÀÚ¿Í º¯°æ ±¸ºÐ Ãß°¡
 
@@ -3389,16 +3135,11 @@ Answer 1 : ¿¬°è µ¥ÀÌÅÍ ½Äº°ÀÚ¿Í º¯°æ ±¸ºÐ Ãß°¡
 No. 357	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ¿¬°è µ¥ÀÌÅÍ ½Äº° ¹× Ç¥ÁØÈ­ÀÇ ÀýÂ÷ ´Ü°è ¼³¸íÀÌ´Ù.
  ¡Û¡Û¡Û¿¡ µé¾î°¥ ¸»Àº?
- 1.
- ¿¬°è ¹üÀ§ ¹× Ç×¸ñ Á¤ÀÇ : ½Ã½ºÅÛ °£ ¿¬°èÇÒ Á¤º¸¸¦ »ó¼¼È­ÇÏ¿© Á¤ÀÇ.
- 2.
- ¿¬°è ÄÚµå º¯È¯ ¹× ¸ÅÇÎ : ¿¬°è Á¤º¸ Áß ÄÚµå·Î °ü¸®µÇ¾î¾ß ÇÒ Ç×¸ñÀ» Ã£¾Æ ÄÚµå·Î º¯È¯.
- 3.
- ¿¬°è µ¥ÀÌÅÍ ½Äº°ÀÚ¿Í º¯°æ ±¸ºÐ Ãß°¡ : ¿¬°è Á¤º¸¿¡ µ¥ÀÌÅÍ ±¸ºÐ ½Äº°ÀÚ, ÀÛ¾÷ ±¸ºÐ Á¤º¸, Å×ÀÌºí/ÆÄÀÏ °ü¸® Á¤º¸ µîÀ» Ãß°¡.
- 4.
- ¡Û¡Û¡Û : ¿¬°è ´ë»ó ¹üÀ§, ´ë»ó Ç×¸ñ, ÄÚµå º¯È¯ ¹æ½Ä, ¸ÅÇÎ ¹æ½ÄÀ» Á¤ÀÇÇÑ ÈÄ ¿¬°è µ¥ÀÌÅÍ ±¸¼º.
- 5.
- ¿¬°è Á¤ÀÇ¼­ ¹× ¸í¼¼¼­ ÀÛ¼º : ÀÌÀü °úÁ¤¿¡¼­ Á¤ÀÇµÈ ´Ù¾çÇÑ Ç×¸ñµé°ú ÆÄ¾ÇµÈ ÇöÈ²µéÀ» ¹®¼­È­ÇÔ.
+ ¨ç ¿¬°è ¹üÀ§ ¹× Ç×¸ñ Á¤ÀÇ : ½Ã½ºÅÛ °£ ¿¬°èÇÒ Á¤º¸¸¦ »ó¼¼È­ÇÏ¿© Á¤ÀÇ.
+ ¨è ¿¬°è ÄÚµå º¯È¯ ¹× ¸ÅÇÎ : ¿¬°è Á¤º¸ Áß ÄÚµå·Î °ü¸®µÇ¾î¾ß ÇÒ Ç×¸ñÀ» Ã£¾Æ ÄÚµå·Î º¯È¯.
+ ¨é ¿¬°è µ¥ÀÌÅÍ ½Äº°ÀÚ¿Í º¯°æ ±¸ºÐ Ãß°¡ : ¿¬°è Á¤º¸¿¡ µ¥ÀÌÅÍ ±¸ºÐ ½Äº°ÀÚ, ÀÛ¾÷ ±¸ºÐ Á¤º¸, Å×ÀÌºí/ÆÄÀÏ °ü¸® Á¤º¸ µîÀ» Ãß°¡.
+ ¨ê¡Û¡Û¡Û : ¿¬°è ´ë»ó ¹üÀ§, ´ë»ó Ç×¸ñ, ÄÚµå º¯È¯ ¹æ½Ä, ¸ÅÇÎ ¹æ½ÄÀ» Á¤ÀÇÇÑ ÈÄ ¿¬°è µ¥ÀÌÅÍ ±¸¼º.
+ ¨ë ¿¬°è Á¤ÀÇ¼­ ¹× ¸í¼¼¼­ ÀÛ¼º : ÀÌÀü °úÁ¤¿¡¼­ Á¤ÀÇµÈ ´Ù¾çÇÑ Ç×¸ñµé°ú ÆÄ¾ÇµÈ ÇöÈ²µéÀ» ¹®¼­È­ÇÔ.
 
 Answer 1 : ¿¬°è µ¥ÀÌÅÍ Ç¥Çö ¹æ¹ý Á¤ÀÇ
 
@@ -3406,16 +3147,11 @@ Answer 1 : ¿¬°è µ¥ÀÌÅÍ Ç¥Çö ¹æ¹ý Á¤ÀÇ
 No. 358	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ¿¬°è µ¥ÀÌÅÍ ½Äº° ¹× Ç¥ÁØÈ­ÀÇ ÀýÂ÷ ´Ü°è ¼³¸íÀÌ´Ù.
  ¡Û¡Û¡Û¿¡ µé¾î°¥ ¸»Àº?
- 1.
- ¿¬°è ¹üÀ§ ¹× Ç×¸ñ Á¤ÀÇ : ½Ã½ºÅÛ °£ ¿¬°èÇÒ Á¤º¸¸¦ »ó¼¼È­ÇÏ¿© Á¤ÀÇ.
- 2.
- ¿¬°è ÄÚµå º¯È¯ ¹× ¸ÅÇÎ : ¿¬°è Á¤º¸ Áß ÄÚµå·Î °ü¸®µÇ¾î¾ß ÇÒ Ç×¸ñÀ» Ã£¾Æ ÄÚµå·Î º¯È¯.
- 3.
- ¿¬°è µ¥ÀÌÅÍ ½Äº°ÀÚ¿Í º¯°æ ±¸ºÐ Ãß°¡ : ¿¬°è Á¤º¸¿¡ µ¥ÀÌÅÍ ±¸ºÐ ½Äº°ÀÚ, ÀÛ¾÷ ±¸ºÐ Á¤º¸, Å×ÀÌºí/ÆÄÀÏ °ü¸® Á¤º¸ µîÀ» Ãß°¡.
- 4.
- ¿¬°è µ¥ÀÌÅÍ Ç¥Çö ¹æ¹ý Á¤ÀÇ : ¿¬°è ´ë»ó ¹üÀ§, ´ë»ó Ç×¸ñ, ÄÚµå º¯È¯ ¹æ½Ä, ¸ÅÇÎ ¹æ½ÄÀ» Á¤ÀÇÇÑ ÈÄ ¿¬°è µ¥ÀÌÅÍ ±¸¼º.
- 5.
- ¡Û¡Û¡Û : ÀÌÀü °úÁ¤¿¡¼­ Á¤ÀÇµÈ ´Ù¾çÇÑ Ç×¸ñµé°ú ÆÄ¾ÇµÈ ÇöÈ²µéÀ» ¹®¼­È­ÇÔ.
+ ¨ç ¿¬°è ¹üÀ§ ¹× Ç×¸ñ Á¤ÀÇ : ½Ã½ºÅÛ °£ ¿¬°èÇÒ Á¤º¸¸¦ »ó¼¼È­ÇÏ¿© Á¤ÀÇ.
+ ¨è ¿¬°è ÄÚµå º¯È¯ ¹× ¸ÅÇÎ : ¿¬°è Á¤º¸ Áß ÄÚµå·Î °ü¸®µÇ¾î¾ß ÇÒ Ç×¸ñÀ» Ã£¾Æ ÄÚµå·Î º¯È¯.
+ ¨é ¿¬°è µ¥ÀÌÅÍ ½Äº°ÀÚ¿Í º¯°æ ±¸ºÐ Ãß°¡ : ¿¬°è Á¤º¸¿¡ µ¥ÀÌÅÍ ±¸ºÐ ½Äº°ÀÚ, ÀÛ¾÷ ±¸ºÐ Á¤º¸, Å×ÀÌºí/ÆÄÀÏ °ü¸® Á¤º¸ µîÀ» Ãß°¡.
+ ¨ê¿¬°è µ¥ÀÌÅÍ Ç¥Çö ¹æ¹ý Á¤ÀÇ : ¿¬°è ´ë»ó ¹üÀ§, ´ë»ó Ç×¸ñ, ÄÚµå º¯È¯ ¹æ½Ä, ¸ÅÇÎ ¹æ½ÄÀ» Á¤ÀÇÇÑ ÈÄ ¿¬°è µ¥ÀÌÅÍ ±¸¼º.
+ ¨ë ¡Û¡Û¡Û : ÀÌÀü °úÁ¤¿¡¼­ Á¤ÀÇµÈ ´Ù¾çÇÑ Ç×¸ñµé°ú ÆÄ¾ÇµÈ ÇöÈ²µéÀ» ¹®¼­È­ÇÔ.
 
 Answer 1 : ¿¬°è Á¤ÀÇ¼­ ¹× ¸í¼¼¼­ ÀÛ¼º
 
@@ -3429,31 +3165,24 @@ Answer 1 : ¿¬°è ¸ÞÄ¿´ÏÁò
 
 No. 360	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ¿¬°è ¸ÞÄ¿´ÏÁòÀÇ ¿¬°è ¹æ½Ä µÎ °¡Áö Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Áß°£ ¸Å°³Ã¼ ¾øÀÌ ¼Û¡¤¼ö½Å ½Ã½ºÅÛÀÌ Á÷Á¢ ¿¬°èÇÏ´Â ¹æ½Ä.
- 2.
- Á¾·ù : DB Link, API/Open API, DB Connection, JDBC µî
+ ¨ç Áß°£ ¸Å°³Ã¼ ¾øÀÌ ¼Û¡¤¼ö½Å ½Ã½ºÅÛÀÌ Á÷Á¢ ¿¬°èÇÏ´Â ¹æ½Ä.
+ ¨è Á¾·ù : DB Link, API/Open API, DB Connection, JDBC µî
 Answer 1 : Á÷Á¢ ¿¬°è ¹æ½Ä
 
 
 No. 361	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ¿¬°è ¸ÞÄ¿´ÏÁòÀÇ ¿¬°è ¹æ½Ä µÎ °¡Áö Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¼Û¡¤¼ö½Å ½Ã½ºÅÛ »çÀÌ¿¡ Áß°£ ¸Å°³Ã¼¸¦ µÎ¾î ¿¬°èÇÏ´Â ¹æ½Ä.
- 2.
- Á¾·ù : ¿¬°è ¼Ö·ù¼Ç, ESB, ¼ÒÄÏ(Socket), À¥ ¼­ºñ½º(Web Service) µî
+ ¨ç ¼Û¡¤¼ö½Å ½Ã½ºÅÛ »çÀÌ¿¡ Áß°£ ¸Å°³Ã¼¸¦ µÎ¾î ¿¬°èÇÏ´Â ¹æ½Ä.
+ ¨è Á¾·ù : ¿¬°è ¼Ö·ù¼Ç, ESB, ¼ÒÄÏ(Socket), À¥ ¼­ºñ½º(Web Service) µî
 Answer 1 : °£Á¢ ¿¬°è ¹æ½Ä
 
 
 No. 362	 correct : 0,	 incorrect : 1
 Q : ¿¬°è ¸ÞÄ¿´ÏÁò¿¡¼­ ¿À·ù ¹ß»ý ½ÃÁ¡, ¿À·ù ·Î±× ±â·Ï Àå¼Ò, ¿À·ù ·Î±× ±â·Ï ÁÖÃ¼´Â Å©°Ô ¼¼ °¡Áö ±¸°£À¸·Î ³ª´­ ¼ö ÀÖÀ» ¶§, ´ÙÀ½Àº ¿À·ù ¹ß»ý ½ÃÁ¡¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  ¾î´À ±¸°£¿¡¼­ ¹ß»ýÇß´ÂÁö ¾²½Ã¿À.
- 1.
- µ¥ÀÌÅÍ »ý¼º ¹× ÃßÃâ ½Ã.
- 2.
- ÄÚµå ¸ÅÇÎ ¹× µ¥ÀÌÅÍ º¯È¯ ½Ã.
- 3.
- ÀÎÅÍÆäÀÌ½º Å×ÀÌºí ¶Ç´Â ÆÄÀÏ µî·Ï ½Ã.
+ ¨ç µ¥ÀÌÅÍ »ý¼º ¹× ÃßÃâ ½Ã.
+ ¨è ÄÚµå ¸ÅÇÎ ¹× µ¥ÀÌÅÍ º¯È¯ ½Ã.
+ ¨é ÀÎÅÍÆäÀÌ½º Å×ÀÌºí ¶Ç´Â ÆÄÀÏ µî·Ï ½Ã.
 
 Answer 1 : ¼Û½Å ½Ã½ºÅÛ
 
@@ -3461,12 +3190,9 @@ Answer 1 : ¼Û½Å ½Ã½ºÅÛ
 No. 363	 correct : 1,	 incorrect : 0
 Q : ¿¬°è ¸ÞÄ¿´ÏÁò¿¡¼­ ¿À·ù ¹ß»ý ½ÃÁ¡, ¿À·ù ·Î±× ±â·Ï Àå¼Ò, ¿À·ù ·Î±× ±â·Ï ÁÖÃ¼´Â Å©°Ô ¼¼ °¡Áö ±¸°£À¸·Î ³ª´­ ¼ö ÀÖÀ» ¶§, ´ÙÀ½Àº ¿À·ù ¹ß»ý ½ÃÁ¡¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  ¾î´À ±¸°£¿¡¼­ ¹ß»ýÇß´ÂÁö ¾²½Ã¿À.
- 1.
- ¿¬°è µ¥ÀÌÅÍ ·Îµå(Load) ½Ã.
- 2.
- ÄÚµå ¸ÅÇÎ ¹× µ¥ÀÌÅÍ º¯È¯ ½Ã.
- 3.
- ¿î¿µ DB¿¡ ¹Ý¿µ ½Ã.
+ ¨ç ¿¬°è µ¥ÀÌÅÍ ·Îµå(Load) ½Ã.
+ ¨è ÄÚµå ¸ÅÇÎ ¹× µ¥ÀÌÅÍ º¯È¯ ½Ã.
+ ¨é ¿î¿µ DB¿¡ ¹Ý¿µ ½Ã.
 
 Answer 1 : ¼ö½Å ½Ã½ºÅÛ
 
@@ -3474,12 +3200,9 @@ Answer 1 : ¼ö½Å ½Ã½ºÅÛ
 No. 364	 correct : 0,	 incorrect : 1
 Q : ¿¬°è ¸ÞÄ¿´ÏÁò¿¡¼­ ¿À·ù ¹ß»ý ½ÃÁ¡, ¿À·ù ·Î±× ±â·Ï Àå¼Ò, ¿À·ù ·Î±× ±â·Ï ÁÖÃ¼´Â Å©°Ô ¼¼ °¡Áö ±¸°£À¸·Î ³ª´­ ¼ö ÀÖÀ» ¶§, ´ÙÀ½Àº ¿À·ù ¹ß»ý ½ÃÁ¡¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  ¾î´À ±¸°£¿¡¼­ ¹ß»ýÇß´ÂÁö ¾²½Ã¿À.
- 1.
- ¿¬°è µ¥ÀÌÅÍ ·Îµå(Load) ¹× Àü¼Û Çü½ÄÀ¸·Î º¯È¯ ½Ã.
- 2.
- ¿¬°è µ¥ÀÌÅÍ ¼Û¡¤¼ö½Å ½Ã.
- 3.
- ¼ö½Å ½Ã½ºÅÛÀÇ µ¥ÀÌÅÍ Çü½ÄÀ¸·Î º¯È¯ ¹× ·Îµå(Load) ½Ã.
+ ¨ç ¿¬°è µ¥ÀÌÅÍ ·Îµå(Load) ¹× Àü¼Û Çü½ÄÀ¸·Î º¯È¯ ½Ã.
+ ¨è ¿¬°è µ¥ÀÌÅÍ ¼Û¡¤¼ö½Å ½Ã.
+ ¨é ¼ö½Å ½Ã½ºÅÛÀÇ µ¥ÀÌÅÍ Çü½ÄÀ¸·Î º¯È¯ ¹× ·Îµå(Load) ½Ã.
 
 Answer 1 : ¿¬°è ¼­¹ö
 
@@ -3515,10 +3238,8 @@ Answer 1 : Àå¾Ö ¹× ¿À·ù ±â·Ï ¹æ½Ä
 No. 369	 correct : 0,	 incorrect : 2
 Q : ¼Û½Å ½Ã½ºÅÛ¿¡¼­ ¼ö½Å ½Ã½ºÅÛÀ¸·Î Àü¼ÛµÇ´Â ¿¬°è µ¥ÀÌÅÍ´Â º¸¾È¿¡ Ãë¾àÇÒ ¼ö ÀÖÀ¸¹Ç·Î µ¥ÀÌÅÍÀÇ Áß¿ä¼ºÀ» °í·ÁÇÏ¿© º¸¾ÈÀ» Àû¿ëÇØ¾ß µÈ´Ù´Â ¸»Àº?
  ÀÏ¹ÝÀûÀÎ ¡Û¡Û¡Û ¹æ½Ä.
- 1.
- Àü¼Û ±¸°£ º¸¾È.
- 2.
- µ¥ÀÌÅÍ º¸¾È.
+ ¨ç Àü¼Û ±¸°£ º¸¾È.
+ ¨è µ¥ÀÌÅÍ º¸¾È.
 
 Answer 1 : ¿¬°è µ¥ÀÌÅÍ º¸¾È
 
@@ -3534,17 +3255,12 @@ No. 371	 correct : 1,	 incorrect : 1
 Q : ¼Û½Å ½Ã½ºÅÛ¿¡¼­ ¿¬°è µ¥ÀÌÅÍ¸¦ ÃßÃâÇÒ ¶§¿Í ¼ö½Å ½Ã½ºÅÛ¿¡¼­ µ¥ÀÌÅÍ¸¦ ¿î¿µ DB¿¡ ¹Ý¿µÇÒ ¶§ µ¥ÀÌÅÍ¸¦ ¾Ï¡¤º¹È£È­ ÇÏ´Â °ÍÀº?
  µ¥ÀÌÅÍÀÇ ¾Ï¡¤º¹È£È­ Ã³¸® ÀýÂ÷.
  - ¼Û½Å ½Ã½ºÅÛ.
- 1.
- DB¿¡¼­ ¿¬°è µ¥ÀÌÅÍ ÃßÃâ.
- 2.
- º¸¾È Àû¿ë ´ë»ó ÄÃ·³(Column)À» ¾ÏÈ£È­.
- 3.
- ¿¬°è µ¥ÀÌÅÍ¸¦ ÀÎÅÍÆäÀÌ½º Å×ÀÌºí ¶Ç´Â ÆÄÀÏ¿¡ µî·Ï ¹× ¼Û½Å.
+ ¨ç DB¿¡¼­ ¿¬°è µ¥ÀÌÅÍ ÃßÃâ.
+ ¨è º¸¾È Àû¿ë ´ë»ó ÄÃ·³(Column)À» ¾ÏÈ£È­.
+ ¨é ¿¬°è µ¥ÀÌÅÍ¸¦ ÀÎÅÍÆäÀÌ½º Å×ÀÌºí ¶Ç´Â ÆÄÀÏ¿¡ µî·Ï ¹× ¼Û½Å.
  - ¼ö½Å ½Ã½ºÅÛ.
- 1.
- ¼ö½ÅµÈ µ¥ÀÌÅÍ Áß ¾ÏÈ£È­ÇÑ ÄÃ·³(Column)À» º¹È£È­.
- 2.
- ¿î¿µ DB¿¡ ¹Ý¿µ.
+ ¨ç ¼ö½ÅµÈ µ¥ÀÌÅÍ Áß ¾ÏÈ£È­ÇÑ ÄÃ·³(Column)À» º¹È£È­.
+ ¨è ¿î¿µ DB¿¡ ¹Ý¿µ.
 
 Answer 1 : µ¥ÀÌÅÍ º¸¾È
 
@@ -3556,7 +3272,7 @@ Q : Æ¯¼öÇÑ ¸ñÀûÀ» °®´Â ¸¶Å©¾÷ ¾ð¾î¸¦ ¸¸µå´Â µ¥ »ç¿ëµÇ´Â ´Ù¸ñÀû ¸¶Å©¾÷ ¾ð¾î´Â?
  Æ®¸® ±¸Á¶·Î ±¸¼ºµÇ¾î ÀÖ¾î »óÀ§ ÅÂ±×´Â ¿©·¯ °³ÀÇ ÇÏÀ§ ÅÂ±×¸¦ °¡Áú ¼ö ÀÖ´Ù.
 
 Answer 1 : XML
-Answer 2 : eXtensible Markup Languare
+Answer 2 : eXtensible Markup Language
 
 
 No. 373	 correct : 1,	 incorrect : 0
@@ -3582,14 +3298,10 @@ Answer 2 : Web Service Description Language
 No. 375	 correct : 1,	 incorrect : 0
 Q : ±¸ÃàµÈ ¿¬°è ½Ã½ºÅÛ°ú ¿¬°è ½Ã½ºÅÛÀÇ ±¸¼º ¿ä¼Ò°¡ Á¤»óÀûÀ¸·Î µ¿ÀÛÇÏ´ÂÁö È®ÀÎÇÏ´Â È°µ¿Àº?
  ¡Û¡Û¡Û ÁøÇà ¼ø¼­.
- 1.
- ¡Û¡Û¡Û ÄÉÀÌ½º ÀÛ¼º : ¿¬°è ½Ã½ºÅÛ °£ÀÇ µ¥ÀÌÅÍ ¹× ÇÁ·Î¼¼½ºÀÇ Èå¸§À» ºÐ¼®ÇÏ¿© ÇÊ¿äÇÑ Å×½ºÆ® Ç×¸ñÀ» µµÃâÇÔ.
- 2.
- ¡Û¡Û¡Û È¯°æ ±¸Ãà : Å×½ºÆ®ÀÇ ÀÏÁ¤, ¹æ¹ý, ÀýÂ÷, ¼Ò¿ä ½Ã°£ µîÀ» ¼Û¡¤¼ö½Å ±â°ü°úÀÇ ÇùÀÇ¸¦ ÅëÇØ °áÁ¤ÇÔ.
- 3.
- ¡Û¡Û¡Û ¼öÇà : ¿¬°è ÀÀ¿ë ÇÁ·Î±×·¥À» ½ÇÇàÇÏ¿© ¿¬°è Å×½ºÆ® ÄÉÀÌ½ºÀÇ ½ÃÇè Ç×¸ñ ¹× Ã³¸® ÀýÂ÷ µîÀ» ½ÇÁ¦·Î ÁøÇàÇÔ.
- 4.
- ¡Û¡Û¡Û ¼öÇà °á°ú °ËÁõ : ¡Û¡Û¡Û ÄÉÀÌ½ºÀÇ ½ÃÇè Ç×¸ñ ¹× Ã³¸® ÀýÂ÷¸¦ ¼öÇàÇÑ °á°ú°¡ ¿¹»ó °á°ú¿Í µ¿ÀÏÇÑÁö È®ÀÎÇÔ.
+ ¨ç ¡Û¡Û¡Û ÄÉÀÌ½º ÀÛ¼º : ¿¬°è ½Ã½ºÅÛ °£ÀÇ µ¥ÀÌÅÍ ¹× ÇÁ·Î¼¼½ºÀÇ Èå¸§À» ºÐ¼®ÇÏ¿© ÇÊ¿äÇÑ Å×½ºÆ® Ç×¸ñÀ» µµÃâÇÔ.
+ ¨è ¡Û¡Û¡Û È¯°æ ±¸Ãà : Å×½ºÆ®ÀÇ ÀÏÁ¤, ¹æ¹ý, ÀýÂ÷, ¼Ò¿ä ½Ã°£ µîÀ» ¼Û¡¤¼ö½Å ±â°ü°úÀÇ ÇùÀÇ¸¦ ÅëÇØ °áÁ¤ÇÔ.
+ ¨é ¡Û¡Û¡Û ¼öÇà : ¿¬°è ÀÀ¿ë ÇÁ·Î±×·¥À» ½ÇÇàÇÏ¿© ¿¬°è Å×½ºÆ® ÄÉÀÌ½ºÀÇ ½ÃÇè Ç×¸ñ ¹× Ã³¸® ÀýÂ÷ µîÀ» ½ÇÁ¦·Î ÁøÇàÇÔ.
+ ¨ê¡Û¡Û¡Û ¼öÇà °á°ú °ËÁõ : ¡Û¡Û¡Û ÄÉÀÌ½ºÀÇ ½ÃÇè Ç×¸ñ ¹× Ã³¸® ÀýÂ÷¸¦ ¼öÇàÇÑ °á°ú°¡ ¿¹»ó °á°ú¿Í µ¿ÀÏÇÑÁö È®ÀÎÇÔ.
 
 Answer 1 : ¿¬°è Å×½ºÆ®
 
@@ -3611,10 +3323,8 @@ Answer 1 : ÇÏµå¿þ¾î È¯°æ
 
 No. 378	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ¼­¹öÀÇ ³× °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Å¬¶óÀÌ¾ðÆ®·ÎºÎÅÍ Á÷Á¢ ¿äÃ»À» ¹Þ¾Æ Ã³¸®ÇÔ.
- 2.
- Àú¿ë·®ÀÇ Á¤Àû ÆÄÀÏµéÀ» Á¦°øÇÔ.
+ ¨ç Å¬¶óÀÌ¾ðÆ®·ÎºÎÅÍ Á÷Á¢ ¿äÃ»À» ¹Þ¾Æ Ã³¸®ÇÔ.
+ ¨è Àú¿ë·®ÀÇ Á¤Àû ÆÄÀÏµéÀ» Á¦°øÇÔ.
 
 Answer 1 : À¥ ¼­¹ö
 Answer 2 : Web Server
@@ -3777,8 +3487,8 @@ Answer 1 : ¼ÒÇÁÆ®¿þ¾î ¾ÆÅ°ÅØÃÄ
 
 No. 401	 correct : 1,	 incorrect : 0
 Q : ¼ÒÇÁÆ®¿þ¾îÀÇ ¼º´É Çâ»ó, ½Ã½ºÅÛÀÇ ¼öÁ¤ ¹× Àç»ç¿ë, À¯Áö °ü¸® µîÀÌ ¿ëÀÌÇÏµµ·Ï ½Ã½ºÅÛÀÇ ±â´ÉµéÀ» ¸ðµâ ´ÜÀ§·Î ³ª´©´Â °ÍÀ» ÀÇ¹ÌÇÏ´Â °ÍÀº?
- ¸ðµâÀÇ Å©¸®¸¦ ³Ê¹« ÀÛ°Ô ³ª´©¸é °³¼ö°¡ ¸¹¾ÆÁ® ¸ðµâ °£ÀÇ ÅëÇÕ ºñ¿ëÀÌ ¸¹ÀÌ µç´Ù.
- ¸ðµâÀÇ Å©±â¸¦ ³Ê¹« Å©°Ô ³ª´©¸é °³¼ö°¡ Àú¾î ÅëÇÕ ºñ¿ëÀº Àû°Ô µéÁö¸¸ µµ¹Ä ÇÏ³ªÀÇ °³¹ß ºñ¿ëÀÌ ¸¹ÀÌ µç´Ù.
+ ¸ðµâÀÇ Å©±â¸¦ ³Ê¹« ÀÛ°Ô ³ª´©¸é °³¼ö°¡ ¸¹¾ÆÁ® ¸ðµâ °£ÀÇ ÅëÇÕ ºñ¿ëÀÌ ¸¹ÀÌ µç´Ù.
+ ¸ðµâÀÇ Å©±â¸¦ ³Ê¹« Å©°Ô ³ª´©¸é °³¼ö°¡ Àû¾î ÅëÇÕ ºñ¿ëÀº Àû°Ô µéÁö¸¸ ¸ðµâ ÇÏ³ªÀÇ °³¹ß ºñ¿ëÀÌ ¸¹ÀÌ µç´Ù.
 
 Answer 1 : ¸ðµâÈ­
 Answer 2 : Modularity
@@ -3824,7 +3534,7 @@ Answer 2 : Stepwise Refinement
 No. 407	 correct : 0,	 incorrect : 1
 Q : ÇÑ ¸ðµâ ³»ºÎ¿¡ Æ÷ÇÔµÈ ÀýÂ÷¿Í ÀÚ·áµéÀÇ Á¤º¸°¡ °¨Ãß¾îÁ® ´Ù¸¥ ¸ðµâÀÌ Á¢±ÙÇÏ°Å³ª º¯°æÇÏÁö ¸øÇÏµµ·Ï ÇÏ´Â ±â¹ýÀº?
  ¡Û¡Û¡ÛÀ» ÅëÇØ ¸ðµâÀ» µ¶¸³ÀûÀ¸·Î ¼öÇàÇÒ ¼ö ÀÖ´Ù.
- ÇÏ³ªÀÇ ¸ðµâÀÌ º¯°æµÇ´õ¶óµµ ´Ù¸¥ ¸ðµÑ¿¡ ¿µÇâÀ» ÁÖÁö ¾ÊÀ¸¹Ç·Î ¼öÁ¤, ½ÃÇè, À¯Áöº¸¼ö°¡ ¿ëÀÌÇÏ´Ù.
+ ÇÏ³ªÀÇ ¸ðµâÀÌ º¯°æµÇ´õ¶óµµ ´Ù¸¥ ¸ðµâ¿¡ ¿µÇâÀ» ÁÖÁö ¾ÊÀ¸¹Ç·Î ¼öÁ¤, ½ÃÇè, À¯Áöº¸¼ö°¡ ¿ëÀÌÇÏ´Ù.
 
 Answer 1 : Á¤º¸ Àº´Ð
 Answer 2 : Information Hiding
@@ -3835,7 +3545,8 @@ Q : ¼ÒÇÁÆ®¿þ¾î ¾ÆÅ°ÅØÃ³°¡ ÀÌÇØ °ü°èÀÚµéÀÌ ¿ä±¸ÇÏ´Â ¼öÁØÀÇ Ç°ÁúÀ» À¯Áö ¹× º¸ÀåÇÒ 
  Ç°Áú Æò°¡ ¿ä¼ÒÀÇ Á¾·ù.
  ½Ã½ºÅÛ Ãø¸é : ¼º´É, º¸¾È, °¡¿ë¼º, ±â´É¼º, »ç¿ë¼º, º¯°æ ¿ëÀÌ¼º, È®Àå¼º µî.
  ºñÁî´Ï½º Ãø¸é : ½ÃÀå Àû½Ã¼º, ºñ¿ë°ú ÇýÅÃ, ¿¹»ó ½Ã½ºÅÛ ¼ö¸í, ¸ñÇ¥ ½ÃÀå, °ø°³ ÀÏÁ¤ µî.
- ¾ÆÅ°ÅØÃ³ Ãø¸é : °³³äÀû ¹«°á¼º, Á¤È®¼º, ¿Ï°á¼º, ±¸Ãà °¡´É¼º, º¯°æ¼º ½ÃÇè¼º µî
+ ¾ÆÅ°ÅØÃ³ Ãø¸é : °³³äÀû ¹«°á¼º, Á¤È®¼º, ¿Ï°á¼º, ±¸Ãà °¡´É¼º, º¯°æ¼º ½ÃÇè¼º µî.
+
 Answer 1 : ¼ÒÇÁÆ®¿þ¾î ¾ÆÅ°ÅØÃ³ÀÇ Ç°Áú ¼Ó¼º
 
 
@@ -3862,7 +3573,7 @@ Answer 1 : ¾ÆÅ°ÅØÃ³ ÆÐÅÏ
 No. 411	 correct : 0,	 incorrect : 1
 Q : ½Ã½ºÅÛÀ» °èÃþÀ¸·Î ±¸ºÐÇÏ¿© ±¸¼ºÇÏ´Â °íÀüÀûÀÎ ¹æ¹ýÀÇ ÆÐÅÏÀº?
  ÇÏÀ§ °èÃþÀº »óÀ§ °èÃþ¿¡ ´ëÇÑ ¼­ºñ½º Á¦°øÀÚ°¡ µÇ°í, »óÀ§ °èÃþÀº ÇÏÀ§ °èÃþÀÇ Å¬¶óÀÌ¾ðÆ®°¡ µÈ´Ù.
- ¼­·Î ¸¶ÁÖº¸´Â µÎ °³ÀÇ °ÔÃþ »çÀÌ¿¡¼­¸¸ »óÈ£ÀÛ¿ëÀÌ ÀÌ·ç¾îÁø´Ù.
+ ¼­·Î ¸¶ÁÖº¸´Â µÎ °³ÀÇ °èÃþ »çÀÌ¿¡¼­¸¸ »óÈ£ÀÛ¿ëÀÌ ÀÌ·ç¾îÁø´Ù.
  ´ëÇ¥ÀûÀ¸·Î OSI ÂüÁ¶ ¸ðµ¨ÀÌ ÀÖ´Ù.
 
 Answer 1 : ·¹ÀÌ¾î ÆÐÅÏ
@@ -3873,8 +3584,8 @@ No. 412	 correct : 0,	 incorrect : 1
 Q : ÇÏ³ªÀÇ ¼­¹ö ÄÄÆ÷³ÍÆ®¿Í ´Ù¼öÀÇ Å¬¶óÀÌ¾ðÆ® ÄÄÆ÷³ÍÆ®·Î ±¸¼ºµÇ´Â ÆÐÅÏÀº?
  »ç¿ëÀÚ°¡ Å¬¶óÀÌ¾ðÆ®¸¦ ÅëÇØ ¼­¹ö¿¡ ¿äÃ»ÇÏ¸é Å¬¶óÀÌ¾ðÆ®°¡ ÀÀ´äÀ» ¹Þ¾Æ »ç¿ëÀÚ¿¡°Ô Á¦°øÇÏ´Â ¹æ½ÄÀÌ´Ù.
 
-Answer 1 : Å¬¶óÀÌ¾ðÆ®- ¼­¹ö ÆÐÅÏ
-Answer 2 : Client- Server Pattern
+Answer 1 : Å¬¶óÀÌ¾ðÆ®-¼­¹ö ÆÐÅÏ
+Answer 2 : Client-Server Pattern
 
 
 No. 413	 correct : 0,	 incorrect : 1
@@ -3883,8 +3594,8 @@ Q : µ¥ÀÌÅÍ ½ºÆ®¸² ÀýÂ÷ÀÇ °¢ ´Ü°è¸¦ ÇÊÅÍ·Î Ä¸½¶È­ÇÏ¿© ÆÄÀÌÇÁ¸¦ ÅëÇØ Àü¼ÛÇÏ´Â ÆÐÅÏ
  µ¥ÀÌÅÍ º¯È¯, ¹öÆÛ¸µ, µ¿±âÈ­ µî¿¡ ÁÖ·Î »ç¿ëµÈ´Ù.
  ´ëÇ¥ÀûÀ¸·Î UNIXÀÇ ½©(Shell)ÀÌ ÀÖ´Ù.
 
-Answer 1 : ÆÄÀÌÇÁ- ÇÊÅÍ ÆÐÅÏ
-Answer 2 : Pipe- Filter Pattern
+Answer 1 : ÆÄÀÌÇÁ-ÇÊÅÍ ÆÐÅÏ
+Answer 2 : Pipe-Filter Pattern
 
 
 No. 414	 correct : 1,	 incorrect : 0
@@ -3893,16 +3604,16 @@ Q : ¼­ºê½Ã½ºÅÛÀ» ¸ðµ¨, ºä, ÄÁÆ®·Ñ·¯·Î ±¸Á¶È­ÇÏ´Â ÆÐÅÏÀº?
  ¿©·¯ °³ÀÇ ºä¸¦ ¸¸µé ¼ö ÀÖ´Ù.
  ÇÑ °³ÀÇ ¸ðµ¨¿¡ ´ëÇØ ¿©·¯ °³ÀÇ ºä¸¦ ÇÊ¿ä·Î ÇÏ´Â ´ëÈ­Çü ¾ÖÇÃ¸®ÄÉÀÌ¼Ç¿¡ ÀûÇÕÇÏ´Ù.
 
-Answer 1 : ¸ðµ¨- ºä- ÄÁÆ®·Ñ·¯ ÆÐÅÏ
-Answer 2 : Model- View- Controller Pattern
+Answer 1 : ¸ðµ¨-ºä-ÄÁÆ®·Ñ·¯ ÆÐÅÏ
+Answer 2 : Model-View-Controller Pattern
 
 
 No. 415	 correct : 0,	 incorrect : 1
 Q : ½½·¹ÀÌºê ÄÄÆ÷³ÍÆ®¿¡¼­ Ã³¸®µÈ °á°ú¹°À» ´Ù½Ã µ¹·Á¹Þ´Â ¹æ½ÄÀ¸·Î ÀÛ¾÷À» ¼öÇàÇÏ´Â ÆÐÅÏÀº?
- ¿¹) Àå¾Ö Çã¿ë ½Ã½ºÅÛ, º¡·Ä ÄÄÇ»ÆÃ ½Ã½ºÅÛ.
+ ¿¹) Àå¾Ö Çã¿ë ½Ã½ºÅÛ, º´·Ä ÄÄÇ»ÆÃ ½Ã½ºÅÛ.
 
-Answer 1 : ¸¶½ºÅÍ- ½½·¹ÀÌºê ÆÐÅÏ
-Answer 2 : Master- Slaver Pattern
+Answer 1 : ¸¶½ºÅÍ-½½·¹ÀÌºê ÆÐÅÏ
+Answer 2 : Master-Slaver Pattern
 
 
 No. 416	 correct : 0,	 incorrect : 1
@@ -3917,16 +3628,16 @@ No. 417	 correct : 0,	 incorrect : 1
 Q : ÇÇ¾î(Peer)¶ó ºÒ¸®´Â ÇÏ³ªÀÇ ÄÄÆ÷³ÍÆ®°¡ Å¬¶óÀÌ¾ðÆ®°¡ µÉ ¼öµµ, ¼­¹ö°¡ µÉ ¼öµµ ÀÖ´Â ÆÐÅÏÀº?
  ¿¹) ÆÄÀÏ °øÀ¯ ³×Æ®¿öÅ©.
 
-Answer 1 : ÇÇ¾î- Åõ- ÇÇ¾î ÆÐÅÏ
-Answer 2 : Peer- To- Peer Pattern
+Answer 1 : ÇÇ¾î-Åõ-ÇÇ¾î ÆÐÅÏ
+Answer 2 : Peer-To-Peer Pattern
 
 
 No. 418	 correct : 0,	 incorrect : 1
-Q : ¼Ò½º°¡ Æ¯Á¤ Ã¤³Î¿¡ ÀÌº¥Æ® ¸Þ½ÃÁö¸¦ ¹ßÇà(Publish)ÇÏ¸é, ÇØ´ç Ã¤³ÎÀ» ±¸µ¶(Subscribe)ÇÑ ¸®½º³Ê(Listener)µéÀÌ ¸Þ½ÃÁö¸¦ ¹Þ¾Æ ºñ¿£Æ®¸¦ Ã³¸®ÇÏ´Â ÆÐÅÏÀº?
+Q : ¼Ò½º°¡ Æ¯Á¤ Ã¤³Î¿¡ ÀÌº¥Æ® ¸Þ½ÃÁö¸¦ ¹ßÇà(Publish)ÇÏ¸é, ÇØ´ç Ã¤³ÎÀ» ±¸µ¶(Subscribe)ÇÑ ¸®½º³Ê(Listener)µéÀÌ ¸Þ½ÃÁö¸¦ ¹Þ¾Æ ÀÌº¥Æ®¸¦ Ã³¸®ÇÏ´Â ÆÐÅÏÀº?
  ¿¹) ¾Ë¸² ¼­ºñ½º.
 
-Answer 1 : ÀÌº¥Æ®- ¹ö½º ÆÐÅÏ
-Answer 2 : Event- Bus Pattern
+Answer 1 : ÀÌº¥Æ®-¹ö½º ÆÐÅÏ
+Answer 2 : Event-Bus Pattern
 
 
 No. 419	 correct : 0,	 incorrect : 1
@@ -3960,7 +3671,7 @@ Q : ¼ÒÇÁÆ®¿þ¾îÀÇ °¢ ¿ä¼ÒµéÀ» °´Ã¼(Object)·Î ¸¸µç ÈÄ, °´Ã¼µéÀ» Á¶¸³ÇØ¼­ ¼ÒÇÁÆ®¿þ¾
  - ¿¬°ü¼º(Relationship).
 
 Answer 1 : °´Ã¼ÁöÇâ
-Answer 2 : Object- Oriented
+Answer 2 : Object-Oriented
 
 
 No. 422	 correct : 0,	 incorrect : 1
@@ -3968,10 +3679,8 @@ Q : µ¥ÀÌÅÍ¿Í ÀÌ¸¦ Ã³¸®ÇÏ±â À§ÇÑ ÇÔ¼ö¸¦ ¹­¾î ³õÀº ¼ÒÇÁÆ®¿þ¾î ¸ðµâÀº?
  µ¥ÀÌÅÍ.
  °´Ã¼°¡ °¡Áö°í ÀÖ´Â Á¤º¸·Î, ¼Ó¼ºÀÌ³ª »óÅÂ, ºÐ·ù µî.
  ÇÔ¼ö.
- 1.
- °´Ã¼°¡ ¼öÇàÇÏ´Â ±â´ÉÀ¸·Î °´Ã¼°¡ °®´Â µ¥ÀÌÅÍ¸¦ Ã³¸®ÇÏ´Â ¾Ë°í¸®Áò.
- 2.
- °¢Ã¼ÀÇ »óÅÂ¸¦ ÂüÁ¶ÇÏ°Å³ª º¯°æÇÏ´Â ¼ö´Ü.
+ ¨ç °´Ã¼°¡ ¼öÇàÇÏ´Â ±â´ÉÀ¸·Î °´Ã¼°¡ °®´Â µ¥ÀÌÅÍ¸¦ Ã³¸®ÇÏ´Â ¾Ë°í¸®Áò.
+ ¨è °¢Ã¼ÀÇ »óÅÂ¸¦ ÂüÁ¶ÇÏ°Å³ª º¯°æÇÏ´Â ¼ö´Ü.
 
 Answer 1 : °´Ã¼
 Answer 2 : Object
@@ -3987,7 +3696,7 @@ Answer 2 : Class
 
 
 No. 424	 correct : 1,	 incorrect : 0
-Q : °´Ã¼µé °£ÀÇ »óÈ£ÀÛ¿ëÀ» ÇÏ´Âµ¥ »ç¿ëµÇ´Â ¼ö°£À¸·Î, °´Ã¼¿¡°Ô ¾î¶² ÇàÀ§¸¦ ÇÏµµ·Ï Áö½ÃÇÏ´Â ¸í·É ¶Ç´Â ¿ä±¸»çÇ×Àº?
+Q : °´Ã¼µé °£ÀÇ »óÈ£ÀÛ¿ëÀ» ÇÏ´Âµ¥ »ç¿ëµÇ´Â ¼ö´ÜÀ¸·Î, °´Ã¼¿¡°Ô ¾î¶² ÇàÀ§¸¦ ÇÏµµ·Ï Áö½ÃÇÏ´Â ¸í·É ¶Ç´Â ¿ä±¸»çÇ×Àº?
  ¡Û¡Û¡Û¸¦ ¹ÞÀº °´Ã¼´Â ´ëÀÀÇÏ´Â ¿¬»êÀ» ¼öÇàÇÏ¿© ¿¹»óµÈ °á°ú¸¦ ¹ÝÈ¯ÇÑ´Ù.
 
 Answer 1 : ¸Þ½ÃÁö
@@ -4006,7 +3715,7 @@ Answer 2 : Encapsulation
 No. 426	 correct : 1,	 incorrect : 0
 Q : »óÀ§ Å¬·¡½ºÀÇ ¸ðµç ¼Ó¼º°ú ¿¬»êÀ» ÇÏÀ§ Å¬·¡½º°¡ ¹°·Á¹Þ´Â °ÍÀº?
  ÇÏÀ§ Å¬·¡½º´Â ¹°·Á¹ÞÀº ¼Ó¼º°ú ¿¬»êÀ» ´Ù½Ã Á¤ÀÇÇÏÁö ¾Ê¾Æµµ Áï½Ã ÀÚ½ÅÀÇ ¼Ó¼ºÀ¸·Î »ç¿ëÇÒ ¼ö ÀÖ´Ù.
- ÇÏÀ§ Å¬·¡½º´Â »ó¼Ó¹ÞÀº ¼Ó¼º°ú ¿¬»ê ¿Ü¿¡ »õ·Î¿î ¼Ó¼º°ú ¿¬»êÀ» Ã·°¡ÇÏ¿© »ç¿ëÇÒ ¼ö ÀÖ´Ù.
+ ÇÏÀ§ Å¬·¡½º´Â ¡Û¡Û¡Û¹ÞÀº ¼Ó¼º°ú ¿¬»ê ¿Ü¿¡ »õ·Î¿î ¼Ó¼º°ú ¿¬»êÀ» Ã·°¡ÇÏ¿© »ç¿ëÇÒ ¼ö ÀÖ´Ù.
 
 Answer 1 : »ó¼Ó
 Answer 2 : Inheritance
@@ -4024,16 +3733,11 @@ Answer 2 : Polymorphism
 No. 428	 correct : 0,	 incorrect : 2
 Q : µÎ °³ ÀÌ»óÀÇ °´Ã¼µéÀÌ »óÈ£ ÂüÁ¶ÇÏ´Â °ü°è¸¦ ÀÇ¹ÌÇÏ´Â °ÍÀº?
  ¡Û¡Û¡ÛÀÇ Á¾·ù.
- 1.
- ¿¬°üÈ­(Association) : 2°³ ÀÌ»óÀÇ °´Ã¼°¡ »óÈ£ °ü·ÃµÇ¾î ÀÖÀ½À» ÀÇ¹ÌÇÔ.
- 2.
- ºÐ·ùÈ­(Classfication) : µ¿ÀÏÇÑ ÇüÀÇ Æ¯¼ºÀ» °®´Â °´Ã¼µéÀ» ¸ð¾Æ ±¸¼ºÇÏ´Â °Í.
- 3.
- Áý´ÜÈ­(Aggregation) : °ü·Ã ÀÖ´Â °´Ã¼µéÀ» ¹­¾î ÇÏ³ªÀÇ »óÀ§ °´Ã¼¸¦ ±¸¼ºÇÏ´Â °Í.
- 4.
- ÀÏ¹ÝÈ­(Generalization) : °øÅëÀûÀÎ ¼ºÁúµé·Î Ãß»óÈ­ÇÑ »óÀ§ °´Ã¼¸¦ ±¸¼ºÇÏ´Â °Í.
- 5.
- Æ¯¼öÈ­/»ó¼¼È­(Specialization) : »óÀ§ °´Ã¼¸¦ ±¸Ã¼È­ÇÏ¿© ÇÏÀ§ °´Ã¼¸¦ ±¸¼ºÇÏ´Â °Í.
+ ¨ç ¿¬°üÈ­(Association) : 2°³ ÀÌ»óÀÇ °´Ã¼°¡ »óÈ£ °ü·ÃµÇ¾î ÀÖÀ½À» ÀÇ¹ÌÇÔ.
+ ¨è ºÐ·ùÈ­(Classfication) : µ¿ÀÏÇÑ ÇüÀÇ Æ¯¼ºÀ» °®´Â °´Ã¼µéÀ» ¸ð¾Æ ±¸¼ºÇÏ´Â °Í.
+ ¨é Áý´ÜÈ­(Aggregation) : °ü·Ã ÀÖ´Â °´Ã¼µéÀ» ¹­¾î ÇÏ³ªÀÇ »óÀ§ °´Ã¼¸¦ ±¸¼ºÇÏ´Â °Í.
+ ¨êÀÏ¹ÝÈ­(Generalization) : °øÅëÀûÀÎ ¼ºÁúµé·Î Ãß»óÈ­ÇÑ »óÀ§ °´Ã¼¸¦ ±¸¼ºÇÏ´Â °Í.
+ ¨ë Æ¯¼öÈ­/»ó¼¼È­(Specialization) : »óÀ§ °´Ã¼¸¦ ±¸Ã¼È­ÇÏ¿© ÇÏÀ§ °´Ã¼¸¦ ±¸¼ºÇÏ´Â °Í.
 
 Answer 1 : ¿¬°ü¼º
 Answer 2 : Relationship
@@ -4128,10 +3832,8 @@ Answer 2 : Functional Modeling
 
 No. 439	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº °´Ã¼ÁöÇâ ºÐ¼®ÀÇ ´Ù¼¸ °¡Áö ¹æ¹ý·Ð Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¹Ì½ÃÀû(Micro) °³¹ß ÇÁ·Î¼¼½º¿Í °Å½ÃÀû(Macro) °³¹ß ÇÁ·Î¼¼½º¸¦ ¸ðµÎ »ç¿ëÇÔ.
- 2.
- Å¬·¡½º¿Í °´Ã¼µéÀ» ºÐ¼® ¹× ½Äº°ÇÏ°í Å¬·¡½ºÀÇ ¼Ó¼º°ú ¿¬»êÀ» Á¤ÀÇÇÔ.
+ ¨ç ¹Ì½ÃÀû(Micro) °³¹ß ÇÁ·Î¼¼½º¿Í °Å½ÃÀû(Macro) °³¹ß ÇÁ·Î¼¼½º¸¦ ¸ðµÎ »ç¿ëÇÔ.
+ ¨è Å¬·¡½º¿Í °´Ã¼µéÀ» ºÐ¼® ¹× ½Äº°ÇÏ°í Å¬·¡½ºÀÇ ¼Ó¼º°ú ¿¬»êÀ» Á¤ÀÇÇÔ.
 
 Answer 1 : ºÎÄ¡ ¹æ¹ý
 Answer 2 : Booch
@@ -4146,10 +3848,8 @@ Answer 1 : Jacobson ¹æ¹ý
 
 No. 441	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº °´Ã¼ÁöÇâ ºÐ¼®ÀÇ ´Ù¼¸ °¡Áö ¹æ¹ý·Ð Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- E- R ´ÙÀÌ¾î±×·¥À» »ç¿ëÇÏ¿© °´Ã¼ÀÇ ÇàÀ§¸¦ ¸ðµ¨¸µÇÔ.
- 2.
- °´Ã¼ ½Äº°, ±¸Á¶ ½Äº°, ÁÖÁ¦ Á¤ÀÇ, ¼Ó¼º°ú ÀÎ½ºÅÏ½º ¿¬°á Á¤ÀÇ, ¿¬»ê°ú ¸Þ½ÃÁö ¿¬°á Á¤ÀÇ µîÀÇ °úÁ¤À¸·Î ±¸¼ºÇÔ.
+ ¨ç E-R ´ÙÀÌ¾î±×·¥À» »ç¿ëÇÏ¿© °´Ã¼ÀÇ ÇàÀ§¸¦ ¸ðµ¨¸µÇÔ.
+ ¨è °´Ã¼ ½Äº°, ±¸Á¶ ½Äº°, ÁÖÁ¦ Á¤ÀÇ, ¼Ó¼º°ú ÀÎ½ºÅÏ½º ¿¬°á Á¤ÀÇ, ¿¬»ê°ú ¸Þ½ÃÁö ¿¬°á Á¤ÀÇ µîÀÇ °úÁ¤À¸·Î ±¸¼ºÇÔ.
 
 Answer 1 : Coad¿Í Yourdon ¹æ¹ý
 
@@ -4158,7 +3858,7 @@ No. 442	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº °´Ã¼ÁöÇâ ºÐ¼®ÀÇ ´Ù¼¸ °¡Áö ¹æ¹ý·Ð Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  ºÐ¼®°ú ¼³°è °£ÀÇ ±¸ºÐÀÌ ¾ø°í, °í°´ ¸í¼¼¼­¸¦ Æò°¡ÇØ¼­ ¼³°è ÀÛ¾÷±îÁö ¿¬¼ÓÀûÀ¸·Î ¼öÇàÇÔ.
 
-Answer 1 : Wirfs- Brock ¹æ¹ý
+Answer 1 : Wirfs-Brock ¹æ¹ý
 
 
 No. 443	 correct : 0,	 incorrect : 1
@@ -4236,10 +3936,8 @@ Answer 2 : Content Coupling
 
 No. 452	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº °áÇÕµµÀÇ ¿©¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °øÀ¯µÇ´Â °øÅë µ¥ÀÌÅÍ ¿µ¿ªÀ» ¿©·¯ ¸ðµâÀÌ »ç¿ëÇÒ ¶§ÀÇ °áÇÕµµ.
- 2.
- ÆÄ¶ó¹ÌÅÍ°¡ ¾Æ´Ñ ¸ðµâ ¹Û¿¡ ¼±¾ðµÈ Àü¿ª º¯¼ö¸¦ »ç¿ëÇÏ¿© Àü¿ª º¯¼ö¸¦ °»½ÅÇÏ´Â ¹æ½ÄÀ¸·Î »óÈ£ÀÛ¿ëÇÏ´Â ¶§ÀÇ °áÇÕµµ.
+ ¨ç °øÀ¯µÇ´Â °øÅë µ¥ÀÌÅÍ ¿µ¿ªÀ» ¿©·¯ ¸ðµâÀÌ »ç¿ëÇÒ ¶§ÀÇ °áÇÕµµ.
+ ¨è ÆÄ¶ó¹ÌÅÍ°¡ ¾Æ´Ñ ¸ðµâ ¹Û¿¡ ¼±¾ðµÈ Àü¿ª º¯¼ö¸¦ »ç¿ëÇÏ¿© Àü¿ª º¯¼ö¸¦ °»½ÅÇÏ´Â ¹æ½ÄÀ¸·Î »óÈ£ÀÛ¿ëÇÏ´Â ¶§ÀÇ °áÇÕµµ.
 
 Answer 1 : °øÅë °áÇÕµµ
 Answer 2 : °øÀ¯ °áÇÕµµ
@@ -4255,10 +3953,8 @@ Answer 2 : External Coupling
 
 No. 454	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº °áÇÕµµÀÇ ¿©¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¾î¶² ¸ðµâÀÌ ´Ù¸¥ ¸ðµâ ³»ºÎÀÇ ³í¸®ÀûÀÎ Èå¸§À» Á¦¾îÇÏ±â À§ÇØ Á¦¾î ½ÅÈ£³ª Á¦¾î ¿ä¼Ò¸¦ Àü´ÞÇÏ´Â °áÇÕµµ.
- 2.
- ÇÏÀ§ ¸ðµâ¿¡¼­ »óÀ§ ¸ðµâ·Î Á¦¾î ½ÅÈ£°¡ ÀÌµ¿ÇÏ¿© ÇÏÀ§ ¸ðµâÀÌ »óÀ§¸ðµâ¿¡°Ô Ã³¸® ¸í·ÉÀ» ³»¸®´Â ±Ç¸® Àüµµ Çö»óÀÌ ¹ß»ýÇÏ°Ô µÊ.
+ ¨ç ¾î¶² ¸ðµâÀÌ ´Ù¸¥ ¸ðµâ ³»ºÎÀÇ ³í¸®ÀûÀÎ Èå¸§À» Á¦¾îÇÏ±â À§ÇØ Á¦¾î ½ÅÈ£³ª Á¦¾î ¿ä¼Ò¸¦ Àü´ÞÇÏ´Â °áÇÕµµ.
+ ¨è ÇÏÀ§ ¸ðµâ¿¡¼­ »óÀ§ ¸ðµâ·Î Á¦¾î ½ÅÈ£°¡ ÀÌµ¿ÇÏ¿© ÇÏÀ§ ¸ðµâÀÌ »óÀ§¸ðµâ¿¡°Ô Ã³¸® ¸í·ÉÀ» ³»¸®´Â ±Ç¸® Àüµµ Çö»óÀÌ ¹ß»ýÇÏ°Ô µÊ.
 
 Answer 1 : Á¦¾î °áÇÕµµ
 Answer 2 : Control Coupling
@@ -4389,7 +4085,7 @@ Q : ¸ðµâ °£ Åë½Å ¹æ½ÄÀ» ±¸ÇöÇÏ±â À§ÇØ »ç¿ëµÇ´Â ´ëÇ¥ÀûÀÎ ÇÁ·Î±×·¡¹Ö ÀÎÅÍÆäÀÌ½º Áý
  º¹¼öÀÇ ÇÁ·Î¼¼½º¸¦ ¼öÇàÇÏ¸ç ÀÌ·ïÁö´Â ÇÁ·Î¼¼½º °£ Åë½Å±îÁö ±¸ÇöÀÌ °¡´ÉÇÏ´Ù.
 
 Answer 1 : IPC
-Answer 2 : Inter- Process Communication
+Answer 2 : Inter Process Communication
 
 
 No. 470	 correct : 0,	 incorrect : 1
@@ -4415,10 +4111,8 @@ Answer 1 : Semaphores
 
 No. 473	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº IPCÀÇ ´ëÇ¥ ¸Þ¼Òµå ´Ù¼¸ °¡Áö Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- 'Pipe'¶ó°í ºÒ¸®´Â ¼±ÀÔ¼±Ãâ ÇüÅÂ·Î ±¸¼ºµÈ ¸Þ¸ð¸®¸¦ ¿©·¯ ÇÁ·Î¼¼½º°¡ °øÀ¯ÇÏ¿© Åë½ÅÇÏ´Â ¹æ½Ä.
- 2.
- Pipe´Â ÇÏ³ªÀÇ ÇÁ·Î¼¼½º°¡ ÀÌ¿ë ÁßÀÌ¶ó¸é ´Ù¸¥ ÇÁ·Î¼¼½º´Â Á¢±ÙÇÒ ¼ö ¾øÀ½.
+ ¨ç 'Pipe'¶ó°í ºÒ¸®´Â ¼±ÀÔ¼±Ãâ ÇüÅÂ·Î ±¸¼ºµÈ ¸Þ¸ð¸®¸¦ ¿©·¯ ÇÁ·Î¼¼½º°¡ °øÀ¯ÇÏ¿© Åë½ÅÇÏ´Â ¹æ½Ä.
+ ¨è Pipe´Â ÇÏ³ªÀÇ ÇÁ·Î¼¼½º°¡ ÀÌ¿ë ÁßÀÌ¶ó¸é ´Ù¸¥ ÇÁ·Î¼¼½º´Â Á¢±ÙÇÒ ¼ö ¾øÀ½.
 
 Answer 1 : Pipe&named Pipes
 
@@ -4448,7 +4142,7 @@ ISO/IEC/IEEE 29119- 3 Ç¥ÁØ¿¡ µû¸¥ ¡Û¡Û¡ÛÀÇ ±¸¼º ¿ä¼Ò.
  Ãâ·Â ¸í¼¼(Output Specification) : ¡Û¡Û¡Û ¼öÇà ½Ã ¿¹»óµÇ´Â Ãâ·Â °á°ú.
  È¯°æ ¼³Á¤(Environmental Needs) : ÇÊ¿äÇÑ ÇÏµå¿þ¾î³ª ¼ÒÇÁÆ®¿þ¾îÀÇ È¯°æ.
  Æ¯¼ö ÀýÂ÷ ¿ä±¸(Special Procedure Requirment) : ¡Û¡Û¡Û ¼öÇà ½Ã Æ¯º°È÷ ¿ä±¸µÇ´Â ÀýÂ÷.
- ÀÇÁ¸¼º ±â¼ú(Inter- case DEpendencies) : ¡Û¡Û¡Û °£ÀÇ ÀÇÁ¸¼º.
+ ÀÇÁ¸¼º ±â¼ú(Inter-case DEpendencies) : ¡Û¡Û¡Û °£ÀÇ ÀÇÁ¸¼º.
 
 Answer 1 : Å×½ºÆ® ÄÉÀÌ½º
 Answer 2 : Test Case
@@ -4593,7 +4287,7 @@ Answer 2 : Decimal Code
 No. 493	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÄÚµåÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  ÄÚµåÈ­ ´ë»ó Ç×¸ñÀ» ÀÏÁ¤ ±âÁØ¿¡ µû¶ó ´ëºÐ·ù, ÁßºÐ·ù, ¼ÒºÐ·ù µîÀ¸·Î ±¸ºÐÇÏ°í, °¢ ±×·ì ¾È¿¡¼­ ÀÏ·Ã¹øÈ£¸¦ ºÎ¿©ÇÏ´Â ¹æ¹ýÀÓ.
- ¿¹) 1- 01- 001 : º»»ç- ÃÑ¹«ºÎ- ÀÎ»ç°è, 2- 01- 001 : Áö»ç- ÃÑ¹«ºÎ- ÀÎ»ç°è.
+ ¿¹) 1-01-001 : º»»ç-ÃÑ¹«ºÎ-ÀÎ»ç°è, 2-01-001 : Áö»ç-ÃÑ¹«ºÎ-ÀÎ»ç°è.
 
 Answer 1 : ±×·ì ºÐ·ù ÄÚµå
 Answer 2 : Group Classification
@@ -4602,7 +4296,7 @@ Answer 2 : Group Classification
 No. 494	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÄÚµåÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  ÄÚµåÈ­ ´ë»ó Ç×¸ñÀÇ ¸íÄªÀÌ³ª ¾àÈ£¿Í °ü°è°¡ ÀÖ´Â ¼ýÀÚ³ª ¹®ÀÚ, ±âÈ£¸¦ ÀÌ¿ëÇÏ¿© ÄÚµå¸¦ ºÎ¿©ÇÏ´Â ¹æ¹ýÀÓ.
- ¿¹) TV- 40 : 40ÀÎÄ¡ TV, L- 15- 220 : 12W 220VÀÇ ·¥ÇÁ.
+ ¿¹) TV-40 : 40ÀÎÄ¡ TV, L-15- 220 : 12W 220VÀÇ ·¥ÇÁ.
 
 Answer 1 : ¿¬»ó ÄÚµå
 Answer 2 : Mnemonic Code
@@ -4610,8 +4304,8 @@ Answer 2 : Mnemonic Code
 
 No. 495	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÄÚµåÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- ÄÚµåÈ­ ´ë»ó Ç×¸ñÀÇ ¼ºÁú, Áï ±æÀÌ, ³ÐÀÌ, ºÎÇÇ, Áö¸§, ³ôÀÌ µîÀÇ ¹°¸®Àû ¼öÄ¡¸¦ ±×´î ÄÚµå¿¡ Àû¿ë½ÃÅ°´Â ¹æ¹ýÀ¸·Î, À¯È¿ ¼ýÀÚ ÄÚµå¶ó°íµµ ÇÔ.
- ¿¹)120- 720- 1500 : µÎ²²¡¿Æø¡¿±æÀÌ°¡ 120¡¿720¡¿1500ÀÎ °­ÆÇ.
+ ÄÚµåÈ­ ´ë»ó Ç×¸ñÀÇ ¼ºÁú, Áï ±æÀÌ, ³ÐÀÌ, ºÎÇÇ, Áö¸§, ³ôÀÌ µîÀÇ ¹°¸®Àû ¼öÄ¡¸¦ ±×´ë·Î ÄÚµå¿¡ Àû¿ë½ÃÅ°´Â ¹æ¹ýÀ¸·Î, À¯È¿ ¼ýÀÚ ÄÚµå¶ó°íµµ ÇÔ.
+ ¿¹)120-720-1500 : µÎ²²¡¿Æø¡¿±æÀÌ°¡ 120¡¿720¡¿1500ÀÎ °­ÆÇ.
 
 Answer 1 : Ç¥ÀÇ ¼ýÀÚ ÄÚµå
 Answer 2 : Significant Digit Code
@@ -4619,7 +4313,7 @@ Answer 2 : Significant Digit Code
 
 No. 496	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÄÚµåÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- ÇÊ¿©ÇÑ ±â´ÉÀ» ÇÏ³ªÀÇ ÄÚµå·Î ¼öÇàÇÏ±â ¾î·Á¿î °æ¿ì 2°³ ÀÌ»óÀÇ ÄÚµå¸¦ Á¶ÇÕÇÏ¿© ¸¸µå´Â ¹æ¹ýÀÓ.
+ ÇÊ¿äÇÑ ±â´ÉÀ» ÇÏ³ªÀÇ ÄÚµå·Î ¼öÇàÇÏ±â ¾î·Á¿î °æ¿ì 2°³ ÀÌ»óÀÇ ÄÚµå¸¦ Á¶ÇÕÇÏ¿© ¸¸µå´Â ¹æ¹ýÀÓ.
  ¿¹) ¿¬»ó ÄÚµå£«¼øÂ÷ ÄÚµå.
  ¿¹) KE- 711 : ´ëÇÑÇ×°ø 711±â, AC- 253 : ¿¡¾îÄ³³ª´Ù 253±â
 Answer 1 : ÇÕ¼º ÄÚµå
@@ -4645,10 +4339,8 @@ Answer 2 : Creational Pattern
 
 No. 499	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº »ý¼º ÆÐÅÏÀÇ ´Ù¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ±¸Ã¼ÀûÀÎ Å¬·¡½º¿¡ ÀÇÁ¸ÇÏÁö ¾Ê°í, ÀÎÅÍÆäÀÌ½º¸¦ ÅëÇØ ¼­·Î ¿¬°ü¡¤ÀÇÁ¸ÇÏ´Â °´Ã¼µéÀÇ ±×·ìÀ¸·Î »ý¼ºÇÏ¿© Ãß»óÀûÀ¸·Î Ç¥ÇöÇÔ.
- 2.
- ¿¬°üµÈ ¼­ºê Å¬·¡½º¸¦ ¹­¾î ÇÑ ¹ø¿¡ ±³Ã¼ÇÏ´Â °ÍÀÌ °¡´ÉÇÔ.
+ ¨ç ±¸Ã¼ÀûÀÎ Å¬·¡½º¿¡ ÀÇÁ¸ÇÏÁö ¾Ê°í, ÀÎÅÍÆäÀÌ½º¸¦ ÅëÇØ ¼­·Î ¿¬°ü¡¤ÀÇÁ¸ÇÏ´Â °´Ã¼µéÀÇ ±×·ìÀ¸·Î »ý¼ºÇÏ¿© Ãß»óÀûÀ¸·Î Ç¥ÇöÇÔ.
+ ¨è ¿¬°üµÈ ¼­ºê Å¬·¡½º¸¦ ¹­¾î ÇÑ ¹ø¿¡ ±³Ã¼ÇÏ´Â °ÍÀÌ °¡´ÉÇÔ.
 
 Answer 1 : Ãß»ó ÆÑÅä¸®
 Answer 2 : Abstract Factory
@@ -4656,10 +4348,8 @@ Answer 2 : Abstract Factory
 
 No. 500	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº »ý¼º ÆÐÅÏÀÇ ´Ù¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÀÛ°Ô ºÐ¸®µÈ ÀÎ½ºÅÏ½º¸¦ °ÇÃà ÇÏµíÀÌ Á¶ÇÕÇÏ¿© °´Ã¼¸¦ »ý¼ºÇÔ.
- 2.
- °´Ã¼ÀÇ »ý¼º °úÁ¤°ú Ç¥Çö ¹æ¹ýÀ» ºÐ¸®ÇÏ°í ÀÖ¾î, µ¿ÀÏÇÑ °´Ã¼ »ý¼º¿¡¼­µµ ¼­·Î ´Ù¸¥ °á°ú¸¦ ¸¸µé¾î ³¾ ¼ö ÀÖÀ½.
+ ¨ç ÀÛ°Ô ºÐ¸®µÈ ÀÎ½ºÅÏ½º¸¦ °ÇÃà ÇÏµíÀÌ Á¶ÇÕÇÏ¿© °´Ã¼¸¦ »ý¼ºÇÔ.
+ ¨è °´Ã¼ÀÇ »ý¼º °úÁ¤°ú Ç¥Çö ¹æ¹ýÀ» ºÐ¸®ÇÏ°í ÀÖ¾î, µ¿ÀÏÇÑ °´Ã¼ »ý¼º¿¡¼­µµ ¼­·Î ´Ù¸¥ °á°ú¸¦ ¸¸µé¾î ³¾ ¼ö ÀÖÀ½.
 
 Answer 1 : ºô´õ
 Answer 2 : Builder
@@ -4667,12 +4357,9 @@ Answer 2 : Builder
 
 No. 501	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº »ý¼º ÆÐÅÏÀÇ ´Ù¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °´Ã¼ »ý¼ºÀ» ¼­ºê Å¬·¡½º¿¡¼­ Ã³¸®ÇÏµµ·Ï ºÐ¸®ÇÏ¿© Ä¸½¶È­ÇÑ ÆÐÅÏ.
- 2.
- »óÀ§ Å¬·¡½º¿¡¼­ ÀÎÅÍÆäÀÌ½º¸¸ Á¤ÀÇÇÏ°í ½ÇÁ¦ »ý¼ºÀº ¼­ºê Å¬·¡½º°¡ ´ã´çÇÔ.
- 3.
- °¡»ó »ý¼ºÀÚ(Virtual Constructor) ÆÐÅÏÀÌ¶ó°íµµ ÇÔ.
+ ¨ç °´Ã¼ »ý¼ºÀ» ¼­ºê Å¬·¡½º¿¡¼­ Ã³¸®ÇÏµµ·Ï ºÐ¸®ÇÏ¿© Ä¸½¶È­ÇÑ ÆÐÅÏ.
+ ¨è »óÀ§ Å¬·¡½º¿¡¼­ ÀÎÅÍÆäÀÌ½º¸¸ Á¤ÀÇÇÏ°í ½ÇÁ¦ »ý¼ºÀº ¼­ºê Å¬·¡½º°¡ ´ã´çÇÔ.
+ ¨é °¡»ó »ý¼ºÀÚ(Virtual Constructor) ÆÐÅÏÀÌ¶ó°íµµ ÇÔ.
 
 Answer 1 : ÆÑÅä¸® ¸Þ¼Òµå
 Answer 2 : Factory Method
@@ -4680,10 +4367,8 @@ Answer 2 : Factory Method
 
 No. 502	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº »ý¼º ÆÐÅÏÀÇ ´Ù¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¿øº» °´Ã¼¸¦ º¹Á¦ÇÏ´Â ¹æ¹ýÀ¸·Î °´Ã¼¸¦ »ý¼ºÇÏ´Â ÆÐÅÏ.
- 2.
- ÀÏ¹ÝÀûÀÎ ¹æ¹ýÀ¸·Î °´Ã¼¸¦ »ý¼ºÇÏ¸ç, ºñ¿ëÀÌ Å« °æ¿ì ÁÖ·Î ÀÌ¿ëÇÔ.
+ ¨ç ¿øº» °´Ã¼¸¦ º¹Á¦ÇÏ´Â ¹æ¹ýÀ¸·Î °´Ã¼¸¦ »ý¼ºÇÏ´Â ÆÐÅÏ.
+ ¨è ÀÏ¹ÝÀûÀÎ ¹æ¹ýÀ¸·Î °´Ã¼¸¦ »ý¼ºÇÏ¸ç, ºñ¿ëÀÌ Å« °æ¿ì ÁÖ·Î ÀÌ¿ëÇÔ.
 
 Answer 1 : ÇÁ·ÎÅäÅ¸ÀÔ
 Answer 2 : Prototype
@@ -4691,10 +4376,8 @@ Answer 2 : Prototype
 
 No. 503	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº »ý¼º ÆÐÅÏÀÇ ´Ù¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÏ³ªÀÇ °´Ã¼¸¦ »ý¼ºÇÏ¸é »ý¼ºµÈ °´Ã¼¸¦ ¾îµð¼­µç ÂüÁ¶ÇÒ ¼ö ÀÖÁö¸¸, ¿©·¯ ÇÁ·Î¼¼½º°¡ µ¿½Ã¿¡ ÂüÁ¶ÇÒ ¼ö´Â ¾øÀ½.
- 2.
- Å¬·¡½º ³»¿¡¼­ ÀÎ½ºÅÍ½º°¡ ÇÏ³ª»ÓÀÓÀ» º¸ÀåÇÏ¸ç, ºÒÇÊ¿äÇÑ ¸Þ¸ð¸® ³¶ºñ¸¦ ÃÖ¼ÒÈ­ ÇÒ ¼ö ÀÖÀ½.
+ ¨ç ÇÏ³ªÀÇ °´Ã¼¸¦ »ý¼ºÇÏ¸é »ý¼ºµÈ °´Ã¼¸¦ ¾îµð¼­µç ÂüÁ¶ÇÒ ¼ö ÀÖÁö¸¸, ¿©·¯ ÇÁ·Î¼¼½º°¡ µ¿½Ã¿¡ ÂüÁ¶ÇÒ ¼ö´Â ¾øÀ½.
+ ¨è Å¬·¡½º ³»¿¡¼­ ÀÎ½ºÅÍ½º°¡ ÇÏ³ª»ÓÀÓÀ» º¸ÀåÇÏ¸ç, ºÒÇÊ¿äÇÑ ¸Þ¸ð¸® ³¶ºñ¸¦ ÃÖ¼ÒÈ­ ÇÒ ¼ö ÀÖÀ½.
 
 Answer 1 : ½Ì±ÛÅæ
 Answer 2 : Singeton
@@ -4709,10 +4392,8 @@ Answer 2 : Structural Pattern
 
 No. 505	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ±¸Á¶ ÆÐÅÏÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- È£È¯¼ºÀÌ ¾ø´Â Å¬·¡½ºµéÀÇ ÀÎÅÍÆäÀÌ½º¸¦ ´Ù¸¥ Å¬·¡½º°¡ ÀÌ¿ëÇÒ ¼ö ÀÖµµ·Ï º¯È¯ÇØÁÖ´Â ÆÐÅÏ.
- 2.
- ±âÁ¸ÀÇ Å¬·¡½º¸¦ ÀÌ¿ëÇÏ°í ½ÍÁö¸¸ ÀÎÅÍÆäÀÌ½º°¡ ÀÏÄ¡ÇÏÁö ¾ÊÀ» ¶§ ÀÌ¿ëÇÔ.
+ ¨ç È£È¯¼ºÀÌ ¾ø´Â Å¬·¡½ºµéÀÇ ÀÎÅÍÆäÀÌ½º¸¦ ´Ù¸¥ Å¬·¡½º°¡ ÀÌ¿ëÇÒ ¼ö ÀÖµµ·Ï º¯È¯ÇØÁÖ´Â ÆÐÅÏ.
+ ¨è ±âÁ¸ÀÇ Å¬·¡½º¸¦ ÀÌ¿ëÇÏ°í ½ÍÁö¸¸ ÀÎÅÍÆäÀÌ½º°¡ ÀÏÄ¡ÇÏÁö ¾ÊÀ» ¶§ ÀÌ¿ëÇÔ.
 
 Answer 1 : ¾î´ðÅÍ
 Answer 2 : Adapter
@@ -4720,10 +4401,8 @@ Answer 2 : Adapter
 
 No. 506	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ±¸Á¶ ÆÐÅÏÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ±¸ÇöºÎ¿¡¼­ Ãß»óÃþÀ» ºÐ¸®ÇÏ¿©, ¼­·Î°¡ µ¶¸³ÀûÀ¸·Î È®ÀåÇÒ ¼ö ÀÖµµ·Ï ±¸¼ºÇÑ ÆÐÅÏ.
- 2.
- ±â´É°ú ±¸ÇöÀ» µÎ °³ÀÇ º°µµ Å¬·¡½º·Î ±¸ÇöÇÔ.
+ ¨ç ±¸ÇöºÎ¿¡¼­ Ãß»óÃþÀ» ºÐ¸®ÇÏ¿©, ¼­·Î°¡ µ¶¸³ÀûÀ¸·Î È®ÀåÇÒ ¼ö ÀÖµµ·Ï ±¸¼ºÇÑ ÆÐÅÏ.
+ ¨è ±â´É°ú ±¸ÇöÀ» µÎ °³ÀÇ º°µµ Å¬·¡½º·Î ±¸ÇöÇÔ.
 
 Answer 1 : ºê¸®Áö
 Answer 2 : Bridge
@@ -4731,10 +4410,8 @@ Answer 2 : Bridge
 
 No. 507	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ±¸Á¶ ÆÐÅÏÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¿©·¯ °´Ã¼¸¦ °¡Áø º¹ÇÕ °´Ã¼¿Í ´ÜÀÏ °´Ã¼¸¦ ±¸ºÐ ¾øÀÌ ´Ù·ç°íÀÚ ÇÒ ¶§ »ç¿ëÇÏ´Â ÆÐÅÏ.
- 2.
- °´Ã¼µéÀ» Æ®¸® ±¸Á¶·Î ±¸¼ºÇÏ¿© µð·ºÅÍ¸® ¾È¿¡ µð·ºÅÍ¸®°¡ ÀÖµíÀÌ º¹ÇÕ °´Ã¼ ¾È¿¡ º¹ÇÕ °´Ã¼°¡ Æ÷ÇÔµÇ´Â ±¸Á¶¸¦ ±¸ÇöÇÒ ¼ö ÀÖÀ½.
+ ¨ç ¿©·¯ °´Ã¼¸¦ °¡Áø º¹ÇÕ °´Ã¼¿Í ´ÜÀÏ °´Ã¼¸¦ ±¸ºÐ ¾øÀÌ ´Ù·ç°íÀÚ ÇÒ ¶§ »ç¿ëÇÏ´Â ÆÐÅÏ.
+ ¨è °´Ã¼µéÀ» Æ®¸® ±¸Á¶·Î ±¸¼ºÇÏ¿© µð·ºÅÍ¸® ¾È¿¡ µð·ºÅÍ¸®°¡ ÀÖµíÀÌ º¹ÇÕ °´Ã¼ ¾È¿¡ º¹ÇÕ °´Ã¼°¡ Æ÷ÇÔµÇ´Â ±¸Á¶¸¦ ±¸ÇöÇÒ ¼ö ÀÖÀ½.
 
 Answer 1 : ÄÄÆ÷ÁöÆ®
 Answer 2 : Composite
@@ -4742,10 +4419,8 @@ Answer 2 : Composite
 
 No. 508	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ±¸Á¶ ÆÐÅÏÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °´Ã¼ °£ÀÇ °áÇÕÀ» ÅëÇØ ´Éµ¿ÀûÀ¸·Î ±â´ÉµéÀ» È®ÀåÇÒ ¼ö ÀÖ´Â ÆÐÅÏ.
- 2.
- ÀÓÀÇÀÇ °´Ã¼¿¡ ºÎ°¡ÀûÀÎ ±â´ÉÀ» Ãß°¡ÇÏ±â À§ÇØ ´Ù¸¥ °´Ã¼µéÀ» µ¡ºÙÀÌ´Â ¹æ½ÄÀ¸·Î ±¸ÇöÇÔ.
+ ¨ç °´Ã¼ °£ÀÇ °áÇÕÀ» ÅëÇØ ´Éµ¿ÀûÀ¸·Î ±â´ÉµéÀ» È®ÀåÇÒ ¼ö ÀÖ´Â ÆÐÅÏ.
+ ¨è ÀÓÀÇÀÇ °´Ã¼¿¡ ºÎ°¡ÀûÀÎ ±â´ÉÀ» Ãß°¡ÇÏ±â À§ÇØ ´Ù¸¥ °´Ã¼µéÀ» µ¡ºÙÀÌ´Â ¹æ½ÄÀ¸·Î ±¸ÇöÇÔ.
 
 Answer 1 : µ¥ÄÚ·¹ÀÌÅÍ
 Answer 2 : Decorator
@@ -4753,10 +4428,8 @@ Answer 2 : Decorator
 
 No. 509	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ±¸Á¶ ÆÐÅÏÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- º¹ÀâÇÑ ¼­ºê Å¬·¡½ºµéÀ» ÇÇÇØ ´õ »óÀ§¿¡ ÀÎÅÍÆäÀÌ½º¸¦ ±¸¼ºÇÔÀ¸·Î½á ¼­ºê Å¬·¡½ºµéÀÇ ±â´ÉÀ» °£ÆíÇÏ°Ô »ç¿ëÇÒ ¼ö ÀÖµµ·Ï ÇÏ´Â ÆÐÅÏ.
- 2.
- ¼­ºê Å¬·¡½ºµé »çÀÌÀÇ ÅëÇÕ ÀÎÅÍÆäÀÌ½º¸¦ Á¦°øÇÏ´Â Wrapper °´Ã¼°¡ ÇÊ¿äÇÔ.
+ ¨ç º¹ÀâÇÑ ¼­ºê Å¬·¡½ºµéÀ» ÇÇÇØ ´õ »óÀ§¿¡ ÀÎÅÍÆäÀÌ½º¸¦ ±¸¼ºÇÔÀ¸·Î½á ¼­ºê Å¬·¡½ºµéÀÇ ±â´ÉÀ» °£ÆíÇÏ°Ô »ç¿ëÇÒ ¼ö ÀÖµµ·Ï ÇÏ´Â ÆÐÅÏ.
+ ¨è ¼­ºê Å¬·¡½ºµé »çÀÌÀÇ ÅëÇÕ ÀÎÅÍÆäÀÌ½º¸¦ Á¦°øÇÏ´Â Wrapper °´Ã¼°¡ ÇÊ¿äÇÔ.
 
 Answer 1 : ÆÛ½Îµå
 Answer 2 : Facade
@@ -4764,10 +4437,8 @@ Answer 2 : Facade
 
 No. 510	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ±¸Á¶ ÆÐÅÏÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÀÎ½ºÅÏ½º°¡ ÇÊ¿äÇÒ ¶§¸¶´Ù ¸Å¹ø »ý¼ºÇÏ´Â °ÍÀÌ ¾Æ´Ï°í °¡´ÉÇÑÇÑ °øÀ¯ÇØ¼­ »ç¿ëÇÔÀ¸·Î½á ¸Þ¸ð¸®¸¦ Àý¾àÇÏ´Â ÆÐÅÏ.
- 2.
- ´Ù¼öÀÇ À¯»ç °´Ã¼¸¦ »ý¼ºÇÏ°Å³ª Á¶ÀÛÇÒ ¶§ À¯¿ëÇÏ°Ô »ç¿ëÇÒ ¼ö ÀÖÀ½.
+ ¨ç ÀÎ½ºÅÏ½º°¡ ÇÊ¿äÇÒ ¶§¸¶´Ù ¸Å¹ø »ý¼ºÇÏ´Â °ÍÀÌ ¾Æ´Ï°í °¡´ÉÇÑÇÑ °øÀ¯ÇØ¼­ »ç¿ëÇÔÀ¸·Î½á ¸Þ¸ð¸®¸¦ Àý¾àÇÏ´Â ÆÐÅÏ.
+ ¨è ´Ù¼öÀÇ À¯»ç °´Ã¼¸¦ »ý¼ºÇÏ°Å³ª Á¶ÀÛÇÒ ¶§ À¯¿ëÇÏ°Ô »ç¿ëÇÒ ¼ö ÀÖÀ½.
 
 Answer 1 : ÇÃ¶óÀÌ¿þÀÌÆ®
 Answer 2 : Flyweight
@@ -4775,10 +4446,8 @@ Answer 2 : Flyweight
 
 No. 511	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ±¸Á¶ ÆÐÅÏÀÇ ÀÏ°ö °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Á¢±ÙÀÌ ¾î·Á¿î °´Ã¼¿Í ¿©±â¿¡ ¿¬°áÇÏ·Á´Â °´Ã¼ »çÀÌ¿¡¼­ ÀÎÅÍÆäÀÌ½º ¿ªÇÒÀ» ¼öÇàÇÏ´Â ÆÐÅÏ.
- 2.
- ³×Æ®¿öÅ© ¿¬°á, ¸Þ¸ð¸®ÀÇ ´ë¿ë·® °´Ã¼·ÎÀÇ Á¢±Ù µî¿¡ ÁÖ·Î ÀÌ¿ëÇÔ.
+ ¨ç Á¢±ÙÀÌ ¾î·Á¿î °´Ã¼¿Í ¿©±â¿¡ ¿¬°áÇÏ·Á´Â °´Ã¼ »çÀÌ¿¡¼­ ÀÎÅÍÆäÀÌ½º ¿ªÇÒÀ» ¼öÇàÇÏ´Â ÆÐÅÏ.
+ ¨è ³×Æ®¿öÅ© ¿¬°á, ¸Þ¸ð¸®ÀÇ ´ë¿ë·® °´Ã¼·ÎÀÇ Á¢±Ù µî¿¡ ÁÖ·Î ÀÌ¿ëÇÔ.
 
 Answer 1 : ÇÁ·Ï½Ã
 Answer 2 : Proxy
@@ -4794,8 +4463,7 @@ Answer 2 : Behavioral Pattern
 No. 513	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÇàÀ§ ÆÐÅÏÀÇ ¿­ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  1, ¿äÃ»À» Ã³¸®ÇÒ ¼ö ÀÖ´Â °´Ã¼°¡ µÑ ÀÌ»ó Á¸ÀçÇÏ¿© ÇÑ °´Ã¼°¡ Ã³¸®ÇÏÁö ¸øÇÏ¸é ´ÙÀ½ °´Ã¼·Î ³Ñ¾î°¡´Â ÇüÅÂÀÇ ÆÐÅÏ.
- 2.
- ¿äÃ»À» Ã³¸®ÇÒ ¼ö ÀÖ´Â °¢ °´Ã¼µéÀÌ °í¸®(Chain)·Î ¹­¾î ÀÖ¾î ¿äÃ»ÀÌ ÇØ°áµÉ ¶§±îÁö °í¸®¸¦ µû¶ó Ã¥ÀÓÀÌ ³Ñ¾î°¨.
+ ¨è ¿äÃ»À» Ã³¸®ÇÒ ¼ö ÀÖ´Â °¢ °´Ã¼µéÀÌ °í¸®(Chain)·Î ¹­¾î ÀÖ¾î ¿äÃ»ÀÌ ÇØ°áµÉ ¶§±îÁö °í¸®¸¦ µû¶ó Ã¥ÀÓÀÌ ³Ñ¾î°¨.
 
 Answer 1 : Ã¥ÀÓ ¿¬¼â
 Answer 2 : Chain of Responsibility
@@ -4803,10 +4471,8 @@ Answer 2 : Chain of Responsibility
 
 No. 514	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÇàÀ§ ÆÐÅÏÀÇ ¿­ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¿äÃ»À» °´Ã¼ÀÇ ÇüÅÂ·Î Ä¸½¶È­ÇÏ¿© ÀçÀÌ¿ëÇÏ°Å³ª ÃÖ¼ÒÇÒ ¼ö ÀÖµµ·Ï ¿äÃ»¿¡ ÇÊ¿äÇÑ Á¤º¸¸¦ ÀúÀåÇÏ°Å³ª ·Î±×¿¡ ³²±â´Â ÆÐÅÏ.
- 2.
- ¿äÃ»¿¡ »ç¿ëµÇ´Â °¢Á¾ ¸í·É¾îµéÀ» Ãß»ó Å¬·¡½º¿Í ±¸Ã¼ Å¬·¡½º·Î ºÐ¸®ÇÏ¿© ´Ü¼øÈ­ÇÔ.
+ ¨ç ¿äÃ»À» °´Ã¼ÀÇ ÇüÅÂ·Î Ä¸½¶È­ÇÏ¿© ÀçÀÌ¿ëÇÏ°Å³ª ÃÖ¼ÒÇÒ ¼ö ÀÖµµ·Ï ¿äÃ»¿¡ ÇÊ¿äÇÑ Á¤º¸¸¦ ÀúÀåÇÏ°Å³ª ·Î±×¿¡ ³²±â´Â ÆÐÅÏ.
+ ¨è ¿äÃ»¿¡ »ç¿ëµÇ´Â °¢Á¾ ¸í·É¾îµéÀ» Ãß»ó Å¬·¡½º¿Í ±¸Ã¼ Å¬·¡½º·Î ºÐ¸®ÇÏ¿© ´Ü¼øÈ­ÇÔ.
 
 Answer 1 : Ä¿¸Çµå
 Answer 2 : Command
@@ -4814,10 +4480,8 @@ Answer 2 : Command
 
 No. 515	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÇàÀ§ ÆÐÅÏÀÇ ¿­ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¾ð¾î¿¡ ¹®¹ý Ç¥ÇöÀ» Á¤ÀÇÇÏ´Â ÆÐÅÏ.
- 2.
- SQLÀÌ³ª Åë½Å ÇÁ·ÎÅäÄÝ°ú °°Àº °ÍÀ» °³¹ßÇÒ ¶§ »ç¿ëÇÔ.
+ ¨ç ¾ð¾î¿¡ ¹®¹ý Ç¥ÇöÀ» Á¤ÀÇÇÏ´Â ÆÐÅÏ.
+ ¨è SQLÀÌ³ª Åë½Å ÇÁ·ÎÅäÄÝ°ú °°Àº °ÍÀ» °³¹ßÇÒ ¶§ »ç¿ëÇÔ.
 
 Answer 1 : ÀÎÅÍÇÁ¸®ÅÍ
 Answer 2 : Interpreter
@@ -4825,10 +4489,8 @@ Answer 2 : Interpreter
 
 No. 516	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÇàÀ§ ÆÐÅÏÀÇ ¿­ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÀÚ·á ±¸Á¶¿Í °°ÀÌ Á¢±ÙÀÌ ÀæÀº °´Ã¼¿¡ ´ëÇØ µ¿ÀÏÇÑ ÀÎÅÍÆäÀÌ½º¸¦ »ç¿ëÇÏµµ·Ï ÇÏ´Â ÆÐÅÏ.
- 2.
- ³»ºÎ Ç¥Çö ¹æ¹ýÀÇ ³ëÃâ ¾øÀÌ ¼øÂ÷ÀûÀÎ Á¢±ÙÀÌ °¡´ÉÇÔ.
+ ¨ç ÀÚ·á ±¸Á¶¿Í °°ÀÌ Á¢±ÙÀÌ ÀæÀº °´Ã¼¿¡ ´ëÇØ µ¿ÀÏÇÑ ÀÎÅÍÆäÀÌ½º¸¦ »ç¿ëÇÏµµ·Ï ÇÏ´Â ÆÐÅÏ.
+ ¨è ³»ºÎ Ç¥Çö ¹æ¹ýÀÇ ³ëÃâ ¾øÀÌ ¼øÂ÷ÀûÀÎ Á¢±ÙÀÌ °¡´ÉÇÔ.
 
 Answer 1 : ¹Ýº¹ÀÚ
 Answer 2 : Iterator
@@ -4836,10 +4498,8 @@ Answer 2 : Iterator
 
 No. 517	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÇàÀ§ ÆÐÅÏÀÇ ¿­ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¼ö¸¹Àº °´Ã¼µé °£ÀÇ º¹ÀâÇÑ »óÈ£ÀÛ¿ë(Interface)À» Ä¸½¶È­ÇÏ¿© °´Ã¼·Î Á¤ÀÇÇÏ´Â ÆÐÅÏ.
- 2.
- Ctrl + Z¿Í °°Àº µÇµ¹¸®±â ±â´ÉÀ» °³¹ßÇÒ ¶§ ÁÖ·Î ÀÌ¿ëÇÔ.
+ ¨ç ¼ö¸¹Àº °´Ã¼µé °£ÀÇ º¹ÀâÇÑ »óÈ£ÀÛ¿ë(Interface)À» Ä¸½¶È­ÇÏ¿© °´Ã¼·Î Á¤ÀÇÇÏ´Â ÆÐÅÏ.
+ ¨è Ctrl + Z¿Í °°Àº µÇµ¹¸®±â ±â´ÉÀ» °³¹ßÇÒ ¶§ ÁÖ·Î ÀÌ¿ëÇÔ.
 
 Answer 1 : ¸Þ¸àÅä
 Answer 2 : Memento
@@ -4847,12 +4507,9 @@ Answer 2 : Memento
 
 No. 518	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÇàÀ§ ÆÐÅÏÀÇ ¿­ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÑ °´Ã¼ÀÇ »óÅÂ°¡ º¯È­ÇÏ¸é °´Ã¼¿¡ »ó¼ÓµÇ¾î ÀÖ´Â ´Ù¸¥ °´Ã¼µé¿¡°Ô º¯È­µÈ »óÅÂ¸¦ Àü´ÞÇÏ´Â ÆÐÅÏ.
- 2.
- ÀÏ´ë´ÙÀÇ ÀÇÁ¸¼ºÀ» Á¤ÀÇÇÔ.
- 3.
- ÁÖ·Î ºÐ»êµÈ ½Ã½ºÅÛ °£¿¡ ÀÌº¥Æ®¸¦ »ý¼º¡¤¹ßÇà(Publish)ÇÏ°í, ÀÌ¸¦ ¼ö½Å(Subscribe)ÇØ¾ß ÇÒ ¶§ ÀÌ¿ëÇÔ.
+ ¨ç ÇÑ °´Ã¼ÀÇ »óÅÂ°¡ º¯È­ÇÏ¸é °´Ã¼¿¡ »ó¼ÓµÇ¾î ÀÖ´Â ´Ù¸¥ °´Ã¼µé¿¡°Ô º¯È­µÈ »óÅÂ¸¦ Àü´ÞÇÏ´Â ÆÐÅÏ.
+ ¨è ÀÏ´ë´ÙÀÇ ÀÇÁ¸¼ºÀ» Á¤ÀÇÇÔ.
+ ¨é ÁÖ·Î ºÐ»êµÈ ½Ã½ºÅÛ °£¿¡ ÀÌº¥Æ®¸¦ »ý¼º¡¤¹ßÇà(Publish)ÇÏ°í, ÀÌ¸¦ ¼ö½Å(Subscribe)ÇØ¾ß ÇÒ ¶§ ÀÌ¿ëÇÔ.
 
 Answer 1 : ¿É¼­¹ö
 Answer 2 : Observer
@@ -4860,10 +4517,8 @@ Answer 2 : Observer
 
 No. 519	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÇàÀ§ ÆÐÅÏÀÇ ¿­ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °´Ã¼ÀÇ »óÅÂ¿¡ µû¶ó µ¿ÀÏÇÑ µ¿ÀÛÀ» ´Ù¸£°Ô Ã³¸®ÇØ¾ß ÇÒ ¶§ »ç¿ëÇÏ´Â ÆÐÅÏ.
- 2.
- °´Ã¼ »óÅÂ¸¦ Ä¸½¶È­ÇÏ°í ÀÌ¸¦ ÂüÁ¶ÇÏ´Â ¹æ½ÄÀ¸·Î Ã³¸®ÇÔ.
+ ¨ç °´Ã¼ÀÇ »óÅÂ¿¡ µû¶ó µ¿ÀÏÇÑ µ¿ÀÛÀ» ´Ù¸£°Ô Ã³¸®ÇØ¾ß ÇÒ ¶§ »ç¿ëÇÏ´Â ÆÐÅÏ.
+ ¨è °´Ã¼ »óÅÂ¸¦ Ä¸½¶È­ÇÏ°í ÀÌ¸¦ ÂüÁ¶ÇÏ´Â ¹æ½ÄÀ¸·Î Ã³¸®ÇÔ.
 
 Answer 1 : »óÅÂ
 Answer 2 : State
@@ -4871,10 +4526,8 @@ Answer 2 : State
 
 No. 520	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÇàÀ§ ÆÐÅÏÀÇ ¿­ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- µ¿ÀÏÇÑ °è¿­ÀÇ ¾Ë°í¸®ÁòµéÀ» °³º°ÀûÀ¸·Î Ä¸½¶È­ÇÏ¿© »óÈ£ ±³È¯ÇÒ ¼ö ÀÖ°Ô Á¤ÀÇÇÏ´Â ÆÐÅÏ.
- 2.
- Å¬¶óÀÌ¾ðÆ®´Â µ¶¸³ÀûÀ¸·Î ¿øÇÏ´Â ¾Ë°í¸®ÁòÀ» ¼±ÅÃÇÏ¿© »ç¿ëÇÒ ¼ö ÀÖÀ¸¸ç, Å¬¶óÀÌ¾ðÆ®¿¡ ¿µÇâ ¾øÀÌ ¾Ë°í¸®ÁòÀÇ º¯°æÀÌ °¡´ÉÇÔ.
+ ¨ç µ¿ÀÏÇÑ °è¿­ÀÇ ¾Ë°í¸®ÁòµéÀ» °³º°ÀûÀ¸·Î Ä¸½¶È­ÇÏ¿© »óÈ£ ±³È¯ÇÒ ¼ö ÀÖ°Ô Á¤ÀÇÇÏ´Â ÆÐÅÏ.
+ ¨è Å¬¶óÀÌ¾ðÆ®´Â µ¶¸³ÀûÀ¸·Î ¿øÇÏ´Â ¾Ë°í¸®ÁòÀ» ¼±ÅÃÇÏ¿© »ç¿ëÇÒ ¼ö ÀÖÀ¸¸ç, Å¬¶óÀÌ¾ðÆ®¿¡ ¿µÇâ ¾øÀÌ ¾Ë°í¸®ÁòÀÇ º¯°æÀÌ °¡´ÉÇÔ.
 
 Answer 1 : Àü·«
 Answer 2 : Strategy
@@ -4882,10 +4535,8 @@ Answer 2 : Strategy
 
 No. 521	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÇàÀ§ ÆÐÅÏÀÇ ¿­ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- »óÀ§ Å¬·¡½º¿¡¼­ °ñ°ÝÀ» Á¤ÀÇÇÏ°í, ÇÏÀ§ Å¬·¡½º¿¡¼­ ¼¼ºÎ Ã³¸®¸¦ ±¸Ã¼È­ÇÏ´Â ±¸Á¶ÀÇ ÆÐÅÏ.
- 2.
- À¯»çÇÑ ¼­ºê Å¬·¡½º¸¦ ¹­¾î °øÅëµÈ ³»¿ëÀ» »óÀ§ Å¬·¡½º¿¡¼­ Á¤ÀÇÇÔÀ¸·Î½á ÄÚµåÀÇ ¾çÀ» ÁÙÀÌ°í À¯Áöº¸¼ö¸¦ ¿ëÀÌÇÏ°Ô ÇØÁÜ.
+ ¨ç »óÀ§ Å¬·¡½º¿¡¼­ °ñ°ÝÀ» Á¤ÀÇÇÏ°í, ÇÏÀ§ Å¬·¡½º¿¡¼­ ¼¼ºÎ Ã³¸®¸¦ ±¸Ã¼È­ÇÏ´Â ±¸Á¶ÀÇ ÆÐÅÏ.
+ ¨è À¯»çÇÑ ¼­ºê Å¬·¡½º¸¦ ¹­¾î °øÅëµÈ ³»¿ëÀ» »óÀ§ Å¬·¡½º¿¡¼­ Á¤ÀÇÇÔÀ¸·Î½á ÄÚµåÀÇ ¾çÀ» ÁÙÀÌ°í À¯Áöº¸¼ö¸¦ ¿ëÀÌÇÏ°Ô ÇØÁÜ.
 
 Answer 1 : ÅÛÇÃ¸´ ¸Þ¼Òµå
 Answer 2 : Template Method
@@ -4941,10 +4592,8 @@ Answer 1 : ¼­¹ö °³¹ß °úÁ¤
 
 No. 528	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ¼­¹ö °³¹ß ±¸ÇöÀÇ ´Ù¼¸ °¡Áö °úÁ¤ µÕ ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- µ¥ÀÌÅÍ ±³È¯À» À§ÇØ »ç¿ëÇÒ °´Ã¼¸¦ ¸¸µå´Â °úÁ¤.
- 2.
- ¼Û¡¤¼ö½ÅÇÒ µ¥ÀÌÅÍÀÇ ÀÚ·áÇü(Data Type)¿¡ ¸Â´Â º¯¼ö ¹× °´Ã¼¸¦ »ý¼ºÇÔ.
+ ¨ç µ¥ÀÌÅÍ ±³È¯À» À§ÇØ »ç¿ëÇÒ °´Ã¼¸¦ ¸¸µå´Â °úÁ¤.
+ ¨è ¼Û¡¤¼ö½ÅÇÒ µ¥ÀÌÅÍÀÇ ÀÚ·áÇü(Data Type)¿¡ ¸Â´Â º¯¼ö ¹× °´Ã¼¸¦ »ý¼ºÇÔ.
 
 Answer 1 : DTO/VO ±¸Çö
 Answer 2 : Data Transfer Object/Value Object ±¸Çö
@@ -4952,10 +4601,8 @@ Answer 2 : Data Transfer Object/Value Object ±¸Çö
 
 No. 529	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ¼­¹ö °³¹ß ±¸ÇöÀÇ ´Ù¼¸ °¡Áö °úÁ¤ µÕ ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- µ¥ÀÌÅÍÀÇ »ðÀÔ, º¯°æ, »èÁ¦ µîÀÇ ÀÛ¾÷À» ¼öÇàÇÒ SQL¹®À» »ý¼ºÇÏ´Â °úÁ¤.
- 2.
- SQL¹®Àº ¼Ò½º ÄÚµå ³»¿¡ Á÷Á¢ ÀÔ·Â, ¶Ç´Â º°µµÀÇ XML ÆÄÀÏ·Î °ü¸®ÇÔ.
+ ¨ç µ¥ÀÌÅÍÀÇ »ðÀÔ, º¯°æ, »èÁ¦ µîÀÇ ÀÛ¾÷À» ¼öÇàÇÒ SQL¹®À» »ý¼ºÇÏ´Â °úÁ¤.
+ ¨è SQL¹®Àº ¼Ò½º ÄÚµå ³»¿¡ Á÷Á¢ ÀÔ·Â, ¶Ç´Â º°µµÀÇ XML ÆÄÀÏ·Î °ü¸®ÇÔ.
 
 Answer 1 : SQL ±¸Çö
 
@@ -5020,10 +4667,8 @@ Answer 2 : ½Å·Ú¼º
 
 No. 538	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ¹èÄ¡ ÇÁ·Î±×·¥ÀÇ ´Ù¼¸ °¡Áö ÇÊ¼ö ¿ä¼Ò Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ´Ù¸¥ ÀÀ¿ë ÇÁ·Î±×·¥ÀÇ ¼öÇàÀ» ¹æÇØÇÏÁö ¾Ê¾Æ¾ß ÇÔ.
- 2.
- ÁöÁ¤µÈ ½Ã°£ ³»¿¡ Ã³¸®°¡ ¿Ï·áµÇ¾î¾ß ÇÔ.
+ ¨ç ´Ù¸¥ ÀÀ¿ë ÇÁ·Î±×·¥ÀÇ ¼öÇàÀ» ¹æÇØÇÏÁö ¾Ê¾Æ¾ß ÇÔ.
+ ¨è ÁöÁ¤µÈ ½Ã°£ ³»¿¡ Ã³¸®°¡ ¿Ï·áµÇ¾î¾ß ÇÔ.
 
 Answer 1 : ¼º´É
 
@@ -5038,10 +4683,8 @@ Answer 2 : Batch Scheduler
 
 No. 540	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ¹èÄ¡ ½ºÄÉÁÙ·¯ÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Spring Source »ç¿Í Accenture »ç°¡ 2007³â °øµ¿ °³¹ßÇÑ ¿ÀÇÂ ¼Ò½º ÇÁ·¹ÀÓ¿öÅ©.
- 2.
- ·Î±× °ü¸®, ÃßÀû, Æ®·£Àè¼Ç °ü¸®, ÀÛ¾÷ Ã³¸® Åë°è, ÀÛ¾÷ Àç½ÃÀÛ µîÀÇ ´Ù¾çÇÑ ±â´ÉÀ» Á¦°øÇÔ.
+ ¨ç Spring Source »ç¿Í Accenture »ç°¡ 2007³â °øµ¿ °³¹ßÇÑ ¿ÀÇÂ ¼Ò½º ÇÁ·¹ÀÓ¿öÅ©.
+ ¨è ·Î±× °ü¸®, ÃßÀû, Æ®·£Àè¼Ç °ü¸®, ÀÛ¾÷ Ã³¸® Åë°è, ÀÛ¾÷ Àç½ÃÀÛ µîÀÇ ´Ù¾çÇÑ ±â´ÉÀ» Á¦°øÇÔ.
 
 Answer 1 : ½ºÇÁ¸µ ¹èÄ¡
 Answer 2 : Spring Batch
@@ -5049,20 +4692,16 @@ Answer 2 : Spring Batch
 
 No. 541	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ¹èÄ¡ ½ºÄÉÁÙ·¯ÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ½ºÇÁ¸µ ÇÁ·¹ÀÓ¿öÅ©·Î °³¹ßµÇ´Â ÀÀ¿ë ÇÁ·Î±×·¥µéÀÇ ÀÏ°ý Ã³¸®¸¦ À§ÇÑ ´Ù¾çÇÑ ±â´ÉÀ» Á¦°øÇÏ´Â ¿ÀÇÂ ¼Ò½º ¶óÀÌºê·¯¸®.
- 2.
- ¼öÇàÇÒ ÀÛ¾÷°ú ¼öÇà ½Ã°£À» °ü¸®ÇÏ´Â ¿ä¼ÒµéÀ» ºÐ¸®ÇÏ¿© ÀÏ°ý Ã³¸® ÀÛ¾÷¿¡ À¯¿¬¼ºÀ» Á¦°øÇÔ.
+ ¨ç ½ºÇÁ¸µ ÇÁ·¹ÀÓ¿öÅ©·Î °³¹ßµÇ´Â ÀÀ¿ë ÇÁ·Î±×·¥µéÀÇ ÀÏ°ý Ã³¸®¸¦ À§ÇÑ ´Ù¾çÇÑ ±â´ÉÀ» Á¦°øÇÏ´Â ¿ÀÇÂ ¼Ò½º ¶óÀÌºê·¯¸®.
+ ¨è ¼öÇàÇÒ ÀÛ¾÷°ú ¼öÇà ½Ã°£À» °ü¸®ÇÏ´Â ¿ä¼ÒµéÀ» ºÐ¸®ÇÏ¿© ÀÏ°ý Ã³¸® ÀÛ¾÷¿¡ À¯¿¬¼ºÀ» Á¦°øÇÔ.
 
 Answer 1 : Quartz
 
 
 No. 542	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ¹èÄ¡ ½ºÄÉÁÙ·¯ÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¸®´ª½ºÀÇ ±âº» ½ºÄÉÁÙ·¯ µµ±¸.
- 2.
- crontab ¸í·É¾î¸¦ ÅëÇØ ÀÛ¾÷À» ¿¹¾àÇÒ ¼ö ÀÖÀ½.
+ ¨ç ¸®´ª½ºÀÇ ±âº» ½ºÄÉÁÙ·¯ µµ±¸.
+ ¨è crontab ¸í·É¾î¸¦ ÅëÇØ ÀÛ¾÷À» ¿¹¾àÇÒ ¼ö ÀÖÀ½.
 
 Answer 1 : Cron
 
@@ -5088,16 +4727,11 @@ Q : ¿ä±¸»çÇ×À» ºÐ·ùÇÏ°í ±¸Ã¼ÀûÀ¸·Î ¸í¼¼ÇÑ ÈÄ ÀÌ¸¦ ÀÌÇØ°ü°èÀÚ¿¡°Ô Àü´ÞÇÏ´Â ÀÏ·ÃÀÇ
  ¿ä±¸»çÇ× ºÐ¼® ½Ã ´©¶ôµÈ ¿ä±¸»çÇ×ÀÌ³ª Á¦ÇÑ Á¶°ÇÀ» Ãß°¡ÇÑ´Ù.
  ¿ä±¸»çÇ×¿¡ ´ëÇÑ »ó´ëÀû Áß¿äµµ¸¦ Æò°¡ÇÏ¿© ¿ì¼±¼øÀ§¸¦ ºÎ¿©ÇÑ´Ù.
  ¡Û¡Û¡Û ÀýÂ÷.
- 1.
- ½Ã½ºÅÛ ÀÎÅÍÆäÀÌ½º °ü·Ã ¿ä±¸»çÇ×À» ¼±º°ÇÏ¿© º°µµ·Î ¿ä±¸»çÇ× ¸ñ·ÏÀ» ¸¸µç´Ù.
- 2.
- ¿ä±¸»çÇ×°ú °ü·ÃµÈ ÀÚ·á¸¦ ÁØºñÇÑ´Ù.
- 3.
- ±â´ÉÀúÀÎ ¿ä±¸»çÇ×°ú ºñ±â´ÉÀûÀÎ ¿ä±¸»çÇ×À¸·Î ºÐ·ùÇÑ´Ù.
- 4.
- ¿ä±¸»çÇ×À» ºÐ¼®ÇÏ°í ¿ä±¸»çÇ× ¸í¼¼¼­¿¡ ³»¿ëÀ» Ãß°¡ÇÏ°Å³ª ¼öÁ¤ÇÑ´Ù.
- 5.
- Ãß°¡¡¤¼öÁ¤ÇÑ ¿ä±¸»çÇ× ¸í¼¼¼­¿Í ¿ä±¸»çÇ× ¸ñ·ÏÀ» °ü·Ã ÀÌÇØ°ü°èÀÚ¿¡°Ô Àü´ÞÇÑ´Ù.
+ ¨ç ½Ã½ºÅÛ ÀÎÅÍÆäÀÌ½º °ü·Ã ¿ä±¸»çÇ×À» ¼±º°ÇÏ¿© º°µµ·Î ¿ä±¸»çÇ× ¸ñ·ÏÀ» ¸¸µç´Ù.
+ ¨è ¿ä±¸»çÇ×°ú °ü·ÃµÈ ÀÚ·á¸¦ ÁØºñÇÑ´Ù.
+ ¨é ±â´ÉÀúÀÎ ¿ä±¸»çÇ×°ú ºñ±â´ÉÀûÀÎ ¿ä±¸»çÇ×À¸·Î ºÐ·ùÇÑ´Ù.
+ ¨ê¿ä±¸»çÇ×À» ºÐ¼®ÇÏ°í ¿ä±¸»çÇ× ¸í¼¼¼­¿¡ ³»¿ëÀ» Ãß°¡ÇÏ°Å³ª ¼öÁ¤ÇÑ´Ù.
+ ¨ë Ãß°¡¡¤¼öÁ¤ÇÑ ¿ä±¸»çÇ× ¸í¼¼¼­¿Í ¿ä±¸»çÇ× ¸ñ·ÏÀ» °ü·Ã ÀÌÇØ°ü°èÀÚ¿¡°Ô Àü´ÞÇÑ´Ù.
 
 Answer 1 : ½Ã½ºÅÛ ÀÎÅÍÆäÀÌ½º ¿ä±¸»çÇ× ºÐ¼®
 
@@ -5105,12 +4739,9 @@ Answer 1 : ½Ã½ºÅÛ ÀÎÅÍÆäÀÌ½º ¿ä±¸»çÇ× ºÐ¼®
 No. 545	 correct : 0,	 incorrect : 1
 Q : »ç¿ëÀÚµéÀÇ ¿ä±¸»çÇ×ÀÌ ¿ä±¸»çÇ× ¸í¼¼¼­¿¡ Á¤È®ÇÏ°í ¿ÏÀüÇÏ°Ô ±â¼úµÇ¾ú´ÂÁö °ËÅäÇÏ°í °³¹ß ¹üÀ§ÀÇ ±âÁØÀÎ º£ÀÌ½º¶óÀÎÀ» ¼³Á¤ÇÏ´Â °ÍÀº?
  ¡Û¡Û¡Û ¼öÇà ¼ø¼­.
- 1.
- ¿ä±¸»çÇ× °ËÅä °èÈ¹ ¼ö¸³ : °ËÅä ±âÁØ ¹× ¹æ¹ý, Âü¿©ÀÚ, Ã¼Å©¸®½ºÆ®, °ü·Ã ÀÚ·á, ÀÏÁ¤ µîÀÇ °ËÅä °èÈ¹ ¼ö¸³.
- 2.
- °ËÅä ¹× ¿À·ù ¼öÁ¤ : ÀÎÅÍÆäÀÌ½º ¿ä±¸»çÇ× ¸í¼¼¼­ °ËÅä ¹× ¿À·ù ¸ñ·Ï°ú ½ÃÁ¤ Á¶Ä¡¼­ ÀÛ¼º.
- 3.
- º£ÀÌ½º¶óÀÎ ¼³Á¤ : °ËÁõµÈ ÀÎÅÍÆäÀÌ½º ¿ä±¸»çÇ×À» ½ÂÀÎ¹ÞÀº ÈÄ ¿ä±¸»çÇ× ¸í¼¼¼­ÀÇ º£ÀÌ½º¶óÀÎ ¼³Á¤.
+ ¨ç ¿ä±¸»çÇ× °ËÅä °èÈ¹ ¼ö¸³ : °ËÅä ±âÁØ ¹× ¹æ¹ý, Âü¿©ÀÚ, Ã¼Å©¸®½ºÆ®, °ü·Ã ÀÚ·á, ÀÏÁ¤ µîÀÇ °ËÅä °èÈ¹ ¼ö¸³.
+ ¨è °ËÅä ¹× ¿À·ù ¼öÁ¤ : ÀÎÅÍÆäÀÌ½º ¿ä±¸»çÇ× ¸í¼¼¼­ °ËÅä ¹× ¿À·ù ¸ñ·Ï°ú ½ÃÁ¤ Á¶Ä¡¼­ ÀÛ¼º.
+ ¨é º£ÀÌ½º¶óÀÎ ¼³Á¤ : °ËÁõµÈ ÀÎÅÍÆäÀÌ½º ¿ä±¸»çÇ×À» ½ÂÀÎ¹ÞÀº ÈÄ ¿ä±¸»çÇ× ¸í¼¼¼­ÀÇ º£ÀÌ½º¶óÀÎ ¼³Á¤.
 
 Answer 1 : ÀÎÅÍÆäÀÌ½º ¿ä±¸»çÇ× °ËÁõ
 
@@ -5507,10 +5138,8 @@ Answer 2 : Universal Description, Discovery and Integration
 
 No. 595	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº À¥ ¼­ºñ½ºÀÇ ¼¼ °¡Áö ±¸¼º Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- À¥ ¼­ºñ½º¿Í °ü·ÃµÈ ¼­½ÄÀÌ³ª ÇÁ·ÎÅäÄÝ µîÀ» Ç¥ÁØÀûÀÎ ¹æ¹ýÀ¸·Î ±â¼úÇÏ°í °Ô½ÃÇÏ±â À§ÇÑ ¾ð¾î.
- 2.
- XML·Î ÀÛ¼ºµÇ¸ç, UDDIÀÇ ±âÃÊ°¡ µÊ.
+ ¨ç À¥ ¼­ºñ½º¿Í °ü·ÃµÈ ¼­½ÄÀÌ³ª ÇÁ·ÎÅäÄÝ µîÀ» Ç¥ÁØÀûÀÎ ¹æ¹ýÀ¸·Î ±â¼úÇÏ°í °Ô½ÃÇÏ±â À§ÇÑ ¾ð¾î.
+ ¨è XML·Î ÀÛ¼ºµÇ¸ç, UDDIÀÇ ±âÃÊ°¡ µÊ.
 
 Answer 1 : WSDL
 
@@ -5596,10 +5225,8 @@ Answer 1 : ÀÎÅÍÆäÀÌ½º º¸¾È
 
 No. 607	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ÀÎÅÍÆäÀÌ½º º¸¾È ±â´ÉÀ» Àû¿ëÇÏ´Â ¼¼ °¡Áö ¿µ¿ª Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÀÎÅÍÆäÀÌ½º ¼Û¡¤¼ö½Å °£ ½º´ÏÇÎ(Sniffing) µîÀ» ÀÌ¿ëÇÑ µ¥ÀÌÅÍ Å»Ãë ¹× º¯Á¶ À§ÇùÀ» ¹æÁöÇÏ±â À§ÇØ ³×Æ®¿öÅ© Æ®·¡ÇÈ¿¡ ´ëÇÑ ¾ÏÈ£È­¸¦ ¼³Á¤ÇÔ.
- 2.
- ÇÔÈ£È­´Â ÀÎÅÍÆäÀÌ½º ¾ÆÅ°ÅØÃ³¿¡ µû¶ó IPSec, SSL, S- HTTP µîÀÇ ´Ù¾çÇÑ ¹æ½ÄÀ¸·Î Àû¿ëÇÔ.
+ ¨ç ÀÎÅÍÆäÀÌ½º ¼Û¡¤¼ö½Å °£ ½º´ÏÇÎ(Sniffing) µîÀ» ÀÌ¿ëÇÑ µ¥ÀÌÅÍ Å»Ãë ¹× º¯Á¶ À§ÇùÀ» ¹æÁöÇÏ±â À§ÇØ ³×Æ®¿öÅ© Æ®·¡ÇÈ¿¡ ´ëÇÑ ¾ÏÈ£È­¸¦ ¼³Á¤ÇÔ.
+ ¨è ÇÔÈ£È­´Â ÀÎÅÍÆäÀÌ½º ¾ÆÅ°ÅØÃ³¿¡ µû¶ó IPSec, SSL, S- HTTP µîÀÇ ´Ù¾çÇÑ ¹æ½ÄÀ¸·Î Àû¿ëÇÔ.
 
 Answer 1 : ³×Æ®¿öÅ© ¿µ¿ª
 
@@ -5613,10 +5240,8 @@ Answer 1 : ¾ÖÇÃ¸®ÄÉÀÌ¼Ç ¿µ¿ª
 
 No. 609	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ÀÎÅÍÆäÀÌ½º º¸¾È ±â´ÉÀ» Àû¿ëÇÏ´Â ¼¼ °¡Áö ¿µ¿ª Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- µ¥ÀÌÅÍº£ÀÌ½º , ½ºÅ°¸¶, ¿£Æ¼Æ¼ÀÇ Á¢±Ù ±ÇÇÑ°ú ÇÁ·Î½ÃÀú(Procedure), Æ®¸®°Å(Trigger) µî µ¥ÀÌÅÍº£ÀÌ½º µ¿ÀÛ °´Ã¼ÀÇ º¸¾È Ãë¾àÁ¡¿¡ º¸¾È ±â´ÉÀ» Àû¿ëÇÔ.
- 2.
- °³ÀÎ Á¤º¸³ª ¾÷¹«»ó ¹Î°¨ÇÑ µ¥ÀÌÅÍÀÇ °æ¿ì ¾ÏÈ£È­³ª ÀÍ¸íÈ­ µî µ¥ÀÌÅÍ ÀÚÃ¼ÀÇ º¸¾È ¹æ¾Èµµ °í·ÁÇÔ.
+ ¨ç µ¥ÀÌÅÍº£ÀÌ½º , ½ºÅ°¸¶, ¿£Æ¼Æ¼ÀÇ Á¢±Ù ±ÇÇÑ°ú ÇÁ·Î½ÃÀú(Procedure), Æ®¸®°Å(Trigger) µî µ¥ÀÌÅÍº£ÀÌ½º µ¿ÀÛ °´Ã¼ÀÇ º¸¾È Ãë¾àÁ¡¿¡ º¸¾È ±â´ÉÀ» Àû¿ëÇÔ.
+ ¨è °³ÀÎ Á¤º¸³ª ¾÷¹«»ó ¹Î°¨ÇÑ µ¥ÀÌÅÍÀÇ °æ¿ì ¾ÏÈ£È­³ª ÀÍ¸íÈ­ µî µ¥ÀÌÅÍ ÀÚÃ¼ÀÇ º¸¾È ¹æ¾Èµµ °í·ÁÇÔ.
 
 Answer 1 : µ¥ÀÌÅÍº£ÀÌ½º ¿µ¿ª
 
@@ -5644,22 +5269,17 @@ Answer 1 : ÅëÇÕ Å×½ºÆ®
 
 No. 613	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ÅëÇÕ Å×½ºÆ®¸¦ ¼öÇàÇÏ±â À§ÇØ »ç¿ëÇÏ´Â Å×½ºÆ® ÀÚµ¿È­ µµ±¸ÀÇ ¿©¼¸ °¡Áö µµ±¸ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °°Àº Å×½ºÆ® ÄÚµå¸¦ ¿©·¯ ¹ø ÀÛ¼ºÇÏÁö ¾Ê°Ô µµ¿ÍÁÖ°í, Å×½ºÆ®¸¶´Ù ¿¹»ó °á°ú¸¦ ±â¾ïÇÒ ÇÊ¿ä°¡ ¾ø°Ô ÇÏ´Â ÀÚµ¿È­µÈ ÇØ¹ýÀ» Á¦°øÇÏ´Â ´ÜÀ§ Å×½ºÆ® ÇÁ·¹ÀÓ¿öÅ©.
- 2.
- Smalltalk¿¡ Ã³À½ Àû¿ëµÇ¾î SUnitÀÌ¶ó´Â ÀÌ¸§ÀÌ¾úÀ¸³ª Java¿ëÀÇ JUnit, C++¿ëÀÇ CppUnit, ´åNET¿ëÀÇ NUnit, Http¿ëÀÇ HttpUnit µî ´Ù¾çÇÑ ¾ð¾î¿¡ Àû¿ëµÇ¸é¼­ ¡Û¡Û¡ÛÀ¸·Î ÅëÄªµÇ°í ÀÖÀ½.
+ ¨ç °°Àº Å×½ºÆ® ÄÚµå¸¦ ¿©·¯ ¹ø ÀÛ¼ºÇÏÁö ¾Ê°Ô µµ¿ÍÁÖ°í, Å×½ºÆ®¸¶´Ù ¿¹»ó °á°ú¸¦ ±â¾ïÇÒ ÇÊ¿ä°¡ ¾ø°Ô ÇÏ´Â ÀÚµ¿È­µÈ ÇØ¹ýÀ» Á¦°øÇÏ´Â ´ÜÀ§ Å×½ºÆ® ÇÁ·¹ÀÓ¿öÅ©.
+ ¨è Smalltalk¿¡ Ã³À½ Àû¿ëµÇ¾î SUnitÀÌ¶ó´Â ÀÌ¸§ÀÌ¾úÀ¸³ª Java¿ëÀÇ JUnit, C++¿ëÀÇ CppUnit, ´åNET¿ëÀÇ NUnit, Http¿ëÀÇ HttpUnit µî ´Ù¾çÇÑ ¾ð¾î¿¡ Àû¿ëµÇ¸é¼­ ¡Û¡Û¡ÛÀ¸·Î ÅëÄªµÇ°í ÀÖÀ½.
 
 Answer 1 : xUnit
 
 
 No. 614	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÅëÇÕ Å×½ºÆ®¸¦ ¼öÇàÇÏ±â À§ÇØ »ç¿ëÇÏ´Â Å×½ºÆ® ÀÚµ¿È­ µµ±¸ÀÇ ¿©¼¸ °¡Áö µµ±¸ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¼­ºñ½º È£Ãâ ¹× ÄÄÆ÷³ÍÆ® Àç»ç¿ë µî ´Ù¾çÇÑ È¯°æÀ» Áö¿øÇÏ´Â Å×½ºÆ® ÇÁ·¹ÀÓ¿öÅ©.
- 2.
- Å©·Î½º ÇÃ·§ÆûÀÌ³ª ºÐ»è ¼ÒÇÁÆ®¿þ¾î¿¡¼­ Å×½ºÆ® È¯°æÀ» Á¶¼ºÇÒ ¼ö ÀÖµµ·Ï Áö¿øÇÔ.
- 3.
- ºÐ»ê ¼ÒÇÁÆ®¿þ¾îÀÇ °æ¿ì °¢ ºÐ»ê È¯°æ¿¡ ¼³Ä¡µÈ µ¥¸óÀÌ ÇÁ·Î±×·¥ Å×½ºÆ®¿¡ ´ëÇÑ ÀÀ´äÀ» ´ë½ÅÇÏ¸ç, Å×½ºÆ®°¡ ¿Ï·áµÇ¸é ÀÌ¸¦ ÅëÇÕÇÏ°í ÀÚµ¿È­ÇÏ¿© ÇÁ·Î±×·¥À» ¿Ï¼ºÇÔ.
+ ¨ç ¼­ºñ½º È£Ãâ ¹× ÄÄÆ÷³ÍÆ® Àç»ç¿ë µî ´Ù¾çÇÑ È¯°æÀ» Áö¿øÇÏ´Â Å×½ºÆ® ÇÁ·¹ÀÓ¿öÅ©.
+ ¨è Å©·Î½º ÇÃ·§ÆûÀÌ³ª ºÐ»è ¼ÒÇÁÆ®¿þ¾î¿¡¼­ Å×½ºÆ® È¯°æÀ» Á¶¼ºÇÒ ¼ö ÀÖµµ·Ï Áö¿øÇÔ.
+ ¨é ºÐ»ê ¼ÒÇÁÆ®¿þ¾îÀÇ °æ¿ì °¢ ºÐ»ê È¯°æ¿¡ ¼³Ä¡µÈ µ¥¸óÀÌ ÇÁ·Î±×·¥ Å×½ºÆ®¿¡ ´ëÇÑ ÀÀ´äÀ» ´ë½ÅÇÏ¸ç, Å×½ºÆ®°¡ ¿Ï·áµÇ¸é ÀÌ¸¦ ÅëÇÕÇÏ°í ÀÚµ¿È­ÇÏ¿© ÇÁ·Î±×·¥À» ¿Ï¼ºÇÔ.
 
 Answer 1 : STAF
 
@@ -5829,20 +5449,16 @@ Answer 2 : Prototype
 
 No. 635	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ÇÁ·ÎÅäÅ¸ÀÔÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ½ºÄÉÄ¡, ±×¸², ±Û µîÀ» ÀÌ¿ëÇÏ¿© ¼ÕÀ¸·Î Á÷Á¢ ÀÛ¼ºÇÏ´Â ¾Æ³¯·Î±×ÀûÀÎ ¹æ¹ý.
- 2.
- Á¦ÀÛ ±â°£ÀÌ ÂªÀº °æ¿ì, Á¦ÀÛ ºñ¿ëÀÌ ÀûÀ» °æ¿ì, ¾÷¹« ÇùÀÇ°¡ ºü¸¦ °æ¿ì »ç¿ëÇÔ.
+ ¨ç ½ºÄÉÄ¡, ±×¸², ±Û µîÀ» ÀÌ¿ëÇÏ¿© ¼ÕÀ¸·Î Á÷Á¢ ÀÛ¼ºÇÏ´Â ¾Æ³¯·Î±×ÀûÀÎ ¹æ¹ý.
+ ¨è Á¦ÀÛ ±â°£ÀÌ ÂªÀº °æ¿ì, Á¦ÀÛ ºñ¿ëÀÌ ÀûÀ» °æ¿ì, ¾÷¹« ÇùÀÇ°¡ ºü¸¦ °æ¿ì »ç¿ëÇÔ.
 
 Answer 1 : ÆäÀÌÆÛ ÇÁ·ÎÅäÅ¸ÀÔ
 
 
 No. 636	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ÇÁ·ÎÅäÅ¸ÀÔÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÆÄ¿öÆ÷ÀÎÆ®, ¾ÆÅ©·Î¹î, ºñÁö¿À, ¿È´Ï±×·¡ÇÃ µî°ú °°Àº ÇÁ·Î±×·¥À» »ç¿ëÇÏ¿© ÀÛ¼ºÇÏ´Â ¹æ¹ý.
- 2.
- Àç»ç¿ëÀÌ ÇÊ¿äÇÑ °æ¿ì, »êÃâ¹°°ú ºñ½ÁÇÑ È¿°ú°¡ ÇÊ¿äÇÑ °æ¿ì, ¼÷·ÃµÈ Àü¹®°¡°¡ ÀÖÀ» °æ¿ì »ç¿ëÇÔ.
+ ¨ç ÆÄ¿öÆ÷ÀÎÆ®, ¾ÆÅ©·Î¹î, ºñÁö¿À, ¿È´Ï±×·¡ÇÃ µî°ú °°Àº ÇÁ·Î±×·¥À» »ç¿ëÇÏ¿© ÀÛ¼ºÇÏ´Â ¹æ¹ý.
+ ¨è Àç»ç¿ëÀÌ ÇÊ¿äÇÑ °æ¿ì, »êÃâ¹°°ú ºñ½ÁÇÑ È¿°ú°¡ ÇÊ¿äÇÑ °æ¿ì, ¼÷·ÃµÈ Àü¹®°¡°¡ ÀÖÀ» °æ¿ì »ç¿ëÇÔ.
 
 Answer 1 : µðÁöÅÐ ÇÁ·ÎÅäÅ¸ÀÔ
 
@@ -5859,10 +5475,8 @@ Answer 2 : Use Case
 
 No. 638	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ISO/IEC 9126ÀÇ ¼ÒÇÁÆ®¿þ¾î Ç°Áú Æ¯¼ºÀÇ ¿©¼¸ °¡Áö Æ¯¼º Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¼ÒÇÁÆ®¿þ¾î°¡ »ç¿ëÀÚÀÇ ¿ä±¸»çÇ×À» Á¤È®ÇÏ°Ô ¸¸Á·ÇÏ´Â ±â´ÉÀ» Á¦°øÇÏ´ÂÁö ¿©ºÎ¸¦ ³ªÅ¸³¿.
- 2.
- ÇÏÀ§ Æ¯¼º : ÀûÀý¼º/ÀûÇÕ¼º, Á¤¹Ð¼º/Á¤È®¼º, »óÈ£ ¿î¿ë¼º, º¸¾È¼º, ÁØ¼ö¼º.
+ ¨ç ¼ÒÇÁÆ®¿þ¾î°¡ »ç¿ëÀÚÀÇ ¿ä±¸»çÇ×À» Á¤È®ÇÏ°Ô ¸¸Á·ÇÏ´Â ±â´ÉÀ» Á¦°øÇÏ´ÂÁö ¿©ºÎ¸¦ ³ªÅ¸³¿.
+ ¨è ÇÏÀ§ Æ¯¼º : ÀûÀý¼º/ÀûÇÕ¼º, Á¤¹Ð¼º/Á¤È®¼º, »óÈ£ ¿î¿ë¼º, º¸¾È¼º, ÁØ¼ö¼º.
 
 Answer 1 : ±â´É¼º
 Answer 2 : Functionality
@@ -5870,10 +5484,8 @@ Answer 2 : Functionality
 
 No. 639	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ISO/IEC 9126ÀÇ ¼ÒÇÁÆ®¿þ¾î Ç°Áú Æ¯¼ºÀÇ ¿©¼¸ °¡Áö Æ¯¼º Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÁÖ¾îÁø ½Ã°£µ¿¾È ÁÖ¾îÁø ±â´ÉÀ» ¿À·ù ¾øÀÌ ¼öÇàÇÒ ¼ö ÀÖ´Â Á¤µµ¸¦ ³ªÅ¸³¿.
- 2.
- ÇÏÀ§ Æ¯¼º : ¼º¼÷¼º, °íÀå Çã¿ë¼º, È¸º¹¼º.
+ ¨ç ÁÖ¾îÁø ½Ã°£µ¿¾È ÁÖ¾îÁø ±â´ÉÀ» ¿À·ù ¾øÀÌ ¼öÇàÇÒ ¼ö ÀÖ´Â Á¤µµ¸¦ ³ªÅ¸³¿.
+ ¨è ÇÏÀ§ Æ¯¼º : ¼º¼÷¼º, °íÀå Çã¿ë¼º, È¸º¹¼º.
 
 Answer 1 : ½Å·Ú¼º
 Answer 2 : Reliability
@@ -5881,10 +5493,8 @@ Answer 2 : Reliability
 
 No. 640	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ISO/IEC 9126ÀÇ ¼ÒÇÁÆ®¿þ¾î Ç°Áú Æ¯¼ºÀÇ ¿©¼¸ °¡Áö Æ¯¼º Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- »ç¿ëÀÚ¿Í ÄÄÇ»ÅÍ »çÀÌ¿¡ ¹ß»ýÇÏ´Â ¾î¶°ÇÑ ÇàÀ§¿¡ ´ëÇÏ¿©  »ç¿ëÀÚ°¡ Á¤È®ÇÏ°Ô ÀÌÇØÇÏ°í »ç¿ëÇÏ¸ç, ÇâÈÄ ´Ù½Ã »ç¿ëÇÏ°í ½ÍÀº Á¤µµ¸¦ ³ªÅ¸³¿.
- 2.
- ÇÏÀ§ Æ¯¼º : ÀÌÇØ¼º, ÇÐ½À¼º, ¿î¿ë¼º, Ä£¹Ð¼º.
+ ¨ç »ç¿ëÀÚ¿Í ÄÄÇ»ÅÍ »çÀÌ¿¡ ¹ß»ýÇÏ´Â ¾î¶°ÇÑ ÇàÀ§¿¡ ´ëÇÏ¿©  »ç¿ëÀÚ°¡ Á¤È®ÇÏ°Ô ÀÌÇØÇÏ°í »ç¿ëÇÏ¸ç, ÇâÈÄ ´Ù½Ã »ç¿ëÇÏ°í ½ÍÀº Á¤µµ¸¦ ³ªÅ¸³¿.
+ ¨è ÇÏÀ§ Æ¯¼º : ÀÌÇØ¼º, ÇÐ½À¼º, ¿î¿ë¼º, Ä£¹Ð¼º.
 
 Answer 1 : »ç¿ë¼º
 Answer 2 : Usability
@@ -5892,10 +5502,8 @@ Answer 2 : Usability
 
 No. 641	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ISO/IEC 9126ÀÇ ¼ÒÇÁÆ®¿þ¾î Ç°Áú Æ¯¼ºÀÇ ¿©¼¸ °¡Áö Æ¯¼º Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- »ç¿ëÀÚ°¡ ¿ä±¸ÇÏ´Â ±â´ÉÀ» ¾ó¸¶³ª ºü¸£°Ô Ã³¸®ÇÒ ¼ö ÀÖ´ÂÁö Á¤µµ¸¦ ³ªÅ¸³¿.
- 2.
- ÇÏÀ§ Æ¯¼º : ½Ã°£ ¡Û¡Û¡Û, ÀÚ¿ø ¡Û¡Û¡Û.
+ ¨ç »ç¿ëÀÚ°¡ ¿ä±¸ÇÏ´Â ±â´ÉÀ» ¾ó¸¶³ª ºü¸£°Ô Ã³¸®ÇÒ ¼ö ÀÖ´ÂÁö Á¤µµ¸¦ ³ªÅ¸³¿.
+ ¨è ÇÏÀ§ Æ¯¼º : ½Ã°£ ¡Û¡Û¡Û, ÀÚ¿ø ¡Û¡Û¡Û.
 
 Answer 1 : È¿À²¼º
 Answer 2 : Efficiency
@@ -5903,10 +5511,8 @@ Answer 2 : Efficiency
 
 No. 642	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ISO/IEC 9126ÀÇ ¼ÒÇÁÆ®¿þ¾î Ç°Áú Æ¯¼ºÀÇ ¿©¼¸ °¡Áö Æ¯¼º Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- È¯°æÀÇ º¯È­ ¶Ç´Â »õ·Î¿î ¿ä±¸»çÇ×ÀÌ ¹ß»ýÇßÀ» ¶§ ¼ÒÇÁÆ®¿þ¾î¸¦ °³¼±ÇÏ°Å³ª È®ÀåÇÒ ¼ö ÀÖ´Â Á¤µµ¸¦ ³ªÅ¸³¿.
- 2.
- ÇÏÀ§ Æ¯¼º : ºÐ¼®¼º, º¯°æ¼º, ¾ÈÁ¤¼º, ½ÃÇè¼º.
+ ¨ç È¯°æÀÇ º¯È­ ¶Ç´Â »õ·Î¿î ¿ä±¸»çÇ×ÀÌ ¹ß»ýÇßÀ» ¶§ ¼ÒÇÁÆ®¿þ¾î¸¦ °³¼±ÇÏ°Å³ª È®ÀåÇÒ ¼ö ÀÖ´Â Á¤µµ¸¦ ³ªÅ¸³¿.
+ ¨è ÇÏÀ§ Æ¯¼º : ºÐ¼®¼º, º¯°æ¼º, ¾ÈÁ¤¼º, ½ÃÇè¼º.
 
 Answer 1 : À¯Áö º¸¼ö¼º
 Answer 2 : Maintainability
@@ -5914,10 +5520,8 @@ Answer 2 : Maintainability
 
 No. 643	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ISO/IEC 9126ÀÇ ¼ÒÇÁÆ®¿þ¾î Ç°Áú Æ¯¼ºÀÇ ¿©¼¸ °¡Áö Æ¯¼º Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¼ÒÇÁÆ®¿þ¾î°¡ ´Ù¸¥ È¯°æ¿¡¼­µµ ¾ó¸¶³ª ½±°Ô Àû¿ëÇÒ ¼ö ÀÖ´ÂÁö Á¤µµ¸¦ ³ªÅ¸³¿.
- 2.
- ÇÏÀ§ Æ¯¼º : Àû¿ë¼º, ¼³Ä¡¼º, ´ëÃ¼¼º, °øÁ¸¼º.
+ ¨ç ¼ÒÇÁÆ®¿þ¾î°¡ ´Ù¸¥ È¯°æ¿¡¼­µµ ¾ó¸¶³ª ½±°Ô Àû¿ëÇÒ ¼ö ÀÖ´ÂÁö Á¤µµ¸¦ ³ªÅ¸³¿.
+ ¨è ÇÏÀ§ Æ¯¼º : Àû¿ë¼º, ¼³Ä¡¼º, ´ëÃ¼¼º, °øÁ¸¼º.
 
 Answer 1 : ÀÌ½Ä¼º
 Answer 2 : Portability
@@ -6119,66 +5723,51 @@ Answer 1 : Å×½ºÆ®ÀÇ º°µµ ÆÀ ¼öÇà
 
 No. 669	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ÇÁ·Î±×·¥ ½ÇÇà ¿©ºÎ¿¡ µû¸¥ Å×½ºÆ®ÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÁ·Î±×·¥À» ½ÇÇàÇÏÁö ¾Ê°í ¸í¼¼¼­³ª ¼Ò½º ÄÚµå¸¦ ´ë»óÀ¸·Î ºÐ¼®ÇÏ´Â Å×½ºÆ®.
- 2.
- ¼Ò½º ÄÚµå¿¡ ´ëÇÑ ÄÚµù Ç¥ÁØ, ÄÚµù ½ºÅ¸ÀÏ, ÄÚµå º¹Àâµµ, ³²Àº °áÇÔ µîÀ» ¹ß°ßÇÏ±â À§ÇØ »ç¿ëÇÔ.
- 3.
- Á¾·ù : ¿öÅ©½º·ç, ÀÎ½ºÆå¼Ç, ÄÚµå °Ë»ç µî.
+ ¨ç ÇÁ·Î±×·¥À» ½ÇÇàÇÏÁö ¾Ê°í ¸í¼¼¼­³ª ¼Ò½º ÄÚµå¸¦ ´ë»óÀ¸·Î ºÐ¼®ÇÏ´Â Å×½ºÆ®.
+ ¨è ¼Ò½º ÄÚµå¿¡ ´ëÇÑ ÄÚµù Ç¥ÁØ, ÄÚµù ½ºÅ¸ÀÏ, ÄÚµå º¹Àâµµ, ³²Àº °áÇÔ µîÀ» ¹ß°ßÇÏ±â À§ÇØ »ç¿ëÇÔ.
+ ¨é Á¾·ù : ¿öÅ©½º·ç, ÀÎ½ºÆå¼Ç, ÄÚµå °Ë»ç µî.
 
 Answer 1 : Á¤Àû Å×½ºÆ®
 
 
 No. 670	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ÇÁ·Î±×·¥ ½ÇÇà ¿©ºÎ¿¡ µû¸¥ Å×½ºÆ®ÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÁ·Î±×·¥À» ½ÇÇàÇÏ¿© ¿À·ù¸¦ Ã£´Â Å×½ºÆ®.
- 2.
- ¼ÒÇÁÆ®¿þ¾î °³¹ßÀÇ ¸ðµç ´Ü°è¿¡¼­ Å×½ºÆ®¸¦ ¼öÇàÇÔ.
- 3.
- Á¾·ù : ºí·¢¹Ú½º Å×½ºÆ®, È­ÀÌÆ®¹Ú½º Å×½ºÆ®.
+ ¨ç ÇÁ·Î±×·¥À» ½ÇÇàÇÏ¿© ¿À·ù¸¦ Ã£´Â Å×½ºÆ®.
+ ¨è ¼ÒÇÁÆ®¿þ¾î °³¹ßÀÇ ¸ðµç ´Ü°è¿¡¼­ Å×½ºÆ®¸¦ ¼öÇàÇÔ.
+ ¨é Á¾·ù : ºí·¢¹Ú½º Å×½ºÆ®, È­ÀÌÆ®¹Ú½º Å×½ºÆ®.
 
 Answer 1 : µ¿Àû Å×½ºÆ®
 
 
 No. 671	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº Å×½ºÆ® ±â¹Ý(Test Bases)¿¡ µû¸¥ Å×½ºÆ®ÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- »ç¿ëÀÚÀÇ ¿ä±¸»çÇ×¿¡ ´ëÇÑ ¸í¼¼¸¦ ºüÁü¾øÀÌ Å×½ºÆ® ÄÉÀÌ½º·Î ¸¸µé¾î ±¸ÇöÇÏ°í ÀÖ´ÂÁö È®ÀÎÇÏ´Â Å×½ºÆ®.
- 2.
- Á¾·ù : µ¿µî ºÐÇÒ, °æ°è °ª ºÐ¼® µî.
+ ¨ç »ç¿ëÀÚÀÇ ¿ä±¸»çÇ×¿¡ ´ëÇÑ ¸í¼¼¸¦ ºüÁü¾øÀÌ Å×½ºÆ® ÄÉÀÌ½º·Î ¸¸µé¾î ±¸ÇöÇÏ°í ÀÖ´ÂÁö È®ÀÎÇÏ´Â Å×½ºÆ®.
+ ¨è Á¾·ù : µ¿µî ºÐÇÒ, °æ°è °ª ºÐ¼® µî.
 
 Answer 1 : ¸í¼¼ ±â¹Ý Å×½ºÆ®
 
 
 No. 672	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº Å×½ºÆ® ±â¹Ý(Test Bases)¿¡ µû¸¥ Å×½ºÆ®ÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¼ÒÇÁÆ®¿þ¾î ³»ºÎÀÇ ³í¸® Èå¸§¿¡ µû¶ó Å×½ºÆ® ÄÉÀÌ½º¸¦ ÀÛ¼ºÇÏ°í È®ÀÎÇÏ´Â Å×½ºÆ®.
- 2.
- Á¾·ù : ±¸¹® ±â¹Ý, °áÁ¤ ±â¹Ý, Á¶°Ç ±â¹Ý µî.
+ ¨ç ¼ÒÇÁÆ®¿þ¾î ³»ºÎÀÇ ³í¸® Èå¸§¿¡ µû¶ó Å×½ºÆ® ÄÉÀÌ½º¸¦ ÀÛ¼ºÇÏ°í È®ÀÎÇÏ´Â Å×½ºÆ®.
+ ¨è Á¾·ù : ±¸¹® ±â¹Ý, °áÁ¤ ±â¹Ý, Á¶°Ç ±â¹Ý µî.
 
 Answer 1 : ±¸Á¶ ±â¹Ý Å×½ºÆ®
 
 
 No. 673	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº Å×½ºÆ® ±â¹Ý(Test Bases)¿¡ µû¸¥ Å×½ºÆ®ÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- À¯»ç ¼ÒÇÁÆ®¿þ¾î³ª ±â¼ú µî¿¡ ´ëÇÑ Å×½ºÅÍÀÇ °æÇèÀ» ±â¹ÝÀ¸·Î ¼öÇàÇÏ´Â Å×½ºÆ®.
- 2.
- »ç¿ëÀÚÀÇ ¿ä±¸»çÇ×¿¡ ´ëÇÑ ¸í¼¼°¡ ºÒÃæºÐÇÏ°Å³ª Å×½ºÆ® ½Ã°£¿¡ Á¦¾àÀÌ ÀÖ´Â °æ¿ì ¼öÇàÇÏ¸é È¿°úÀûÀÓ.
- 3.
- Á¾·ù : ¿¡·¯ ÃßÁ¤, Ã¼Å© ¸®½ºÆ®, Å½»öÀû Å×½ºÆÃ.
+ ¨ç À¯»ç ¼ÒÇÁÆ®¿þ¾î³ª ±â¼ú µî¿¡ ´ëÇÑ Å×½ºÅÍÀÇ °æÇèÀ» ±â¹ÝÀ¸·Î ¼öÇàÇÏ´Â Å×½ºÆ®.
+ ¨è »ç¿ëÀÚÀÇ ¿ä±¸»çÇ×¿¡ ´ëÇÑ ¸í¼¼°¡ ºÒÃæºÐÇÏ°Å³ª Å×½ºÆ® ½Ã°£¿¡ Á¦¾àÀÌ ÀÖ´Â °æ¿ì ¼öÇàÇÏ¸é È¿°úÀûÀÓ.
+ ¨é Á¾·ù : ¿¡·¯ ÃßÁ¤, Ã¼Å© ¸®½ºÆ®, Å½»öÀû Å×½ºÆÃ.
 
 Answer 1 : °æÇè ±â¹Ý Å×½ºÆ®
 
 
 No. 674	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ½Ã°¢¿¡ µû¸¥ Å×½ºÆ®ÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °³¹ßÀÚÀÇ ½Ã°¢¿¡¼­ Á¦Ç°ÀÇ »ý»ê °úÁ¤À» Å×½ºÆ®ÇÏ´Â °Í.
- 2.
- Á¦Ç°ÀÌ ¸í¼¼¼­´ë·Î ¿Ï¼ºµÆ´ÂÁö¸¦ Å×½ºÆ®ÇÔ.
+ ¨ç °³¹ßÀÚÀÇ ½Ã°¢¿¡¼­ Á¦Ç°ÀÇ »ý»ê °úÁ¤À» Å×½ºÆ®ÇÏ´Â °Í.
+ ¨è Á¦Ç°ÀÌ ¸í¼¼¼­´ë·Î ¿Ï¼ºµÆ´ÂÁö¸¦ Å×½ºÆ®ÇÔ.
  
 Answer 1 : °ËÁõ Å×½ºÆ®
 Answer 2 : Verification Test
@@ -6186,10 +5775,8 @@ Answer 2 : Verification Test
 
 No. 675	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ½Ã°¢¿¡ µû¸¥ Å×½ºÆ®ÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- »ç¿ëÀÚÀÇ ½Ã°¢¿¡¼­ »ý»êµÈ Á¦Ç°ÀÇ °á°ú¸¦ Å×½ºÆ®ÇÏ´Â °Í.
- 2.
- »ç¿ëÀÚ°¡ ¿ä±¸ÇÑ´ë·Î Á¦Ç°ÀÌ ¿Ï¼ºµÆ´ÂÁö, Á¦Ç°ÀÌ Á¤»óÀûÀ¸·Î µ¿ÀÛÇÏ´ÂÁö¸¦ Å×½ºÆ®ÇÔ.
+ ¨ç »ç¿ëÀÚÀÇ ½Ã°¢¿¡¼­ »ý»êµÈ Á¦Ç°ÀÇ °á°ú¸¦ Å×½ºÆ®ÇÏ´Â °Í.
+ ¨è »ç¿ëÀÚ°¡ ¿ä±¸ÇÑ´ë·Î Á¦Ç°ÀÌ ¿Ï¼ºµÆ´ÂÁö, Á¦Ç°ÀÌ Á¤»óÀûÀ¸·Î µ¿ÀÛÇÏ´ÂÁö¸¦ Å×½ºÆ®ÇÔ.
 
 Answer 1 : È®ÀÎ Å×½ºÆ®
 Answer 2 : Validation Test
@@ -6262,10 +5849,8 @@ Answer 2 : White Box Test
 
 No. 684	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº È­ÀÌÆ®¹Ú½º Å×½ºÆ®ÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Å×½ºÆ® ÄÉÀÌ½º ¼³°èÀÚ°¡ ÀýÂ÷Àû ¼³°èÀÇ ³í¸®Àû º¹Àâ¼ºÀ» ÃøÁ¤ÇÒ ¼ö ÀÖ°Ô ÇØÁÖ´Â Å×½ºÆ® ±â¹ý.
- 2.
- ´ëÇ¥ÀûÀÎ È­ÀÌÆ®¹Ú½º Å×½ºÆ® ±â¹ýÀÓ.
+ ¨ç Å×½ºÆ® ÄÉÀÌ½º ¼³°èÀÚ°¡ ÀýÂ÷Àû ¼³°èÀÇ ³í¸®Àû º¹Àâ¼ºÀ» ÃøÁ¤ÇÒ ¼ö ÀÖ°Ô ÇØÁÖ´Â Å×½ºÆ® ±â¹ý.
+ ¨è ´ëÇ¥ÀûÀÎ È­ÀÌÆ®¹Ú½º Å×½ºÆ® ±â¹ýÀÓ.
 
 Answer 1 : ±âÃÊ °æ·Î °Ë»ç
 Answer 2 : Base Path Testing
@@ -6273,12 +5858,9 @@ Answer 2 : Base Path Testing
 
 No. 685	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº È­ÀÌÆ®¹Ú½º Å×½ºÆ®ÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Á¶°Ç °Ë»ç(Condition Testing) : ÇÁ·Î±×·¥ ¸ðµâ ³»¿¡ ÀÖ´Â ³í¸®Àû Á¶°ÇÀ» Å×½ºÆ®ÇÏ´Â Å×½ºÆ® ÄÉÀÌ½º ¼³°è ±â¹ý.
- 2.
- ·çÇÁ °Ë»ç(Loop Testing) : ÇÁ·Î±×·¥ÀÇ ¹Ýº¹(Loop) ±¸Á¶¿¡ ÃÊÁ¡À» ¸ÂÃç ½Ç½ÃÇÏ´Â Å×½ºÆ® ÄÉÀÌ½º ¼³°è ±â¹ý.
- 3.
- µ¥ÀÌÅÍ Èå¸§ °Ë»ç(Data Flow Testing) : ÇÁ·Î±×·¥¿¡¼­ º¯¼öÀÇ Á¤ÀÇ¿Í º¯¼ö »ç¿ëÀÇ À§Ä¡¿¡ ÃÊÁ¡À» ¸ÂÃç ½Ç½ÃÇÏ´Â Å×½ºÆ® ÄÉÀÌ½º ¼³°è ±â¹ý.
+ ¨ç Á¶°Ç °Ë»ç(Condition Testing) : ÇÁ·Î±×·¥ ¸ðµâ ³»¿¡ ÀÖ´Â ³í¸®Àû Á¶°ÇÀ» Å×½ºÆ®ÇÏ´Â Å×½ºÆ® ÄÉÀÌ½º ¼³°è ±â¹ý.
+ ¨è ·çÇÁ °Ë»ç(Loop Testing) : ÇÁ·Î±×·¥ÀÇ ¹Ýº¹(Loop) ±¸Á¶¿¡ ÃÊÁ¡À» ¸ÂÃç ½Ç½ÃÇÏ´Â Å×½ºÆ® ÄÉÀÌ½º ¼³°è ±â¹ý.
+ ¨é µ¥ÀÌÅÍ Èå¸§ °Ë»ç(Data Flow Testing) : ÇÁ·Î±×·¥¿¡¼­ º¯¼öÀÇ Á¤ÀÇ¿Í º¯¼ö »ç¿ëÀÇ À§Ä¡¿¡ ÃÊÁ¡À» ¸ÂÃç ½Ç½ÃÇÏ´Â Å×½ºÆ® ÄÉÀÌ½º ¼³°è ±â¹ý.
 
 Answer 1 : Á¦¾î ±¸Á¶ °Ë»ç
 Answer 2 : Control
@@ -6295,10 +5877,8 @@ Answer 2 : Statement Coverage
 
 No. 687	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº È­ÀÌÆ®¹Ú½º Å×½ºÆ®ÀÇ ³× °¡Áö °ËÁõ ±âÁØ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¼Ò½º ÄÚµåÀÇ ¸ðµç Á¶°Ç¹®¿¡ ´ëÇØ Á¶°Ç½ÄÀÇ °á°ú°¡ TrueÀÎ °æ¿ì¿Í FalseÀÎ °æ¿ì°¡ ÇÑ ¹ø ÀÌ»ó ¼öÇàµÇµµ·Ï Å×½ºÆ® ÄÉÀÌ½º¸¦ ¼³°èÇÔ.
- 2.
- °áÁ¤ °ËÁõ ±âÁØ(Dicision Coverage)ÀÌ¶ó°íµµ ÇÔ.
+ ¨ç ¼Ò½º ÄÚµåÀÇ ¸ðµç Á¶°Ç¹®¿¡ ´ëÇØ Á¶°Ç½ÄÀÇ °á°ú°¡ TrueÀÎ °æ¿ì¿Í FalseÀÎ °æ¿ì°¡ ÇÑ ¹ø ÀÌ»ó ¼öÇàµÇµµ·Ï Å×½ºÆ® ÄÉÀÌ½º¸¦ ¼³°èÇÔ.
+ ¨è °áÁ¤ °ËÁõ ±âÁØ(Dicision Coverage)ÀÌ¶ó°íµµ ÇÔ.
 
 Answer 1 : ºÐ±â °ËÁõ ±âÁØ
 Answer 2 : Branch Coverage
@@ -6332,10 +5912,8 @@ Answer 2 : Black Box Test
 
 No. 691	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ºí·¢¹Ú½º Å×½ºÆ®ÀÇ ´Ù¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÁ·Î±×·¥ÀÇ ÀÔ·Â Á¶°Ç¿¡ Å¸´çÇÑ ÀÔ·Â ÀÚ·á¿Í Å¸´çÇÏÁö ¾ÊÀº ÀÔ·Â ÀÚ·áÀÇ °³¼ö¸¦ ±ÕµîÇÏ°Ô ÇÏ¿© Å×½ºÆ® ÄÉÀÌ½º¸¦ Á¤ÇÏ°í, ÇØ´ç ÀÔ·Â ÀÚ·á¿¡ ¸Â´Â °á°ú°¡ Ãâ·ÂµÇ´ÂÁö È®ÀÎÇÏ´Â ±â¹ý.
- 2.
- µ¿µî ºÐÇÒ ±â¹ýÀÌ¶ó°íµµ ÇÔ.
+ ¨ç ÇÁ·Î±×·¥ÀÇ ÀÔ·Â Á¶°Ç¿¡ Å¸´çÇÑ ÀÔ·Â ÀÚ·á¿Í Å¸´çÇÏÁö ¾ÊÀº ÀÔ·Â ÀÚ·áÀÇ °³¼ö¸¦ ±ÕµîÇÏ°Ô ÇÏ¿© Å×½ºÆ® ÄÉÀÌ½º¸¦ Á¤ÇÏ°í, ÇØ´ç ÀÔ·Â ÀÚ·á¿¡ ¸Â´Â °á°ú°¡ Ãâ·ÂµÇ´ÂÁö È®ÀÎÇÏ´Â ±â¹ý.
+ ¨è µ¿µî ºÐÇÒ ±â¹ýÀÌ¶ó°íµµ ÇÔ.
 
 Answer 1 : µ¿Ä¡ ºÐÇÒ °Ë»ç
 Answer 2 : µ¿Ä¡ Å¬·¡½º ºÐÇØ
@@ -6416,10 +5994,8 @@ Answer 1 : »ç¿ëÀÚ ÀÎ¼ö Å×½ºÆ®
 
 No. 701	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÀÎ¼ö Å×½ºÆ®ÀÇ ¿©¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ½Ã½ºÅÛ °ü¸®ÀÚ°¡ ½Ã½ºÅÛ ÀÎ¼ö ½Ã ¼öÇàÇÏ´Â Å×½ºÆ® ±â¹ý.
- 2.
- ¹é¾÷/º¹¿ø ½Ã½ºÅÛ, Àç³­ º¹±¸, »ç¿ëÀÚ °ü¸®, Á¤±â Á¡°Ë µîÀ» È®ÀÎÇÔ.
+ ¨ç ½Ã½ºÅÛ °ü¸®ÀÚ°¡ ½Ã½ºÅÛ ÀÎ¼ö ½Ã ¼öÇàÇÏ´Â Å×½ºÆ® ±â¹ý.
+ ¨è ¹é¾÷/º¹¿ø ½Ã½ºÅÛ, Àç³­ º¹±¸, »ç¿ëÀÚ °ü¸®, Á¤±â Á¡°Ë µîÀ» È®ÀÎÇÔ.
 
 Answer 1 : ¿î¿µ»óÀÇ ÀÎ¼ö Å×½ºÆ®
 
@@ -6440,20 +6016,16 @@ Answer 1 : ±ÔÁ¤ ÀÎ¼ö Å×½ºÆ®
 
 No. 704	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ÀÎ¼ö Å×½ºÆ®ÀÇ ¿©¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °³¹ßÀÚÀÇ Àå¼Ò¿¡¼­ »ç¿ëÀÚ°¡ °³¹ßÀÚ ¾Õ¿¡¼­ ÇàÇÏ´Â Å×½ºÆ® ±â¹ý.
- 2.
- Å×½ºÆ®´Â ÅëÁ¦µÈ È¯°æ¿¡¼­ ÇàÇØÁö¸ç, ¿À·ù¿Í »ç¿ë»óÀÇ ¹®Á¦Á¡À» »ç¿ëÀÚ¿Í °³¹ßÀÚ°¡ ÇÔ²² È®ÀÎÇÏ¸é¼­ ±â·ÏÇÔ.
+ ¨ç °³¹ßÀÚÀÇ Àå¼Ò¿¡¼­ »ç¿ëÀÚ°¡ °³¹ßÀÚ ¾Õ¿¡¼­ ÇàÇÏ´Â Å×½ºÆ® ±â¹ý.
+ ¨è Å×½ºÆ®´Â ÅëÁ¦µÈ È¯°æ¿¡¼­ ÇàÇØÁö¸ç, ¿À·ù¿Í »ç¿ë»óÀÇ ¹®Á¦Á¡À» »ç¿ëÀÚ¿Í °³¹ßÀÚ°¡ ÇÔ²² È®ÀÎÇÏ¸é¼­ ±â·ÏÇÔ.
 
 Answer 1 : ¾ËÆÄ Å×½ºÆ®
 
 
 No. 705	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ÀÎ¼ö Å×½ºÆ®ÀÇ ¿©¼¸ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¼±Á¤µÈ ÃÖÁ¾ »ç¿ëÀÚ°¡ ¿©·¯ ¸íÀÇ »ç¿ëÀÚ ¾Õ¿¡¼­ ÇàÇÏ´Â Å×½ºÆ® ±â¹ý.
- 2.
- ½Ç¾÷¹«¸¦ °¡Áö°í »ç¿ëÀÚ°¡ Á÷Á¢ Å×½ºÆ®.
+ ¨ç ¼±Á¤µÈ ÃÖÁ¾ »ç¿ëÀÚ°¡ ¿©·¯ ¸íÀÇ »ç¿ëÀÚ ¾Õ¿¡¼­ ÇàÇÏ´Â Å×½ºÆ® ±â¹ý.
+ ¨è ½Ç¾÷¹«¸¦ °¡Áö°í »ç¿ëÀÚ°¡ Á÷Á¢ Å×½ºÆ®.
 
 Answer 1 : º£Å¸ Å×½ºÆ®
 
@@ -6467,20 +6039,16 @@ Answer 2 : Integration Test
 
 No. 707	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÅëÇÕ Å×½ºÆ®ÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ´Ü°èÀûÀ¸·Î ÅëÇÕÇÏ´Â ÀýÂ÷ ¾øÀÌ ¸ðµç ¸ðµâÀÌ ¹Ì¸® °áÇÕµÇ¾î ÀÖ´Â ÇÁ·Î±×·¥ ÀüÃ¼¸¦ Å×½ºÆ®ÇÏ´Â ¹æ¹ý.
- 2.
- Á¾·ù : ºò¹ð ÅëÇÕ Å×½ºÆ® ¹æ½Ä.
+ ¨ç ´Ü°èÀûÀ¸·Î ÅëÇÕÇÏ´Â ÀýÂ÷ ¾øÀÌ ¸ðµç ¸ðµâÀÌ ¹Ì¸® °áÇÕµÇ¾î ÀÖ´Â ÇÁ·Î±×·¥ ÀüÃ¼¸¦ Å×½ºÆ®ÇÏ´Â ¹æ¹ý.
+ ¨è Á¾·ù : ºò¹ð ÅëÇÕ Å×½ºÆ® ¹æ½Ä.
 
 Answer 1 : ºñÁ¡ÁøÀû ÅëÇÕ ¹æ½Ä
 
 
 No. 708	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÅëÇÕ Å×½ºÆ®ÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¸ðµâ ´ÜÀ§·Î ´Ü°èÀûÀ¸·Î ÅëÇÕÇÏ¸é¼­ Å×½ºÆ®ÇÏ´Â ¹æ¹ý.
- 2.
- Á¾·ù : ÇÏÇâ½Ä ÅëÇÕ Å×½ºÆ®, »óÇâ½Ä ÅëÇÕ Å×½ºÆ®, È¥ÇÕ½Ä ÅëÇÕ Å×½ºÆ®.
+ ¨ç ¸ðµâ ´ÜÀ§·Î ´Ü°èÀûÀ¸·Î ÅëÇÕÇÏ¸é¼­ Å×½ºÆ®ÇÏ´Â ¹æ¹ý.
+ ¨è Á¾·ù : ÇÏÇâ½Ä ÅëÇÕ Å×½ºÆ®, »óÇâ½Ä ÅëÇÕ Å×½ºÆ®, È¥ÇÕ½Ä ÅëÇÕ Å×½ºÆ®.
 
 Answer 1 : Á¡ÁøÀû ÅëÇÕ ¹æ½Ä
 
@@ -6489,14 +6057,10 @@ No. 709	 correct : 1,	 incorrect : 0
 Q : ÇÁ·Î±×·¥ÀÇ »óÀ§ ¸ðµâ¿¡¼­ ÇÏÀ§ ¸ðµâ ¹æÇâÀ¸·Î ÅëÇÕÇÏ¸é¼­ Å×½ºÆ®ÇÏ´Â ±â¹ýÀº?
  ±íÀÌ ¿ì¼± ÅëÇÕ¹ýÀÌ³ª ³ÐÀÌ ¿ì¼± ÅëÇÕ¹ýÀ» »ç¿ëÇÑ´Ù.
  ¡Û¡Û¡Û ÀýÂ÷.
- 1.
- ÁÖ¿ä Á¦¾î ¸ðµâÀº ÀÛ¼ºµÈ ÇÁ·Î±×·¥À» »ç¿ëÇÏ°í, ÁÖ¿ä Á¦¾î ¸ðµâÀÇ Á¾¼Ó ¸ðµâµéÀº ½ºÅÓ(Stub)À¸·Î ´ëÃ¼ÇÑ´Ù.
- 2.
- ±íÀÌ ¿ì¼± ¶Ç´Â ³ÐÀÌ ¿ì¼± µîÀÇ ÅëÇÕ ¹æ½Ä¿¡ µû¶ó ÇÏÀ§ ¸ðµâÀÎ ½ºÅÓµéÀÌ ÇÑ ¹ø¿¡ ÇÏ³ª¾¿ ½ÇÁ¦ ¸ðµâ·Î ±³Ã¼µÈ´Ù.
- 3.
- ¸ðµâÀÌ ÅëÇÕµÉ ¶§¸¶´Ù Å×½ºÆ®¸¦ ½Ç½ÃÇÑ´Ù.
- 4.
- »õ·Î¿î ¿À·ù°¡ ¹ß»ýÇÏÁö ¾ÊÀ½À» º¸ÁõÇÏ±â À§ÇØ È¸±Í Å×½ºÆ®¸¦ ½Ç½ÃÇÑ´Ù.
+ ¨ç ÁÖ¿ä Á¦¾î ¸ðµâÀº ÀÛ¼ºµÈ ÇÁ·Î±×·¥À» »ç¿ëÇÏ°í, ÁÖ¿ä Á¦¾î ¸ðµâÀÇ Á¾¼Ó ¸ðµâµéÀº ½ºÅÓ(Stub)À¸·Î ´ëÃ¼ÇÑ´Ù.
+ ¨è ±íÀÌ ¿ì¼± ¶Ç´Â ³ÐÀÌ ¿ì¼± µîÀÇ ÅëÇÕ ¹æ½Ä¿¡ µû¶ó ÇÏÀ§ ¸ðµâÀÎ ½ºÅÓµéÀÌ ÇÑ ¹ø¿¡ ÇÏ³ª¾¿ ½ÇÁ¦ ¸ðµâ·Î ±³Ã¼µÈ´Ù.
+ ¨é ¸ðµâÀÌ ÅëÇÕµÉ ¶§¸¶´Ù Å×½ºÆ®¸¦ ½Ç½ÃÇÑ´Ù.
+ ¨ê»õ·Î¿î ¿À·ù°¡ ¹ß»ýÇÏÁö ¾ÊÀ½À» º¸ÁõÇÏ±â À§ÇØ È¸±Í Å×½ºÆ®¸¦ ½Ç½ÃÇÑ´Ù.
 
 Answer 1 : ÇÏÇâ½Ä ÅëÇÕ Å×½ºÆ®
 Answer 2 : Top Down Integration Test
@@ -6505,14 +6069,10 @@ Answer 2 : Top Down Integration Test
 No. 710	 correct : 1,	 incorrect : 0
 Q : ÇÁ·Î±×·¥ÀÇ ÇÏÀ§ ¸ðµâ¿¡¼­ »óÀ§ ¸ðµâ ¹æÇâÀ¸·Î ÅëÇÕÇÏ¸é¼­ Å×½ºÆ®ÇÏ´Â ±â¹ýÀº?
  ¡Û¡Û¡Û ÀýÂ÷.
- 1.
- ÇÏÀ§ ¸ðµâµéÀ» Å¬·¯½ºÅÍ(Cluster)·Î °áÇÕÇÑ´Ù.
- 2.
- »óÀ§ ¸ðµâ¿¡¼­ µ¥ÀÌÅÍÀÇ ÀÔ¡¤Ãâ·ÂÀ» È®ÀÎÇÏ±â À§ÇØ ´õ¹Ì ¸ðµâÀÎ µå¶óÀÌ¹ö(Driver)¸¦ ÀÛ¼ºÇÑ´Ù.
- 3.
- ÅëÇÕµÈ Å¬·¯½ºÅÍ ´ÜÀ§·Î Å×½ºÆ®ÇÑ´Ù.
- 4.
- Å×½ºÆ®°¡ ¿Ï·áµÇ¸é Å¬·¯½ºÅÍ´Â ÇÁ·Î±×·¥ ±¸Á¶ÀÇ »óÀ§·Î ÀÌµ¿ÇÏ¿© °áÇÕÇÏ°í µå¶óÀÌ¹ö´Â ½ÇÁ¦ ¸ðµâ·Î ´ëÃ¼µÈ´Ù.
+ ¨ç ÇÏÀ§ ¸ðµâµéÀ» Å¬·¯½ºÅÍ(Cluster)·Î °áÇÕÇÑ´Ù.
+ ¨è »óÀ§ ¸ðµâ¿¡¼­ µ¥ÀÌÅÍÀÇ ÀÔ¡¤Ãâ·ÂÀ» È®ÀÎÇÏ±â À§ÇØ ´õ¹Ì ¸ðµâÀÎ µå¶óÀÌ¹ö(Driver)¸¦ ÀÛ¼ºÇÑ´Ù.
+ ¨é ÅëÇÕµÈ Å¬·¯½ºÅÍ ´ÜÀ§·Î Å×½ºÆ®ÇÑ´Ù.
+ ¨êÅ×½ºÆ®°¡ ¿Ï·áµÇ¸é Å¬·¯½ºÅÍ´Â ÇÁ·Î±×·¥ ±¸Á¶ÀÇ »óÀ§·Î ÀÌµ¿ÇÏ¿© °áÇÕÇÏ°í µå¶óÀÌ¹ö´Â ½ÇÁ¦ ¸ðµâ·Î ´ëÃ¼µÈ´Ù.
 
 Answer 1 : »óÇâ½Ä ÅëÇÕ Å×½ºÆ®
 Answer 2 : Bottom Up Integration Test
@@ -6555,12 +6115,9 @@ No. 715	 correct : 0,	 incorrect : 1
 Q : Å×½ºÆ® °á°ú°¡ ¿Ã¹Ù¸¥Áö ÆÇ´ÜÇÏ±â À§ÇØ »çÀü¿¡ Á¤ÀÇµÈ Âü°ªÀ» ´ëÀÔÇÏ¿© ºñ±³ÇÏ´Â ±â¹ý ¹× È°µ¿À» ¸»ÇÏ´Â °ÍÀº?
  °á°ú¸¦ ÆÇ´ÜÇÏ±â À§ÇØ Å×½ºÅ© ÄÉÀÌ½º¿¡ ´ëÇÑ ¿¹»ó °á°ú¸¦ °è»êÇÏ°Å³ª È®ÀÎÇÑ´Ù.
  ¡Û¡Û¡ÛÀÇ Æ¯Â¡.
- 1.
- Á¦ÇÑµÈ °ËÁõ : ¡Û¡Û¡ÛÀ» ¸ðµç Å×½ºÆ® ÄÉÀÌ½º¿¡ Àû¿ëÇÒ ¼ö ¾øÀ½.
- 2.
- ¼öÇÐÀû ±â¹ý : ¡Û¡Û¡ÛÀÇ °ªÀ» ¼öÇÐÀû ±â¹ýÀ» ÀÌ¿ëÇÏ¿© ±¸ÇÒ ¼ö ÀÖÀ½.
- 3.
- ÀÚµ¿È­ ±â´É : Å×½ºÆ® ´ë»ó ÇÁ·Î±×·¥ÀÇ ½ÇÇà, °á°ú ºñ±³, Ä¿¹ö¸®Áö ÃøÁ¤ µîÀ» ÀÚµ¿È­ ÇÒ ¼ö ÀÖÀ½.
+ ¨ç Á¦ÇÑµÈ °ËÁõ : ¡Û¡Û¡ÛÀ» ¸ðµç Å×½ºÆ® ÄÉÀÌ½º¿¡ Àû¿ëÇÒ ¼ö ¾øÀ½.
+ ¨è ¼öÇÐÀû ±â¹ý : ¡Û¡Û¡ÛÀÇ °ªÀ» ¼öÇÐÀû ±â¹ýÀ» ÀÌ¿ëÇÏ¿© ±¸ÇÒ ¼ö ÀÖÀ½.
+ ¨é ÀÚµ¿È­ ±â´É : Å×½ºÆ® ´ë»ó ÇÁ·Î±×·¥ÀÇ ½ÇÇà, °á°ú ºñ±³, Ä¿¹ö¸®Áö ÃøÁ¤ µîÀ» ÀÚµ¿È­ ÇÒ ¼ö ÀÖÀ½.
 
 Answer 1 : Å×½ºÆ® ¿À¶óÅ¬
 Answer 2 : Test Oracle
@@ -6568,10 +6125,8 @@ Answer 2 : Test Oracle
 
 No. 716	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº Å×½ºÆ® ¿À¶óÅ¬ÀÇ ³× °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¸ðµç Å×½ºÆ® ÄÉÀÌ½ºÀÇ ÀÔ·Â °ª¿¡ ´ëÇØ ±â´ëÇÏ´Â °á°ú¸¦ Á¦°øÇÏ´Â ¿À¶óÅ¬.
- 2.
- ¹ß»ýµÈ ¸ðµç ¿À·ù¸¦ °ËÃâÇÒ ¼ö ÀÖÀ½.
+ ¨ç ¸ðµç Å×½ºÆ® ÄÉÀÌ½ºÀÇ ÀÔ·Â °ª¿¡ ´ëÇØ ±â´ëÇÏ´Â °á°ú¸¦ Á¦°øÇÏ´Â ¿À¶óÅ¬.
+ ¨è ¹ß»ýµÈ ¸ðµç ¿À·ù¸¦ °ËÃâÇÒ ¼ö ÀÖÀ½.
 
 Answer 1 : Âü ¿À¶óÅ¬
 Answer 2 : True Oracle
@@ -6787,10 +6342,8 @@ Answer 1 : Redmine
 
 No. 743	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº °áÇÔ °ü¸® µµ±¸ÀÇ ³× °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °áÇÔ ½Å°í, È®ÀÎ, Ã³¸® µî °áÇÔÀ» Áö¼ÓÀûÀ¸·Î °ü¸®ÇÒ ¼ö ÀÖ´Â µµ±¸.
- 2.
- °áÇÔÀÇ ½É°¢µµ¿Í ¿ì¼±¼øÀ§¸¦ ÁöÁ¤ÇÒ ¼öµµ ÀÖÀ½.
+ ¨ç °áÇÔ ½Å°í, È®ÀÎ, Ã³¸® µî °áÇÔÀ» Áö¼ÓÀûÀ¸·Î °ü¸®ÇÒ ¼ö ÀÖ´Â µµ±¸.
+ ¨è °áÇÔÀÇ ½É°¢µµ¿Í ¿ì¼±¼øÀ§¸¦ ÁöÁ¤ÇÒ ¼öµµ ÀÖÀ½.
 
 Answer 1 : Bugzilla
 
@@ -6854,7 +6407,7 @@ Answer 2 : Complexity
 
 
 No. 752	 correct : 0,	 incorrect : 1
-Q : ¾Ë°í¸®ÁòÀ» ¼öÇàÇÏ±â À§ÇØ ÇÁ·Î¼¼¤Ñ°¡ ¼öÇàÇÏ´Â ¿¬»ê È½¼ö¸¦ ¼öÄ¡È­ÇÑ °ÍÀ» ÀÇ¹ÌÇÏ´Â °ÍÀº?
+Q : ¾Ë°í¸®ÁòÀ» ¼öÇàÇÏ±â À§ÇØ ÇÁ·Î¼¼½º°¡ ¼öÇàÇÏ´Â ¿¬»ê È½¼ö¸¦ ¼öÄ¡È­ÇÑ °ÍÀ» ÀÇ¹ÌÇÏ´Â °ÍÀº?
  ¡Û¡Û¡Û°¡ ³·À»¼ö·Ï ¾Ë°í¸®ÁòÀÇ ½ÇÇà½Ã°£ÀÌ Âª°í, ³ôÀ»¼ö·Ï ½ÇÇà½Ã°£ÀÌ ±æ¾îÁø´Ù.
 
 Answer 1 : ½Ã°£ º¹Àâµµ
@@ -6862,10 +6415,8 @@ Answer 1 : ½Ã°£ º¹Àâµµ
 
 No. 753	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ½Ã°£ º¹Àâµµ¸¦ ÀûÀ» ¶§ ¾²´Â Á¡±Ù Ç¥±â¹ýÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¾Ë°í¸®ÁòÀÇ ½ÇÇà½Ã°£ÀÌ ÃÖ¾ÇÀÏ ¶§¸¦ Ç¥±âÇÏ´Â ¹æ¹ý.
- 2.
- ÀÔ·Â°ª¿¡ ´ëÇØ ¾Ë°í¸®ÁòÀ» ¼öÇàÇßÀ» ¶§ ¸í·É¾îÀÇ ½ÇÇà È½¼ö´Â ¾î¶°ÇÑ °æ¿ì¿¡µµ Ç¥±â ¼öÄ¡º¸´Ù ¸¹À» ¼ö ¾øÀ½.
+ ¨ç ¾Ë°í¸®ÁòÀÇ ½ÇÇà½Ã°£ÀÌ ÃÖ¾ÇÀÏ ¶§¸¦ Ç¥±âÇÏ´Â ¹æ¹ý.
+ ¨è ÀÔ·Â°ª¿¡ ´ëÇØ ¾Ë°í¸®ÁòÀ» ¼öÇàÇßÀ» ¶§ ¸í·É¾îÀÇ ½ÇÇà È½¼ö´Â ¾î¶°ÇÑ °æ¿ì¿¡µµ Ç¥±â ¼öÄ¡º¸´Ù ¸¹À» ¼ö ¾øÀ½.
 
 Answer 1 : ºò¿À Ç¥±â¹ý
 Answer 2 : Big-O-Notation
@@ -6873,10 +6424,8 @@ Answer 2 : Big-O-Notation
 
 No. 754	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ½Ã°£ º¹Àâµµ¸¦ ÀûÀ» ¶§ ¾²´Â Á¡±Ù Ç¥±â¹ýÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¾Ë°í¸®ÁòÀÇ ½ÇÇà½Ã°£ÀÌ Æò±ÕÀÏ ¶§¸¦ Ç¥±âÇÏ´Â ¹æ¹ý.
- 2.
- ÀÔ·Â°ª¿¡ ´ëÇØ ¾Ë°í¸®ÁòÀ» ¼öÇàÇßÀ» ¶§ ¸í·É¾î ½ÇÇà È½¼öÀÇ Æò±ÕÀûÀÎ ¼öÄ¡¸¦ Ç¥±âÇÔ.
+ ¨ç ¾Ë°í¸®ÁòÀÇ ½ÇÇà½Ã°£ÀÌ Æò±ÕÀÏ ¶§¸¦ Ç¥±âÇÏ´Â ¹æ¹ý.
+ ¨è ÀÔ·Â°ª¿¡ ´ëÇØ ¾Ë°í¸®ÁòÀ» ¼öÇàÇßÀ» ¶§ ¸í·É¾î ½ÇÇà È½¼öÀÇ Æò±ÕÀûÀÎ ¼öÄ¡¸¦ Ç¥±âÇÔ.
 
 Answer 1 : ¼¼Å¸ Ç¥±â¹ý
 Answer 2 : Big-¥è Notation
@@ -6884,10 +6433,8 @@ Answer 2 : Big-¥è Notation
 
 No. 755	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ½Ã°£ º¹Àâµµ¸¦ ÀûÀ» ¶§ ¾²´Â Á¡±Ù Ç¥±â¹ýÀÇ ¼¼ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¾Ë°í¸®ÁòÀÇ ½ÇÇà½Ã°£ÀÌ ÃÖ»óÀÏ ¶§¸¦ Ç¥±âÇÏ´Â ¹æ¹ý.
- 2.
- ÀÔ·Â°ª¿¡ ´ëÇØ ¾Ë°í¸®ÁòÀ» ¼öÇàÇßÀ» ¶§ ¸í·É¾îÀÇ ½ÇÇàÈ½¼ö´Â ¾î¶°ÇÑ °æ¿ì¿¡µµ Ç¥±â ¼öÄ¡º¸´Ù ÀûÀ» ¼ö ¾øÀ½.
+ ¨ç ¾Ë°í¸®ÁòÀÇ ½ÇÇà½Ã°£ÀÌ ÃÖ»óÀÏ ¶§¸¦ Ç¥±âÇÏ´Â ¹æ¹ý.
+ ¨è ÀÔ·Â°ª¿¡ ´ëÇØ ¾Ë°í¸®ÁòÀ» ¼öÇàÇßÀ» ¶§ ¸í·É¾îÀÇ ½ÇÇàÈ½¼ö´Â ¾î¶°ÇÑ °æ¿ì¿¡µµ Ç¥±â ¼öÄ¡º¸´Ù ÀûÀ» ¼ö ¾øÀ½.
 
 Answer 1 : ¿À¸Þ°¡ Ç¥±â¹ý
 Answer 2 : Big-¥Ø Notation
@@ -6905,11 +6452,9 @@ Answer 2 : Cyclomatic Complexity
 No. 757	 correct : 0,	 incorrect : 1
 Q : ³ª»Û ÄÚµå(Bad Code)¸¦ ¹èÁ¦ÇÏ°í, Å¬¸° ÄÚµå(Clean Code)·Î ÀÛ¼ºÇÏ´Â °ÍÀº?
  Å¬¸° ÄÚµå(Clean Code) : ´©±¸³ª ½±°Ô ÀÌÇØÇÏ°í ¼öÁ¤ ¹× Ãß°¡ÇÒ ¼ö ÀÖ´Â ´Ü¼ø, ¸í·áÇÑ ÄÚµå, Áï Àß ÀÛ¼ºµÈ ÄÚµå.
- ³ª»Û ÄÚµå(Bad Code) : 1.
- ÇÁ·Î±×·¥ÀÇ ·ÎÁ÷(Logic)ÀÌ º¹ÀâÇÏ°í ÀÌÇØÇÏ±â ¾î·Á¿î ÄÚµå.
- 2.
- ´ëÇ¥ÀûÀÎ ³ª»Û ÄÚµå : .
- -½ºÆÄ°ÔÆ¼ ÄÚµå : ÄÚµåÀÇ ·ÎÁ÷ÀÌ ¼­·Î º¹ÀâÇÏ°Ô ¾ôÇô ÀÖ´Â ÄÚµå.
+ ³ª»Û ÄÚµå(Bad Code) : ¨ç ÇÁ·Î±×·¥ÀÇ ·ÎÁ÷(Logic)ÀÌ º¹ÀâÇÏ°í ÀÌÇØÇÏ±â ¾î·Á¿î ÄÚµå.
+ ¨è ´ëÇ¥ÀûÀÎ ³ª»Û ÄÚµå : .
+ - ½ºÆÄ°ÔÆ¼ ÄÚµå : ÄÚµåÀÇ ·ÎÁ÷ÀÌ ¼­·Î º¹ÀâÇÏ°Ô ¾ôÇô ÀÖ´Â ÄÚµå.
  - ¿Ü°èÀÎ ÄÚµå : ¾ÆÁÖ ¿À·¡µÇ°Å³ª Âü°í¹®¼­ ¶Ç´Â °³¹ßÀÚ°¡ ¾ø¾î À¯Áöº¸¼ö ÀÛ¾÷ÀÌ ¾î·Á¿î ÄÚµå.
  ³ª»Û ÄÚµå·Î ÀÛ¼ºµÈ ¾ÖÇÃ¸®ÄÉÀÌ¼ÇÀÇ ÄÚµå¸¦ Å¬¸° ÄÚµå·Î ¼öÁ¤ÇÏ¸é ¾ÖÇÃ¸®ÄÉÀÌ¼ÇÀÇ ¼º´ÉÀÌ °³¼±µÈ´Ù.
 
@@ -6918,40 +6463,32 @@ Answer 1 : ¼Ò½º ÄÚµå ÃÖÀûÈ­
 
 No. 758	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº Å¬¸° ÄÚµåÀÇ ´Ù¼¸ °¡Áö ÀÛ¼º ¿øÄ¢ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ´©±¸µçÁö ÄÚµå¸¦ ½±°Ô ÀÐÀ» ¼ö ÀÖµµ·Ï ÀÛ¼ºÇÔ.
- 2.
- ÄÚµå ÀÛ¼º ½Ã ÀÌÇØÇÏ±â ½¬¿î ¿ë¾î¸¦ »ç¿ëÇÏ°Å³ª µé¿©¾²±â ±â´É µîÀ» »ç¿ëÇÔ.
+ ¨ç ´©±¸µçÁö ÄÚµå¸¦ ½±°Ô ÀÐÀ» ¼ö ÀÖµµ·Ï ÀÛ¼ºÇÔ.
+ ¨è ÄÚµå ÀÛ¼º ½Ã ÀÌÇØÇÏ±â ½¬¿î ¿ë¾î¸¦ »ç¿ëÇÏ°Å³ª µé¿©¾²±â ±â´É µîÀ» »ç¿ëÇÔ.
 
 Answer 1 : °¡µ¶¼º
 
 
 No. 759	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº Å¬¸° ÄÚµåÀÇ ´Ù¼¸ °¡Áö ÀÛ¼º ¿øÄ¢ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÄÚµå¸¦ °£´ÜÇÏ°Ô ÀÛ¼ºÇÔ.
- 2.
- ÇÑ ¹ø¿¡ ÇÑ °¡Áö¸¦ Ã³¸®ÇÏµµ·Ï ÄÚµå¸¦ ÀÛ¼ºÇÏ°í Å¬·¡½º/¸Þ¼Òµå/ÇÔ¼ö µîÀ» ÃÖ¼Ò ´ÜÀ§·Î ºÐ¸®ÇÔ.
+ ¨ç ÄÚµå¸¦ °£´ÜÇÏ°Ô ÀÛ¼ºÇÔ.
+ ¨è ÇÑ ¹ø¿¡ ÇÑ °¡Áö¸¦ Ã³¸®ÇÏµµ·Ï ÄÚµå¸¦ ÀÛ¼ºÇÏ°í Å¬·¡½º/¸Þ¼Òµå/ÇÔ¼ö µîÀ» ÃÖ¼Ò ´ÜÀ§·Î ºÐ¸®ÇÔ.
 
 Answer 1 : ´Ü¼ø¼º
 
 
 No. 760	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº Å¬¸° ÄÚµåÀÇ ´Ù¼¸ °¡Áö ÀÛ¼º ¿øÄ¢ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÄÚµå°¡ ´Ù¸¥ ¸ðµâ¿¡ ¹ÌÄ¡´Â ¿µÇâÀ» ÃÖ¼ÒÈ­ÇÔ.
- 2.
- ÄÚµå º¯°æ ½Ã ´Ù¸¥ ºÎºÐ¿¡ ¿µÇâÀÌ ¾øµµ·Ï ÀÛ¼ºÇÔ.
+ ¨ç ÄÚµå°¡ ´Ù¸¥ ¸ðµâ¿¡ ¹ÌÄ¡´Â ¿µÇâÀ» ÃÖ¼ÒÈ­ÇÔ.
+ ¨è ÄÚµå º¯°æ ½Ã ´Ù¸¥ ºÎºÐ¿¡ ¿µÇâÀÌ ¾øµµ·Ï ÀÛ¼ºÇÔ.
 
 Answer 1 : ÀÇÁ¸¼º ¹èÁ¦
 
 
 No. 761	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº Å¬¸° ÄÚµåÀÇ ´Ù¼¸ °¡Áö ÀÛ¼º ¿øÄ¢ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÄÚµåÀÇ Áßº¹À» ÃÖ¼ÒÈ­ÇÔ.
- 2.
- Áßº¹µÈ ÄÚµå´Â »èÁ¦ÇÏ°í °øÅëµÈ ÄÚµå¸¦ »ç¿ëÇÔ.
+ ¨ç ÄÚµåÀÇ Áßº¹À» ÃÖ¼ÒÈ­ÇÔ.
+ ¨è Áßº¹µÈ ÄÚµå´Â »èÁ¦ÇÏ°í °øÅëµÈ ÄÚµå¸¦ »ç¿ëÇÔ.
 
 Answer 1 : Áßº¹¼º ÃÖ¼ÒÈ­
 
@@ -6972,7 +6509,7 @@ Answer 1 : Å¬·¡½º ºÐÇÒ ¹èÄ¡
 
 No. 764	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ¼Ò½º ÄÚµå µÎ °¡ÁöÀÇ ÃÖÀûÈ­ À¯Çü Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- ÀÎÅÍÆäÀÌ½º Å¬·¡½º¸¦ ÀÌ¿ëÇÏ¿© Ãß»óÈ­µÈ ÀÚ·á ±¸Á¶¿Í ¸Þ¼Òµå¸¦ ±¸ÇöÇÔÀ¸·Î½á Å¬·¡½º °£ÀÇ ÀÇÁ¸¼­À» ÃÖ¼ÒÇÔ.
+ ÀÎÅÍÆäÀÌ½º Å¬·¡½º¸¦ ÀÌ¿ëÇÏ¿© Ãß»óÈ­µÈ ÀÚ·á ±¸Á¶¿Í ¸Þ¼Òµå¸¦ ±¸ÇöÇÔÀ¸·Î½á Å¬·¡½º °£ÀÇ ÀÇÁ¸¼ºÀ» ÃÖ¼ÒÇÔ.
 
 Answer 1 : ´À½¼ÇÑ °áÇÔ
 Answer 2 : Loosely Coupled
@@ -6986,10 +6523,8 @@ Answer 1 : ¼Ò½º ÄÚµå Ç°Áú ºÐ¼® µµ±¸
 
 No. 766	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ¼Ò½º ÄÚµå Ç°Áú ºÐ¼® µµ±¸ÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÀÛ¼ºÇÑ ¼Ò½º ÄÚµå¸¦ ½ÇÇàÇÏÁö ¾Ê°í ÄÚµù Ç¥ÁØÀÌ³ª ÄÚµù ½ºÅ¸ÀÏ, °áÇÔ µîÀ» È®ÀÎÇÏ´Â ÄÚµå ºÐ¼® µµ±¸.
- 2.
- Á¾·ù : pmd, cppcheck, SonarQube, chechstyle, ccm, cobertura µî.
+ ¨ç ÀÛ¼ºÇÑ ¼Ò½º ÄÚµå¸¦ ½ÇÇàÇÏÁö ¾Ê°í ÄÚµù Ç¥ÁØÀÌ³ª ÄÚµù ½ºÅ¸ÀÏ, °áÇÔ µîÀ» È®ÀÎÇÏ´Â ÄÚµå ºÐ¼® µµ±¸.
+ ¨è Á¾·ù : pmd, cppcheck, SonarQube, chechstyle, ccm, cobertura µî.
 
 Answer 1 : Á¤Àû ºÐ¼® µµ±¸
 Answer 2 : Static Analysis
@@ -6997,10 +6532,8 @@ Answer 2 : Static Analysis
 
 No. 767	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº ¼Ò½º ÄÚµå Ç°Áú ºÐ¼® µµ±¸ÀÇ µÎ °¡Áö Á¾·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÀÛ¼ºÇÑ ¼Ò½º ÄÚµå¸¦ ½ÇÇàÇÏ¿© ÄÚµå¿¡ Á¸ÀçÇÏ´Â ¸Þ¸ð¸® ´©¼ö, ½º·¹µå °áÇÔ µîÀ» ºÐ¼®ÇÏ´Â µµ±¸.
- 2.
- Á¾·ù : Avalanche, Valgrind µî.
+ ¨ç ÀÛ¼ºÇÑ ¼Ò½º ÄÚµå¸¦ ½ÇÇàÇÏ¿© ÄÚµå¿¡ Á¸ÀçÇÏ´Â ¸Þ¸ð¸® ´©¼ö, ½º·¹µå °áÇÔ µîÀ» ºÐ¼®ÇÏ´Â µµ±¸.
+ ¨è Á¾·ù : Avalanche, Valgrind µî.
 
 Answer 1 : µ¿Àû ºÐ¼® µµ±¸
 Answer 2 : Dynamic Analysis
@@ -7048,10 +6581,8 @@ Answer 1 : Seven Touchpoints
 
 No. 773	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ¼ÒÇÁÆ®¿þ¾î °³¹ß º¸¾ÈÀÇ ´Ù¼¸ °¡Áö ¿ä¼Ò Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ½Ã½ºÅÛ ³»ÀÇ Á¤º¸¿Í ÀÚ¿øÀº ÀÎ°¡µÈ »ç¿ëÀÚ¿¡°Ô¸¸ Á¢±ÙÀÌ Çã¿ëµÊ.
- 2.
- Á¤º¸°¡ Àü¼Û Áß¿¡ ³ëÃâµÇ´õ¶óµµ µ¥ÀÌÅÍ¸¦ ÀÐÀ» ¼ö ¾øÀ½.
+ ¨ç ½Ã½ºÅÛ ³»ÀÇ Á¤º¸¿Í ÀÚ¿øÀº ÀÎ°¡µÈ »ç¿ëÀÚ¿¡°Ô¸¸ Á¢±ÙÀÌ Çã¿ëµÊ.
+ ¨è Á¤º¸°¡ Àü¼Û Áß¿¡ ³ëÃâµÇ´õ¶óµµ µ¥ÀÌÅÍ¸¦ ÀÐÀ» ¼ö ¾øÀ½.
 
 Answer 1 : ±â¹Ð¼º
 Answer 2 : Confidentiality
@@ -7067,10 +6598,8 @@ Answer 2 : Integrity
 
 No. 775	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ¼ÒÇÁÆ®¿þ¾î °³¹ß º¸¾ÈÀÇ ´Ù¼¸ °¡Áö ¿ä¼Ò Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ½Ã½ºÅÛ ³»ÀÇ Á¤º¸¿Í ÀÚ¿øÀ» »ç¿ëÇÏ·Á´Â »ç¿ëÀÚ°¡ ÇÕ¹ýÀûÀÎ »ç¿ëÀÚÀÎÁö¸¦ È®ÀÎÇÏ´Â ¸ðµç ÇàÀ§.
- 2.
- ´ëÇ¥Àû ¹æ¹ý : ÆÐ½º¿öµå, ÀÎÁõ¿ë Ä«µå, Áö¹® °Ë»ç µî.
+ ¨ç ½Ã½ºÅÛ ³»ÀÇ Á¤º¸¿Í ÀÚ¿øÀ» »ç¿ëÇÏ·Á´Â »ç¿ëÀÚ°¡ ÇÕ¹ýÀûÀÎ »ç¿ëÀÚÀÎÁö¸¦ È®ÀÎÇÏ´Â ¸ðµç ÇàÀ§.
+ ¨è ´ëÇ¥Àû ¹æ¹ý : ÆÐ½º¿öµå, ÀÎÁõ¿ë Ä«µå, Áö¹® °Ë»ç µî.
 
 Answer 1 : ÀÎÁõ
 Answer 2 : Authentication
@@ -7214,12 +6743,9 @@ Q : »ç¿ëÀÚ°¡ ±â¾ïÇÏ°í ÀÖ´Â Á¤º¸¸¦ ±â¹ÝÀ¸·Î ÀÎÁõÀ» ¼öÇàÇÏ´Â °ÍÀº?
  »ç¿ëÀÚÀÇ ±â¾ïÀ» ±â¹ÝÀ¸·Î ÇÏ¹Ç·Î °ü¸® ºñ¿ëÀÌ Àú·ÅÇÏ´Ù.
  »ç¿ëÀÚ°¡ ÀÎÁõ Á¤º¸¸¦ ±â¾ïÇÏÁö ¸øÇÏ¸é º»ÀÎÀÌ¶óµµ ÀÎÁõ ¹ÞÁö ¸øÇÑ´Ù.
  ¡Û¡Û¡Û À¯Çü.
- 1.
- °íÁ¤µÈ ÆÐ½º¿öµå(Password) : »ç¿ëÀÚ°¡ ¾Ë°í ÀÖ´Â ºñ¹Ð¹øÈ£¸¦ Á¢¼ÓÇÒ ¶§¸¶´Ù ¹Ýº¹ÇØ¼­ ÀÔ·ÂÇÔ.
- 2.
- ÆÐ½º ÇÁ·¹ÀÌÁî(Passphrase) : ÀÏ¹Ý ÆÐ½º¿öµåº¸´Ù ±æÀÌ°¡ ±æ°í ±â¾ïÇÏ±â ½¬¿î ¹®ÀåÀ» È°¿ëÇÏ¿© ºñ¹Ð¹øÈ£¸¦ ±¸¼ºÇÏ´Â ¹æ¹ý.
- 3.
- ¾ÆÀÌÇÉ(i-PIN) : ÀÎÅÍ³Ý¿¡¼­ ÁÖ¹Îµî·Ï¹øÈ£ ´ë½Å ¾µ ¼ö ÀÖµµ·Ï ¸¸µç »çÀÌ¹ö ÁÖ¹Îµî·Ï¹øÈ£, »ç¿ëÀÚ¿¡ ´ëÇÑ ½Å¿ø È®ÀÎÀ» ¿Ï·áÇÑ ÈÄ¿¡ º»ÀÎÈ®ÀÎ ±â°ü¿¡¼­ ¿Â¶óÀÎÀ¸·Î ¹ßÇàÇÔ.
+ ¨ç °íÁ¤µÈ ÆÐ½º¿öµå(Password) : »ç¿ëÀÚ°¡ ¾Ë°í ÀÖ´Â ºñ¹Ð¹øÈ£¸¦ Á¢¼ÓÇÒ ¶§¸¶´Ù ¹Ýº¹ÇØ¼­ ÀÔ·ÂÇÔ.
+ ¨è ÆÐ½º ÇÁ·¹ÀÌÁî(Passphrase) : ÀÏ¹Ý ÆÐ½º¿öµåº¸´Ù ±æÀÌ°¡ ±æ°í ±â¾ïÇÏ±â ½¬¿î ¹®ÀåÀ» È°¿ëÇÏ¿© ºñ¹Ð¹øÈ£¸¦ ±¸¼ºÇÏ´Â ¹æ¹ý.
+ ¨é ¾ÆÀÌÇÉ(i-PIN) : ÀÎÅÍ³Ý¿¡¼­ ÁÖ¹Îµî·Ï¹øÈ£ ´ë½Å ¾µ ¼ö ÀÖµµ·Ï ¸¸µç »çÀÌ¹ö ÁÖ¹Îµî·Ï¹øÈ£, »ç¿ëÀÚ¿¡ ´ëÇÑ ½Å¿ø È®ÀÎÀ» ¿Ï·áÇÑ ÈÄ¿¡ º»ÀÎÈ®ÀÎ ±â°ü¿¡¼­ ¿Â¶óÀÎÀ¸·Î ¹ßÇàÇÔ.
 
 Answer 1 : Áö½Ä ±â¹Ý ÀÎÁõ
 Answer 2 : Something You Know
@@ -7229,14 +6755,10 @@ No. 793	 correct : 0,	 incorrect : 0
 Q : »ç¿ëÀÚ°¡ ¼ÒÀ¯ÇÏ°í ÀÖ´Â °ÍÀ» ±â¹ÝÀ¸·Î ÀÎÁõÀ» ¼öÇàÇÏ´Â °ÍÀº?
  ¼ÒÀ¯¹°ÀÌ ½±°Ô µµ¿ëµÉ ¼ö ÀÖÀ¸¹Ç·Î Áö½Ä ±â¹Ý ÀÎÁõ ¹æ½ÄÀÌ³ª »ýÃ¼ ±â¹Ý ÀÎÁõ ¹æ½Ä°ú ÇÔ°Ô »ç¿ëµÈ´Ù.
  ¡Û¡Û¡Û À¯Çü.
- 1.
- ½ÅºÐÁõ : »ç¿ëÀÚÀÇ »çÁøÀÌ Æ÷ÇÔµÈ ÁÖ¹Îµî·ÏÁõ, ¿îÀü¸éÇãÁõ, ¿©±Ç µîÀ» »ç¿ëÇÏ¿© »ç¿ëÀÚÀÇ ½ÅºÐ È®ÀÎ.
- 2.
- ¸Þ¸ð¸® Ä«µå(ÅäÅ«) : ¸¶±×³×Æ½ ¼±¿¡ º¸¾È ÄÚµå¸¦ ÀúÀåÇØ¼­ »ç¿ëÇÏ´Â °ÍÀ¸·Î, Ä«µå ¸®´õ±â¸¦ ÅëÇØ¼­¸¸ ÀÐÀ» ¼ö ÀÖÀ½.
- 3.
- ½º¸¶Æ® Ä«µå : ¸¶ÀÌÅ©·ÎÇÁ·Î¼¼¼­, Ä«µå ¿î¿µÃ¼Á¦, ¸Þ¸ð¸® µîÀ¸·Î ±¸¼ºµÇ¾î »ç¿ëÀÚÀÇ Á¤º¸»Ó¸¸ ¾Æ´Ï¶ó Æ¯Á¤ ¾÷¹«¸¦ Ã³¸®ÇÒ ¼ö ÀÖ´Â ±â´ÉÀÌ ³»ÀåµÇ¾î ÀÖÀ½.
- 4.
- OTP(One Time Password) : »ç¿ëÀÚ°¡ ÆÐ½º¿öµå¸¦ ¿äÃ»ÇÒ ¶§¸¶´Ù ¾ÏÈ£ ¾Ë°í¸®ÁòÀ» ÅëÇØ »õ·Ó°Ô »ý¼ºµÈ ÆÐ½º¿öµå¸¦ »ç¿ëÇÏ´Â °ÍÀ¸·Î, ÇÑ ¹ø »ç¿ëµÈ ÆÐ½º¿öµå´Â Æó±âµÊ.
+ ¨ç ½ÅºÐÁõ : »ç¿ëÀÚÀÇ »çÁøÀÌ Æ÷ÇÔµÈ ÁÖ¹Îµî·ÏÁõ, ¿îÀü¸éÇãÁõ, ¿©±Ç µîÀ» »ç¿ëÇÏ¿© »ç¿ëÀÚÀÇ ½ÅºÐ È®ÀÎ.
+ ¨è ¸Þ¸ð¸® Ä«µå(ÅäÅ«) : ¸¶±×³×Æ½ ¼±¿¡ º¸¾È ÄÚµå¸¦ ÀúÀåÇØ¼­ »ç¿ëÇÏ´Â °ÍÀ¸·Î, Ä«µå ¸®´õ±â¸¦ ÅëÇØ¼­¸¸ ÀÐÀ» ¼ö ÀÖÀ½.
+ ¨é ½º¸¶Æ® Ä«µå : ¸¶ÀÌÅ©·ÎÇÁ·Î¼¼¼­, Ä«µå ¿î¿µÃ¼Á¦, ¸Þ¸ð¸® µîÀ¸·Î ±¸¼ºµÇ¾î »ç¿ëÀÚÀÇ Á¤º¸»Ó¸¸ ¾Æ´Ï¶ó Æ¯Á¤ ¾÷¹«¸¦ Ã³¸®ÇÒ ¼ö ÀÖ´Â ±â´ÉÀÌ ³»ÀåµÇ¾î ÀÖÀ½.
+ ¨êOTP(One Time Password) : »ç¿ëÀÚ°¡ ÆÐ½º¿öµå¸¦ ¿äÃ»ÇÒ ¶§¸¶´Ù ¾ÏÈ£ ¾Ë°í¸®ÁòÀ» ÅëÇØ »õ·Ó°Ô »ý¼ºµÈ ÆÐ½º¿öµå¸¦ »ç¿ëÇÏ´Â °ÍÀ¸·Î, ÇÑ ¹ø »ç¿ëµÈ ÆÐ½º¿öµå´Â Æó±âµÊ.
 
 Answer 1 : ¼ÒÀ¯ ±â¹Ý ÀÎÁõ
 Answer 2 : Something You have
@@ -8383,10 +7905,8 @@ Answer 2 : Simple Mail Transfer Protocol
 
 No. 929	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÀÀ¿ë °èÃþÀÇ ÁÖ¿ä ÇÁ·ÎÅäÄÝ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¸Ö¸® ¶³¾îÁ® ÀÖ´Â ÄÄÇ»ÅÍ¿¡ Á¢¼ÓÇÏ¿© ÀÚ½ÅÀÇ ÄÄÇ»ÅÍÃ³·³ »ç¿ëÇÒ ¼ö ÀÖµµ·Ï ÇØÁÖ´Â ¼­ºñ½º.
- 2.
- ÇÁ·Î±×·¥À» ½ÇÇàÇÏ´Â µî ½Ã½ºÅÛ °ü¸® ÀÛ¾÷À» ÇÒ ¼ö ÀÖ´Â °¡»óÀÇ ÅÍ¹Ì³Î(Virtual Terminal) ±â´ÉÀ» ¼öÇàÇÔ.
+ ¨ç ¸Ö¸® ¶³¾îÁ® ÀÖ´Â ÄÄÇ»ÅÍ¿¡ Á¢¼ÓÇÏ¿© ÀÚ½ÅÀÇ ÄÄÇ»ÅÍÃ³·³ »ç¿ëÇÒ ¼ö ÀÖµµ·Ï ÇØÁÖ´Â ¼­ºñ½º.
+ ¨è ÇÁ·Î±×·¥À» ½ÇÇàÇÏ´Â µî ½Ã½ºÅÛ °ü¸® ÀÛ¾÷À» ÇÒ ¼ö ÀÖ´Â °¡»óÀÇ ÅÍ¹Ì³Î(Virtual Terminal) ±â´ÉÀ» ¼öÇàÇÔ.
 
 Answer 1 : TELNET
 
@@ -8417,20 +7937,13 @@ Answer 2 : Hyper Text Transfer Protocol
 
 No. 933	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº Àü¼Û °èÃþÀÇ ÁÖ¿ä ÇÁ·ÎÅäÄÝ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¾ç¹æÇâ ¿¬°á(Full Duplex Connection)Çü ¼­ºñ½º¸¦ Á¦°øÇÔ.
- 2.
- °¡»ó È¸¼± ¿¬°á(Cirtual Circuit Connection) ÇüÅÂÀÇ ¼­ºñ½º¸¦ Á¦°øÇÔ.
- 3.
- ½ºÆ®¸² À§ÁÖÀÇ Àü´Þ(ÆÐÅ¶ ´ÜÀ§)À» ÇÔ.
- 4.
- ½Å·Ú¼º ÀÖ´Â °æ·Î¸¦ È®¸³ÇÏ°í ¸Þ½ÃÁö Àü¼ÛÀ» °¨µ¶ÇÔ.
- 5.
- ¼ø¼­ Á¦¾î, ¿À·ù Á¦¾î, Èå¸§ Á¦¾î ±â´ÉÀ» ÇÔ.
- 6.
- ÆÐÅ¶ÀÇ ºÐ½Ç, ¼Õ»ó, Áö¿¬ÀÌ³ª ¼ø¼­°¡ Æ²¸° °Í µîÀÌ ¹ß»ýÇÒ ¶§ Åõ¸í¼ºÀÌ º¸ÀåµÇ´Â Åë½ÅÀ» Á¦°øÇÔ.
- 7.
- ¡Û¡Û¡Û ÇÁ·ÎÅäÄÝÀÇ Çì´õ´Â ±âº»ÀûÀ¸·Î 20Byte¿¡¼­ 60Byte±îÁö »ç¿ëÇÒ ¼ö ÀÖ´Âµ¥, ¼±ÅÃÀûÀ¸·Î 40Byte¸¦ ´õ Ãß°¡ÇÒ ¼ö ÀÖÀ¸¹Ç·Î ÃÖ´ë 100Byte±îÁö Å©±â¸¦ È®ÀåÇÒ ¼ö ÀÖÀ½.
+ ¨ç ¾ç¹æÇâ ¿¬°á(Full Duplex Connection)Çü ¼­ºñ½º¸¦ Á¦°øÇÔ.
+ ¨è °¡»ó È¸¼± ¿¬°á(Cirtual Circuit Connection) ÇüÅÂÀÇ ¼­ºñ½º¸¦ Á¦°øÇÔ.
+ ¨é ½ºÆ®¸² À§ÁÖÀÇ Àü´Þ(ÆÐÅ¶ ´ÜÀ§)À» ÇÔ.
+ ¨ê½Å·Ú¼º ÀÖ´Â °æ·Î¸¦ È®¸³ÇÏ°í ¸Þ½ÃÁö Àü¼ÛÀ» °¨µ¶ÇÔ.
+ ¨ë ¼ø¼­ Á¦¾î, ¿À·ù Á¦¾î, Èå¸§ Á¦¾î ±â´ÉÀ» ÇÔ.
+ ¨ì ÆÐÅ¶ÀÇ ºÐ½Ç, ¼Õ»ó, Áö¿¬ÀÌ³ª ¼ø¼­°¡ Æ²¸° °Í µîÀÌ ¹ß»ýÇÒ ¶§ Åõ¸í¼ºÀÌ º¸ÀåµÇ´Â Åë½ÅÀ» Á¦°øÇÔ.
+ ¨í ¡Û¡Û¡Û ÇÁ·ÎÅäÄÝÀÇ Çì´õ´Â ±âº»ÀûÀ¸·Î 20Byte¿¡¼­ 60Byte±îÁö »ç¿ëÇÒ ¼ö ÀÖ´Âµ¥, ¼±ÅÃÀûÀ¸·Î 40Byte¸¦ ´õ Ãß°¡ÇÒ ¼ö ÀÖÀ¸¹Ç·Î ÃÖ´ë 100Byte±îÁö Å©±â¸¦ È®ÀåÇÒ ¼ö ÀÖÀ½.
 
 Answer 1 : TCP
 Answer 2 : Transmission Control Protocol
@@ -8438,16 +7951,11 @@ Answer 2 : Transmission Control Protocol
 
 No. 934	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº Àü¼Û °èÃþÀÇ ÁÖ¿ä ÇÁ·ÎÅäÄÝ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- µ¥ÀÌÅÍ Àü¼Û Àü¿¡ ¿¬°áÀ» ¼³Á¤ÇÏÁö ¾Ê´Â ºñ¿¬°áÇü ¼­ºñ½º¸¦ Á¦°øÇÔ.
- 2.
- TCP¿¡ ºñÇØ »ó´ëÀûÀ¸·Î ´Ü¼øÇÑ Çì´õ ±¸Á¶¸¦ °¡Áö¹Ç·Î, ¿À¹öÇìµå°¡ Àû°í, Èå¸§ Á¦¾î³ª ¼ø¼­ Á¦¾î°¡ ¾ø¾î Àü¼Û ¼Óµµ°¡ ºü¸§.
- 3.
- °í¼ÓÀÇ ¾ÈÁ¤¼º ÀÖ´Â Àü¼Û ¸ÅÃ¼¸¦ »ç¿ëÇÏ¿© ºü¸¥ ¼Óµµ¸¦ ÇÊ¿ä·Î ÇÏ´Â °æ¿ì, µ¿½Ã¿¡ ¿©·¯ »ç¿ëÀÚ¿¡°Ô µ¥ÀÌÅÍ¸¦ Àü´ÞÇÒ °æ¿ì, Á¤±âÀûÀ¸·Î ¹Ýº¹ÇØ¼­ Àü¼ÛÇÒ °æ¿ì¿¡ »ç¿ëÇÔ.
- 4.
- ½Ç½Ã°£ Àü¼Û¿¡ À¯¸®ÇÏ¸ç, ½Å·Ú¼ºº¸´Ù´Â ¼Óµµ°¡ Áß¿ä½ÃµÇ´Â ³×Æ®¿öÅ©¿¡¼­ »ç¿ëµÊ.
- 5.
- ¡Û¡Û¡Û Çì´õ¿¡´Â Source Port Number, Destination Port Number, Length, Checksum µîÀÌ Æ÷ÇÔµÊ.
+ ¨ç µ¥ÀÌÅÍ Àü¼Û Àü¿¡ ¿¬°áÀ» ¼³Á¤ÇÏÁö ¾Ê´Â ºñ¿¬°áÇü ¼­ºñ½º¸¦ Á¦°øÇÔ.
+ ¨è TCP¿¡ ºñÇØ »ó´ëÀûÀ¸·Î ´Ü¼øÇÑ Çì´õ ±¸Á¶¸¦ °¡Áö¹Ç·Î, ¿À¹öÇìµå°¡ Àû°í, Èå¸§ Á¦¾î³ª ¼ø¼­ Á¦¾î°¡ ¾ø¾î Àü¼Û ¼Óµµ°¡ ºü¸§.
+ ¨é °í¼ÓÀÇ ¾ÈÁ¤¼º ÀÖ´Â Àü¼Û ¸ÅÃ¼¸¦ »ç¿ëÇÏ¿© ºü¸¥ ¼Óµµ¸¦ ÇÊ¿ä·Î ÇÏ´Â °æ¿ì, µ¿½Ã¿¡ ¿©·¯ »ç¿ëÀÚ¿¡°Ô µ¥ÀÌÅÍ¸¦ Àü´ÞÇÒ °æ¿ì, Á¤±âÀûÀ¸·Î ¹Ýº¹ÇØ¼­ Àü¼ÛÇÒ °æ¿ì¿¡ »ç¿ëÇÔ.
+ ¨ê½Ç½Ã°£ Àü¼Û¿¡ À¯¸®ÇÏ¸ç, ½Å·Ú¼ºº¸´Ù´Â ¼Óµµ°¡ Áß¿ä½ÃµÇ´Â ³×Æ®¿öÅ©¿¡¼­ »ç¿ëµÊ.
+ ¨ë ¡Û¡Û¡Û Çì´õ¿¡´Â Source Port Number, Destination Port Number, Length, Checksum µîÀÌ Æ÷ÇÔµÊ.
 
 Answer 1 : UDP
 Answer 2 : User Datagram Protocol
@@ -8455,16 +7963,11 @@ Answer 2 : User Datagram Protocol
 
 No. 935	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº Àü¼Û °èÃþÀÇ ÁÖ¿ä ÇÁ·ÎÅäÄÝ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- RTP(Real-time Transport Protocol) ÆÐÅ¶ÀÇ Àü¼Û Ç°ÁúÀ» Á¦¾îÇÏ±â À§ÇÑ Á¦¾î ÇÁ·ÎÅäÄÝ.
- 2.
- ¼¼¼±(Session)¿¡ Âü¿©ÇÑ °¢ Âü¿©ÀÚµé¿¡°Ô ÁÖ±âÀûÀ¸·Î Á¦¾î Á¤º¸¸¦ Àü¼ÛÇÔ.
- 3.
- ÇÏÀ§ ÇÁ·ÎÅäÄÝÀº µ¥ÀÌÅÍ ÆÐÅ¶°ú Á¦¾î ÆÐÅ¶ÀÇ ´ÙÁßÈ­(Multiplexing)¸¦ Á¦°øÇÔ.
- 4.
- µ¥ÀÌÅÍ Àü¼ÛÀ» ¸ð´ÏÅÍ¸µÇÏ°í ÃÖ¼ÒÇÑÀÇ Á¦¾î¿Í ÀÎÁõ ±â´É¸¸À» Á¦°øÇÔ.
- 5.
- ¡Û¡Û¡Û ÆÐÅ¶Àº Ç×»ó 32ºñÆ®ÀÇ °æ°è·Î ³¡³².
+ ¨ç RTP(Real-time Transport Protocol) ÆÐÅ¶ÀÇ Àü¼Û Ç°ÁúÀ» Á¦¾îÇÏ±â À§ÇÑ Á¦¾î ÇÁ·ÎÅäÄÝ.
+ ¨è ¼¼¼±(Session)¿¡ Âü¿©ÇÑ °¢ Âü¿©ÀÚµé¿¡°Ô ÁÖ±âÀûÀ¸·Î Á¦¾î Á¤º¸¸¦ Àü¼ÛÇÔ.
+ ¨é ÇÏÀ§ ÇÁ·ÎÅäÄÝÀº µ¥ÀÌÅÍ ÆÐÅ¶°ú Á¦¾î ÆÐÅ¶ÀÇ ´ÙÁßÈ­(Multiplexing)¸¦ Á¦°øÇÔ.
+ ¨êµ¥ÀÌÅÍ Àü¼ÛÀ» ¸ð´ÏÅÍ¸µÇÏ°í ÃÖ¼ÒÇÑÀÇ Á¦¾î¿Í ÀÎÁõ ±â´É¸¸À» Á¦°øÇÔ.
+ ¨ë ¡Û¡Û¡Û ÆÐÅ¶Àº Ç×»ó 32ºñÆ®ÀÇ °æ°è·Î ³¡³².
 
 Answer 1 : RTCP
 Answer 2 : Real-Time Control Protocol
@@ -8472,8 +7975,7 @@ Answer 2 : Real-Time Control Protocol
 
 No. 936	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÀÎÅÍ³Ý °èÃþÀÇ ÁÖ¿ä ÇÁ·ÎÅäÄÝ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Àü¼ÛÇÒ µ¥ÀÌÅÍ¿¡ ÁÖ¼Ò¸¦ ÁöÁ¤ÇÏ°í, °æ·Î¸¦ ¼³Á¤ÇÏ´Â ±â´ÉÀ» ÇÔ.
+ ¨ç Àü¼ÛÇÒ µ¥ÀÌÅÍ¿¡ ÁÖ¼Ò¸¦ ÁöÁ¤ÇÏ°í, °æ·Î¸¦ ¼³Á¤ÇÏ´Â ±â´ÉÀ» ÇÔ.
 
 Answer 1 : IP
 Answer 2 : Internet Protocol
@@ -8481,10 +7983,8 @@ Answer 2 : Internet Protocol
 
 No. 937	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ÀÎÅÍ³Ý °èÃþÀÇ ÁÖ¿ä ÇÁ·ÎÅäÄÝ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- IP¿Í Á¶ÇÕÇÏ¿© Åë½ÅÁß¿¡ ¹ß»ýÇÏ´Â ¿À·ùÀÇ Ã³¸®¿Í Àü¼Û °æ·Î º¯°æ µîÀ» À§ÇÑ Á¦¾î ¸Þ½ÃÁö¸¦ °ü¸®ÇÏ´Â ¿ªÇÒÀ» ÇÔ.
- 2.
- Çì´õ´Â 8Byte·Î ±¸¼ºµÊ.
+ ¨ç IP¿Í Á¶ÇÕÇÏ¿© Åë½ÅÁß¿¡ ¹ß»ýÇÏ´Â ¿À·ùÀÇ Ã³¸®¿Í Àü¼Û °æ·Î º¯°æ µîÀ» À§ÇÑ Á¦¾î ¸Þ½ÃÁö¸¦ °ü¸®ÇÏ´Â ¿ªÇÒÀ» ÇÔ.
+ ¨è Çì´õ´Â 8Byte·Î ±¸¼ºµÊ.
 
 Answer 1 : ICMP
 Answer 2 : Internet Control Message Protocol
@@ -8563,10 +8063,8 @@ Answer 3 : »ç¹°ÀÎÅÍ³Ý
 
 No. 947	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¹«¼± Åë½ÅÀ» ÀÌ¿ëÇÑ ±â°è¿Í ±â°è »çÀÌÀÇ Åë½Å.
- 2.
- º¯¾Ð±â ¿ø°Ý °¨½Ã, Àü±â, °¡½º µîÀÇ ¿ø°Ý °ËÄ§, ¹«¼± ½Å¿ëÄ«µå Á¶È¸±â, ¹«¼± º¸¾È´Ü¸»±â, ¹ö½º ¿îÇà ½Ã½ºÅÛ, À§Ä¡ ÃßÀû ½Ã½ºÅÛ, ½Ã¼³¹° °ü¸® µîÀ» ¹«¼±À¸·Î ÅëÇÕÇÏ¿© »óÈ£ ÀÛ¿ëÇÏ´Â Åë½Å.
+ ¨ç ¹«¼± Åë½ÅÀ» ÀÌ¿ëÇÑ ±â°è¿Í ±â°è »çÀÌÀÇ Åë½Å.
+ ¨è º¯¾Ð±â ¿ø°Ý °¨½Ã, Àü±â, °¡½º µîÀÇ ¿ø°Ý °ËÄ§, ¹«¼± ½Å¿ëÄ«µå Á¶È¸±â, ¹«¼± º¸¾È´Ü¸»±â, ¹ö½º ¿îÇà ½Ã½ºÅÛ, À§Ä¡ ÃßÀû ½Ã½ºÅÛ, ½Ã¼³¹° °ü¸® µîÀ» ¹«¼±À¸·Î ÅëÇÕÇÏ¿© »óÈ£ ÀÛ¿ëÇÏ´Â Åë½Å.
 
 Answer 1 : M2M
 Answer 2 : Machine to Machine
@@ -8616,10 +8114,8 @@ Answer 2 : Inter-Cloud Computing
 
 No. 953	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Â÷¼¼´ë ÀÌµ¿Åë½Å, È¨³×Æ®¿öÅ·, °ø°ø ¾ÈÀü µî Æ¯¼ö ¸ñÀûÀ» À§ÇÑ »õ·Î¿î ¹æ½ÄÀÇ ³×Æ®¿öÅ© ±â¼ú.
- 2.
- ´ë±Ô¸ð µð¹ÙÀÌ½ºÀÇ ³×Æ®¿öÅ© »ý¼º¿¡ ÃÖÀûÈ­µÇ¾î ÀÖÀ½.
+ ¨ç Â÷¼¼´ë ÀÌµ¿Åë½Å, È¨³×Æ®¿öÅ·, °ø°ø ¾ÈÀü µî Æ¯¼ö ¸ñÀûÀ» À§ÇÑ »õ·Î¿î ¹æ½ÄÀÇ ³×Æ®¿öÅ© ±â¼ú.
+ ¨è ´ë±Ô¸ð µð¹ÙÀÌ½ºÀÇ ³×Æ®¿öÅ© »ý¼º¿¡ ÃÖÀûÈ­µÇ¾î ÀÖÀ½.
 
 Answer 1 : ¸Þ½Ã ³×Æ®¿öÅ©
 Answer 2 : Mesh Network
@@ -8635,10 +8131,8 @@ Answer 2 : Wi-SUN
 
 No. 955	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÄÜÅÙÃ÷ ÀÚÃ¼ÀÇ Á¤º¸¿Í ¶ó¿ìÅÍ ±â´É¸¸À¸·Î µ¥ÀÌÅÍ Àü¼ÛÀ» ¼öÇàÇÏ´Â ±â¼ú.
- 2.
- Å¬¶óÀÌ¾ðÆ®¿Í ¼­¹ö°¡ ÆÐÅ¶ÀÇ Çì´õ¿¡ ³»ÀåµÇ¾î ÀÖ´Â ÁÖ¼Ò Á¤º¸¸¦ ÀÌ¿ëÇÏ¿© ¿¬°áµÇ´ø ±âÁ¸ÀÇ IP(Internet Protocol)¸ÁÀ» ´ëÃ¼ÇÒ »õ·Î¿î ÀÎÅÍ³Ý ¾ÆÅ°ÅØÃ³·Î ¶°¿À¸£°í ÀÖÀ½.
+ ¨ç ÄÜÅÙÃ÷ ÀÚÃ¼ÀÇ Á¤º¸¿Í ¶ó¿ìÅÍ ±â´É¸¸À¸·Î µ¥ÀÌÅÍ Àü¼ÛÀ» ¼öÇàÇÏ´Â ±â¼ú.
+ ¨è Å¬¶óÀÌ¾ðÆ®¿Í ¼­¹ö°¡ ÆÐÅ¶ÀÇ Çì´õ¿¡ ³»ÀåµÇ¾î ÀÖ´Â ÁÖ¼Ò Á¤º¸¸¦ ÀÌ¿ëÇÏ¿© ¿¬°áµÇ´ø ±âÁ¸ÀÇ IP(Internet Protocol)¸ÁÀ» ´ëÃ¼ÇÒ »õ·Î¿î ÀÎÅÍ³Ý ¾ÆÅ°ÅØÃ³·Î ¶°¿À¸£°í ÀÖÀ½.
 
 Answer 1 : NDN
 Answer 2 : Named Data Networking
@@ -8646,10 +8140,8 @@ Answer 2 : Named Data Networking
 
 No. 956	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ITU-T¿¡¼­ °³¹ßÇÏ°í ÀÖ´Â À¯¼±¸Á ±â¹ÝÀÇ Â÷¼¼´ë Åë½Å¸Á.
- 2.
- À¯¼±¸Á»Ó¸¸ ¾Æ´Ï¶ó ÀÌµ¿ »ç¿ëÀÚ¸¦ ¸ñÇ¥·Î ÇÏ¸ç, ÀÌµ¿Åë½Å¿¡¼­ Á¦°øÇÏ´Â ¿ÏÀüÇÑ ÀÌµ¿¼º(Full Mobility) Á¦°øÀ» ¸ñÇ¥·Î °³¹ßµÇ°í ÀÖÀ½.
+ ¨ç ITU-T¿¡¼­ °³¹ßÇÏ°í ÀÖ´Â À¯¼±¸Á ±â¹ÝÀÇ Â÷¼¼´ë Åë½Å¸Á.
+ ¨è À¯¼±¸Á»Ó¸¸ ¾Æ´Ï¶ó ÀÌµ¿ »ç¿ëÀÚ¸¦ ¸ñÇ¥·Î ÇÏ¸ç, ÀÌµ¿Åë½Å¿¡¼­ Á¦°øÇÏ´Â ¿ÏÀüÇÑ ÀÌµ¿¼º(Full Mobility) Á¦°øÀ» ¸ñÇ¥·Î °³¹ßµÇ°í ÀÖÀ½.
 
 Answer 1 : NGN
 Answer 2 : Next Generation Network
@@ -8667,10 +8159,8 @@ Answer 3 : ¼ÒÇÁÆ®¿þ¾î Á¤ÀÇ ³×Æ®¿öÅ·
 
 No. 958	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °íÁÖÆÄ(HF)¸¦ ÀÌ¿ëÇÑ ±Ù°Å¸® ¹«¼± Åë½Å ±â¼ú.
- 2.
- ¾ÆÁÖ °¡±î¿î °Å¸®¿¡¼­ ¾ç¹æÇâ Åë½ÅÀ» Áö¿øÇÏ´Â RFID ±â¼úÀÇ ÀÏÁ¾ÀÓ.
+ ¨ç °íÁÖÆÄ(HF)¸¦ ÀÌ¿ëÇÑ ±Ù°Å¸® ¹«¼± Åë½Å ±â¼ú.
+ ¨è ¾ÆÁÖ °¡±î¿î °Å¸®¿¡¼­ ¾ç¹æÇâ Åë½ÅÀ» Áö¿øÇÏ´Â RFID ±â¼úÀÇ ÀÏÁ¾ÀÓ.
 
 Answer 1 : NFC
 Answer 2 : Near Field Communication
@@ -8680,8 +8170,7 @@ Answer 3 : ±Ù°Å¸® ¹«¼± Åë½Å
 No. 959	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
  ÂªÀº °Å¸®¿¡¼­ ¸¹Àº ¾çÀÇ µðÁöÅÐ µ¥ÀÌÅÍ¸¦ ³·Àº Àü·ÂÀ¸·Î Àü¼ÛÇÏ±â À§ÇÑ ¹«¼± ±â¼ú·Î ¹«¼± µðÁöÅÐ ÆÞ½º¶ó°íµµ ÇÔ.
- 2.
- 1/2mW Á¤µµÀ¸ ÀúÀü·ÂÀ¸·Î ¸¹Àº ¾çÀÇ µ¥ÀÌÅÍ¸¦ 1kmÀÇ °Å¸®±îÁö Àü¼ÛÇÒ ¼ö ÀÖÀ» »Ó¸¸ ¾Æ´Ï¶ó, ¶¥¼ÓÀÌ³ª º®¸é µÚ·Îµµ Àü¼ÛÀÌ °¡´ÉÇÔ.
+ ¨è 1/2mW Á¤µµÀ¸ ÀúÀü·ÂÀ¸·Î ¸¹Àº ¾çÀÇ µ¥ÀÌÅÍ¸¦ 1kmÀÇ °Å¸®±îÁö Àü¼ÛÇÒ ¼ö ÀÖÀ» »Ó¸¸ ¾Æ´Ï¶ó, ¶¥¼ÓÀÌ³ª º®¸é µÚ·Îµµ Àü¼ÛÀÌ °¡´ÉÇÔ.
 
 Answer 1 : UWB
 Answer 2 : Ultra WideBand
@@ -8706,10 +8195,8 @@ Answer 2 : Wireless Body Area Network
 
 No. 962	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Áö¸®ÀûÀÎ ÀÚ·á¸¦ ¼öÁý¡¤ÀúÀå¡¤ºÐ¼®¡¤Ãâ·ÂÇÒ ¼ö ÀÖ´Â ÄÄÇ»ÅÍ ÀÀ¿ë ½Ã½ºÅÛ.
- 2.
- À§¼ºÀ» ÀÌ¿ëÇØ ¸ðµç »ç¹°ÀÇ À§Ä¡ Á¤º¸¸¦ Á¦°øÇØ ÁÜ.
+ ¨ç Áö¸®ÀûÀÎ ÀÚ·á¸¦ ¼öÁý¡¤ÀúÀå¡¤ºÐ¼®¡¤Ãâ·ÂÇÒ ¼ö ÀÖ´Â ÄÄÇ»ÅÍ ÀÀ¿ë ½Ã½ºÅÛ.
+ ¨è À§¼ºÀ» ÀÌ¿ëÇØ ¸ðµç »ç¹°ÀÇ À§Ä¡ Á¤º¸¸¦ Á¦°øÇØ ÁÜ.
 
 Answer 1 : GIS
 Answer 2 : Geographic Information System
@@ -8718,10 +8205,8 @@ Answer 3 : Áö¸® Á¤º¸ ½Ã½ºÅÛ
 
 No. 963	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- °¢Á¾ ¼¾¼­·Î ¼öÁýÇÑ Á¤º¸¸¦ ¹«¼±À¸·Î ¼öÁýÇÒ ¼ö ÀÖµµ·Ï ±¸¼ºÇÑ ³×Æ®¿öÅ©.
- 2.
- ÇÊ¿äÇÑ ¸ðµç °Í¿¡ RFID ÅÂ±×¸¦ ºÎÂøÇÏ°í, ÀÌ¸¦ ÅëÇÏ¿© »ç¹°ÀÇ ÀÎ½ÄÁ¤º¸´Â ¹°·Ð ÁÖº¯ÀÇ È¯°æÁ¤º¸±îÁö Å½ÁöÇÏ¿© ÀÌ¸¦ ³×À¸ÅýÅ©¿¡ ¿¬°áÇÏ¿© Á¤º¸¸¦ °ü¸®ÇÔ.
+ ¨ç °¢Á¾ ¼¾¼­·Î ¼öÁýÇÑ Á¤º¸¸¦ ¹«¼±À¸·Î ¼öÁýÇÒ ¼ö ÀÖµµ·Ï ±¸¼ºÇÑ ³×Æ®¿öÅ©.
+ ¨è ÇÊ¿äÇÑ ¸ðµç °Í¿¡ RFID ÅÂ±×¸¦ ºÎÂøÇÏ°í, ÀÌ¸¦ ÅëÇÏ¿© »ç¹°ÀÇ ÀÎ½ÄÁ¤º¸´Â ¹°·Ð ÁÖº¯ÀÇ È¯°æÁ¤º¸±îÁö Å½ÁöÇÏ¿© ÀÌ¸¦ ³×À¸ÅýÅ©¿¡ ¿¬°áÇÏ¿© Á¤º¸¸¦ °ü¸®ÇÔ.
 
 Answer 1 : USN
 Answer 2 : Ubiquitous Sensor Network
@@ -8730,10 +8215,8 @@ Answer 3 : À¯ºñÄõÅÍ½º ¼¾¼­ ³×Æ®¿öÅ©
 
 No. 964	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÁÖº¯ »óÈ²¿¡ ¸ÂÃß¾î ½º½º·Î ¸ÁÀ» ±¸¼ºÇÏ´Â ³×Æ®¿öÅ©.
- 2.
- ¡Û¡Û¡ÛÀÇ ¸ñÀûÀº Åë½Å¸Á Ä¿¹ö¸®Áö ¹× Àü¼Û ¿ë·® È®ÀåÀÇ °æÁ¦¼º ¹®Á¦¸¦ ÇØ°áÇÏ°í, ¸ÁÀÇ ¿î¿µ°ú °ü¸®ÀÇ È¿À²¼ºÀ» ³ôÀÌ´Â °ÍÀÓ.
+ ¨ç ÁÖº¯ »óÈ²¿¡ ¸ÂÃß¾î ½º½º·Î ¸ÁÀ» ±¸¼ºÇÏ´Â ³×Æ®¿öÅ©.
+ ¨è ¡Û¡Û¡ÛÀÇ ¸ñÀûÀº Åë½Å¸Á Ä¿¹ö¸®Áö ¹× Àü¼Û ¿ë·® È®ÀåÀÇ °æÁ¦¼º ¹®Á¦¸¦ ÇØ°áÇÏ°í, ¸ÁÀÇ ¿î¿µ°ú °ü¸®ÀÇ È¿À²¼ºÀ» ³ôÀÌ´Â °ÍÀÓ.
 
 Answer 1 : SON
 Answer 2 : Self Organizing Network
@@ -8742,10 +8225,8 @@ Answer 3 : ÀÚµ¿ ±¸¼º ³×Æ®¿öÅ©
 
 No. 965	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Àç³­ ÇöÀå°ú °°ÀÌ º°µµÀÇ °íÁ¤µÈ À¯¼±¸ÁÀ» ±¸ÃàÇÒ ¼ö ¾ø´Â Àå¼Ò¿¡¼­ ¸ð¹ÙÀÏ È£½ºÆ®(Mobile Host)¸¸À» ÀÌ¿ëÇÏ¿© ±¸¼ºÇÑ ³×Æ®¿öÅ©.
- 2.
- ¸ÁÀ» ±¸¼ºÇÑ ÈÄ ´Ü±â°£ »ç¿ëµÇ´Â °æ¿ì³ª À¯¼±¸ÁÀ» ±¸¼ºÇÏ±â ¾î·Á¿î °æ¿ì¿¡ ÀûÇÕÇÔ.
+ ¨ç Àç³­ ÇöÀå°ú °°ÀÌ º°µµÀÇ °íÁ¤µÈ À¯¼±¸ÁÀ» ±¸ÃàÇÒ ¼ö ¾ø´Â Àå¼Ò¿¡¼­ ¸ð¹ÙÀÏ È£½ºÆ®(Mobile Host)¸¸À» ÀÌ¿ëÇÏ¿© ±¸¼ºÇÑ ³×Æ®¿öÅ©.
+ ¨è ¸ÁÀ» ±¸¼ºÇÑ ÈÄ ´Ü±â°£ »ç¿ëµÇ´Â °æ¿ì³ª À¯¼±¸ÁÀ» ±¸¼ºÇÏ±â ¾î·Á¿î °æ¿ì¿¡ ÀûÇÕÇÔ.
 
 Answer 1 : ¾Öµå È¤ ³×Æ®¿öÅ©
 Answer 2 : Ad-hoc Network
@@ -8753,10 +8234,8 @@ Answer 2 : Ad-hoc Network
 
 No. 966	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ³×Æ®¿öÅ©¿¡¼­ ÇÏ³ªÀÇ ¹°¸®ÀûÀÎ ÄÚ¾î ³×Æ®¿öÅ© ÀÎÇÁ¶ó(Infrastructure)¸¦ µ¶¸³µÈ ´Ù¼öÀÇ °¡»ó ³×Æ®¿öÅ©·Î ºÐ¸®ÇÏ¿© °¢°¢ÀÇ ³×Æ®¿öÅ©¸¦ ÅëÇØ ´Ù¾çÇÑ °í°´ ¸ÂÃãÇü ¼­ºñ½º¸¦ Á¦°øÇÏ´Â °ÍÀ» ¸ñÀûÀ¸·Î ÇÏ´Â ³×Æ®¿öÅ© ±â¼ú.
- 2.
- #FPP¸¦ Æ÷ÇÔÇÑ ¿©·¯ ±Û·Î¹ú ÀÌµ¿Åë½Å Ç¥ÁØÈ­ ´ÜÃ¼°¡ ¼±Á¤ÇÑ 5G(IMT-2020)ÀÇ ÇÙ½É±â¼ú Áß ÇÏ³ªÀÓ.
+ ¨ç ³×Æ®¿öÅ©¿¡¼­ ÇÏ³ªÀÇ ¹°¸®ÀûÀÎ ÄÚ¾î ³×Æ®¿öÅ© ÀÎÇÁ¶ó(Infrastructure)¸¦ µ¶¸³µÈ ´Ù¼öÀÇ °¡»ó ³×Æ®¿öÅ©·Î ºÐ¸®ÇÏ¿© °¢°¢ÀÇ ³×Æ®¿öÅ©¸¦ ÅëÇØ ´Ù¾çÇÑ °í°´ ¸ÂÃãÇü ¼­ºñ½º¸¦ Á¦°øÇÏ´Â °ÍÀ» ¸ñÀûÀ¸·Î ÇÏ´Â ³×Æ®¿öÅ© ±â¼ú.
+ ¨è #FPP¸¦ Æ÷ÇÔÇÑ ¿©·¯ ±Û·Î¹ú ÀÌµ¿Åë½Å Ç¥ÁØÈ­ ´ÜÃ¼°¡ ¼±Á¤ÇÑ 5G(IMT-2020)ÀÇ ÇÙ½É±â¼ú Áß ÇÏ³ªÀÓ.
 
 Answer 1 : ³×Æ®¿öÅ© ½½¶óÀÌ½Ì
 Answer 2 : Network Slicing
@@ -8780,10 +8259,8 @@ Answer 1 : Áö´ÉÇü ÃÊ¿¬°á¸Á
 
 No. 969	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ±¤¼¶À¯¸¦ ÀÌ¿ëÇÑ Åë½Å±â¼úÀÇ ÇÏ³ª·Î, ÆÄÀåÀÌ ¼­·Î ´Ù¸¥ º¹¼öÀÇ ½ÅÈ£¸¦ º¸³¿À¸·Î½á ¿©·¯ ´ëÀÇ ´Ü¸»±â°¡ µ¿½Ã¿¡ Åë½Å È¸¼±À» »ç¿ëÇÒ ¼ö ÀÖµµ·Ï ÇÏ´Â °Í.
- 2.
- ÆÄÀåÀÌ ´Ù¸¥ ±¤¼±³¢¸®´Â ¼­·Î °£¼·À» ÀÏÀ¸Å°Áö ¾Ê´Â ¼ºÁúÀ» ÀÌ¿ëÇÑ ±â¼úÀÓ.
+ ¨ç ±¤¼¶À¯¸¦ ÀÌ¿ëÇÑ Åë½Å±â¼úÀÇ ÇÏ³ª·Î, ÆÄÀåÀÌ ¼­·Î ´Ù¸¥ º¹¼öÀÇ ½ÅÈ£¸¦ º¸³¿À¸·Î½á ¿©·¯ ´ëÀÇ ´Ü¸»±â°¡ µ¿½Ã¿¡ Åë½Å È¸¼±À» »ç¿ëÇÒ ¼ö ÀÖµµ·Ï ÇÏ´Â °Í.
+ ¨è ÆÄÀåÀÌ ´Ù¸¥ ±¤¼±³¢¸®´Â ¼­·Î °£¼·À» ÀÏÀ¸Å°Áö ¾Ê´Â ¼ºÁúÀ» ÀÌ¿ëÇÑ ±â¼úÀÓ.
 
 Answer 1 : ÆÄÀå ºÐÇÒ ´ÙÁßÈ­
 Answer 2 : WDM
@@ -8792,12 +8269,9 @@ Answer 3 : Wavelength Division Multiplexing
 
 No. 970	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- µ¥ÀÌÅÍ ¼¾ÅÍÀÇ ¸ðµç ÀÚ¿øÀ» °¡»óÈ­ÇÏ¿© ÀÎ·ÂÀÇ °³ÀÔ¾øÀÌ ¼ÒÇÁÆ®¿þ¾î Á¶ÀÛ¸¸À¸·Î °ü¸® ¹× Á¦¾îµÇ´Â µ¥ÀÌÅÍ ¼¾ÅÍ¸¦ ÀÇ¹ÌÇÔ.
- 2.
- ÄÄÇ»ÆÃ, ³×Æ®¿öÅ·, ½ºÅä¸®Áö, °ü¸® µîÀ» ¸ðµÎ ¼ÒÇÁÆ®¿þ¾î·Î Á¤ÀÇÇÔ.
- 3.
- ´Ù¾çÇÑ ¼ÒÇÁÆ®¿þ¾î Á¤ÀÇ ±â¼úÀÌ »ç¿ëµÊ.
+ ¨ç µ¥ÀÌÅÍ ¼¾ÅÍÀÇ ¸ðµç ÀÚ¿øÀ» °¡»óÈ­ÇÏ¿© ÀÎ·ÂÀÇ °³ÀÔ¾øÀÌ ¼ÒÇÁÆ®¿þ¾î Á¶ÀÛ¸¸À¸·Î °ü¸® ¹× Á¦¾îµÇ´Â µ¥ÀÌÅÍ ¼¾ÅÍ¸¦ ÀÇ¹ÌÇÔ.
+ ¨è ÄÄÇ»ÆÃ, ³×Æ®¿öÅ·, ½ºÅä¸®Áö, °ü¸® µîÀ» ¸ðµÎ ¼ÒÇÁÆ®¿þ¾î·Î Á¤ÀÇÇÔ.
+ ¨é ´Ù¾çÇÑ ¼ÒÇÁÆ®¿þ¾î Á¤ÀÇ ±â¼úÀÌ »ç¿ëµÊ.
 
 Answer 1 : ¼ÒÇÁÆ®¿þ¾î Á¤ÀÇ µ¥ÀÌÅÍ ¼¾ÅÍ
 Answer 2 : SDDC
@@ -8806,10 +8280,8 @@ Answer 3 : Software Defined Data Center
 
 No. 971	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Linked Data¿Í Open DataÀÇ ÇÕ¼º¾î·Î, ´©±¸³ª »ç¿ëÇÒ ¼ö ÀÖµµ·Ï À¥»ó¿¡ °ø°³µÈ ¿¬°è µ¥ÀÌÅÍ¸¦ ÀÇ¹ÌÇÔ.
- 2.
- À¥»ó¿¡ Á¸ÀçÇÏ´Â µ¥ÀÌÅÍ¸¦ °³º° URI(ÀÎÅÍ³Ý ½Äº°ÀÚ)·Î ½Äº°ÇÏ°í, °¢ URI¿¡ ¸µÅ© Á¤º¸¸¦ ºÎ¿©ÇÔÀ¸·Î½á »óÈ£ ¿¬°áµÈ À¥À» ÁöÇâÇÏ´Â ¸ðÇüÀÓ.
+ ¨ç Linked Data¿Í Open DataÀÇ ÇÕ¼º¾î·Î, ´©±¸³ª »ç¿ëÇÒ ¼ö ÀÖµµ·Ï À¥»ó¿¡ °ø°³µÈ ¿¬°è µ¥ÀÌÅÍ¸¦ ÀÇ¹ÌÇÔ.
+ ¨è À¥»ó¿¡ Á¸ÀçÇÏ´Â µ¥ÀÌÅÍ¸¦ °³º° URI(ÀÎÅÍ³Ý ½Äº°ÀÚ)·Î ½Äº°ÇÏ°í, °¢ URI¿¡ ¸µÅ© Á¤º¸¸¦ ºÎ¿©ÇÔÀ¸·Î½á »óÈ£ ¿¬°áµÈ À¥À» ÁöÇâÇÏ´Â ¸ðÇüÀÓ.
 
 Answer 1 : °³¹æÇü ¸µÅ©µå µ¥ÀÌÅÍ
 Answer 2 : LOD
@@ -8818,12 +8290,9 @@ Answer 3 : Linked Open Data
 
 No. 972	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ© °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÑ ¹øÀÇ ·Î±×ÀÎÀ¸·Î °³ÀÎÀÌ °¡ÀÔÇÑ ¸ðµç »çÀÌÆ®¸¦ ÀÌ¿ëÇÒ ¼ö ÀÖ°Ô ÇØÁÖ´Â ½Ã½ºÅÛ.
- 2.
- °³ÀÎÁ¤º¸¸¦ °¢ »çÀÌÆ®¸¶´Ù ÀÏÀÏÀÌ ±â·ÏÇØ¾ß ÇÏ´ø ºÒÆíÇÔÀ» ÇØ¼ÒÇÒ ¼ö ÀÖÀ½.
- 3.
- ±â¾÷¿¡¼­´Â È¸¿ø¿¡ ´ëÇÑ ÅëÇÕ°ü¸®°¡ °¡´ÉÇØ ¸¶ÄÉÆÃÀ» ±Ø´ëÈ­½ÃÅ³ ¼ö ÀÖÀ½.
+ ¨ç ÇÑ ¹øÀÇ ·Î±×ÀÎÀ¸·Î °³ÀÎÀÌ °¡ÀÔÇÑ ¸ðµç »çÀÌÆ®¸¦ ÀÌ¿ëÇÒ ¼ö ÀÖ°Ô ÇØÁÖ´Â ½Ã½ºÅÛ.
+ ¨è °³ÀÎÁ¤º¸¸¦ °¢ »çÀÌÆ®¸¶´Ù ÀÏÀÏÀÌ ±â·ÏÇØ¾ß ÇÏ´ø ºÒÆíÇÔÀ» ÇØ¼ÒÇÒ ¼ö ÀÖÀ½.
+ ¨é ±â¾÷¿¡¼­´Â È¸¿ø¿¡ ´ëÇÑ ÅëÇÕ°ü¸®°¡ °¡´ÉÇØ ¸¶ÄÉÆÃÀ» ±Ø´ëÈ­½ÃÅ³ ¼ö ÀÖÀ½.
 
 Answer 1 : SSO
 Answer 2 : Single Sign On
@@ -8895,14 +8364,10 @@ Answer 2 : Mesh
 
 No. 979	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ©ÀÇ ºÐ·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- È¸»ç, ÇÐ±³, ¿¬±¸¼Ò µî¿¡¼­ ºñ±³Àû °¡±î¿î °Å¸®¿¡ ÀÖ´Â ÄÄÇ»ÅÍ, ÇÁ¸°ÅÍ, ÀúÀåÀåÄ¡ µî°ú °°Àº ÀÚ¿øÀ» ¿¬°áÇÏ¿© ±¸¼ºÇÔ.
- 2.
- ÁÖ·Î ÀÚ¿ø °øÀ¯¸¦ ¸ñÀûÀ¸·Î »ç¿ëÇÔ.
- 3.
- »çÀÌÆ® °£ÀÇ °Å¸®°¡ Âª¾Æ µ¥ÀÌÅÍÀÇ Àü¼Û ¼Óµµ°¡ ºü¸£°í, ¿¡·¯ ¹ß»ýÀ²ÀÌ ³·À½.
- 4.
- ÁÖ·Î ¹ö½ºÇüÀÌ³ª ¸µÇü ±¸Á¶¸¦ »ç¿ëÇÔ.
+ ¨ç È¸»ç, ÇÐ±³, ¿¬±¸¼Ò µî¿¡¼­ ºñ±³Àû °¡±î¿î °Å¸®¿¡ ÀÖ´Â ÄÄÇ»ÅÍ, ÇÁ¸°ÅÍ, ÀúÀåÀåÄ¡ µî°ú °°Àº ÀÚ¿øÀ» ¿¬°áÇÏ¿© ±¸¼ºÇÔ.
+ ¨è ÁÖ·Î ÀÚ¿ø °øÀ¯¸¦ ¸ñÀûÀ¸·Î »ç¿ëÇÔ.
+ ¨é »çÀÌÆ® °£ÀÇ °Å¸®°¡ Âª¾Æ µ¥ÀÌÅÍÀÇ Àü¼Û ¼Óµµ°¡ ºü¸£°í, ¿¡·¯ ¹ß»ýÀ²ÀÌ ³·À½.
+ ¨êÁÖ·Î ¹ö½ºÇüÀÌ³ª ¸µÇü ±¸Á¶¸¦ »ç¿ëÇÔ.
 
 Answer 1 : ±Ù°Å¸® Åë½Å¸Á
 Answer 2 : LAN
@@ -8911,12 +8376,9 @@ Answer 3 : Local Area Network
 
 No. 980	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ³×Æ®¿öÅ©ÀÇ ºÐ·ù Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ±¹°¡¿Í ±¹°¡ È¤Àº ´ë·ú°ú ´ë·ú µî°ú °°ÀÌ ¸Ö¸® ¶³¾îÁø »çÀÌÆ®µéÀ» ¿¬°áÇÏ¿© ±¸¼ºÇÔ.
- 2.
- »çÀÌÆ® °£ÀÇ °Å¸®°¡ ¸Ö±â ¶§¹®¿¡ Åë½Å ¼Óµµ°¡ ´À¸®°í, ¿¡·¯ ¹ß»ý·üÀÌ ³ôÀ½.
- 3.
- ÀÏÁ¤ÇÑ Áö¿ª¿¡ ÀÖ´Â »çÀÌÆ®µéÀ» ±Ù°Å¸® Åë½Å¸ÁÀ¸·Î ¿¬°áÇÑ ÈÄ °¢ ±Ù°Å¸® Åë½Å¸ÁÀ» ¿¬°áÇÏ´Â ¹æ½ÄÀ» »ç¿ëÇÔ.
+ ¨ç ±¹°¡¿Í ±¹°¡ È¤Àº ´ë·ú°ú ´ë·ú µî°ú °°ÀÌ ¸Ö¸® ¶³¾îÁø »çÀÌÆ®µéÀ» ¿¬°áÇÏ¿© ±¸¼ºÇÔ.
+ ¨è »çÀÌÆ® °£ÀÇ °Å¸®°¡ ¸Ö±â ¶§¹®¿¡ Åë½Å ¼Óµµ°¡ ´À¸®°í, ¿¡·¯ ¹ß»ý·üÀÌ ³ôÀ½.
+ ¨é ÀÏÁ¤ÇÑ Áö¿ª¿¡ ÀÖ´Â »çÀÌÆ®µéÀ» ±Ù°Å¸® Åë½Å¸ÁÀ¸·Î ¿¬°áÇÑ ÈÄ °¢ ±Ù°Å¸® Åë½Å¸ÁÀ» ¿¬°áÇÏ´Â ¹æ½ÄÀ» »ç¿ëÇÔ.
 
 Answer 1 : ±¤´ë¿ª Åë½Å¸Á
 Answer 2 : WAN
@@ -9018,10 +8480,8 @@ Answer 1 : ´º¹Ìµð¾î ¼­ºñ½º °³ÀÎÁ¤º¸ º¸È£ °¡ÀÌµå¶óÀÎ
 
 No. 994	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº IT ±â¼ú °ü·Ã ±ÔÁ¤ Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Á¤º¸ ÀÚ»êÀ» ¾ÈÀüÇÏ°Ô º¸È£ÇÏ±â À§ÇÑ º¸È£ ÀýÂ÷¿Í ´ëÃ¥À¸·Î, Á¶Á÷¿¡ ¸Â´Â Á¤º¸º¸È£ Á¤Ã¥À» ¼ö¸³ÇÏ°í, À§Çè¿¡ »ó½Ã ´ëÀÀÇÏ´Â ¿©·¯ º¸¾È ´ëÃ¥À» ÅëÇÕÇÏ¿© °ü¸®ÇÑ´Ù.
- 2.
- ÇÑ±¹ÀÎÅÍ³ÝÁøÈï¿ø(KISA)¿¡¼­´Â °ø°ø ±â°£°ú ¹Î°£ ±â¾÷À» ´ë»óÀ¸·Î Á¤º¸ º¸È£ °ü¸® Ã¼°è¸¦ Æò°¡ÇÏ°í ÀÎÁõÇÏ´Â ¾÷¹«¸¦ ¼öÇàÇÏ°í ÀÖ´Ù.
+ ¨ç Á¤º¸ ÀÚ»êÀ» ¾ÈÀüÇÏ°Ô º¸È£ÇÏ±â À§ÇÑ º¸È£ ÀýÂ÷¿Í ´ëÃ¥À¸·Î, Á¶Á÷¿¡ ¸Â´Â Á¤º¸º¸È£ Á¤Ã¥À» ¼ö¸³ÇÏ°í, À§Çè¿¡ »ó½Ã ´ëÀÀÇÏ´Â ¿©·¯ º¸¾È ´ëÃ¥À» ÅëÇÕÇÏ¿© °ü¸®ÇÑ´Ù.
+ ¨è ÇÑ±¹ÀÎÅÍ³ÝÁøÈï¿ø(KISA)¿¡¼­´Â °ø°ø ±â°£°ú ¹Î°£ ±â¾÷À» ´ë»óÀ¸·Î Á¤º¸ º¸È£ °ü¸® Ã¼°è¸¦ Æò°¡ÇÏ°í ÀÎÁõÇÏ´Â ¾÷¹«¸¦ ¼öÇàÇÏ°í ÀÖ´Ù.
 
 Answer 1 : Á¤º¸º¸È£ °ü¸® Ã¼°è
 Answer 2 : ISMS
@@ -9039,10 +8499,8 @@ Answer 3 : High Availability
 
 No. 996	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº HW °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ´ë»óÀ» Æò¸é¿¡ Ãâ·ÂÇÏ´Â °ÍÀÌ ¾Æ´Ï¶ó ¼ÕÀ¸·Î ¸¸Áú ¼ö ÀÖ´Â ½ÇÁ¦ ¹°Ã¼·Î ¸¸µé¾î³»´Â °Í.
- 2.
- ¾ÆÁÖ ¾ãÀº µÎ²²·Î ÇÑÃþÇÑÃþ ½×¾Æ ÇÏ³ªÀÇ ÇüÅÂ¸¦ ¸¸µé¾î³»´Â ±â¼úÀ» ÀÌ¿ëÇÔ.
+ ¨ç ´ë»óÀ» Æò¸é¿¡ Ãâ·ÂÇÏ´Â °ÍÀÌ ¾Æ´Ï¶ó ¼ÕÀ¸·Î ¸¸Áú ¼ö ÀÖ´Â ½ÇÁ¦ ¹°Ã¼·Î ¸¸µé¾î³»´Â °Í.
+ ¨è ¾ÆÁÖ ¾ãÀº µÎ²²·Î ÇÑÃþÇÑÃþ ½×¾Æ ÇÏ³ªÀÇ ÇüÅÂ¸¦ ¸¸µé¾î³»´Â ±â¼úÀ» ÀÌ¿ëÇÔ.
 
 Answer 1 : 3D Printing
 Answer 2 : Three Dimension Printing
@@ -9058,8 +8516,7 @@ Answer 2 : Fourth Dimension Printing
 
 No. 998	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº HW °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¿©·¯ °³ÀÇ ÇÏµåµð½ºÅ©·Î µð½ºÅ© ¹è¿­À» ±¸¼ºÇÏ¿© ÆÄÀÏÀ» ±¸¼ºÇÏ°í ÀÖ´Â µ¥ÀÌÅÍ ºí·ÏµéÀ» ¼­·Î ´Ù¸¥ µð½ºÅ©µé¿¡ ºÐ»ê ÀúÀåÇÒ °æ¿ì, ±× ºí·ÏµéÀ» ¿©·¯ µð½ºÅ©¿¡¼­ µ¿½Ã¿¡ ÀÐ°Å³ª ¾µ ¼ö ÀÖÀ¸¹Ç·Î µð½ºÅ©ÀÇ ¼Óµµ°¡ ¸Å¿ì Çâ»óµÇ´Âµ¥, ÀÌ ±â¼úÀ» ¡Û¡Û¡Û¶ó°í ÇÔ.
+ ¨ç ¿©·¯ °³ÀÇ ÇÏµåµð½ºÅ©·Î µð½ºÅ© ¹è¿­À» ±¸¼ºÇÏ¿© ÆÄÀÏÀ» ±¸¼ºÇÏ°í ÀÖ´Â µ¥ÀÌÅÍ ºí·ÏµéÀ» ¼­·Î ´Ù¸¥ µð½ºÅ©µé¿¡ ºÐ»ê ÀúÀåÇÒ °æ¿ì, ±× ºí·ÏµéÀ» ¿©·¯ µð½ºÅ©¿¡¼­ µ¿½Ã¿¡ ÀÐ°Å³ª ¾µ ¼ö ÀÖÀ¸¹Ç·Î µð½ºÅ©ÀÇ ¼Óµµ°¡ ¸Å¿ì Çâ»óµÇ´Âµ¥, ÀÌ ±â¼úÀ» ¡Û¡Û¡Û¶ó°í ÇÔ.
  ÁÖ¿ä ¡Û¡Û¡Û ·¹º§.
  - ¡Û¡Û¡Û 0 : ½ºÆ®¶óÀÌÇÎÀ» Àû¿ëÇÑ ¹æ½ÄÀ¸·Î, µð½ºÅ©ÀÇ °³¼ö¸¸Å­ ÀÐ±â/¾²±â ¼º´ÉÀÌ Çâ»óµÊ.
  - ¡Û¡Û¡Û 1 : ¹Ì·¯¸µÀ» Àû¿ëÇÑ ¹æ½ÄÀ¸·Î, µð½ºÅ© ¼Õ»óÀ» ´ëºñÇÒ ¼ö ÀÖÁö¸¸, µ¥ÀÌÅÍ¸¦ µ¿½Ã¿¡ ±â·ÏÇÏ¹Ç·Î ¾²±â ¼º´ÉÀÌ ÀúÇÏµÉ ¼ö ÀÖÀ½.
@@ -9073,10 +8530,8 @@ Answer 3 : Redundant Array of Independent Disk
 
 No. 999	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº HW °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Â÷¼¼´ë °íÈ­Áú ¸ð´ÏÅÍÀÇ ÇØ»óµµ¸¦ ÁöÄªÇÏ´Â ¿ë¾î.
- 2.
- °¡·Î ÇÈ¼¿ ¼ö°¡ 3840ÀÌ°í, ¼¼·Î ÇÈ¼¿ ¼ö°¡ 2160ÀÎ ¿µ»óÀÇ ÇØ»óµµ¸¦ ¸»ÇÏ´Âµ¥, ÀÌ´Â Full HDTV(1920X1080)ÀÇ °¡·Î¡¤¼¼·Î 2¹è, ÃÑ 4¹è¿¡ ÇØ´çÇÏ´Â ÃÊ°íÈ­ÁúÀÇ ¿µ»óÀÓ.
+ ¨ç Â÷¼¼´ë °íÈ­Áú ¸ð´ÏÅÍÀÇ ÇØ»óµµ¸¦ ÁöÄªÇÏ´Â ¿ë¾î.
+ ¨è °¡·Î ÇÈ¼¿ ¼ö°¡ 3840ÀÌ°í, ¼¼·Î ÇÈ¼¿ ¼ö°¡ 2160ÀÎ ¿µ»óÀÇ ÇØ»óµµ¸¦ ¸»ÇÏ´Âµ¥, ÀÌ´Â Full HDTV(1920X1080)ÀÇ °¡·Î¡¤¼¼·Î 2¹è, ÃÑ 4¹è¿¡ ÇØ´çÇÏ´Â ÃÊ°íÈ­ÁúÀÇ ¿µ»óÀÓ.
 
 Answer 1 : 4K ÇØ»óµµ
 
@@ -9091,10 +8546,8 @@ Answer 2 : N-Screen
 
 No. 1001	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº HW °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- TV ¹æ¼Û ½ÃÃ» ½Ã ¹æ¼Û ³»¿ëÀ» °øÀ¯ÇÏ¸ç Ãß°¡ÀûÀÎ ±â´ÉÀ» ¼öÇàÇÒ ¼ö ÀÖ´Â ½º¸¶Æ®Æù, ÅÂºí¸´PC µîÀ» ÀÇ¹ÌÇÔ.
- 2.
- ¾Ø ½ºÅ©¸°(N Screen)ÀÇ ÇÑ Á¾·ù·Î, ¼¼ÄÁµå ½ºÅ©¸°(Second Screen)ÀÌ¶ó°íµµ ºÒ¸².
+ ¨ç TV ¹æ¼Û ½ÃÃ» ½Ã ¹æ¼Û ³»¿ëÀ» °øÀ¯ÇÏ¸ç Ãß°¡ÀûÀÎ ±â´ÉÀ» ¼öÇàÇÒ ¼ö ÀÖ´Â ½º¸¶Æ®Æù, ÅÂºí¸´PC µîÀ» ÀÇ¹ÌÇÔ.
+ ¨è ¾Ø ½ºÅ©¸°(N Screen)ÀÇ ÇÑ Á¾·ù·Î, ¼¼ÄÁµå ½ºÅ©¸°(Second Screen)ÀÌ¶ó°íµµ ºÒ¸².
 
 Answer 1 : ÄÄÆÐ´Ï¾ð ½ºÅ©¸°
 Answer 2 : Companion Screen
@@ -9102,10 +8555,8 @@ Answer 2 : Companion Screen
 
 No. 1002	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº HW °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÏµåµð½ºÅ©³ª ÁÖº¯ÀåÄ¡ ¾øÀÌ ±âº»ÀûÀÎ ¸Þ¸ð¸®¸¸ °®Ãß°í ¼­¹ö¿Í ³×Æ®¿öÅ©·Î ¿î¿ëµÇ´Â °³ÀÎ¿ë ÄÄÇ»ÅÍ.
- 2.
- ¼­¹ö ±â¹Ý ÄÄÇ»ÆÃ°ú °ü°è°¡ ±íÀ½.
+ ¨ç ÇÏµåµð½ºÅ©³ª ÁÖº¯ÀåÄ¡ ¾øÀÌ ±âº»ÀûÀÎ ¸Þ¸ð¸®¸¸ °®Ãß°í ¼­¹ö¿Í ³×Æ®¿öÅ©·Î ¿î¿ëµÇ´Â °³ÀÎ¿ë ÄÄÇ»ÅÍ.
+ ¨è ¼­¹ö ±â¹Ý ÄÄÇ»ÆÃ°ú °ü°è°¡ ±íÀ½.
 
 Answer 1 : ½Å Å¬¶óÀÌ¾ðÆ® PC
 Answer 2 : Thin Client PC
@@ -9121,10 +8572,8 @@ Answer 2 : Phablet
 
 No. 1004	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº HW °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¹ü¿ë ÀÎÅÍÆäÀÌ½º ±Ô°ÝÀÎ USB(Universal Serial Bus)ÀÇ Ç¥ÁØ Áß ÇÏ³ªÀÓ.
- 2.
- ±âÁ¸ AÇü¿¡ ºñÇÏ¿© Å©±â°¡ ÀÛ°í, 24ÇÉÀ¸·Î À§¾Æ·¡ÀÇ ±¸ºÐÀÌ ¾ø¾î ¾î´À ¹æÇâÀ¸·Îµç ¿¬°áÀÌ °¡´ÉÇÔ.
+ ¨ç ¹ü¿ë ÀÎÅÍÆäÀÌ½º ±Ô°ÝÀÎ USB(Universal Serial Bus)ÀÇ Ç¥ÁØ Áß ÇÏ³ªÀÓ.
+ ¨è ±âÁ¸ AÇü¿¡ ºñÇÏ¿© Å©±â°¡ ÀÛ°í, 24ÇÉÀ¸·Î À§¾Æ·¡ÀÇ ±¸ºÐÀÌ ¾ø¾î ¾î´À ¹æÇâÀ¸·Îµç ¿¬°áÀÌ °¡´ÉÇÔ.
 
 Answer 1 : CÇü À¯¿¡½ººñ
 Answer 2 : Universal Serial Bus Type-C
@@ -9150,12 +8599,9 @@ Answer 2 : TrustZone Technology
 
 No. 1007	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº HW °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÑ ¹øÀÇ ±â·Ï¸¸À¸·Î ÀÚ·á¸¦ ¿µ±¸ º¸°üÇÒ ¼ö ÀÖ´Â ±¤ ÀúÀåÀåÄ¡.
- 2.
- µð½ºÅ© Ç¥¸éÀÇ ¹«±â¹°Ãþ¿¡ ·¹ÀÌÀú¸¦ ÀÌ¿ëÇØ ÀÚ·á¸¦ Á¶°¢ÇØ¼­ ±â·ÏÇÔ.
- 3.
- ½Ã°£ÀÌ Áö³ªµµ º¯ÇÏÁö ¾Ê´Â ±Ý¼Ó È°ÀÚÃ³·³ ºû, ¿­, ½À±â µîÀÇ ¿ÜºÎ ¿äÀÎ¿¡ ¿µÇâÀ» ¹ÞÁö ¾ÊÀ½.
+ ¨ç ÇÑ ¹øÀÇ ±â·Ï¸¸À¸·Î ÀÚ·á¸¦ ¿µ±¸ º¸°üÇÒ ¼ö ÀÖ´Â ±¤ ÀúÀåÀåÄ¡.
+ ¨è µð½ºÅ© Ç¥¸éÀÇ ¹«±â¹°Ãþ¿¡ ·¹ÀÌÀú¸¦ ÀÌ¿ëÇØ ÀÚ·á¸¦ Á¶°¢ÇØ¼­ ±â·ÏÇÔ.
+ ¨é ½Ã°£ÀÌ Áö³ªµµ º¯ÇÏÁö ¾Ê´Â ±Ý¼Ó È°ÀÚÃ³·³ ºû, ¿­, ½À±â µîÀÇ ¿ÜºÎ ¿äÀÎ¿¡ ¿µÇâÀ» ¹ÞÁö ¾ÊÀ½.
 
 Answer 1 : ¿¥µð½ºÅ©
 Answer 2 : M-DISC
@@ -9164,10 +8610,8 @@ Answer 3 : Millennial DISC
 
 No. 1008	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº HW °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¸Þ¸ð¸®(Memory)¿Í ·¹Áö½ºÅÍ(Resister)ÀÇ ÇÕ¼º¾î·Î, Àü·ùÀÇ ¹æÇâ°ú ¾ç µî ±âÁ¸ÀÇ °æÇèÀ» ¸ðµÎ ±â¾ïÇÏ´Â Æ¯º°ÇÑ ¼ÒÀÚ.
- 2.
- ·¹Áö½ºÅÍ(Resister), Ä¿ÆÐ½ÃÅÍ(Capacitor), ÀÎ´öÅÍ(Inductor)¿¡ ÀÌ¾î ³× ¹øÂ° ÀüÀÚÈ¸·Î ±¸¼º ¿ä¼Ò¶ó ºÒ¸®°í ÀÖÀ½.
+ ¨ç ¸Þ¸ð¸®(Memory)¿Í ·¹Áö½ºÅÍ(Resister)ÀÇ ÇÕ¼º¾î·Î, Àü·ùÀÇ ¹æÇâ°ú ¾ç µî ±âÁ¸ÀÇ °æÇèÀ» ¸ðµÎ ±â¾ïÇÏ´Â Æ¯º°ÇÑ ¼ÒÀÚ.
+ ¨è ·¹Áö½ºÅÍ(Resister), Ä¿ÆÐ½ÃÅÍ(Capacitor), ÀÎ´öÅÍ(Inductor)¿¡ ÀÌ¾î ³× ¹øÂ° ÀüÀÚÈ¸·Î ±¸¼º ¿ä¼Ò¶ó ºÒ¸®°í ÀÖÀ½.
 
 Answer 1 : ¸â¸®½ºÅÍ
 Answer 2 : Memristor
@@ -9207,10 +8651,8 @@ Answer 2 : Reference Monitor
 
 No. 1011	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº DB °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ±âÁ¸ÀÇ °ü¸® ¹æ¹ýÀÌ³ª ºÐ¼® Ã¼°è·Î´Â Ã³¸®ÇÏ±â ¾î·Á¿î ¸·´ëÇÑ ¾çÀÇ Á¤Çü ¶Ç´Â ºñÁ¤Çü µ¥ÀÌÅÍ ÁýÇÕ.
- 2.
- ¡Û¡Û¡Û°¡ ÁÖ¸ñ¹Þ°í ÀÖ´Â ÀÌÀ¯´Â ±â¾÷ÀÌ³ª Á¤ºÎ, Æ÷ÅÐ µîÀÌ ¡Û¡Û¡Û¸¦ È¿°úÀûÀ¸·Î ºÐ¼®ÇÔÀ¸·Î½á ¹Ì·¡¸¦ ¿¹ÃøÇØ ÃÖÀûÀÇ ´ëÀÀ ¹æ¾ÈÀ» Ã£°í, ÀÌ¸¦ ¼öÀÍÀ¸·Î ¿¬°áÇÏ¿© »õ·Î¿î °¡Ä¡¸¦ Ã¢ÃâÇÏ±â ¶§¹®ÀÓ.
+ ¨ç ±âÁ¸ÀÇ °ü¸® ¹æ¹ýÀÌ³ª ºÐ¼® Ã¼°è·Î´Â Ã³¸®ÇÏ±â ¾î·Á¿î ¸·´ëÇÑ ¾çÀÇ Á¤Çü ¶Ç´Â ºñÁ¤Çü µ¥ÀÌÅÍ ÁýÇÕ.
+ ¨è ¡Û¡Û¡Û°¡ ÁÖ¸ñ¹Þ°í ÀÖ´Â ÀÌÀ¯´Â ±â¾÷ÀÌ³ª Á¤ºÎ, Æ÷ÅÐ µîÀÌ ¡Û¡Û¡Û¸¦ È¿°úÀûÀ¸·Î ºÐ¼®ÇÔÀ¸·Î½á ¹Ì·¡¸¦ ¿¹ÃøÇØ ÃÖÀûÀÇ ´ëÀÀ ¹æ¾ÈÀ» Ã£°í, ÀÌ¸¦ ¼öÀÍÀ¸·Î ¿¬°áÇÏ¿© »õ·Î¿î °¡Ä¡¸¦ Ã¢ÃâÇÏ±â ¶§¹®ÀÓ.
 
 Answer 1 : ºòµ¥ÀÌÅÍ
 Answer 2 : Big Data
@@ -9226,12 +8668,9 @@ Answer 2 : Broad Data
 
 No. 1013	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº DB °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÀÏ·ÃÀÇ µ¥ÀÌÅÍ¸¦ Á¤ÀÇÇÏ°í ¼³¸íÇØ ÁÖ´Â µ¥ÀÌÅÍ.
- 2.
- ÄÄÇ»ÅÍ¿¡¼­´Â µ¥ÀÌÅÍ °¡ÀüÀÇ ³»¿ë, ½ºÅ°¸¶ µîÀ» ÀÇ¹ÌÇÔ.
- 3.
- HTML ¹®¼­¿¡¼­´Â ¸ÞÅ¸ ÅÂÅ© ³»ÀÇ ³»¿ëÀÌ ¡Û¡Û¡ÛÀÓ.
+ ¨ç ÀÏ·ÃÀÇ µ¥ÀÌÅÍ¸¦ Á¤ÀÇÇÏ°í ¼³¸íÇØ ÁÖ´Â µ¥ÀÌÅÍ.
+ ¨è ÄÄÇ»ÅÍ¿¡¼­´Â µ¥ÀÌÅÍ °¡ÀüÀÇ ³»¿ë, ½ºÅ°¸¶ µîÀ» ÀÇ¹ÌÇÔ.
+ ¨é HTML ¹®¼­¿¡¼­´Â ¸ÞÅ¸ ÅÂÅ© ³»ÀÇ ³»¿ëÀÌ ¡Û¡Û¡ÛÀÓ.
 
 Answer 1 : ¸ÞÅ¸ µ¥ÀÌÅÍ
 Answer 2 : Meta Data
@@ -9239,10 +8678,8 @@ Answer 2 : Meta Data
 
 No. 1014	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº DB °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- µðÁöÅÐ Á¤º¸ ÀÚ¿øÀ» Àå±âÀûÀ¸·Î º¸Á¸ÇÏ±â À§ÇÑ ÀÛ¾÷.
- 2.
- ¾Æ³¯·Î±× ÄÜÅÙÃ÷´Â µðÁöÅÐ·Î º¯È¯ÇÑ ÈÄ ¾ÐÃàÇØ¼­ ÀúÀåÇÏ°í, µðÁöÅÐ ÄÜÅÙÃ÷µµ Ã¼°èÀûÀ¸·Î ºÐ·ùÇÏ°í ¸ÞÅ¸ µ¥ÀÌÅÍ¸¦ ¸¸µé¾î DBÈ­ÇÏ´Â ÀÛ¾÷ÀÓ.
+ ¨ç µðÁöÅÐ Á¤º¸ ÀÚ¿øÀ» Àå±âÀûÀ¸·Î º¸Á¸ÇÏ±â À§ÇÑ ÀÛ¾÷.
+ ¨è ¾Æ³¯·Î±× ÄÜÅÙÃ÷´Â µðÁöÅÐ·Î º¯È¯ÇÑ ÈÄ ¾ÐÃàÇØ¼­ ÀúÀåÇÏ°í, µðÁöÅÐ ÄÜÅÙÃ÷µµ Ã¼°èÀûÀ¸·Î ºÐ·ùÇÏ°í ¸ÞÅ¸ µ¥ÀÌÅÍ¸¦ ¸¸µé¾î DBÈ­ÇÏ´Â ÀÛ¾÷ÀÓ.
 
 Answer 1 : µðÁöÅÐ ¾ÆÄ«ÀÌºù
 Answer 2 : Digital Archiving
@@ -9250,12 +8687,9 @@ Answer 2 : Digital Archiving
 
 No. 1015	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº DB °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ¿ÀÇÂ ¼Ò½º¸¦ ±â¹ÝÀ¸·Î ÇÑ ºÐ»ê ÄÄÇ»ÆÃ ÇÃ·§Æû.
- 2.
- ÀÏ¹Ý PC±Þ ÄÄÇ»ÅÍµé·Î °¡»óÈ­µÈ ´ëÇü ½ºÅä¸®Áö¸¦ Çü¼ºÇÏ°í ±× ¾È¿¡ º¸°üµÈ °Å´ëÇÑ µ¥ÀÌÅÍ ¼¼Æ®¸¦ º´·Ä·Î Ã³¸®ÇÒ ¼ö ÀÖµµ·Ï °³¹ßµÈ ÀÚ¹Ù ¼ÒÇÁÆ®¿þ¾î ÇÁ·¹ÀÓ¿öÅ©.
- 3.
- ±¸±Û, ¾ßÈÄ µî¿¡ Àû¿ëµÇ°í ÀÖÀ½.
+ ¨ç ¿ÀÇÂ ¼Ò½º¸¦ ±â¹ÝÀ¸·Î ÇÑ ºÐ»ê ÄÄÇ»ÆÃ ÇÃ·§Æû.
+ ¨è ÀÏ¹Ý PC±Þ ÄÄÇ»ÅÍµé·Î °¡»óÈ­µÈ ´ëÇü ½ºÅä¸®Áö¸¦ Çü¼ºÇÏ°í ±× ¾È¿¡ º¸°üµÈ °Å´ëÇÑ µ¥ÀÌÅÍ ¼¼Æ®¸¦ º´·Ä·Î Ã³¸®ÇÒ ¼ö ÀÖµµ·Ï °³¹ßµÈ ÀÚ¹Ù ¼ÒÇÁÆ®¿þ¾î ÇÁ·¹ÀÓ¿öÅ©.
+ ¨é ±¸±Û, ¾ßÈÄ µî¿¡ Àû¿ëµÇ°í ÀÖÀ½.
 
 Answer 1 : ÇÏµÓ
 Answer 2 : Hadoop
@@ -9263,12 +8697,9 @@ Answer 2 : Hadoop
 
 No. 1016	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº DB °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ´ë¿ë·® µ¥ÀÌÅÍ¸¦ ºÐ»ê Ã³¸®ÇÏ±â À§ÇÑ ¸ñÀûÀ¸·Î °³¹ßµÈ ÇÁ·Î±×·¡¹Ö ¸ðµ¨.
- 2.
- Èð¾îÁ® ÀÖ´Â µ¥ÀÌÅÍ¸¦ ¿¬°ü¼º ÀÖ´Â µ¥ÀÌÅÍ ºÐ·ù·Î ¹­´Â Map ÀÛ¾÷À» ¼öÇàÇÑ ÈÄ Áßº¹ µ¥ÀÌÅÍ¸¦ Á¦°ÅÇÏ°í ¿øÇÏ´Â µ¥ÀÌÅÍ¸¦ ÃßÃâÇÏ´Â Reduce ÀÛ¾÷À» ¼öÇàÇÔ.
- 3.
- Google¿¡ ÀÇÇØ °í¾ÈµÇ¾úÀ¸¸ç, ´ëÇ¥ÀûÀÎ ´ë¿ë·® µ¥ÀÌÅÍ Ã³¸®¸¦ À§ÇÑ º´·Ä Ã³¸® ±â¹ýÀ¸·Î ¸¹ÀÌ »ç¿ëµÇ°í ÀÖÀ½.
+ ¨ç ´ë¿ë·® µ¥ÀÌÅÍ¸¦ ºÐ»ê Ã³¸®ÇÏ±â À§ÇÑ ¸ñÀûÀ¸·Î °³¹ßµÈ ÇÁ·Î±×·¡¹Ö ¸ðµ¨.
+ ¨è Èð¾îÁ® ÀÖ´Â µ¥ÀÌÅÍ¸¦ ¿¬°ü¼º ÀÖ´Â µ¥ÀÌÅÍ ºÐ·ù·Î ¹­´Â Map ÀÛ¾÷À» ¼öÇàÇÑ ÈÄ Áßº¹ µ¥ÀÌÅÍ¸¦ Á¦°ÅÇÏ°í ¿øÇÏ´Â µ¥ÀÌÅÍ¸¦ ÃßÃâÇÏ´Â Reduce ÀÛ¾÷À» ¼öÇàÇÔ.
+ ¨é Google¿¡ ÀÇÇØ °í¾ÈµÇ¾úÀ¸¸ç, ´ëÇ¥ÀûÀÎ ´ë¿ë·® µ¥ÀÌÅÍ Ã³¸®¸¦ À§ÇÑ º´·Ä Ã³¸® ±â¹ýÀ¸·Î ¸¹ÀÌ »ç¿ëµÇ°í ÀÖÀ½.
 
 Answer 1 : ¸Ê¸®µà½º
 Answer 2 : MapReduce
@@ -9300,10 +8731,8 @@ Answer 2 : Data Mining
 
 No. 1020	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº DB °ü·Ã ½Å±â¼ú Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ´ÙÂ÷¿øÀ¸·Î ÀÌ·ç¾îÁø µ¥ÀÌÅÍ·ÎºÎÅÍ Åë°èÀûÀÎ ¿ä¾à Á¤º¸¸¦ ºÐ¼®ÇÏ¿© ÀÇ»ç°áÁ¤¿¡ È°¿ëÇÏ´Â ¹æ½Ä.
- 2.
- ¡Û¡Û¡Û ¿¬»ê : Roll-up, Drill-down, Drill-through, Drill-across, Pivoting, Slicing, Dicing.
+ ¨ç ´ÙÂ÷¿øÀ¸·Î ÀÌ·ç¾îÁø µ¥ÀÌÅÍ·ÎºÎÅÍ Åë°èÀûÀÎ ¿ä¾à Á¤º¸¸¦ ºÐ¼®ÇÏ¿© ÀÇ»ç°áÁ¤¿¡ È°¿ëÇÏ´Â ¹æ½Ä.
+ ¨è ¡Û¡Û¡Û ¿¬»ê : Roll-up, Drill-down, Drill-through, Drill-across, Pivoting, Slicing, Dicing.
 
 Answer 1 : OLAP
 Answer 2 : Online Analytical Processing
@@ -9318,14 +8747,10 @@ Answer 2 : Recovery
 
 No. 1022	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº È¸º¹ ±â¹ýÀÇ ³× °¡Áö ±â¹ý Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Æ®·£Àè¼ÇÀÌ ¼º°øÀûÀ¸·Î ¿Ï·áµÉ ¶§±îÁö µ¥ÀÌÅÍº£ÀÌ½º¿¡ ´ëÇÑ ½ÇÁúÀûÀÎ °»½ÅÀ» ¿¬±âÇÏ´Â ¹æ¹ý.
- 2.
- Æ®·£Àè¼ÇÀÌ ¼öÇàµÇ´Â µ¿¾È °»½ÅµÈ ³»¿ëÀº ÀÏ´Ü Log¿¡ º¸°üµÊ.
- 3.
- Æ®·£Àè¼ÇÀÇ ºÎºÐ ¿Ï·á ½ÃÁ¡¿¡ Log¿¡ º¸°üÇÑ °»½Å ³»¿ëÀ» ½ÇÁ¦ µ¥ÀÌÅÍº£ÀÌ½º¿¡ ±â·ÏÇÔ.
- 4.
- Redo ÀÛ¾÷¸¸ °¡´ÉÇÔ.
+ ¨ç Æ®·£Àè¼ÇÀÌ ¼º°øÀûÀ¸·Î ¿Ï·áµÉ ¶§±îÁö µ¥ÀÌÅÍº£ÀÌ½º¿¡ ´ëÇÑ ½ÇÁúÀûÀÎ °»½ÅÀ» ¿¬±âÇÏ´Â ¹æ¹ý.
+ ¨è Æ®·£Àè¼ÇÀÌ ¼öÇàµÇ´Â µ¿¾È °»½ÅµÈ ³»¿ëÀº ÀÏ´Ü Log¿¡ º¸°üµÊ.
+ ¨é Æ®·£Àè¼ÇÀÇ ºÎºÐ ¿Ï·á ½ÃÁ¡¿¡ Log¿¡ º¸°üÇÑ °»½Å ³»¿ëÀ» ½ÇÁ¦ µ¥ÀÌÅÍº£ÀÌ½º¿¡ ±â·ÏÇÔ.
+ ¨êRedo ÀÛ¾÷¸¸ °¡´ÉÇÔ.
 
 Answer 1 : ¿¬±â °»½Å ±â¹ý
 Answer 2 : Deferred Update
@@ -9333,12 +8758,9 @@ Answer 2 : Deferred Update
 
 No. 1023	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº È¸º¹ ±â¹ýÀÇ ³× °¡Áö ±â¹ý Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Æ®·£Àè¼ÇÀÌ µ¥ÀÌÅÍ¸¦ °»½ÅÇÏ¸é Æ®·£Àè¼ÇÀÌ ºÎºÐ ¿Ï·áµÇ±â ÀüÀÌ¶óµµ Áï½Ã ½ÇÁ¦ µ¥ÀÌÅÍº£ÀÌ½º¿¡ ¹Ý¿µÇÏ´Â ¹æ¹ý.
- 2.
- Àå¾Ö°¡ ¹ß»ýÇÏ¿© È¸º¹ ÀÛ¾÷ÇÒ °æ¿ì¸¦ ´ëºñÇÏ¿© °»½ÅµÈ ³»¿ëµéÀº Log¿¡ º¸°ü½ÃÅ´.
- 3.
- Redo¿Í Undo ¸ðµÎ »ç¿ë °¡´ÉÇÔ.
+ ¨ç Æ®·£Àè¼ÇÀÌ µ¥ÀÌÅÍ¸¦ °»½ÅÇÏ¸é Æ®·£Àè¼ÇÀÌ ºÎºÐ ¿Ï·áµÇ±â ÀüÀÌ¶óµµ Áï½Ã ½ÇÁ¦ µ¥ÀÌÅÍº£ÀÌ½º¿¡ ¹Ý¿µÇÏ´Â ¹æ¹ý.
+ ¨è Àå¾Ö°¡ ¹ß»ýÇÏ¿© È¸º¹ ÀÛ¾÷ÇÒ °æ¿ì¸¦ ´ëºñÇÏ¿© °»½ÅµÈ ³»¿ëµéÀº Log¿¡ º¸°ü½ÃÅ´.
+ ¨é Redo¿Í Undo ¸ðµÎ »ç¿ë °¡´ÉÇÔ.
 
 Answer 1 : Áï°¢ °»½Å ±â¹ý
 Answer 2 : Immediate Update
@@ -9370,10 +8792,8 @@ Answer 2 : Concurrency Control
 
 No. 1027	 correct : 1,	 incorrect : 0
 Q : ´ÙÀ½Àº º´ÇàÁ¦¾î ±â¹ýÀÇ ³× °¡Áö ±â¹ý Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Æ®·£Àè¼ÇµéÀÌ ¾î¶² ¡Û¡Û¡Û ´ÜÀ§¸¦ ¾×¼¼¼­ÇÏ±â Àü¿¡ Lock(Àá±Ý)À» ¿äÃ»ÇØ¼­ LockÀÌ Çã¶ôµÇ¾î¾ß¸¸ ±× ¡Û¡Û¡Û ´ÜÀ§¸¦ ¾×¼¼½ºÇÒ ¼ö ÀÖµµ·Ï ÇÏ´Â ±â¹ý.
- 2.
- ÁÖ¿ä µ¥ÀÌÅÍÀÇ ¾×¼¼½º¸¦ »óÈ£ ¹èÅ¸ÀûÀ¸·Î ÇÔ.
+ ¨ç Æ®·£Àè¼ÇµéÀÌ ¾î¶² ¡Û¡Û¡Û ´ÜÀ§¸¦ ¾×¼¼¼­ÇÏ±â Àü¿¡ Lock(Àá±Ý)À» ¿äÃ»ÇØ¼­ LockÀÌ Çã¶ôµÇ¾î¾ß¸¸ ±× ¡Û¡Û¡Û ´ÜÀ§¸¦ ¾×¼¼½ºÇÒ ¼ö ÀÖµµ·Ï ÇÏ´Â ±â¹ý.
+ ¨è ÁÖ¿ä µ¥ÀÌÅÍÀÇ ¾×¼¼½º¸¦ »óÈ£ ¹èÅ¸ÀûÀ¸·Î ÇÔ.
 
 Answer 1 : ·ÎÅ·
 Answer 2 : Locking
@@ -9381,10 +8801,8 @@ Answer 2 : Locking
 
 No. 1028	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº º´ÇàÁ¦¾î ±â¹ýÀÇ ³× °¡Áö ±â¹ý Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Æ®·£Àè¼Ç°ú Æ®·£Àè¼ÇÀÌ ÀÐ°Å³ª °»½ÅÇÑ µ¥ÀÌÅÍ¿¡ ´ëÇØ Æ®·£Àè¼ÇÀÌ ½ÇÇàÀ» ½ÃÀÛÇÏ±âÀü¿¡ ½Ã°£Ç¥(Time Stamp)¸¦ ºÎ¿©ÇÏ¿© ºÎ¿©µÈ ½Ã°£¿¡ µû¶ó Æ®·£Àè¼Ç ÀÛ¾÷À» ¼öÇàÇÏ´Â ±â¹ý.
- 2.
- Á÷·Ä¼º ¼ø¼­¸¦ °áÁ¤ÇÏ±â À§ÇØ Æ®·£Àè¼Ç °£ÀÇ Ã³¸® ¼ø¼­¸¦ ¹Ì¸® ¼±ÅÃÇÏ´Â ±â¹ýµé Áß¿¡¼­ °¡Àå º¸ÆíÀûÀÎ ¹æ¹ýÀÓ.
+ ¨ç Æ®·£Àè¼Ç°ú Æ®·£Àè¼ÇÀÌ ÀÐ°Å³ª °»½ÅÇÑ µ¥ÀÌÅÍ¿¡ ´ëÇØ Æ®·£Àè¼ÇÀÌ ½ÇÇàÀ» ½ÃÀÛÇÏ±âÀü¿¡ ½Ã°£Ç¥(Time Stamp)¸¦ ºÎ¿©ÇÏ¿© ºÎ¿©µÈ ½Ã°£¿¡ µû¶ó Æ®·£Àè¼Ç ÀÛ¾÷À» ¼öÇàÇÏ´Â ±â¹ý.
+ ¨è Á÷·Ä¼º ¼ø¼­¸¦ °áÁ¤ÇÏ±â À§ÇØ Æ®·£Àè¼Ç °£ÀÇ Ã³¸® ¼ø¼­¸¦ ¹Ì¸® ¼±ÅÃÇÏ´Â ±â¹ýµé Áß¿¡¼­ °¡Àå º¸ÆíÀûÀÎ ¹æ¹ýÀÓ.
 
 Answer 1 : Å¸ÀÓ ½ºÅÆÇÁ ¼ø¼­
 Answer 2 : Time Stamp Ordering
@@ -9401,12 +8819,9 @@ Answer 3 : È®ÀÎ ±â¹ý, ³«°üÀû ±â¹ý
 
 No. 1030	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº º´ÇàÁ¦¾î ±â¹ýÀÇ ³× °¡Áö ±â¹ý Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- Å¸ÀÓ ½ºÅÆÇÁÀÇ °³³äÀ» ÀÌ¿ëÇÑ ±â¹ý.
- 2.
- ´ÙÁß ¹öÀü Å¸ÀÓ ½ºÅÆÇÁ ±â¹ýÀÌ¶ó°íµµ ÇÔ.
- 3.
- Å¸ÀÓ ½ºÆÐÆ® ±â¹ýÀº Æ®·£Àè¼Ç ¹× µ¥ÀÌÅÍµéÀÌ ÀÌ¿ëµÉ ‹šÀÇ ½Ã°£À» ½Ã°£Ç¥·Î °ü¸®ÇÏÁö¸¸, ¡Û¡Û¡ÛÀº °»½ÅµÉ ¶§¸¶´ÙÀÇ ¹öÀüÀ» ºÎ¿©ÇÏ¿© °ü¸®ÇÔ.
+ ¨ç Å¸ÀÓ ½ºÅÆÇÁÀÇ °³³äÀ» ÀÌ¿ëÇÑ ±â¹ý.
+ ¨è ´ÙÁß ¹öÀü Å¸ÀÓ ½ºÅÆÇÁ ±â¹ýÀÌ¶ó°íµµ ÇÔ.
+ ¨é Å¸ÀÓ ½ºÆÐÆ® ±â¹ýÀº Æ®·£Àè¼Ç ¹× µ¥ÀÌÅÍµéÀÌ ÀÌ¿ëµÉ ‹šÀÇ ½Ã°£À» ½Ã°£Ç¥·Î °ü¸®ÇÏÁö¸¸, ¡Û¡Û¡ÛÀº °»½ÅµÉ ¶§¸¶´ÙÀÇ ¹öÀüÀ» ºÎ¿©ÇÏ¿© °ü¸®ÇÔ.
 
 Answer 1 : ´ÙÁß ¹öÀü ±â¹ý
 
@@ -9462,12 +8877,9 @@ Answer 2 : Circular Wait
 
 No. 1037	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ±³Âø»óÅÂÀÇ ÇØ°á ¹æ¹ýÀÇ ³× °¡Áö Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ±³Âø»óÅÂ°¡ ¹ß»ýÇÏÁö ¾Êµµ·Ï »çÀü¿¡ ½Ã½ºÅÛÀ» Á¦¾îÇÏ´Â ¹æ¹ý.
- 2.
- ±³Âø»óÅÂ ¹ß»ýÀÇ ³× °¡Áö Á¶°Ç Áß¿¡¼­ ¾î´À ÇÏ³ª¸¦ Á¦°ÅÇÔÀ¸·Î½á ¼öÇàµÊ.
- 3.
- ÀÚ¿øÀÇ ³¶ºñ°¡ °¡Àå ½ÉÇÑ ±â¹ýÀÓ.
+ ¨ç ±³Âø»óÅÂ°¡ ¹ß»ýÇÏÁö ¾Êµµ·Ï »çÀü¿¡ ½Ã½ºÅÛÀ» Á¦¾îÇÏ´Â ¹æ¹ý.
+ ¨è ±³Âø»óÅÂ ¹ß»ýÀÇ ³× °¡Áö Á¶°Ç Áß¿¡¼­ ¾î´À ÇÏ³ª¸¦ Á¦°ÅÇÔÀ¸·Î½á ¼öÇàµÊ.
+ ¨é ÀÚ¿øÀÇ ³¶ºñ°¡ °¡Àå ½ÉÇÑ ±â¹ýÀÓ.
 
 Answer 1 : ¿¹¹æ ±â¹ý
 Answer 2 : Prevention
@@ -9475,12 +8887,9 @@ Answer 2 : Prevention
 
 No. 1038	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ±³Âø»óÅÂÀÇ ÇØ°á ¹æ¹ýÀÇ ³× °¡Áö Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ±³Âø»óÅÂ°¡ ¹ß»ýÇÒ °¡´É¼ºÀ» ¹èÁ¦ÇÏÁö ¾Ê°í ±³Âø»óÅÂ°¡ ¹ß»ýÇÏ¸é ÀûÀýÈ÷ ÇÇÇØ³ª°¡´Â ¹æ¹ý.
- 2.
- ÁÖ·Î ÀºÇà¿ø ¾Ë°í¸®Áò(Banker's Algorithm)ÀÌ »ç¿ëµÊ.
- 3.
- ÀºÇà¿ø ¾Ë°í¸®Áò(Banker's Algorithm) : E¡£ J¡£ Dijkstra°¡ Á¦¾ÈÇÑ °ÍÀ¸·Î, ÀºÇà¿¡¼­ ¸ðµç °í°´ÀÇ ¿ä±¸°¡ ÃæÁ·µÇµµ·Ï Çö±ÝÀ» ÇÒ´çÇÏ´Â µ¥¼­ À¯·¡ÇÑ ±â¹ý.
+ ¨ç ±³Âø»óÅÂ°¡ ¹ß»ýÇÒ °¡´É¼ºÀ» ¹èÁ¦ÇÏÁö ¾Ê°í ±³Âø»óÅÂ°¡ ¹ß»ýÇÏ¸é ÀûÀýÈ÷ ÇÇÇØ³ª°¡´Â ¹æ¹ý.
+ ¨è ÁÖ·Î ÀºÇà¿ø ¾Ë°í¸®Áò(Banker's Algorithm)ÀÌ »ç¿ëµÊ.
+ ¨é ÀºÇà¿ø ¾Ë°í¸®Áò(Banker's Algorithm) : E¡£ J¡£ Dijkstra°¡ Á¦¾ÈÇÑ °ÍÀ¸·Î, ÀºÇà¿¡¼­ ¸ðµç °í°´ÀÇ ¿ä±¸°¡ ÃæÁ·µÇµµ·Ï Çö±ÝÀ» ÇÒ´çÇÏ´Â µ¥¼­ À¯·¡ÇÑ ±â¹ý.
 
 Answer 1 : È¸ÇÇ ±â¹ý
 Answer 2 : Avoidance
@@ -9488,10 +8897,8 @@ Answer 2 : Avoidance
 
 No. 1039	 correct : 0,	 incorrect : 1
 Q : ´ÙÀ½Àº ±³Âø»óÅÂÀÇ ÇØ°á ¹æ¹ýÀÇ ³× °¡Áö Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ½Ã½ºÅÛ¿¡ ±³Âø»óÅÂ°¡ ¹ß»ýÇß´ÂÁö Á¡°ËÇÏ¿© ±³Âø»óÅÂ¿¡ ÀÖ´Â ÇÁ·Î¼¼½º¿Í ÀÚ¿øÀ» ¹ß°ßÇÏ´Â °Í.
- 2.
- ±³Âø»óÅÂ ¹ß°ß ¾Ë°í¸®Áò°ú ÀÚ¿ø ÇÒ´ç ±×·¡ÇÁ µîÀ» »ç¿ëÇÒ ¼ö ÀÖÀ½.
+ ¨ç ½Ã½ºÅÛ¿¡ ±³Âø»óÅÂ°¡ ¹ß»ýÇß´ÂÁö Á¡°ËÇÏ¿© ±³Âø»óÅÂ¿¡ ÀÖ´Â ÇÁ·Î¼¼½º¿Í ÀÚ¿øÀ» ¹ß°ßÇÏ´Â °Í.
+ ¨è ±³Âø»óÅÂ ¹ß°ß ¾Ë°í¸®Áò°ú ÀÚ¿ø ÇÒ´ç ±×·¡ÇÁ µîÀ» »ç¿ëÇÒ ¼ö ÀÖÀ½.
 
 Answer 1 : ¹ß°ß ±â¹ý
 Answer 2 : Detection
@@ -9622,10 +9029,8 @@ Answer 2 : Import
 
 No. 1055	 correct : 0,	 incorrect : 0
 Q : ´ÙÀ½Àº ¼ÒÇÁÆ®¿þ¾îÀÇ ¹öÀü µî·Ï °ü·Ã ÁÖ¿ä ±â´É Áß ÇÏ³ª¿¡ ´ëÇÑ ¼³¸íÀÌ´Ù.
- 1.
- ÇÁ·Î±×·¥À» ¼öÁ¤ÇÏ±â À§ÇØ ÀúÀå¼Ò(Repository)¿¡¼­ ÆÄÀÏÀ» ¹Þ¾Æ¿È.
- 2.
- ¼Ò½º ÆÄÀÏ°ú ÇÔ²² ¹öÀü °ü¸®¸¦ À§ÇÑ ÆÄÀÏµéµµ ¹Þ¾Æ¿È.
+ ¨ç ÇÁ·Î±×·¥À» ¼öÁ¤ÇÏ±â À§ÇØ ÀúÀå¼Ò(Repository)¿¡¼­ ÆÄÀÏÀ» ¹Þ¾Æ¿È.
+ ¨è ¼Ò½º ÆÄÀÏ°ú ÇÔ²² ¹öÀü °ü¸®¸¦ À§ÇÑ ÆÄÀÏµéµµ ¹Þ¾Æ¿È.
 
 Answer 1 : Ã¼Å©¾Æ¿ô
 Answer 2 : Check-Out
