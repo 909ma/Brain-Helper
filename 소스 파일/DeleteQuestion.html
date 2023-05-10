@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="kr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>문제 관리</title>
+    <link
+      href="https://hangeul.pstatic.net/hangeul_static/css/nanum-square.css"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        font-family: "NanumSquareBold";
+        font-size: 20px;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f8f8;
+        margin: 0;
+        padding: 20px;
+      }
+
+      .question-container {
+        max-width: 900px;
+        margin: 0 auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      h1 {
+        text-align: center;
+        margin-top: 0;
+      }
+      li{
+        border: 1px solid black;
+        height: auto;
+        margin-bottom: 10px;
+      }
+
+      label {
+        font-weight: bold;
+        display: block;
+        margin-top: 10px;
+      }
+
+      input[type="text"],
+      textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        resize: none;
+        width: 650px;
+        vertical-align: top; /* 위쪽에 붙이기 */
+      }
+
+      textarea {
+        height: 200px;
+        margin-right: 10px;
+      }
+
+      button[type="submit"],
+      button[type="button"] {
+        padding: 10px 20px;
+        background-color: #4caf50;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 24px;
+        margin-top: 20px;
+      }
+
+      button[type="submit"]:hover,
+      button[type="button"]:hover {
+        background-color: #45a049;
+      }
+    </style>
+    <script>
+      var deleteQuestion = function (index) {
+        fetch("questions.json")
+          .then(function (response) {
+            return response.json();
+          })
+          .then(function (data) {
+            data.splice(index, 1);
+
+            var jsonData = JSON.stringify(data, null, 2);
+            var blob = new Blob([jsonData], { type: "application/json" });
+            var url = URL.createObjectURL(blob);
+
+            var link = document.createElement("a");
+            link.href = url;
+            link.download = "questions.json";
+            link.click();
+            URL.revokeObjectURL(url);
+
+            var questionList = document.getElementById("questionList");
+            questionList.removeChild(questionList.childNodes[index]);
+          });
+      };
+
+      document.addEventListener("DOMContentLoaded", function () {
+        fetch("questions.json")
+          .then(function (response) {
+            return response.json();
+          })
+          .then(function (data) {
+            var questionList = document.getElementById("questionList");
+            data.forEach(function (question, index) {
+              var questionItem = document.createElement("li");
+
+              var deleteButton = document.createElement("button");
+              deleteButton.textContent = "Delete";
+              deleteButton.className = "delete-button";
+              deleteButton.setAttribute("data-index", index);
+
+              deleteButton.addEventListener("click", function (event) {
+                var index = event.target.getAttribute("data-index");
+                deleteQuestion(index);
+              });
+
+              questionItem.appendChild(deleteButton);
+              questionItem.appendChild(
+                document.createTextNode(question.question)
+              );
+              questionList.appendChild(questionItem);
+            });
+          });
+      });
+    </script>
+  </head>
+  <body>
+    <div class="question-container">
+      <h1>문제 삭제</h1>
+      <ul id="questionList"></ul>
+    </div>
+  </body>
+</html>
