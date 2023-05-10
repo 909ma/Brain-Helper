@@ -547,7 +547,7 @@ Answer 1 : HIPO
 Answer 2 : Hirarchy Input Process Output
 
 
-No. 52	 correct : 0,	 incorrect : 0
+No. 52	 correct : 0,	 incorrect : 1
 Q : 시스템 분석, 설계, 구현 등 시스템 개발 과정에서 시스템 개발자와 고객 또는 개발자 상호 간의 의사소통이 원활하게 이루어지도록 표준화한 대표적인 객체지향 모델링 언어는?
  Rumbaugh(OMT), Booch, Jacobson 등의 객체지향 방법론의 장점을 통합하였다.
  OMG(Object Managemonet Group)에서 표쥰으로 지정하였다.
@@ -595,7 +595,7 @@ Answer 1 : 그룹 사물
 Answer 2 : Grouping Thing
 
 
-No. 57	 correct : 0,	 incorrect : 0
+No. 57	 correct : 0,	 incorrect : 1
 Q : 다음은 사물의 네 가지 종류 중 하나에 대한 설명이다.
  부가적인 설명이나 제약 조건 등을 표현.
  노트(Note).
@@ -604,7 +604,7 @@ Answer 1 : 주해 사물
 Answer 2 : Annotation Thing
 
 
-No. 58	 correct : 0,	 incorrect : 0
+No. 58	 correct : 0,	 incorrect : 1
 Q : 사물과 사물 사이의 연관성을 표현한 것은?
 
 Answer 1 : 관계
@@ -4346,7 +4346,7 @@ Answer 1 : 추상 팩토리
 Answer 2 : Abstract Factory
 
 
-No. 500	 correct : 0,	 incorrect : 1
+No. 500	 correct : 0,	 incorrect : 3
 Q : 다음은 생성 패턴의 다섯 가지 종류 중 하나에 대한 설명이다.
  ① 작게 분리된 인스턴스를 건축 하듯이 조합하여 객체를 생성함.
  ② 객체의 생성 과정과 표현 방법을 분리하고 있어, 동일한 객체 생성에서도 서로 다른 결과를 만들어 낼 수 있음.
@@ -4355,7 +4355,7 @@ Answer 1 : 빌더
 Answer 2 : Builder
 
 
-No. 501	 correct : 0,	 incorrect : 1
+No. 501	 correct : 0,	 incorrect : 2
 Q : 다음은 생성 패턴의 다섯 가지 종류 중 하나에 대한 설명이다.
  ① 객체 생성을 서브 클래스에서 처리하도록 분리하여 캡슐화한 패턴.
  ② 상위 클래스에서 인터페이스만 정의하고 실제 생성은 서브 클래스가 담당함.
@@ -4365,7 +4365,7 @@ Answer 1 : 팩토리 메소드
 Answer 2 : Factory Method
 
 
-No. 502	 correct : 1,	 incorrect : 0
+No. 502	 correct : 1,	 incorrect : 1
 Q : 다음은 생성 패턴의 다섯 가지 종류 중 하나에 대한 설명이다.
  ① 원본 객체를 복제하는 방법으로 객체를 생성하는 패턴.
  ② 일반적인 방법으로 객체를 생성하며, 비용이 큰 경우 주로 이용함.
@@ -4374,7 +4374,7 @@ Answer 1 : 프로토타입
 Answer 2 : Prototype
 
 
-No. 503	 correct : 0,	 incorrect : 1
+No. 503	 correct : 0,	 incorrect : 2
 Q : 다음은 생성 패턴의 다섯 가지 종류 중 하나에 대한 설명이다.
  ① 하나의 객체를 생성하면 생성된 객체를 어디서든 참조할 수 있지만, 여러 프로세스가 동시에 참조할 수는 없음.
  ② 클래스 내에서 인스터스가 하나뿐임을 보장하며, 불필요한 메모리 낭비를 최소화 할 수 있음.
@@ -4383,14 +4383,14 @@ Answer 1 : 싱글톤
 Answer 2 : Singeton
 
 
-No. 504	 correct : 1,	 incorrect : 0
+No. 504	 correct : 1,	 incorrect : 1
 Q : 구조가 복잡한 시스템을 개발하기 쉽도록 클래스나 객체들을 조합하여 더 큰 구조로 만드는 패턴은?
 
 Answer 1 : 구조 패턴
 Answer 2 : Structural Pattern
 
 
-No. 505	 correct : 0,	 incorrect : 1
+No. 505	 correct : 0,	 incorrect : 2
 Q : 다음은 구조 패턴의 일곱 가지 종류 중 하나에 대한 설명이다.
  ① 호환성이 없는 클래스들의 인터페이스를 다른 클래스가 이용할 수 있도록 변환해주는 패턴.
  ② 기존의 클래스를 이용하고 싶지만 인터페이스가 일치하지 않을 때 이용함.
@@ -4399,7 +4399,7 @@ Answer 1 : 어댑터
 Answer 2 : Adapter
 
 
-No. 506	 correct : 0,	 incorrect : 1
+No. 506	 correct : 0,	 incorrect : 2
 Q : 다음은 구조 패턴의 일곱 가지 종류 중 하나에 대한 설명이다.
  ① 구현부에서 추상층을 분리하여, 서로가 독립적으로 확장할 수 있도록 구성한 패턴.
  ② 기능과 구현을 두 개의 별도 클래스로 구현함.
@@ -4408,7 +4408,7 @@ Answer 1 : 브리지
 Answer 2 : Bridge
 
 
-No. 507	 correct : 0,	 incorrect : 1
+No. 507	 correct : 0,	 incorrect : 2
 Q : 다음은 구조 패턴의 일곱 가지 종류 중 하나에 대한 설명이다.
  ① 여러 객체를 가진 복합 객체와 단일 객체를 구분 없이 다루고자 할 때 사용하는 패턴.
  ② 객체들을 트리 구조로 구성하여 디렉터리 안에 디렉터리가 있듯이 복합 객체 안에 복합 객체가 포함되는 구조를 구현할 수 있음.
@@ -4417,7 +4417,7 @@ Answer 1 : 컴포지트
 Answer 2 : Composite
 
 
-No. 508	 correct : 0,	 incorrect : 1
+No. 508	 correct : 0,	 incorrect : 2
 Q : 다음은 구조 패턴의 일곱 가지 종류 중 하나에 대한 설명이다.
  ① 객체 간의 결합을 통해 능동적으로 기능들을 확장할 수 있는 패턴.
  ② 임의의 객체에 부가적인 기능을 추가하기 위해 다른 객체들을 덧붙이는 방식으로 구현함.
@@ -4426,7 +4426,7 @@ Answer 1 : 데코레이터
 Answer 2 : Decorator
 
 
-No. 509	 correct : 0,	 incorrect : 1
+No. 509	 correct : 0,	 incorrect : 2
 Q : 다음은 구조 패턴의 일곱 가지 종류 중 하나에 대한 설명이다.
  ① 복잡한 서브 클래스들을 피해 더 상위에 인터페이스를 구성함으로써 서브 클래스들의 기능을 간편하게 사용할 수 있도록 하는 패턴.
  ② 서브 클래스들 사이의 통합 인터페이스를 제공하는 Wrapper 객체가 필요함.
@@ -4435,7 +4435,7 @@ Answer 1 : 퍼싸드
 Answer 2 : Facade
 
 
-No. 510	 correct : 0,	 incorrect : 1
+No. 510	 correct : 0,	 incorrect : 2
 Q : 다음은 구조 패턴의 일곱 가지 종류 중 하나에 대한 설명이다.
  ① 인스턴스가 필요할 때마다 매번 생성하는 것이 아니고 가능한한 공유해서 사용함으로써 메모리를 절약하는 패턴.
  ② 다수의 유사 객체를 생성하거나 조작할 때 유용하게 사용할 수 있음.
@@ -9122,7 +9122,7 @@ Q : JAVA 기반의 오픈 소수 형태로, 서블릿 컨테이너에서 실행되는 서버 기반 도구는?
 Answer 1 : Jenkins
 
 
-No. 1066	 correct : 1,	 incorrect : 0
+No. 1066	 correct : 1,	 incorrect : 1
 Q : Groovy를 기반으로 한 오픈 소스 형태의 자동화 도구는?
  안드로이드 앱 개발 환경에서 사용된다.
  안드로이드뿐만 아니라 플러그인을 설정하면, JAVA, C/C++, Python 등의 언어도 빌드할 수 있다.
