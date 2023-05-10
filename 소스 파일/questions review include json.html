@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Memory Helper</title>
+    <!-- <link rel="stylesheet" href="index.css" /> -->
+    <link
+      href="https://hangeul.pstatic.net/hangeul_static/css/nanum-square.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="question-container" id="questions"></div>
+    <script>
+      let ajax = new XMLHttpRequest();
+      ajax.onreadystatechange = function () {
+        // XMLHttpRequest 객체의 readyState 값이 4이고, HTTP 상태 코드가 200인 경우에 실행됩니다.
+        if (this.readyState == 4 && this.status == 200) {
+          // AJAX 요청에 성공한 경우, JSON 데이터를 파싱하여 questions 변수에 저장합니다.
+          let questions = JSON.parse(ajax.responseText).questions;
+          // 질문들을 표시할 컨테이너 엘리먼트를 선택합니다.
+          let questionsContainer = document.querySelector("#questions");
+
+          // questions 배열을 순회하면서 각 질문과 답변을 생성합니다.
+          questions.forEach(function (question, index) {
+  let questionDiv = document.createElement("div");
+  questionDiv.className = "question";
+  let questionId = "question" + (index + 1);
+  questionDiv.id = questionId;
+
+  let questionHeading = document.createElement("p");
+  let questionParagraph = document.createElement("p");
+  let answerList = document.createElement("ul"); // 정답을 나열할 ul 엘리먼트를 생성합니다.
+
+  questionHeading.textContent = "Question " + (index + 1) + ":";
+  questionParagraph.textContent = question["Question" + (index + 1)];
+
+  for (let i = 1; question["Answer " + i]; i++) {
+    // 정답이 존재하는 동안 반복합니다.
+    let answerItem = document.createElement("li"); // 각 정답을 나타낼 li 엘리먼트를 생성합니다.
+    answerItem.textContent = "Answer " + i + ": " + question["Answer " + i];
+    answerList.appendChild(answerItem); // li 엘리먼트를 ul 엘리먼트에 추가합니다.
+  }
+
+  questionDiv.appendChild(questionHeading);
+  questionDiv.appendChild(questionParagraph);
+  questionDiv.appendChild(answerList); // ul 엘리먼트를 questionDiv에 추가합니다.
+  questionsContainer.appendChild(questionDiv);
+});
+
+        }
+      };
+
+      // AJAX 요청을 초기화합니다.
+      ajax.open("GET", "https://909ma.github.io/data/SubjectTest.json");
+      // AJAX 요청을 보냅니다.
+      ajax.send();
+    </script>
+  </body>
+</html>
