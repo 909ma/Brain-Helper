@@ -5,9 +5,43 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Memory Helper Demo</title>
+  <style>
+    .image-link {
+      display: inline-block;
+      width: 25%;
+      text-align: center;
+    }
+    .image-link img {
+      width: 100%;
+      height: auto;
+    }
+    .image-caption {
+      margin-top: 10px;
+      font-size: 16px;
+      font-weight: bold;
+    }
+    .image-link{
+      border: 2px solid black;
+      width: auto;
+    }
+  </style>
 </head>
 <body>
-  <a href="Review Note.html">기존 데모</a>
-  <a href="Review Note(json).html">JSON 데모</a>
+  <div class="table">
+    <div class="table-row">
+      <div class="image-link">
+        <a href="/기타/README/웹 모바일 서비스 1.gif" target="_blank">
+          <img src="/기타/README/웹 모바일 서비스 1.gif" alt="웹 서비스">
+        </a>
+        <div class="image-caption"><a href="Review Note.html">웹 서비스</a></div> <!-- 이미지 아래에 배치할 글자 -->
+      </div>
+      <div class="image-link">
+        <a href="/기타/README/웹 모바일 서비스 2.gif" target="_blank">
+          <img src="/기타/README/웹 모바일 서비스 2.gif" alt="JSON 웹 서비스">
+        </a>
+        <div class="image-caption"><a href="Review Note(json).html">JSON 웹 서비스</a></div> <!-- 이미지 아래에 배치할 글자 -->
+      </div>
+    </div>
+  </div>
 </body>
 </html>
