@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="kr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Memory Helper Demo(문제 추가)</title>
+    <link
+      href="https://hangeul.pstatic.net/hangeul_static/css/nanum-square.css"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        font-family: "NanumSquareBold";
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f8f8;
+        margin: 0;
+        padding: 20px;
+      }
+
+      .question-container {
+        max-width: 700px;
+        margin: 0 auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      h1 {
+        text-align: center;
+        margin-top: 0;
+      }
+
+      label {
+        font-weight: bold;
+        display: block;
+        margin-top: 10px;
+      }
+
+      input[type="text"],
+      textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        resize: none;
+        width: 650px;
+        vertical-align: top; /* 글자 위쪽에 붙이기 */
+      }
+
+      textarea {
+        height: 200px;
+        margin-right: 10px;
+      }
+
+      button[type="submit"] {
+        padding: 10px 20px;
+        background-color: #4caf50;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        margin-top: 20px;
+      }
+
+      button[type="submit"]:hover {
+        background-color: #45a049;
+      }
+    </style>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          // JSON 파일 불러오기
+          fetch("questions.json")
+            .then(function (response) {
+              return response.json();
+            })
+            .then(function (data) {
+              var lastQuestionIndex = data.length; // 마지막 문제 번호
+              var questionInput = document.getElementById("questionInput");
+              var questionNumber = lastQuestionIndex + 1;
+              questionInput.value = "Question " + questionNumber + ".\n"; // 문제 입력 필드에 자동으로 번호 입력
+            });
+      
+          var answerInput = document.getElementById("answerInput");
+          answerInput.value = "Answer 1 : \nAnswer 2 : \nAnswer 3 : "; // 정답 입력 필드에 기본 양식 입력
+      
+          var questionForm = document.getElementById("questionForm");
+          questionForm.addEventListener("submit", function (event) {
+            event.preventDefault(); // 폼 제출 기본 동작 방지
+      
+            // 입력된 문제와 정답 가져오기
+            var questionInput = document.getElementById("questionInput");
+            var answerInput = document.getElementById("answerInput");
+            var question = questionInput.value;
+            var answer = answerInput.value;
+      
+            // 문제와 정답을 JSON 형식으로 생성
+            var newQuestion = {
+              question: question,
+              answer: answer,
+            };
+      
+            // 기존 JSON 파일 불러오기
+            fetch("questions.json")
+              .then(function (response) {
+                return response.json();
+              })
+              .then(function (data) {
+                // 기존 데이터에 새로운 문제 추가
+                data.push(newQuestion);
+      
+                // 수정된 데이터를 다시 JSON 파일에 저장
+                var jsonData = JSON.stringify(data, null, 2);
+                var blob = new Blob([jsonData], { type: "application/json" });
+                var url = URL.createObjectURL(blob);
+                var link = document.createElement("a");
+                link.href = url;
+                link.download = "questions.json";
+                link.click();
+                URL.revokeObjectURL(url);
+              });
+      
+            // 입력 필드 초기화
+            questionInput.value = "";
+            answerInput.value = "";
+          });
+        });
+      </script>
+      
+  </head>
+  <body>
+    <div class="question-container">
+      <h1>문제와 정답 추가</h1>
+      <form id="questionForm">
+        <label for="questionInput">문제:</label>
+        <textarea
+          type="text"
+          id="questionInput"
+          required
+          style="height: 300px"
+        ></textarea>
+
+        <label for="answerInput">정답:</label>
+        <textarea id="answerInput" required></textarea>
+
+        <button type="submit">추가</button>
+      </form>
+    </div>
+  </body>
+</html>
