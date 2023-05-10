@@ -11,6 +11,11 @@
     font-family: "NanumSquareBold";
   }
 
+  select {
+    width: auto;
+    height: 30px;
+    font-size: 20px;
+  }
   .question-container {
     margin: 20px;
   }
@@ -77,7 +82,11 @@
     font-family: "NanumSquareBold";
     height: 2000px;
   }
-
+  select {
+    width: auto;
+    height: 60px;
+    font-size: 40px;
+  }
   .question-container {
     margin: 20px;
   }
@@ -143,14 +152,13 @@
     border-radius: 4px;
     margin-left: 15%;
   }
-  #gotoButton{
+  #gotoButton {
     height: 12%;
     margin-top: 10%;
     margin-left: 0%;
     font-size: 8vw;
     border: none;
     cursor: pointer;
-
   }
   .answer.hidden {
     display: none;
