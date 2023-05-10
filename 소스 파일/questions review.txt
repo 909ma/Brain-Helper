@@ -6863,7 +6863,8 @@ Q : 다양한 장비에서 발생하는 로그 및 보안 이벤트를 통합하여 관리하는 빅 데이터 �
  방화벽, IDS, IPS, 웹 방화벽, VPN 등에서 발생한 로그 및 보안 이벤트를 통합하여 관리함으로써 비용 및 자원을 절약할 수 있다.
  장기간의 로그 및 보안 이벤트를 수집 및 검색할 수 있는 빅데이터 기반의 통합 로그 수집 시스템이다.
 
-Answer 1 : SIEM Security Information and Event Management
+Answer 1 : SIEM
+Answer 2 : Security Information and Event Management
 
 
 No. 806	 correct : 1,	 incorrect : 0
