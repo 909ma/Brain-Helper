@@ -55,21 +55,21 @@ Memory Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
 |:-------------:|:--------------:|
 <img src="./기타/README/3 랜덤 출제.gif" width="100%" height="" title="" alt="3번 이미지"></img> |<img src="./기타/README/4 선택 출제.gif" width="100%" height="" title="" alt="4번 이미지"></img>
 
-결과5 : 성적 확인|.
+결과5 : 성적 확인|결과6 : 요점 정리 노트 생성
 |:-------------:|:---------------------:|
-<img src="./기타/README/5 성적 확인.gif" width="100%" height="" title="" alt="5번 이미지"></img> |
+<img src="./기타/README/5 성적 확인.gif" width="100%" height="" title="" alt="5번 이미지"></img> |<img src="./기타/README/10%20요점%20정리%20생성.gif" width="100%" height="" title="" alt="6번 이미지"></img> 
 
-결과6 : 웹 모바일 서비스|결과7 : 웹 모바일 JSON 서비스   
+결과7 : 웹 모바일 서비스|결과8 : 웹 모바일 JSON 서비스   
 |:-------------:|:---------------------:|
-<img src="./기타/README/웹%20모바일%20서비스%201.gif" width="100%" height="" title="" alt="5번 이미지"></img> |<img src="./기타/README/웹%20모바일%20서비스%202.gif" width="100%" height="" title="" alt="6번 이미지"></img>  
+<img src="./기타/README/웹%20모바일%20서비스%201.gif" width="100%" height="" title="" alt="7번 이미지"></img> |<img src="./기타/README/웹%20모바일%20서비스%202.gif" width="100%" height="" title="" alt="8번 이미지"></img>  
 
-결과8 : 웹 데스크탑 서비스|
+결과9 : 웹 데스크탑 서비스|
 |:---------------------:|
-<img src="./기타/README/웹%20데스크탑%20서비스%201.gif" width="100%" height="" title="" alt="7번 이미지"></img> |  
+<img src="./기타/README/웹%20데스크탑%20서비스%201.gif" width="100%" height="" title="" alt="9번 이미지"></img> |  
 
-결과9 : 웹 데스크탑 JSON 서비스|
+결과10 : 웹 데스크탑 JSON 서비스|
 |:---------------------:|
-<img src="./기타/README/웹%20데스크탑%20서비스%202.gif" width="100%" height="" title="" alt="7번 이미지"></img> |
+<img src="./기타/README/웹%20데스크탑%20서비스%202.gif" width="100%" height="" title="" alt="10번 이미지"></img> |
 <details>
     <summary>📁 웹 서비스 데모</summary>
     https://909ma.github.io/Memory-Helper/  
