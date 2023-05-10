@@ -36,7 +36,7 @@ function showSubjectOptions() {
 // 질문과 답 표시 함수
 function showQuestion(index) {
   var selectedSubjectValue = subjectSelect.value;
-  var questionDataUrl = selectedSubjectValue + ".json";
+  var questionDataUrl = "https://raw.githubusercontent.com/909ma/909ma.github.io/main/data/" + selectedSubjectValue + ".json";
 
   // JSON 파일 불러오기
   fetch(questionDataUrl)
