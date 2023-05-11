@@ -77,7 +77,7 @@ Brain Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
 <img src="./기타/README/웹%20데스크탑%20서비스%202.gif" width="100%" height="" title="" alt="11번 이미지"></img> |
 <details>
     <summary>📁 웹 서비스 데모</summary>
-    https://909ma.github.io/Memory-Helper/  
+    https://909ma.github.io/Brain-Helper/  
     <br><br>
 
 | 키 | 활동 |
