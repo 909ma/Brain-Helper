@@ -1,6 +1,6 @@
 // JSON 파일 불러오기
 fetch(
-  "https://raw.githubusercontent.com/909ma/909ma.github.io/main/data/Subject.json"
+  "https://raw.githubusercontent.com/909ma/909ma.github.io/main/data/Brain Helper/Subject.json"
 )
   .then(function (response) {
     return response.json();
@@ -36,7 +36,10 @@ function showSubjectOptions() {
 // 질문과 답 표시 함수
 function showQuestion(index) {
   var selectedSubjectValue = subjectSelect.value;
-  var questionDataUrl = "https://raw.githubusercontent.com/909ma/909ma.github.io/main/data/" + selectedSubjectValue + ".json";
+  var questionDataUrl =
+    "https://raw.githubusercontent.com/909ma/909ma.github.io/main/data/Brain Helper/" +
+    selectedSubjectValue +
+    ".json";
 
   // JSON 파일 불러오기
   fetch(questionDataUrl)
@@ -93,7 +96,6 @@ nextButton.addEventListener("click", function () {
   }
   showQuestion(currentQuestionIndex);
 });
-
 
 // 이동 버튼 클릭 시 이벤트 처리
 gotoButton.addEventListener("click", function () {
