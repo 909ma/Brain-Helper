@@ -99,13 +99,14 @@ nextButton.addEventListener("click", function () {
 
 // 이동 버튼 클릭 시 이벤트 처리
 gotoButton.addEventListener("click", function () {
-  var gotoIndex = parseInt(gotoInput.value) - 1;
-  if (gotoIndex >= 0 && gotoIndex < questionList.length) {
+  var inputNumber = prompt("이동할 문제 번호를 입력하세요.");
+  var gotoIndex = parseInt(inputNumber) - 1;
+
+  if (isNaN(gotoIndex) || gotoIndex < 0 || gotoIndex >= questionList.length) {
+    alert("유효한 질문 번호를 입력해주세요.");
+  } else {
     currentQuestionIndex = gotoIndex;
     showQuestion(currentQuestionIndex);
-    gotoInput.value = "";
-  } else {
-    alert("유효한 질문 번호를 입력해주세요.");
   }
 });
 

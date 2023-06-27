@@ -37,8 +37,7 @@ pre {
     margin-top: 10px;
   }
 
-  .navigation button,
-  .goto button {
+  .navigation button {
     padding: 5px 10px;
     margin-right: 5px;
     background-color: #000000;
@@ -67,13 +66,14 @@ pre {
     width: 100px;
     height: 30px;
   }
-  .goto {
+  #gotoButton {
+    margin-top: 10px;
+    padding: 5px 10px;
     position: fixed;
     bottom: 0;
     right: 200px;
-    width: 250px;
+    width: 50px;
     height: 30px;
-    margin-right: 0;
   }
   .answer.hidden {
     display: none;
@@ -108,8 +108,7 @@ pre {
     margin-top: 10px;
   }
 
-  .navigation button,
-  .goto button {
+  .navigation button {
     padding: 5px 10px;
     margin-right: 5px;
     background-color: #000000;
@@ -140,27 +139,14 @@ pre {
     width: 50%;
     height: 12%;
   }
-  .goto {
-    background-color: #000000;
+  #gotoButton {
+    margin-top: 10px;
+    padding: 5px 10px;
     position: fixed;
     bottom: 12%;
     left: 0;
     width: 50%;
     height: 12%;
-  }
-  #gotoInput {
-    font-size: 8vw;
-    width: 30%;
-    border: none;
-    border-radius: 4px;
-  }
-  #gotoButton {
-    height: 12%;
-    margin-top: 10%;
-    margin-left: 0%;
-    font-size: 8vw;
-    border: none;
-    cursor: pointer;
   }
   .answer.hidden {
     display: none;
