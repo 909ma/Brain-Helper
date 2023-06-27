@@ -50,12 +50,12 @@ function showQuestion(index) {
       questionList = data;
       var questionData = questionList[index];
       questionDiv.innerHTML =
-        "<p>" +
+        "<pre>" +
         questionData.question +
-        "</p>" +
-        '<p class="answer hidden">' +
+        "</pre>" +
+        '<pre class="answer hidden">' +
         questionData.answer +
-        "</p>";
+        "</pre>";
 
       // 이전 버튼 활성화 여부 설정
       prevButton.disabled = index === 0;
@@ -111,21 +111,25 @@ gotoButton.addEventListener("click", function () {
 
 // 키보드 이벤트 처리
 document.addEventListener("keydown", function (event) {
+  // 왼쪽 화살표 키
   if (event.key === "ArrowLeft") {
-    // 왼쪽 화살표 키
     if (currentQuestionIndex > 0) {
       currentQuestionIndex--;
       showQuestion(currentQuestionIndex);
     }
-  } else if (event.key === "ArrowRight") {
     // 오른쪽 화살표 키
+  } else if (event.key === "ArrowRight") {
     if (currentQuestionIndex < questionList.length - 1) {
       currentQuestionIndex++;
       showQuestion(currentQuestionIndex);
     }
-  } else if (event.key === "ArrowUp") {
     // 위쪽 화살표 키
+  } else if (event.key === "ArrowUp") {
     var answerElement = questionDiv.querySelector(".answer");
     answerElement.classList.remove("hidden");
+    // 아래쪽 화살표 키
+  } else if (event.key === "ArrowDown") {
+    var answerElement = questionDiv.querySelector(".answer");
+    answerElement.classList.add("hidden");
   }
 });
