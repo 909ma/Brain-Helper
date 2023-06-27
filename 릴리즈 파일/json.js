@@ -124,12 +124,12 @@ document.addEventListener("keydown", function (event) {
       currentQuestionIndex++;
       showQuestion(currentQuestionIndex);
     }
-    // 위쪽 화살표 키
-  } else if (event.key === "ArrowUp") {
-    var answerElement = questionDiv.querySelector(".answer");
-    answerElement.classList.remove("hidden");
     // 아래쪽 화살표 키
   } else if (event.key === "ArrowDown") {
+    var answerElement = questionDiv.querySelector(".answer");
+    answerElement.classList.remove("hidden");
+    // 위쪽 화살표 키
+  } else if (event.key === "ArrowUp") {
     var answerElement = questionDiv.querySelector(".answer");
     answerElement.classList.add("hidden");
   }
