@@ -2,9 +2,6 @@
 
 <img src="./기타/README/표지.JPG" width="100%" height="" title="" alt="표지"></img>  
 Brain Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트하고, 해당 내용을 복습하는 데 도움을 주는 어플리케이션입니다.  
-프로젝트 개발 1차 기간은 2023년 04월 27일부터 2023년 05월 01일입니다.  
-프로젝트 개발 2차 기간은 2023년 05월 10일부터 2023년 05월 14일입니다.
-
 # 🎺 프로젝트 팀 구성원
 
 |                                      👻 [김신혁](https://github.com/909ma)                                      |                                    🍺 [배성근](https://github.com/tsk04191)                                    |
@@ -49,6 +46,9 @@ Brain Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
 3. 저작권리 의식
    - Brain Helper 프로젝트에서는 학습에 필요한 이미지, 영상 등의 자료를 수집할 때, 출처와 저작권에 대한 확인을 꼼꼼히 수행하고 있습니다. 또한, 저작권이 있는 자료는 사용 권한을 얻은 후에만 사용하고 있으며, 그 외에는 라이선스가 허용하는 범위 내에서 자유롭게 사용하고 있습니다. 이를 통해, 저작권 이슈를 미연에 방지하고, 사용자들에게 안정적인 서비스를 제공하고 있습니다.
 
+<details>
+    <summary>📁 프로젝트 결과</summary>  
+   
 ## 📑 프로젝트 결과
 
 |                                        결과1 : 과목 조회                                         |                                        결과2 : 순차 출제                                         |
@@ -79,37 +79,20 @@ Brain Helper는 사용자들이 학습하고 싶은 내용을 쉽게 테스트�
 | :--------------------------------------------------------------------------------------------------------------: |
 | <img src="./기타/README/웹%20데스크탑%20서비스%202.gif" width="100%" height="" title="" alt="11번 이미지"></img> |
 
+</details>  
 <details>
-    <summary>📁 웹 서비스 데모</summary>
-    https://909ma.github.io/Brain-Helper/  
-    <br><br>
+    <summary>📁 웹 서비스</summary>  
+   
+[Brain Helper](https://909ma.github.io/Brain-Helper/%EB%A6%B4%EB%A6%AC%EC%A6%88%20%ED%8C%8C%EC%9D%BC/Review%20Note(json).html) 
+
 
 |     키      |         활동         |
 | :---------: | :------------------: |
-| 위쪽 화살표 |   정답 보기/가리기   |
+| 아래쪽 화살표 |   정답 보기   |
+| 위쪽 화살표 |   정답 가리기   |
 | 좌측 화살표 |    이전 문제 보기    |
 | 우측 화살표 |    다음 문제 보기    |
-|    Go to    | 원하는 문제 찾아가기 |
-
-</details>
-<br><br>
-<details>
-    <summary>📁 프로젝트 진행 문서</summary>
-   
-## 요구사항 정의서
-<img src="./기타/요구사항 정의서/요구사항 정의서.JPG" width="100%" height="" title="" alt="요구사항 정의서"></img>
-
-## Gantt Chart
-
-<img src="./기타/Gantt Chart/Gantt Chart.JPG" width="100%" height="" title="" alt="Gantt Chart"></img>
-<img src="./기타/Gantt Chart/Gantt Chart 2.JPG" width="100%" height="" title="" alt="Gantt Chart"></img>
-
-## 프로젝트 일정 관리
-
-<img src="./기타/프로젝트 일정 관리/프로젝트 일정 관리.JPG" width="100%" height="" title="" alt="프로젝트 일정 관리"></img>
-<img src="./기타/프로젝트 일정 관리/프로젝트 일정 관리 2.JPG" width="100%" height="" title="" alt="프로젝트 일정 관리"></img>
-
----
+|    이동    | 원하는 문제 찾아가기 |
 
 </details>
 <br><br>
